@@ -1,0 +1,36 @@
+name: Update Daily Waifu Widget
+
+on:
+  # Runs every day at 00:05 UTC
+  schedule:
+    - cron: "5 0 * * *"
+
+  # Manual run button
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Install dependencies
+      - name: Install Dependencies
+        run: npm install
+
+      # Run updater script
+      - name: Run Daily Waifu Update
+        run: node update.js
+        env:
+          DISCORD_APP_ID: ${{ secrets.DISCORD_APP_ID }}
+          DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
