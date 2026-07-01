@@ -1,7 +1,7 @@
 name: Update Discord Waifu Widget
 
 on:
-  # automatic scheduled runs
+  # automatic updates every 6 hours
   schedule:
     - cron: "0 */6 * * *"
 
@@ -21,10 +21,12 @@ jobs:
 
     steps:
       # =====================
-      # CHECKOUT REPO
+      # CHECKOUT
       # =====================
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT for pull/rebase
 
       # =====================
       # NODE SETUP
@@ -32,10 +34,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       # =====================
-      # CACHE NODE MODULES
+      # CACHE
       # =====================
       - name: Cache npm
         uses: actions/cache@v4
@@ -52,22 +54,18 @@ jobs:
         run: npm install axios
 
       # =====================
-      # RUN UPDATE SCRIPT
+      # RUN SCRIPT
       # =====================
       - name: Run update.js
         env:
           DISCORD_APP_ID: ${{ secrets.DISCORD_APP_ID }}
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-
-          # IMPORTANT
-          # tells update.js if manual or scheduled
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-
         run: node update.js
 
       # =====================
-      # COMMIT MEMORY FILE
+      # SAVE MEMORY FILE
       # =====================
       - name: Commit last_character.json
         run: |
@@ -76,12 +74,16 @@ jobs:
 
           git add last_character.json
 
+          # only commit if changed
           git diff --staged --quiet || git commit -m "Update character memory"
 
-          git push
+          # sync with remote before push
+          git pull --rebase origin main || true
+
+          git push origin main || true
 
       # =====================
-      # SUCCESS LOG
+      # SUCCESS
       # =====================
       - name: Done
         run: echo "Discord widget updated successfully"
