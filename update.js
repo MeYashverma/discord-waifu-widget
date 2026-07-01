@@ -1,362 +1,374 @@
-const axios = require("axios");
 const fs = require("fs");
+const axios = require("axios");
 
-// ============================
-// ENV VARIABLES
-// ============================
+// =====================
+// ENV
+// =====================
 
 const DISCORD_APP_ID = process.env.DISCORD_APP_ID;
 const DISCORD_USER_ID = process.env.DISCORD_USER_ID;
 const DISCORD_BOT_TOKEN = process.env.DISCORD_BOT_TOKEN;
+const ANILIST_API = "https://graphql.anilist.co";
 
+// =====================
+// FILES
+// =====================
 
-// ============================
-// LOAD WAIFU DATABASE
-// ============================
+const WAIFUS = require("./waifus_final.json");
+const MEMORY_FILE = "./last_character.json";
 
-const waifus =
-    JSON.parse(
-        fs.readFileSync(
-            "./waifus_final.json",
-            "utf8"
-        )
-    );
+// =====================
+// HELPERS
+// =====================
 
+function loadMemory() {
+  if (!fs.existsSync(MEMORY_FILE)) {
+    return { last: null, index: 0 };
+  }
+  return JSON.parse(fs.readFileSync(MEMORY_FILE));
+}
 
-// ============================
-// FORMAT NUMBERS
-// ============================
+function saveMemory(memory) {
+  fs.writeFileSync(MEMORY_FILE, JSON.stringify(memory, null, 2));
+}
 
 function formatNumber(num) {
-    num = Number(num);
+  num = Number(num);
 
-    if (num >= 1000000)
-        return (num / 1000000).toFixed(1) + "M";
+  if (num >= 1000000) return (num / 1000000).toFixed(1) + "M";
+  if (num >= 1000) return (num / 1000).toFixed(1) + "K";
 
-    if (num >= 1000)
-        return (num / 1000).toFixed(1) + "K";
-
-    return String(num);
+  return String(num);
 }
 
+// =====================
+// DETECT RUN TYPE
+// =====================
 
-// ============================
-// DAILY SEEDED RANDOM
-// same waifu entire day
-// changes every day
-// ============================
-
-function getDailyWaifu() {
-
-    const today = new Date();
-
-    const seed =
-        today.getUTCFullYear() * 10000 +
-        (today.getUTCMonth() + 1) * 100 +
-        today.getUTCDate();
-
-    const random =
-        Math.abs(
-            Math.sin(seed) * 10000
-        );
-
-    const index =
-        Math.floor(random) %
-        waifus.length;
-
-    return waifus[index];
+function isManualRun() {
+  return process.env.GITHUB_EVENT_NAME === "workflow_dispatch";
 }
 
+// =====================
+// PICK CHARACTER
+// =====================
 
-// ============================
-// ANILIST QUERY
-// ============================
+function pickCharacter() {
+  const memory = loadMemory();
 
-async function fetchAniList(characterName) {
+  let character;
 
-    const query = `
-    query ($search: String) {
-      Character(search: $search) {
-        name {
-          full
-        }
+  if (isManualRun()) {
+    // random manual reroll
+    do {
+      character = WAIFUS[Math.floor(Math.random() * WAIFUS.length)];
+    } while (character.name === memory.last);
+  } else {
+    // scheduled deterministic rotation
+    let index = memory.index % WAIFUS.length;
+    character = WAIFUS[index];
 
-        favourites
+    if (character.name === memory.last) {
+      index = (index + 1) % WAIFUS.length;
+      character = WAIFUS[index];
+    }
 
-        image {
-          large
-        }
+    memory.index = index + 1;
+  }
 
-        media(sort: POPULARITY_DESC) {
-          nodes {
-            title {
-              romaji
-            }
-          }
-        }
+  memory.last = character.name;
+  saveMemory(memory);
+
+  return character;
+}
+
+// =====================
+// MANUAL OVERRIDES
+// =====================
+
+const overrides = {
+  "Raiden Shogun": {
+    vibe: "DOMINANT",
+    rating: "GOD TIER",
+    fanbase: 450000
+  },
+
+  "Makima": {
+    vibe: "MANIPULATIVE",
+    rating: "GOD TIER",
+    fanbase: 420000
+  },
+
+  "Bayonetta": {
+    vibe: "CONFIDENT",
+    rating: "LEGENDARY",
+    fanbase: 120000
+  },
+
+  "Kafka": {
+    vibe: "MYSTERIOUS",
+    rating: "ELITE WAIFU",
+    fanbase: 280000
+  },
+
+  "Rias Gremory": {
+    vibe: "SEDUCTIVE",
+    rating: "ELITE WAIFU",
+    fanbase: 320000
+  },
+
+  "Esdeath": {
+    vibe: "DOMINANT",
+    rating: "ELITE WAIFU",
+    fanbase: 300000
+  },
+
+  "Zero Two": {
+    vibe: "PLAYFUL",
+    rating: "GOD TIER",
+    fanbase: 500000
+  }
+};
+
+// =====================
+// VIBE ENGINE
+// =====================
+
+const vibes = [
+  "DOMINANT",
+  "SEDUCTIVE",
+  "MYSTERIOUS",
+  "PLAYFUL",
+  "CONFIDENT",
+  "CHAOTIC",
+  "WHOLESOME",
+  "TSUNDERE",
+  "YANDERE",
+  "DEADLY"
+];
+
+function randomVibe() {
+  return vibes[Math.floor(Math.random() * vibes.length)];
+}
+
+// =====================
+// RATING ENGINE
+// =====================
+
+function generateRating(fanbase) {
+  if (fanbase > 400000) return "GOD TIER";
+  if (fanbase > 250000) return "ELITE WAIFU";
+  if (fanbase > 150000) return "LEGENDARY";
+  if (fanbase > 80000) return "ICONIC";
+  if (fanbase > 30000) return "POPULAR";
+
+  return "RISING STAR";
+}
+
+// =====================
+// FRANCHISE FANBASE
+// =====================
+
+const franchiseWeights = {
+  "Genshin Impact": 380000,
+  "Chainsaw Man": 350000,
+  "Re:Zero": 280000,
+  "High School DxD": 300000,
+  "One Piece": 400000,
+  "Naruto": 420000,
+  "Bleach": 300000,
+  "League of Legends": 260000,
+  "Nikke": 240000,
+  "Zenless Zone Zero": 180000,
+  "Wuthering Waves": 170000
+};
+
+function generateFanbase(character) {
+  const base = franchiseWeights[character.source] || 90000;
+  const variance = Math.floor(Math.random() * 50000);
+
+  return base + variance;
+}
+
+// =====================
+// ANILIST FETCH
+// =====================
+
+async function fetchAniList(name) {
+  const query = `
+  query ($search: String) {
+    Character(search: $search) {
+      favourites
+      image {
+        large
       }
     }
-    `;
+  }`;
 
-    const response =
-        await axios.post(
-            "https://graphql.anilist.co",
-            {
-                query: query,
-                variables: {
-                    search: characterName
-                }
-            },
-            {
-                headers: {
-                    "Content-Type":
-                        "application/json"
-                }
-            }
-        );
-
-    const char =
-        response.data.data.Character;
-
-    let source =
-        "Unknown";
-
-    if (
-        char.media &&
-        char.media.nodes &&
-        char.media.nodes.length > 0
-    ) {
-        source =
-            char.media.nodes[0]
-                .title.romaji;
-    }
+  try {
+    const response = await axios.post(
+      ANILIST_API,
+      {
+        query,
+        variables: {
+          search: name
+        }
+      }
+    );
 
     return {
-        name:
-            char.name.full,
+      fanbase:
+        response.data.data.Character?.favourites || null,
 
-        favourites:
-            char.favourites || 0,
-
-        source: source,
-
-        image:
-            char.image.large
+      image:
+        response.data.data.Character?.image?.large || null
     };
+
+  } catch {
+    return null;
+  }
 }
 
+// =====================
+// BUILD METADATA
+// =====================
 
-// ============================
-// MEME STATUS LOGIC
-// ============================
+async function buildMetadata(character) {
+  const override = overrides[character.name];
 
-function getVibe(favs) {
+  const ani = await fetchAniList(character.name);
 
-    if (favs < 3000)
-        return "WHO?";
+  let fanbase =
+    ani?.fanbase ||
+    override?.fanbase ||
+    generateFanbase(character);
 
-    if (favs < 15000)
-        return "CUTE";
+  let vibe =
+    override?.vibe ||
+    randomVibe();
 
-    if (favs < 40000)
-        return "SMASH";
+  let rating =
+    override?.rating ||
+    generateRating(fanbase);
 
-    if (favs < 80000)
-        return "HEAR ME OUT";
+  let image =
+    ani?.image ||
+    "https://i.imgur.com/4M34hi2.png";
 
-    if (favs < 150000)
-        return "MOMMY";
-
-    return "EVERYONE SIMPS";
+  return {
+    fanbase,
+    vibe,
+    rating,
+    image
+  };
 }
 
+// =====================
+// BUILD PAYLOAD
+// =====================
 
-function getRating(favs) {
-
-    if (favs < 5000)
-        return "MID";
-
-    if (favs < 20000)
-        return "GOOD";
-
-    if (favs < 50000)
-        return "DOWN BAD";
-
-    if (favs < 100000)
-        return "GOONED";
-
-    if (favs < 200000)
-        return "GOD TIER";
-
-    return "TOUCH GRASS";
-}
-
-
-// ============================
-// DISCORD PATCH
-// ============================
-
-async function updateDiscord(data) {
-
-    const payload = {
-        data: {
-            dynamic: [
-
-                {
-                    type: 1,
-                    name: "waifu",
-                    value:
-                        data.name
-                },
-
-                {
-                    type: 1,
-                    name: "source",
-                    value:
-                        data.source
-                },
-
-                {
-                    type: 1,
-                    name: "fanbase",
-                    value:
-                        formatNumber(
-                            data.favourites
-                        )
-                },
-
-                {
-                    type: 1,
-                    name: "vibe",
-                    value:
-                        getVibe(
-                            data.favourites
-                        )
-                },
-
-                {
-                    type: 1,
-                    name: "rating",
-                    value:
-                        getRating(
-                            data.favourites
-                        )
-                }
-
-            ]
+function buildPayload(character, meta) {
+  return {
+    data: {
+      dynamic: [
+        {
+          type: 1,
+          name: "waifu",
+          value: character.name
+        },
+        {
+          type: 1,
+          name: "source",
+          value: character.source
+        },
+        {
+          type: 1,
+          name: "fanbase",
+          value: formatNumber(meta.fanbase)
+        },
+        {
+          type: 1,
+          name: "vibe",
+          value: meta.vibe
+        },
+        {
+          type: 1,
+          name: "rating",
+          value: meta.rating
+        },
+        {
+          type: 1,
+          name: "universe",
+          value: character.universe
+        },
+        {
+          type: 3,
+          name: "image",
+          value: {
+            url: meta.image
+          }
         }
-    };
-
-    // add image if exists
-    if (data.image) {
-
-        payload.data.dynamic.push({
-
-            type: 3,
-
-            name: "image",
-
-            value: {
-                url: data.image
-            }
-
-        });
+      ]
     }
-
-    const url =
-        `https://discord.com/api/v9/applications/${DISCORD_APP_ID}/users/${DISCORD_USER_ID}/identities/0/profile`;
-
-    const response =
-        await axios.patch(
-            url,
-            payload,
-            {
-                headers: {
-                    Authorization:
-                        `Bot ${DISCORD_BOT_TOKEN}`,
-
-                    "Content-Type":
-                        "application/json"
-                }
-            }
-        );
-
-    console.log(
-        "Discord updated:",
-        response.status
-    );
+  };
 }
 
+// =====================
+// UPDATE DISCORD
+// =====================
 
-// ============================
+async function updateDiscord(payload) {
+  const url =
+    `https://discord.com/api/v9/applications/${DISCORD_APP_ID}/users/${DISCORD_USER_ID}/identities/0/profile`;
+
+  const response =
+    await axios.patch(
+      url,
+      payload,
+      {
+        headers: {
+          Authorization:
+            `Bot ${DISCORD_BOT_TOKEN}`,
+          "Content-Type":
+            "application/json"
+        }
+      }
+    );
+
+  console.log("Discord:", response.status);
+}
+
+// =====================
 // MAIN
-// ============================
+// =====================
 
 (async () => {
+  try {
+    console.log("Starting update");
 
-    try {
+    const character =
+      pickCharacter();
 
-        console.log(
-            "Starting waifu update..."
-        );
+    console.log("Picked:", character.name);
 
-        const todayWaifu =
-            getDailyWaifu();
+    const meta =
+      await buildMetadata(character);
 
-        console.log(
-            "Selected:",
-            todayWaifu
-        );
+    const payload =
+      buildPayload(character, meta);
 
-        const data =
-            await fetchAniList(
-                todayWaifu
-            );
+    await updateDiscord(payload);
 
-        console.log(
-            "AniList found:",
-            data.name
-        );
+    console.log("Done.");
 
-        console.log(
-            "Source:",
-            data.source
-        );
+  } catch (err) {
+    console.error("ERROR");
 
-        console.log(
-            "Favorites:",
-            data.favourites
-        );
-
-        await updateDiscord(
-            data
-        );
-
+    if (err.response) {
+      console.error(err.response.status);
+      console.error(err.response.data);
+    } else {
+      console.error(err.message);
     }
-    catch (err) {
-
-        console.error(
-            "ERROR"
-        );
-
-        if (err.response) {
-
-            console.error(
-                err.response.status
-            );
-
-            console.error(
-                err.response.data
-            );
-
-        }
-        else {
-
-            console.error(
-                err.message
-            );
-
-        }
-    }
-
+  }
 })();
