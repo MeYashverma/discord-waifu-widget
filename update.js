@@ -160,38 +160,61 @@ function cleanHTML(text) {
 function extractBioAndDescription(desc) {
   if (!desc) {
     return {
-      bio: "Anime Character",
+      bio: "Character",
       description: "Unknown Profile"
     };
   }
 
   const cleaned = cleanHTML(desc);
 
-  let bio = "Anime Character";
+  let bio = "Character";
 
   if (/witch/i.test(cleaned)) bio = "Witch";
   else if (/archon/i.test(cleaned)) bio = "Archon";
   else if (/hunter/i.test(cleaned)) bio = "Hunter";
   else if (/maid/i.test(cleaned)) bio = "Maid";
   else if (/mage/i.test(cleaned)) bio = "Mage";
-  else if (/knight/i.test(cleaned)) bio = "Knight";
-  else if (/princess/i.test(cleaned)) bio = "Princess";
-  else if (/idol/i.test(cleaned)) bio = "Idol";
   else if (/student/i.test(cleaned)) bio = "Student";
+  else if (/princess/i.test(cleaned)) bio = "Princess";
+  else if (/knight/i.test(cleaned)) bio = "Knight";
+  else if (/idol/i.test(cleaned)) bio = "Idol";
   else if (/soldier/i.test(cleaned)) bio = "Soldier";
-  else if (/queen/i.test(cleaned)) bio = "Queen";
   else if (/assassin/i.test(cleaned)) bio = "Assassin";
   else if (/captain/i.test(cleaned)) bio = "Captain";
 
+  let stripped = cleaned
+    .replace(/Height:.*?(?=[A-Z]|$)/gi, "")
+    .replace(/Birthday:.*?(?=[A-Z]|$)/gi, "")
+    .replace(/Age:.*?(?=[A-Z]|$)/gi, "")
+    .replace(/Blood Type:.*?(?=[A-Z]|$)/gi, "")
+    .replace(/\d+\s*cm/gi, "")
+    .replace(/\d+\s*kg/gi, "")
+    .trim();
+
   let detail = "Unknown Profile";
 
-  if (/witch/i.test(cleaned)) detail = "Witch of Sin";
-  else if (/guild/i.test(cleaned)) detail = "Guild Member";
-  else if (/academy/i.test(cleaned)) detail = "Academy Student";
-  else if (/division/i.test(cleaned)) detail = "Special Division";
-  else if (/knight/i.test(cleaned)) detail = "Knight Order";
+  if (/witch/i.test(stripped)) detail = "Witch of Sin";
+  else if (/guild/i.test(stripped)) detail = "Guild Member";
+  else if (/academy/i.test(stripped)) detail = "Academy Student";
+  else if (/division/i.test(stripped)) detail = "Special Division";
+  else if (/shogun/i.test(stripped)) detail = "Divine Ruler";
+  else if (/captain/i.test(stripped)) detail = "Squad Captain";
+  else if (/commander/i.test(stripped)) detail = "Field Commander";
   else {
-    detail = cleaned.split(".")[0].slice(0, 24);
+    let first = stripped
+      .split(".")[0]
+      .replace(/[_*~]/g, "")
+      .trim();
+
+    if (
+      first.toLowerCase().includes("height") ||
+      first.toLowerCase().includes("birthday") ||
+      first.length < 4
+    ) {
+      detail = "Profile Available";
+    } else {
+      detail = first.slice(0, 24);
+    }
   }
 
   return {
@@ -227,7 +250,6 @@ async function fetchAniList(name) {
     );
 
     return response.data.data.Character || null;
-
   } catch {
     return null;
   }
@@ -242,23 +264,26 @@ async function buildMetadata(character) {
   const apiFanbase = ani?.favourites || 0;
   const fallbackFanbase = generateFanbase(character);
 
-  const fanbase = Math.max(
-    apiFanbase,
-    fallbackFanbase
-  );
+  const fanbase = Math.max(apiFanbase, fallbackFanbase);
 
   const vibe = randomVibe();
-
   const rating = generateRating(fanbase);
 
-  const age = ani?.age || "Unknown";
+  const age =
+    (typeof ani?.age === "string" ||
+      typeof ani?.age === "number")
+      ? String(ani.age)
+      : "Unknown";
 
-  const blood = ani?.bloodType || "Unknown";
+  const blood =
+    (typeof ani?.bloodType === "string" &&
+      ani.bloodType.length > 0)
+      ? ani.bloodType
+      : "Unknown";
 
-  const parsed =
-    extractBioAndDescription(
-      ani?.description
-    );
+  const parsed = extractBioAndDescription(
+    ani?.description
+  );
 
   const image =
     ani?.image?.large ||
@@ -283,56 +308,16 @@ function buildPayload(character, meta) {
   return {
     data: {
       dynamic: [
-        {
-          type: 1,
-          name: "waifu",
-          value: character.name
-        },
-        {
-          type: 1,
-          name: "source",
-          value: character.source
-        },
-        {
-          type: 1,
-          name: "fanbase",
-          value: formatNumber(meta.fanbase)
-        },
-        {
-          type: 1,
-          name: "vibe",
-          value: meta.vibe
-        },
-        {
-          type: 1,
-          name: "rating",
-          value: meta.rating
-        },
-        {
-          type: 1,
-          name: "age",
-          value: String(meta.age)
-        },
-        {
-          type: 1,
-          name: "blood",
-          value: meta.blood
-        },
-        {
-          type: 1,
-          name: "bio",
-          value: meta.bio
-        },
-        {
-          type: 1,
-          name: "description",
-          value: meta.description
-        },
-        {
-          type: 1,
-          name: "universe",
-          value: character.universe
-        },
+        { type: 1, name: "waifu", value: character.name },
+        { type: 1, name: "source", value: character.source },
+        { type: 1, name: "fanbase", value: formatNumber(meta.fanbase) },
+        { type: 1, name: "vibe", value: meta.vibe },
+        { type: 1, name: "rating", value: meta.rating },
+        { type: 1, name: "age", value: String(meta.age) },
+        { type: 1, name: "blood", value: meta.blood },
+        { type: 1, name: "bio", value: meta.bio },
+        { type: 1, name: "description", value: meta.description },
+        { type: 1, name: "universe", value: character.universe },
         {
           type: 3,
           name: "image",
@@ -357,10 +342,8 @@ async function updateDiscord(payload) {
     payload,
     {
       headers: {
-        Authorization:
-          `Bot ${DISCORD_BOT_TOKEN}`,
-        "Content-Type":
-          "application/json"
+        Authorization: `Bot ${DISCORD_BOT_TOKEN}`,
+        "Content-Type": "application/json"
       }
     }
   );
@@ -377,24 +360,15 @@ async function updateDiscord(payload) {
 
     const character = pickCharacter();
 
-    console.log(
-      "Picked:",
-      character.name
-    );
+    console.log("Picked:", character.name);
 
-    const meta =
-      await buildMetadata(character);
+    const meta = await buildMetadata(character);
 
-    const payload =
-      buildPayload(
-        character,
-        meta
-      );
+    const payload = buildPayload(character, meta);
 
     await updateDiscord(payload);
 
     console.log("Widget updated.");
-
   } catch (err) {
     console.error("ERROR");
 
