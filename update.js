@@ -4,7 +4,6 @@ const axios = require("axios");
 // =====================
 // ENV
 // =====================
-
 const DISCORD_APP_ID = process.env.DISCORD_APP_ID;
 const DISCORD_USER_ID = process.env.DISCORD_USER_ID;
 const DISCORD_BOT_TOKEN = process.env.DISCORD_BOT_TOKEN;
@@ -13,14 +12,12 @@ const ANILIST_API = "https://graphql.anilist.co";
 // =====================
 // FILES
 // =====================
-
 const WAIFUS = require("./waifus_final.json");
 const MEMORY_FILE = "./last_character.json";
 
 // =====================
 // HELPERS
 // =====================
-
 function loadMemory() {
   if (!fs.existsSync(MEMORY_FILE)) {
     return { last: null, index: 0 };
@@ -34,16 +31,10 @@ function saveMemory(memory) {
 
 function formatNumber(num) {
   num = Number(num);
-
   if (num >= 1000000) return (num / 1000000).toFixed(1) + "M";
   if (num >= 1000) return (num / 1000).toFixed(1) + "K";
-
   return String(num);
 }
-
-// =====================
-// DETECT RUN TYPE
-// =====================
 
 function isManualRun() {
   return process.env.GITHUB_EVENT_NAME === "workflow_dispatch";
@@ -52,19 +43,15 @@ function isManualRun() {
 // =====================
 // PICK CHARACTER
 // =====================
-
 function pickCharacter() {
   const memory = loadMemory();
-
   let character;
 
   if (isManualRun()) {
-    // random manual reroll
     do {
       character = WAIFUS[Math.floor(Math.random() * WAIFUS.length)];
     } while (character.name === memory.last);
   } else {
-    // scheduled deterministic rotation
     let index = memory.index % WAIFUS.length;
     character = WAIFUS[index];
 
@@ -83,57 +70,8 @@ function pickCharacter() {
 }
 
 // =====================
-// MANUAL OVERRIDES
+// FALLBACK GENERATORS
 // =====================
-
-const overrides = {
-  "Raiden Shogun": {
-    vibe: "DOMINANT",
-    rating: "GOD TIER",
-    fanbase: 450000
-  },
-
-  "Makima": {
-    vibe: "MANIPULATIVE",
-    rating: "GOD TIER",
-    fanbase: 420000
-  },
-
-  "Bayonetta": {
-    vibe: "CONFIDENT",
-    rating: "LEGENDARY",
-    fanbase: 120000
-  },
-
-  "Kafka": {
-    vibe: "MYSTERIOUS",
-    rating: "ELITE WAIFU",
-    fanbase: 280000
-  },
-
-  "Rias Gremory": {
-    vibe: "SEDUCTIVE",
-    rating: "ELITE WAIFU",
-    fanbase: 320000
-  },
-
-  "Esdeath": {
-    vibe: "DOMINANT",
-    rating: "ELITE WAIFU",
-    fanbase: 300000
-  },
-
-  "Zero Two": {
-    vibe: "PLAYFUL",
-    rating: "GOD TIER",
-    fanbase: 500000
-  }
-};
-
-// =====================
-// VIBE ENGINE
-// =====================
-
 const vibes = [
   "DOMINANT",
   "SEDUCTIVE",
@@ -151,54 +89,95 @@ function randomVibe() {
   return vibes[Math.floor(Math.random() * vibes.length)];
 }
 
-// =====================
-// RATING ENGINE
-// =====================
-
 function generateRating(fanbase) {
   if (fanbase > 400000) return "GOD TIER";
   if (fanbase > 250000) return "ELITE WAIFU";
   if (fanbase > 150000) return "LEGENDARY";
   if (fanbase > 80000) return "ICONIC";
   if (fanbase > 30000) return "POPULAR";
-
   return "RISING STAR";
 }
-
-// =====================
-// FRANCHISE FANBASE
-// =====================
 
 const franchiseWeights = {
   "Genshin Impact": 380000,
   "Chainsaw Man": 350000,
   "Re:Zero": 280000,
   "High School DxD": 300000,
-  "One Piece": 400000,
-  "Naruto": 420000,
-  "Bleach": 300000,
-  "League of Legends": 260000,
-  "Nikke": 240000,
-  "Zenless Zone Zero": 180000,
-  "Wuthering Waves": 170000
+  "Fairy Tail": 280000,
+  "One Piece": 400000
 };
 
 function generateFanbase(character) {
-  const base = franchiseWeights[character.source] || 90000;
-  const variance = Math.floor(Math.random() * 50000);
+  const base = franchiseWeights[character.source] || 100000;
+  return base + Math.floor(Math.random() * 50000);
+}
 
-  return base + variance;
+// =====================
+// DESCRIPTION PARSER
+// =====================
+function cleanHTML(text) {
+  if (!text) return "";
+  return text
+    .replace(/<[^>]*>/g, "")
+    .replace(/~!/g, "")
+    .replace(/!~/g, "")
+    .replace(/\n/g, " ")
+    .trim();
+}
+
+// crude parser but effective
+function extractBioAndDescription(desc) {
+  if (!desc) {
+    return {
+      bio: "Unknown Character",
+      description: "No profile available"
+    };
+  }
+
+  const cleaned = cleanHTML(desc);
+
+  // keyword extraction
+  let bio = "Anime Character";
+  let detail = "Profile Unavailable";
+
+  if (/hunter/i.test(cleaned)) bio = "Devil Hunter";
+  else if (/mage/i.test(cleaned)) bio = "Mage";
+  else if (/archon/i.test(cleaned)) bio = "Archon";
+  else if (/soldier/i.test(cleaned)) bio = "Combat Specialist";
+  else if (/student/i.test(cleaned)) bio = "Elite Student";
+  else if (/princess/i.test(cleaned)) bio = "Royal Princess";
+  else if (/witch/i.test(cleaned)) bio = "Magic User";
+
+  // first sentence fallback
+  const sentence =
+    cleaned.split(".")[0]?.slice(0, 45) || "";
+
+  detail = sentence || detail;
+
+  return {
+    bio,
+    description: detail
+  };
 }
 
 // =====================
 // ANILIST FETCH
 // =====================
-
 async function fetchAniList(name) {
   const query = `
   query ($search: String) {
     Character(search: $search) {
       favourites
+      age
+      bloodType
+      description
+
+      dateOfBirth {
+        day
+        month
+        year
+      }
+
       image {
         large
       }
@@ -210,19 +189,11 @@ async function fetchAniList(name) {
       ANILIST_API,
       {
         query,
-        variables: {
-          search: name
-        }
+        variables: { search: name }
       }
     );
 
-    return {
-      fanbase:
-        response.data.data.Character?.favourites || null,
-
-      image:
-        response.data.data.Character?.image?.large || null
-    };
+    return response.data.data.Character || null;
 
   } catch {
     return null;
@@ -232,33 +203,41 @@ async function fetchAniList(name) {
 // =====================
 // BUILD METADATA
 // =====================
-
 async function buildMetadata(character) {
-  const override = overrides[character.name];
-
   const ani = await fetchAniList(character.name);
 
-  let fanbase =
-    ani?.fanbase ||
-    override?.fanbase ||
+  const fanbase =
+    ani?.favourites ||
     generateFanbase(character);
 
-  let vibe =
-    override?.vibe ||
-    randomVibe();
+  const vibe = randomVibe();
 
-  let rating =
-    override?.rating ||
+  const rating =
     generateRating(fanbase);
 
-  let image =
-    ani?.image ||
+  const age =
+    ani?.age || "Unknown";
+
+  const blood =
+    ani?.bloodType || "Unknown";
+
+  const parsed =
+    extractBioAndDescription(
+      ani?.description
+    );
+
+  const image =
+    ani?.image?.large ||
     "https://i.imgur.com/4M34hi2.png";
 
   return {
     fanbase,
     vibe,
     rating,
+    age,
+    blood,
+    bio: parsed.bio,
+    description: parsed.description,
     image
   };
 }
@@ -266,7 +245,6 @@ async function buildMetadata(character) {
 // =====================
 // BUILD PAYLOAD
 // =====================
-
 function buildPayload(character, meta) {
   return {
     data: {
@@ -298,6 +276,26 @@ function buildPayload(character, meta) {
         },
         {
           type: 1,
+          name: "age",
+          value: String(meta.age)
+        },
+        {
+          type: 1,
+          name: "blood",
+          value: meta.blood
+        },
+        {
+          type: 1,
+          name: "bio",
+          value: meta.bio
+        },
+        {
+          type: 1,
+          name: "description",
+          value: meta.description
+        },
+        {
+          type: 1,
           name: "universe",
           value: character.universe
         },
@@ -316,24 +314,22 @@ function buildPayload(character, meta) {
 // =====================
 // UPDATE DISCORD
 // =====================
-
 async function updateDiscord(payload) {
   const url =
     `https://discord.com/api/v9/applications/${DISCORD_APP_ID}/users/${DISCORD_USER_ID}/identities/0/profile`;
 
-  const response =
-    await axios.patch(
-      url,
-      payload,
-      {
-        headers: {
-          Authorization:
-            `Bot ${DISCORD_BOT_TOKEN}`,
-          "Content-Type":
-            "application/json"
-        }
+  const response = await axios.patch(
+    url,
+    payload,
+    {
+      headers: {
+        Authorization:
+          `Bot ${DISCORD_BOT_TOKEN}`,
+        "Content-Type":
+          "application/json"
       }
-    );
+    }
+  );
 
   console.log("Discord:", response.status);
 }
@@ -341,25 +337,30 @@ async function updateDiscord(payload) {
 // =====================
 // MAIN
 // =====================
-
 (async () => {
   try {
-    console.log("Starting update");
+    console.log("Starting update...");
 
     const character =
       pickCharacter();
 
-    console.log("Picked:", character.name);
+    console.log(
+      "Picked:",
+      character.name
+    );
 
     const meta =
       await buildMetadata(character);
 
     const payload =
-      buildPayload(character, meta);
+      buildPayload(
+        character,
+        meta
+      );
 
     await updateDiscord(payload);
 
-    console.log("Done.");
+    console.log("Widget updated.");
 
   } catch (err) {
     console.error("ERROR");
