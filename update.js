@@ -82,7 +82,11 @@ const vibes = [
   "WHOLESOME",
   "TSUNDERE",
   "YANDERE",
-  "DEADLY"
+  "DEADLY",
+  "ELEGANT",
+  "LOYAL",
+  "INTENSE",
+  "ROYAL"
 ];
 
 function randomVibe() {
@@ -90,26 +94,50 @@ function randomVibe() {
 }
 
 function generateRating(fanbase) {
-  if (fanbase > 400000) return "GOD TIER";
-  if (fanbase > 250000) return "ELITE WAIFU";
-  if (fanbase > 150000) return "LEGENDARY";
-  if (fanbase > 80000) return "ICONIC";
-  if (fanbase > 30000) return "POPULAR";
-  return "RISING STAR";
+  if (fanbase > 500000) return "MYTHIC";
+  if (fanbase > 350000) return "LEGENDARY";
+  if (fanbase > 250000) return "ELITE";
+  if (fanbase > 150000) return "ICONIC";
+  if (fanbase > 80000) return "POPULAR";
+  return "RISING";
 }
 
 const franchiseWeights = {
-  "Genshin Impact": 380000,
-  "Chainsaw Man": 350000,
-  "Re:Zero": 280000,
-  "High School DxD": 300000,
-  "Fairy Tail": 280000,
-  "One Piece": 400000
+  "One Piece": 550000,
+  "Naruto": 520000,
+  "Bleach": 450000,
+  "Attack on Titan": 600000,
+  "Chainsaw Man": 420000,
+  "Jujutsu Kaisen": 500000,
+  "Demon Slayer": 520000,
+  "Fairy Tail": 340000,
+  "Re:Zero": 380000,
+  "Konosuba": 320000,
+  "Date A Live": 290000,
+  "Overlord": 300000,
+  "High School DxD": 360000,
+  "Code Geass": 280000,
+  "Cyberpunk Edgerunners": 260000,
+  "Death Note": 450000,
+  "One Punch Man": 420000,
+  "Violet Evergarden": 350000,
+  "Genshin Impact": 500000,
+  "Honkai Star Rail": 420000,
+  "Zenless Zone Zero": 300000,
+  "Wuthering Waves": 260000,
+  "Azur Lane": 240000,
+  "Blue Archive": 260000,
+  "Nikke": 350000,
+  "Final Fantasy VII": 450000,
+  "NieR Automata": 380000,
+  "Resident Evil": 420000,
+  "Bayonetta": 300000,
+  "Persona 5": 400000
 };
 
 function generateFanbase(character) {
-  const base = franchiseWeights[character.source] || 100000;
-  return base + Math.floor(Math.random() * 50000);
+  const base = franchiseWeights[character.source] || 180000;
+  return base + Math.floor(Math.random() * 80000);
 }
 
 // =====================
@@ -117,42 +145,54 @@ function generateFanbase(character) {
 // =====================
 function cleanHTML(text) {
   if (!text) return "";
+
   return text
     .replace(/<[^>]*>/g, "")
+    .replace(/__([^_]+)__/g, "$1")
     .replace(/~!/g, "")
     .replace(/!~/g, "")
-    .replace(/\n/g, " ")
+    .replace(/\([^)]*\)/g, "")
+    .replace(/\[[^\]]*\]/g, "")
+    .replace(/\s+/g, " ")
     .trim();
 }
 
-// crude parser but effective
 function extractBioAndDescription(desc) {
   if (!desc) {
     return {
-      bio: "Unknown Character",
-      description: "No profile available"
+      bio: "Anime Character",
+      description: "Unknown Profile"
     };
   }
 
   const cleaned = cleanHTML(desc);
 
-  // keyword extraction
   let bio = "Anime Character";
-  let detail = "Profile Unavailable";
 
-  if (/hunter/i.test(cleaned)) bio = "Devil Hunter";
-  else if (/mage/i.test(cleaned)) bio = "Mage";
+  if (/witch/i.test(cleaned)) bio = "Witch";
   else if (/archon/i.test(cleaned)) bio = "Archon";
-  else if (/soldier/i.test(cleaned)) bio = "Combat Specialist";
-  else if (/student/i.test(cleaned)) bio = "Elite Student";
-  else if (/princess/i.test(cleaned)) bio = "Royal Princess";
-  else if (/witch/i.test(cleaned)) bio = "Magic User";
+  else if (/hunter/i.test(cleaned)) bio = "Hunter";
+  else if (/maid/i.test(cleaned)) bio = "Maid";
+  else if (/mage/i.test(cleaned)) bio = "Mage";
+  else if (/knight/i.test(cleaned)) bio = "Knight";
+  else if (/princess/i.test(cleaned)) bio = "Princess";
+  else if (/idol/i.test(cleaned)) bio = "Idol";
+  else if (/student/i.test(cleaned)) bio = "Student";
+  else if (/soldier/i.test(cleaned)) bio = "Soldier";
+  else if (/queen/i.test(cleaned)) bio = "Queen";
+  else if (/assassin/i.test(cleaned)) bio = "Assassin";
+  else if (/captain/i.test(cleaned)) bio = "Captain";
 
-  // first sentence fallback
-  const sentence =
-    cleaned.split(".")[0]?.slice(0, 45) || "";
+  let detail = "Unknown Profile";
 
-  detail = sentence || detail;
+  if (/witch/i.test(cleaned)) detail = "Witch of Sin";
+  else if (/guild/i.test(cleaned)) detail = "Guild Member";
+  else if (/academy/i.test(cleaned)) detail = "Academy Student";
+  else if (/division/i.test(cleaned)) detail = "Special Division";
+  else if (/knight/i.test(cleaned)) detail = "Knight Order";
+  else {
+    detail = cleaned.split(".")[0].slice(0, 24);
+  }
 
   return {
     bio,
@@ -171,13 +211,6 @@ async function fetchAniList(name) {
       age
       bloodType
       description
-
-      dateOfBirth {
-        day
-        month
-        year
-      }
-
       image {
         large
       }
@@ -206,20 +239,21 @@ async function fetchAniList(name) {
 async function buildMetadata(character) {
   const ani = await fetchAniList(character.name);
 
-  const fanbase =
-    ani?.favourites ||
-    generateFanbase(character);
+  const apiFanbase = ani?.favourites || 0;
+  const fallbackFanbase = generateFanbase(character);
+
+  const fanbase = Math.max(
+    apiFanbase,
+    fallbackFanbase
+  );
 
   const vibe = randomVibe();
 
-  const rating =
-    generateRating(fanbase);
+  const rating = generateRating(fanbase);
 
-  const age =
-    ani?.age || "Unknown";
+  const age = ani?.age || "Unknown";
 
-  const blood =
-    ani?.bloodType || "Unknown";
+  const blood = ani?.bloodType || "Unknown";
 
   const parsed =
     extractBioAndDescription(
@@ -341,8 +375,7 @@ async function updateDiscord(payload) {
   try {
     console.log("Starting update...");
 
-    const character =
-      pickCharacter();
+    const character = pickCharacter();
 
     console.log(
       "Picked:",
