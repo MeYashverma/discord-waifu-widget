@@ -1,27 +1,29 @@
-# 🌸 Discord Waifu Widget Framework
+# 🌸 Discord Waifu Widget Framework v2.0
 
-> **A fully automated Discord Dynamic Profile Widget that updates daily with a new Waifu of the Day using AniList, public APIs, and GitHub Actions.**
+> A fully automated Discord Dynamic Profile Widget that continuously rotates curated anime/game waifus using GitHub Actions, AniList API, intelligent metadata engines, and Discord Dynamic Widget API.
 
-![Node.js](https://img.shields.io/badge/Node.js-22-green?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-20-green?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-blue?style=for-the-badge)
 ![Discord API](https://img.shields.io/badge/Discord-Dynamic%20Widgets-5865F2?style=for-the-badge)
 ![AniList](https://img.shields.io/badge/API-AniList-02A9FF?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Terminally%20Online-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
 
 ---
 
 # 🚀 Overview
 
-This project automatically updates your Discord profile every **24 hours** with a new **Waifu of the Day**.
+This project automatically updates your Discord profile widget with a rotating **Waifu Showcase System**.
 
-The system selects a character from a curated dataset, fetches live metadata from AniList, calculates meme-style internet stats, and pushes everything directly to Discord’s experimental Dynamic Widget API.
+Every scheduled run rotates through a curated character database while manual runs trigger random rerolls.
 
 ```text
 No VPS
+
 No Paid APIs
+
 No Local Machine
-No Manual Updates
-100% Cloud Automated
+
+100% GitHub Automated
 ```
 
 ---
@@ -33,25 +35,27 @@ Example output:
 ```text
 WAIFU      → Makima
 SOURCE     → Chainsaw Man
-FANBASE    → 218K
-VIBE       → MOMMY
-RATING     → TOUCH GRASS
+FANBASE    → 420K
+VIBE       → MANIPULATIVE
+RATING     → GOD TIER
+UNIVERSE   → ANIME
 ```
 
-Alternative day:
+Alternative:
 
 ```text
 WAIFU      → Raiden Shogun
 SOURCE     → Genshin Impact
-FANBASE    → 182K
-VIBE       → EVERYONE SIMPS
+FANBASE    → 455K
+VIBE       → DOMINANT
 RATING     → GOD TIER
+UNIVERSE   → GACHA
 ```
 
 Includes:
 
 ```text
-Character Artwork
+Dynamic Character Artwork
 ```
 
 ---
@@ -63,96 +67,186 @@ flowchart TD
 
 A[waifus_final.json] --> B[update.js]
 
-B --> C[Generate Daily Seed]
+B --> C{Trigger Type}
 
-C --> D[Pick Daily Waifu]
+C --> D[Scheduled Run]
 
-D --> E[AniList GraphQL API]
+C --> E[Manual Run]
 
-E --> F[Fetch Metadata]
+D --> F[Deterministic Rotation]
 
-F --> G[Calculate Meme Stats]
+E --> G[Random Selection]
 
-G --> H[Discord PATCH API]
+F --> H[Anti Repeat Memory]
 
-H --> I[Discord Profile Updated]
+G --> H
+
+H --> I[AniList API]
+
+I --> J[Metadata Engine]
+
+J --> K[Rating Engine]
+
+K --> L[Discord PATCH API]
+
+L --> M[Discord Widget Updated]
 ```
 
 ---
 
-# 🎲 Daily Selection Engine
+# 🎲 Selection Engine
 
-Each day generates a deterministic pseudo-random seed.
+## Scheduled GitHub Action
 
-This guarantees:
+Runs sequentially.
 
 ```text
-Same day = Same waifu
+Character 1
 
-Next day = New waifu
+Character 2
+
+Character 3
+...
 ```
 
-Logic:
+Never repeats immediately.
 
-```mermaid
-flowchart LR
+---
 
-A[Current UTC Date] --> B[Generate Seed]
+## Manual Workflow Run
 
-B --> C[Pseudo Random Generator]
+GitHub manual trigger:
 
-C --> D[Character Index]
+```text
+workflow_dispatch
+```
 
-D --> E[Select Daily Character]
+Behavior:
 
-E --> F[Persist For 24 Hours]
+```text
+Random character selection
+
+Avoid immediate duplicate
 ```
 
 ---
 
-# 😂 Meme Logic Engine
+# 🧠 Metadata Engine
 
-Unlike boring widgets, this project uses cursed internet logic.
+The widget combines:
 
-## VIBE
+```text
+AniList real metadata
 
-| Favorites | VIBE           |
-| --------- | -------------- |
-| <3K       | WHO?           |
-| 3K–15K    | CUTE           |
-| 15K–40K   | SMASH          |
-| 40K–80K   | HEAR ME OUT    |
-| 80K–150K  | MOMMY          |
-| 150K+     | EVERYONE SIMPS |
+Manual character overrides
+
+Fallback franchise-weighted generation
+```
+
+Priority:
+
+```text
+AniList API → if available
+
+Manual override → if configured
+
+Generated metadata → fallback
+```
 
 ---
 
-## RATING
+# ⭐ Rating Engine
 
-| Favorites | RATING      |
-| --------- | ----------- |
-| <5K       | MID         |
-| 5K–20K    | GOOD        |
-| 20K–50K   | DOWN BAD    |
-| 50K–100K  | GOONED      |
-| 100K–200K | GOD TIER    |
-| 200K+     | TOUCH GRASS |
+Characters are scored dynamically.
+
+Possible ratings:
+
+```text
+GOD TIER
+
+ELITE WAIFU
+
+LEGENDARY
+
+ICONIC
+
+POPULAR
+
+RISING STAR
+```
+
+Example:
+
+| Popularity | Rating |
+| ---------- | ------ |
+| 400K+      | GOD TIER |
+| 250K+      | ELITE WAIFU |
+| 150K+      | LEGENDARY |
+| 80K+       | ICONIC |
+| 30K+       | POPULAR |
+| lower      | RISING STAR |
+
+---
+
+# 🎭 Vibe Engine
+
+Randomized or manually overridden personality metadata.
+
+Possible values:
+
+```text
+DOMINANT
+
+SEDUCTIVE
+
+MYSTERIOUS
+
+PLAYFUL
+
+CONFIDENT
+
+CHAOTIC
+
+WHOLESOME
+
+TSUNDERE
+
+YANDERE
+
+DEADLY
+```
+
+Examples:
+
+| Character | Vibe |
+| ---------- | ---- |
+| Makima | MANIPULATIVE |
+| Esdeath | DOMINANT |
+| Rem | WHOLESOME |
+| Kurumi Tokisaki | CHAOTIC |
+| Bayonetta | CONFIDENT |
 
 ---
 
 # 🌐 Character Database
 
-The dataset contains:
+Current dataset:
 
 ```text
-266+ manually curated real characters
+300+ manually curated characters
 ```
 
-No fake entries.
+Rules:
 
-Balanced franchise representation.
+```text
+Female only
 
-No duplicate variants.
+No fake entries
+
+No duplicate variants
+
+Manual franchise verification
+```
 
 ---
 
@@ -164,110 +258,74 @@ No duplicate variants.
 
 ```text
 Chainsaw Man
-Re:Zero
+Re Zero
+High School DxD
+Date A Live
+Fairy Tail
+Demon Slayer
+Jujutsu Kaisen
+Attack on Titan
+Spy x Family
+One Piece
 Naruto
 Bleach
-One Piece
-Jujutsu Kaisen
-Spy x Family
-Attack on Titan
-Date A Live
-High School DxD
-Cyberpunk Edgerunners
-Frieren
+Code Geass
 Konosuba
+Overlord
 Evangelion
-Steins Gate
-Dress Up Darling
-Bunny Girl Senpai
+Akame ga Kill
+Kill la Kill
+Dragon Ball
+Death Note
+One Punch Man
+Cyberpunk Edgerunners
 ```
 
 ---
 
-## Gacha / Anime Games
+## Gacha
 
 ```text
 Genshin Impact
 Honkai Star Rail
 Zenless Zone Zero
 Wuthering Waves
-Neverness To Everness
 Nikke
 Blue Archive
 Azur Lane
+Arknights
+Punishing Gray Raven
 ```
 
 ---
 
-## JRPG / VN
+## JRPG
 
 ```text
 Fate Series
 Persona
 NieR Automata
 Final Fantasy
-Stellar Blade
+Tales Series
 ```
 
 ---
 
-## Internet / Western Anime Adjacent
+## Games
 
 ```text
-Arcane
-League of Legends
-Overwatch
-RWBY
 Resident Evil
+League of Legends
+Tekken
 Street Fighter
 Bayonetta
+Metroid
+Tomb Raider
+Darkstalkers
+Cyberpunk 2077
 ```
 
 </details>
-
----
-
-# 🌍 APIs Used
-
-## AniList API
-
-Used for:
-
-```text
-Character Search
-
-Favorites Count
-
-Character Artwork
-
-Anime/Game Source Metadata
-```
-
-Documentation:
-
-[AniList API Docs](https://anilist.gitbook.io/anilist-apiv2-docs/?utm_source=chatgpt.com)
-
-GraphQL Endpoint:
-
-```text
-https://graphql.anilist.co
-```
-
----
-
-## Discord Widget API
-
-Method:
-
-```text
-PATCH
-```
-
-Endpoint:
-
-```text
-https://discord.com/api/v9/applications/{APP_ID}/users/{USER_ID}/identities/0/profile
-```
 
 ---
 
@@ -277,20 +335,19 @@ https://discord.com/api/v9/applications/{APP_ID}/users/{USER_ID}/identities/0/pr
 sequenceDiagram
 
 participant GitHub Actions
-
 participant update.js
-
 participant AniList API
-
 participant Discord API
 
-GitHub Actions->>update.js: Run Daily Workflow
+GitHub Actions->>update.js: Trigger Workflow
 
-update.js->>update.js: Select Daily Character
+update.js->>update.js: Pick Character
 
 update.js->>AniList API: Search Character
 
-AniList API-->>update.js: Return Metadata
+AniList API-->>update.js: Metadata Response
+
+update.js->>update.js: Generate Rating + Vibe
 
 update.js->>Discord API: PATCH Widget
 
@@ -301,28 +358,26 @@ Discord API-->>update.js: 204 Success
 
 # ⚙️ GitHub Actions Automation
 
-The workflow runs once every day.
-
 Schedule:
 
 ```text
-00:05 UTC Daily
+Every 6 Hours
 ```
 
-Flow:
+Cron:
 
-```mermaid
-flowchart TD
+```yaml
+0 */6 * * *
+```
 
-A[GitHub Cron Trigger] --> B[Install Dependencies]
+Supports:
 
-B --> C[Run update.js]
+```text
+Automatic rotation
 
-C --> D[Pick Character]
+Manual reroll
 
-D --> E[Query AniList]
-
-E --> F[Update Discord Widget]
+Persistent memory
 ```
 
 ---
@@ -338,20 +393,24 @@ ROOT --> A[update.js]
 
 ROOT --> B[waifus_final.json]
 
-ROOT --> C[package.json]
+ROOT --> C[last_character.json]
 
-ROOT --> D[.github]
+ROOT --> D[package.json]
 
-D --> E[workflows]
+ROOT --> E[README.md]
 
-E --> F[update.yml]
+ROOT --> F[.github]
+
+F --> G[workflows]
+
+G --> H[update.yml]
 ```
 
 ---
 
 # 🔐 Required Secrets
 
-Add these in:
+GitHub:
 
 ```text
 Settings → Secrets → Actions
@@ -388,85 +447,27 @@ DISCORD_BOT_TOKEN
       {
         "type": 1,
         "name": "fanbase",
-        "value": "218K"
+        "value": "420K"
       },
       {
         "type": 1,
         "name": "vibe",
-        "value": "MOMMY"
+        "value": "MANIPULATIVE"
       },
       {
         "type": 1,
         "name": "rating",
-        "value": "TOUCH GRASS"
+        "value": "GOD TIER"
+      },
+      {
+        "type": 1,
+        "name": "universe",
+        "value": "ANIME"
       }
     ]
   }
 }
 ```
-
----
-
-# 🚀 Deployment
-
-```mermaid
-flowchart TD
-
-A[Clone Repository]
-
-A --> B[Add Secrets]
-
-B --> C[Upload Dataset]
-
-C --> D[Push Code]
-
-D --> E[GitHub Action Starts]
-
-E --> F[Run update.js]
-
-F --> G[AniList Query]
-
-G --> H[Discord Widget Updated]
-```
-
----
-
-# ⚠️ Current Limitations
-
-AniList exact search may fail for:
-
-```text
-2B
-
-Saber
-
-C.C.
-
-D.Va
-```
-
-Reason:
-
-```text
-Exact search mismatch
-```
-
----
-
-# 🔮 Planned Upgrades
-
-* [x] Daily Character Rotation
-* [x] AniList API Integration
-* [x] Discord Dynamic Widget API
-* [x] Meme Rating Engine
-* [x] Character Artwork Support
-* [x] GitHub Actions Automation
-* [ ] Smart Search Resolver
-* [ ] Seasonal Event Modes
-* [ ] Alternate Widget Themes
-* [ ] Trending Anime Mode
-* [ ] NSFW Private Build
-* [ ] Community Voting System
 
 ---
 
@@ -479,11 +480,10 @@ GitHub Actions
 
 Axios
 
-Discord API
-
 AniList GraphQL API
 
-JSON Database
+Discord Dynamic Widget API
+
+JSON Dataset
 ```
 
----
