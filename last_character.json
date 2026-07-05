@@ -1,16 +1,16 @@
 {
-  "lastId": "db:Shinju Inui:My Dress-Up Darling",
-  "lastName": "Shinju Inui",
-  "index": 156,
+  "lastId": "db:Bambietta Basterbine:Bleach",
+  "lastName": "Bambietta Basterbine",
+  "index": 186,
   "recent": [
-    "db:Shinju Inui:My Dress-Up Darling"
+    "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T21:46:02.225Z",
+  "updatedAt": "2026-07-05T21:48:02.915Z",
   "cached": {
     "character": {
-      "name": "Shinju Inui",
-      "source": "My Dress-Up Darling",
+      "name": "Bambietta Basterbine",
+      "source": "Bleach",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -18,20 +18,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shinju Inui:My Dress-Up Darling",
-      "nextIndex": 156
+      "globalId": "db:Bambietta Basterbine:Bleach",
+      "nextIndex": 186
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 254485,
-      "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
+      "source": "Bleach",
+      "fanbase": 453494,
+      "vibe": "WHOLESOME",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Shinji Inui is the downhill driver for Sidewinder",
-      "image": "https://media.kitsu.app/characters/images/39094/original.jpg"
+      "bio": "Soldier",
+      "description": "Bambietta Basterbine is a Quincy and a member of the Vandenreich's Stern Ritter…",
+      "image": "https://media.kitsu.app/character/41266/image/b4e486ed313e5c21da36596d89433dc0.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523444872567324682/waifu-fc4681cd13e21fae80b050bc.png?ex=6a4c2219&is=6a4ad099&hm=c5c3fb4d40ca5de9a2fb0fda9c95a317f6de85013a63523329a8dbd609bb8ef5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523445378928742490/waifu-cf3509b81ca9714a7496cf1a.png?ex=6a4c2292&is=6a4ad112&hm=b291ba27c9e3b52936f3cf997d213528f0354c364af21fb5c8335fb27cee6777&"
   }
 }
