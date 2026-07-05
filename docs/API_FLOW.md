@@ -11,6 +11,7 @@ This document covers the external API flow for the dynamic, no-custom-database v
 | AniList GraphQL | HTTPS POST | Primary live source for popular female characters |
 | Jikan REST | HTTPS GET | Fallback via MyAnimeList top anime cast and character pages |
 | Nekos.best | HTTPS GET | Emergency SFW artwork fallback during AniList/Jikan outages |
+| Discord webhook/channel upload | HTTPS multipart POST | Host processed PNG artwork on Discord CDN |
 | Discord Profile Widget API | HTTPS PATCH | Update Dynamic Profile Widget fields |
 | GitHub repository | git push | Persist recent-pick memory in `last_character.json` |
 
