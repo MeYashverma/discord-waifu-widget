@@ -1,9 +1,8 @@
 {
-  "lastId": "nekos:https://nekos.best/api/v2/waifu/82eff770-b849-4fee-bf0b-4972f421d256.png",
-  "lastName": "Waifu of the Day",
-  "recent": [
-    "nekos:https://nekos.best/api/v2/waifu/82eff770-b849-4fee-bf0b-4972f421d256.png"
-  ],
-  "provider": "nekos.best",
-  "updatedAt": "2026-07-05T19:35:40.772Z"
+  "lastId": null,
+  "lastName": null,
+  "recent": [],
+  "provider": null,
+  "updatedAt": null,
+  "cached": null
 }
