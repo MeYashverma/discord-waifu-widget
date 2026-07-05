@@ -1,17 +1,17 @@
 {
-  "lastId": "db:Milly Ashford:Code Geass",
-  "lastName": "Milly Ashford",
-  "index": 190,
+  "lastId": "db:Quanxi:Chainsaw Man",
+  "lastName": "Quanxi",
+  "index": 77,
   "recent": [
-    "db:Milly Ashford:Code Geass",
+    "db:Quanxi:Chainsaw Man",
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T22:07:33.096Z",
+  "updatedAt": "2026-07-05T22:08:21.357Z",
   "cached": {
     "character": {
-      "name": "Milly Ashford",
-      "source": "Code Geass",
+      "name": "Quanxi",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -19,20 +19,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Milly Ashford:Code Geass",
-      "nextIndex": 190
+      "globalId": "db:Quanxi:Chainsaw Man",
+      "nextIndex": 77
     },
     "meta": {
-      "source": "Code Geass",
-      "fanbase": 228379,
-      "vibe": "DEADLY",
-      "rating": "ICONIC",
+      "source": "Chainsaw Man",
+      "fanbase": 436969,
+      "vibe": "LOYAL",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "July 24 O cm Milly Ashford is the granddaughter of the school superintendent, R…",
-      "image": "https://media.kitsu.app/characters/images/16471/original.jpg"
+      "bio": "Character",
+      "description": "Quanxi from Chainsaw Man",
+      "image": "https://media.kitsu.app/characters/images/36949/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523450286822133802/waifu-30a9f459e9914776579cf9e0.png?ex=6a4c2724&is=6a4ad5a4&hm=1feb67ea161ff07558e6b9d1768592df8f317566716ac4482ef8ab1b64b7eb9c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523450489285378110/waifu-3f9301fc228a8c0f92a5ddb8.png?ex=6a4c2754&is=6a4ad5d4&hm=1bffc4c4eecef404149d980813d9e2b4431e328106205a4d78bd1cb5e7b8a622&"
   }
 }
