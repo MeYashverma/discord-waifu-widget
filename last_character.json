@@ -1,16 +1,16 @@
 {
-  "lastId": "db:Candace:Genshin Impact",
-  "lastName": "Candace",
-  "index": 14,
+  "lastId": "db:Roccia:Wuthering Waves",
+  "lastName": "Roccia",
+  "index": 49,
   "recent": [
-    "db:Candace:Genshin Impact"
+    "db:Roccia:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T20:56:53.070Z",
+  "updatedAt": "2026-07-05T20:59:16.544Z",
   "cached": {
     "character": {
-      "name": "Candace",
-      "source": "Genshin Impact",
+      "name": "Roccia",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -18,20 +18,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Candace:Genshin Impact",
-      "nextIndex": 14
+      "globalId": "db:Roccia:Wuthering Waves",
+      "nextIndex": 49
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 566704,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
+      "source": "Wuthering Waves",
+      "fanbase": 182103,
+      "vibe": "DEADLY",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "A sadomasochistic woman who relishes physical pains in a fight as pleasures, be…",
-      "image": "https://media.kitsu.app/characters/images/9837/original.jpg"
+      "bio": "Character",
+      "description": "Marco Rocca is Jet's buddy in orphanage and a close friend of Robert",
+      "image": "https://media.kitsu.app/characters/images/20717/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523432503338336458/waifu-35802bba7f7d3f4d97debf2c.png?ex=6a4c1694&is=6a4ac514&hm=677b9027e49096c3dde63efd344c721aff71284aed0384762f09f83f61a7e021&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523433103278735480/waifu-271b89153863371d7278ac30.png?ex=6a4c1723&is=6a4ac5a3&hm=36a1c87d454f7234f9bc59a448e7312fbc9298fd6e7414f976f0cdcf04af0c0d&"
   }
 }
