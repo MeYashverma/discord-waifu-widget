@@ -2,14 +2,19 @@
 "use strict";
 
 const fs = require("node:fs");
+const fsp = require("node:fs/promises");
 const path = require("node:path");
+const crypto = require("node:crypto");
 const axios = require("axios");
+const FormData = require("form-data");
+const sharp = require("sharp");
 
 const ANILIST_API = "https://graphql.anilist.co";
 const JIKAN_API = "https://api.jikan.moe/v4";
 const NEKOS_BEST_API = "https://nekos.best/api/v2/waifu";
 const DISCORD_API = "https://discord.com/api/v9";
 const MEMORY_FILE = path.resolve(__dirname, "last_character.json");
+const IMAGE_CACHE_DIR = path.resolve(__dirname, ".cache/images");
 const DISCORD_USER_AGENT =
   "DiscordBot (https://github.com/discord/discord-api-docs, 1.0.0)";
 
@@ -36,6 +41,9 @@ function loadConfig() {
     maxPage: positiveInt(process.env.MAX_SOURCE_PAGE, 5),
     maxAttempts: positiveInt(process.env.MAX_PICK_ATTEMPTS, 8),
     imageFallback: !isTruthy(process.env.DISABLE_IMAGE_FALLBACK),
+    imageFix: !isTruthy(process.env.DISABLE_IMAGE_FIX),
+    discordImageWebhookUrl: process.env.DISCORD_IMAGE_WEBHOOK_URL?.trim() || "",
+    discordTargetChannelId: process.env.DISCORD_TARGET_CHANNEL_ID?.trim() || "",
     dryRun: isTruthy(process.env.DRY_RUN),
     eventName: process.env.GITHUB_EVENT_NAME || "local",
   };
@@ -61,7 +69,7 @@ function sleep(ms) {
 
 function loadMemory() {
   if (!fs.existsSync(MEMORY_FILE)) {
-    return { lastId: null, lastName: null, recent: [], updatedAt: null };
+    return { lastId: null, lastName: null, recent: [], updatedAt: null, cached: null };
   }
 
   try {
@@ -81,9 +89,10 @@ function loadMemory() {
           : null,
       recent,
       updatedAt: typeof memory.updatedAt === "string" ? memory.updatedAt : null,
+      cached: memory.cached && typeof memory.cached === "object" ? memory.cached : null,
     };
   } catch {
-    return { lastId: null, lastName: null, recent: [], updatedAt: null };
+    return { lastId: null, lastName: null, recent: [], updatedAt: null, cached: null };
   }
 }
 
@@ -91,7 +100,7 @@ function saveMemory(memory) {
   fs.writeFileSync(MEMORY_FILE, `${JSON.stringify(memory, null, 2)}\n`);
 }
 
-function buildNextMemory(character, previous) {
+function buildNextMemory(character, previous, meta, imageUrl) {
   const id = character.globalId;
   const recent = [id, ...(previous.recent || []).filter((item) => item !== id)]
     .slice(0, RECENT_MEMORY_LIMIT);
@@ -102,6 +111,11 @@ function buildNextMemory(character, previous) {
     recent,
     provider: character.provider,
     updatedAt: new Date().toISOString(),
+    cached: {
+      character,
+      meta,
+      imageUrl,
+    },
   };
 }
 
@@ -138,6 +152,10 @@ function truncate(value, max = TEXT_MAX) {
   const text = String(value ?? "").replace(/\s+/g, " ").trim();
   if (text.length <= max) return text;
   return `${text.slice(0, Math.max(0, max - 1))}…`;
+}
+
+function sha256Short(input) {
+  return crypto.createHash("sha256").update(String(input)).digest("hex").slice(0, 24);
 }
 
 function hashString(input) {
@@ -510,6 +528,11 @@ async function pickCharacter(memory) {
   const jikan = await pickFromJikan(memory);
   if (jikan) return jikan;
 
+  if (memory.cached?.character) {
+    console.warn("Live character APIs failed; reusing cached previous character instead of fake metadata.");
+    return { ...memory.cached.character, provider: "cache" };
+  }
+
   const imageFallback = await pickFromNekosBest(memory);
   if (imageFallback) return imageFallback;
 
@@ -542,7 +565,92 @@ function imageField(name, url) {
   return { type: 3, name, value: { url: safe } };
 }
 
-function buildPayload(character, meta) {
+async function downloadImage(url, outputPath) {
+  const response = await axios.get(url, {
+    responseType: "arraybuffer",
+    timeout: 20_000,
+    maxContentLength: 8 * 1024 * 1024,
+    headers: {
+      Accept: "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "User-Agent": "discord-waifu-widget/1.0",
+    },
+  });
+  await fsp.writeFile(outputPath, Buffer.from(response.data));
+}
+
+async function processImage(inputPath, outputPath) {
+  // Discord widget image fields behave best with a Discord-CDN PNG. We preserve
+  // alpha when the source has it and place the art on a transparent square canvas
+  // so transparent renders (Genshin-style assets, PNG renders, etc.) stay clean.
+  await sharp(inputPath)
+    .rotate()
+    .resize(512, 512, {
+      fit: "contain",
+      position: "centre",
+      background: { r: 0, g: 0, b: 0, alpha: 0 },
+    })
+    .ensureAlpha()
+    .png({ compressionLevel: 9 })
+    .toFile(outputPath);
+}
+
+async function uploadViaWebhook(localPath, filename) {
+  const form = new FormData();
+  form.append("file", await fsp.readFile(localPath), { filename, contentType: "image/png" });
+  const sep = config.discordImageWebhookUrl.includes("?") ? "&" : "?";
+  const response = await axios.post(`${config.discordImageWebhookUrl}${sep}wait=true`, form, {
+    timeout: 30_000,
+    headers: { ...form.getHeaders(), "User-Agent": DISCORD_USER_AGENT },
+  });
+  const url = response.data?.attachments?.[0]?.url;
+  if (!url) throw new Error("Webhook upload did not return an attachment URL");
+  return url;
+}
+
+async function uploadViaBotChannel(localPath, filename) {
+  const form = new FormData();
+  form.append("files[0]", await fsp.readFile(localPath), { filename, contentType: "image/png" });
+  const response = await axios.post(`${DISCORD_API}/channels/${config.discordTargetChannelId}/messages`, form, {
+    timeout: 30_000,
+    headers: {
+      ...form.getHeaders(),
+      Authorization: `Bot ${config.discordBotToken}`,
+      "User-Agent": DISCORD_USER_AGENT,
+    },
+  });
+  const url = response.data?.attachments?.[0]?.url;
+  if (!url) throw new Error("Channel upload did not return an attachment URL");
+  return url;
+}
+
+async function prepareImageUrl(sourceUrl) {
+  const url = String(sourceUrl || "").trim();
+  if (!url || !config.imageFix || config.dryRun) return url;
+
+  if (!config.discordImageWebhookUrl && !config.discordTargetChannelId) {
+    console.warn("Image fix/upload skipped: set DISCORD_IMAGE_WEBHOOK_URL or DISCORD_TARGET_CHANNEL_ID to host widget images on Discord CDN.");
+    return url;
+  }
+
+  try {
+    await fsp.mkdir(IMAGE_CACHE_DIR, { recursive: true });
+    const key = sha256Short(url);
+    const rawPath = path.join(IMAGE_CACHE_DIR, `${key}.img`);
+    const pngPath = path.join(IMAGE_CACHE_DIR, `${key}-widget.png`);
+    await downloadImage(url, rawPath);
+    await processImage(rawPath, pngPath);
+    const cdnUrl = config.discordImageWebhookUrl
+      ? await uploadViaWebhook(pngPath, `waifu-${key}.png`)
+      : await uploadViaBotChannel(pngPath, `waifu-${key}.png`);
+    console.log("Prepared widget image via Discord CDN:", cdnUrl);
+    return cdnUrl;
+  } catch (error) {
+    console.warn(`Image fix/upload failed (${error.message}); using source image URL.`);
+    return url;
+  }
+}
+
+function buildPayload(character, meta, imageUrl) {
   return {
     username: config.widgetUsername,
     data: {
@@ -557,7 +665,7 @@ function buildPayload(character, meta) {
         textField("bio", meta.bio),
         textField("description", meta.description, 80),
         textField("universe", character.universe),
-        imageField("image", meta.image),
+        imageField("image", imageUrl || meta.image),
       ],
     },
   };
@@ -602,16 +710,19 @@ async function main() {
   console.log("Starting Discord Waifu Widget update...");
   console.log(`Source mode: ${config.source}`);
   console.log(`Image fallback: ${config.imageFallback ? "enabled" : "disabled"}`);
+  console.log(`Image fix/upload: ${config.imageFix ? "enabled" : "disabled"}`);
 
   const memory = loadMemory();
   const character = await pickCharacter(memory);
-  const nextMemory = buildNextMemory(character, memory);
 
   console.log(`Picked: ${character.name} (${character.source}) via ${character.provider}`);
   console.log(`Previous: ${memory.lastName || "none"}`);
 
-  const meta = buildMetadata(character);
-  const payload = buildPayload(character, meta);
+  const cached = character.provider === "cache" ? memory.cached : null;
+  const meta = cached?.meta || buildMetadata(character);
+  const imageUrl = cached?.imageUrl || await prepareImageUrl(meta.image);
+  const nextMemory = buildNextMemory(character, memory, meta, imageUrl);
+  const payload = buildPayload(character, meta, imageUrl);
 
   const ok = await updateDiscord(payload);
   if (!ok) process.exitCode = 1;
