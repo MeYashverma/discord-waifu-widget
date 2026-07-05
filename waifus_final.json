@@ -1,0 +1,1512 @@
+[
+  {
+    "name": "Raiden Shogun",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Yae Miko",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Shenhe",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Eula",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Furina",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Navia",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Arlecchino",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Ganyu",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Keqing",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Nilou",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Mona",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Jean",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Clorinde",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Candace",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Xianyun",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Rosaria",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Lisa",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Dehya",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Mavuika",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Citlali",
+    "source": "Genshin Impact",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Kafka",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Black Swan",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Firefly",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Acheron",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Silver Wolf",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Jingliu",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Robin",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Bronya",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Seele",
+    "source": "Honkai Star Rail",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Zhu Yuan",
+    "source": "Zenless Zone Zero",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Jane Doe",
+    "source": "Zenless Zone Zero",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Nicole Demara",
+    "source": "Zenless Zone Zero",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Miyabi",
+    "source": "Zenless Zone Zero",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Grace Howard",
+    "source": "Zenless Zone Zero",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Ellen Joe",
+    "source": "Zenless Zone Zero",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Camellya",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Changli",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Yinlin",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Shorekeeper",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Verina",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Encore",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Baizhi",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Sanhua",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Jinhsi",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Taoqi",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Phoebe",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Zani",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Carlotta",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Roccia",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Cantarella",
+    "source": "Wuthering Waves",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Rapi",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Anis",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Marian",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Scarlet",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Dorothy",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Modernia",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Alice",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Privaty",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Noir",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Blanc",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Sakura",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Rosanna",
+    "source": "Nikke",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Shiroko",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Hina",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Asuna Ichinose",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Karin Kakudate",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Ako",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Mika",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Yuuka Hayase",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Wakamo",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Hanako",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Neru",
+    "source": "Blue Archive",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Makima",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Power",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Himeno",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kobeni Higashiyama",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Quanxi",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Reze",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Fami",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yoru",
+    "source": "Chainsaw Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rem",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Emilia",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ram",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Echidna",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Crusch Karsten",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Priscilla Barielle",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Felt",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Satella",
+    "source": "Re:Zero",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rias Gremory",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Akeno Himejima",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Asia Argento",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Koneko Toujou",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Xenovia Quarta",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Irina Shidou",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rossweisse",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ravel Phenex",
+    "source": "High School DxD",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kurumi Tokisaki",
+    "source": "Date A Live",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Tohka Yatogami",
+    "source": "Date A Live",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Origami Tobiichi",
+    "source": "Date A Live",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kotori Itsuka",
+    "source": "Date A Live",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yoshino",
+    "source": "Date A Live",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mukuro Hoshimiya",
+    "source": "Date A Live",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nia Honjo",
+    "source": "Date A Live",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Lucy Heartfilia",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Erza Scarlet",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Juvia Lockser",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Wendy Marvell",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mirajane Strauss",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Cana Alberona",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Levy McGarden",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ultear Milkovich",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Brandish μ",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Irene Belserion",
+    "source": "Fairy Tail",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Shinobu Kocho",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mitsuri Kanroji",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kanao Tsuyuri",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kanae Kocho",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Tamayo",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Daki",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nakime",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Hinatsuru",
+    "source": "Demon Slayer",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Maki Zenin",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yuki Tsukumo",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mei Mei",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Shoko Ieiri",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Utahime Iori",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kasumi Miwa",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Momo Nishimiya",
+    "source": "Jujutsu Kaisen",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "source": "Attack on Titan",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Historia Reiss",
+    "source": "Attack on Titan",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Annie Leonhart",
+    "source": "Attack on Titan",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Sasha Blouse",
+    "source": "Attack on Titan",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Pieck Finger",
+    "source": "Attack on Titan",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ymir",
+    "source": "Attack on Titan",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Hange Zoë",
+    "source": "Attack on Titan",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yor Forger",
+    "source": "Spy x Family",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Anya Forger",
+    "source": "Spy x Family",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Fiona Frost",
+    "source": "Spy x Family",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Sylvia Sherwood",
+    "source": "Spy x Family",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Becky Blackbell",
+    "source": "Spy x Family",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Zero Two",
+    "source": "Darling in the Franxx",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ichigo",
+    "source": "Darling in the Franxx",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kokoro",
+    "source": "Darling in the Franxx",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ikuno",
+    "source": "Darling in the Franxx",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nana",
+    "source": "Darling in the Franxx",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Asuka Langley Soryu",
+    "source": "Neon Genesis Evangelion",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rei Ayanami",
+    "source": "Neon Genesis Evangelion",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Misato Katsuragi",
+    "source": "Neon Genesis Evangelion",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mari Illustrious Makinami",
+    "source": "Neon Genesis Evangelion",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ritsuko Akagi",
+    "source": "Neon Genesis Evangelion",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yui Ikari",
+    "source": "Neon Genesis Evangelion",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Marin Kitagawa",
+    "source": "My Dress-Up Darling",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Sajuna Inui",
+    "source": "My Dress-Up Darling",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Shinju Inui",
+    "source": "My Dress-Up Darling",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nowa Sugaya",
+    "source": "My Dress-Up Darling",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Esdeath",
+    "source": "Akame ga Kill!",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Akame",
+    "source": "Akame ga Kill!",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Leone",
+    "source": "Akame ga Kill!",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mine",
+    "source": "Akame ga Kill!",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Chelsea",
+    "source": "Akame ga Kill!",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Najenda",
+    "source": "Akame ga Kill!",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nami",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Nico Robin",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Boa Hancock",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yamato",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Vinsmoke Reiju",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Jewelry Bonney",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Perona",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Shirahoshi",
+    "source": "One Piece",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Tsunade",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Sakura Haruno",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ino Yamanaka",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Temari",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Konan",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kushina Uzumaki",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mei Terumi",
+    "source": "Naruto",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rukia Kuchiki",
+    "source": "Bleach",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yoruichi Shihouin",
+    "source": "Bleach",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Orihime Inoue",
+    "source": "Bleach",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rangiku Matsumoto",
+    "source": "Bleach",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Neliel Tu Odelschwanck",
+    "source": "Bleach",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Soi Fon",
+    "source": "Bleach",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Bambietta Basterbine",
+    "source": "Bleach",
+    "universe": "ANIME"
+  },
+  {
+    "name": "C.C.",
+    "source": "Code Geass",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kallen Kozuki",
+    "source": "Code Geass",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Shirley Fenette",
+    "source": "Code Geass",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Milly Ashford",
+    "source": "Code Geass",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Cornelia li Britannia",
+    "source": "Code Geass",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Aqua",
+    "source": "Konosuba",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Megumin",
+    "source": "Konosuba",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Darkness",
+    "source": "Konosuba",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Wiz",
+    "source": "Konosuba",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yunyun",
+    "source": "Konosuba",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Albedo",
+    "source": "Overlord",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Shalltear Bloodfallen",
+    "source": "Overlord",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Narberal Gamma",
+    "source": "Overlord",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Aura Bella Fiora",
+    "source": "Overlord",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yuri Alpha",
+    "source": "Overlord",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Saber",
+    "source": "Fate/stay night",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rin Tohsaka",
+    "source": "Fate/stay night",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Sakura Matou",
+    "source": "Fate/stay night",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Artoria Pendragon",
+    "source": "Fate/stay night",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Scathach",
+    "source": "Fate Series",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Jeanne d'Arc Alter",
+    "source": "Fate Series",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ishtar",
+    "source": "Fate Series",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Mordred",
+    "source": "Fate Series",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Tifa Lockhart",
+    "source": "Final Fantasy VII",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Aerith Gainsborough",
+    "source": "Final Fantasy VII",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Yuffie Kisaragi",
+    "source": "Final Fantasy VII",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Lightning Farron",
+    "source": "Final Fantasy XIII",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Terra Branford",
+    "source": "Final Fantasy VI",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Rinoa Heartilly",
+    "source": "Final Fantasy VIII",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Lulu",
+    "source": "Final Fantasy X",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Fran",
+    "source": "Final Fantasy XII",
+    "universe": "JRPG"
+  },
+  {
+    "name": "2B",
+    "source": "NieR Automata",
+    "universe": "JRPG"
+  },
+  {
+    "name": "A2",
+    "source": "NieR Automata",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Kaine",
+    "source": "NieR Replicant",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Devola",
+    "source": "NieR Automata",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Popola",
+    "source": "NieR Automata",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Makoto Niijima",
+    "source": "Persona 5",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Ann Takamaki",
+    "source": "Persona 5",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Futaba Sakura",
+    "source": "Persona 5",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Kasumi Yoshizawa",
+    "source": "Persona 5 Royal",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Mitsuru Kirijo",
+    "source": "Persona 3",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Yukari Takeba",
+    "source": "Persona 3",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Ada Wong",
+    "source": "Resident Evil",
+    "universe": "GAME"
+  },
+  {
+    "name": "Jill Valentine",
+    "source": "Resident Evil",
+    "universe": "GAME"
+  },
+  {
+    "name": "Claire Redfield",
+    "source": "Resident Evil",
+    "universe": "GAME"
+  },
+  {
+    "name": "Rebecca Chambers",
+    "source": "Resident Evil",
+    "universe": "GAME"
+  },
+  {
+    "name": "Sheva Alomar",
+    "source": "Resident Evil",
+    "universe": "GAME"
+  },
+  {
+    "name": "Ashley Graham",
+    "source": "Resident Evil 4",
+    "universe": "GAME"
+  },
+  {
+    "name": "Ahri",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Jinx",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Evelynn",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Vi",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Kai'Sa",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Miss Fortune",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Akali",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Irelia",
+    "source": "League of Legends",
+    "universe": "GAME"
+  },
+  {
+    "name": "Chun-Li",
+    "source": "Street Fighter",
+    "universe": "GAME"
+  },
+  {
+    "name": "Cammy White",
+    "source": "Street Fighter",
+    "universe": "GAME"
+  },
+  {
+    "name": "Juri Han",
+    "source": "Street Fighter",
+    "universe": "GAME"
+  },
+  {
+    "name": "Manon",
+    "source": "Street Fighter 6",
+    "universe": "GAME"
+  },
+  {
+    "name": "Marisa",
+    "source": "Street Fighter 6",
+    "universe": "GAME"
+  },
+  {
+    "name": "Asuka Kazama",
+    "source": "Tekken",
+    "universe": "GAME"
+  },
+  {
+    "name": "Nina Williams",
+    "source": "Tekken",
+    "universe": "GAME"
+  },
+  {
+    "name": "Lili Rochefort",
+    "source": "Tekken",
+    "universe": "GAME"
+  },
+  {
+    "name": "Jun Kazama",
+    "source": "Tekken",
+    "universe": "GAME"
+  },
+  {
+    "name": "Reina Mishima",
+    "source": "Tekken 8",
+    "universe": "GAME"
+  },
+  {
+    "name": "Anna Williams",
+    "source": "Tekken",
+    "universe": "GAME"
+  },
+  {
+    "name": "Lucy",
+    "source": "Cyberpunk Edgerunners",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rebecca",
+    "source": "Cyberpunk Edgerunners",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Kiwi",
+    "source": "Cyberpunk Edgerunners",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Dorio",
+    "source": "Cyberpunk Edgerunners",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Rogue Amendiares",
+    "source": "Cyberpunk 2077",
+    "universe": "GAME"
+  },
+  {
+    "name": "Bayonetta",
+    "source": "Bayonetta",
+    "universe": "GAME"
+  },
+  {
+    "name": "Jeanne",
+    "source": "Bayonetta",
+    "universe": "GAME"
+  },
+  {
+    "name": "Cereza",
+    "source": "Bayonetta Origins",
+    "universe": "GAME"
+  },
+  {
+    "name": "Rosa",
+    "source": "Bayonetta",
+    "universe": "GAME"
+  },
+  {
+    "name": "Morrigan Aensland",
+    "source": "Darkstalkers",
+    "universe": "GAME"
+  },
+  {
+    "name": "Samus Aran",
+    "source": "Metroid",
+    "universe": "GAME"
+  },
+  {
+    "name": "Princess Zelda",
+    "source": "The Legend of Zelda",
+    "universe": "GAME"
+  },
+  {
+    "name": "Lara Croft",
+    "source": "Tomb Raider",
+    "universe": "GAME"
+  },
+  {
+    "name": "Peach",
+    "source": "Super Mario",
+    "universe": "GAME"
+  },
+  {
+    "name": "Rosalina",
+    "source": "Super Mario Galaxy",
+    "universe": "GAME"
+  },
+  {
+    "name": "Velvet Crowe",
+    "source": "Tales of Berseria",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Shionne Imeris",
+    "source": "Tales of Arise",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Aigis",
+    "source": "Persona 3",
+    "universe": "JRPG"
+  },
+  {
+    "name": "Matoi Ryuko",
+    "source": "Kill la Kill",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Satsuki Kiryuin",
+    "source": "Kill la Kill",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Violet Evergarden",
+    "source": "Violet Evergarden",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Enterprise",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Belfast",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Atago",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Taihou",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "New Jersey",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Formidable",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Akagi",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Kaga",
+    "source": "Azur Lane",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Exusiai",
+    "source": "Arknights",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Texas",
+    "source": "Arknights",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Skadi",
+    "source": "Arknights",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Kal'tsit",
+    "source": "Arknights",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Surtr",
+    "source": "Arknights",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Mudrock",
+    "source": "Arknights",
+    "universe": "GACHA"
+  },
+  {
+    "name": "W",
+    "source": "Arknights",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Lucia",
+    "source": "Punishing Gray Raven",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Liv",
+    "source": "Punishing Gray Raven",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Karenina",
+    "source": "Punishing Gray Raven",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Bianca",
+    "source": "Punishing Gray Raven",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Selena",
+    "source": "Punishing Gray Raven",
+    "universe": "GACHA"
+  },
+  {
+    "name": "Misa Amane",
+    "source": "Death Note",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Fubuki",
+    "source": "One Punch Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Tatsumaki",
+    "source": "One Punch Man",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Android 18",
+    "source": "Dragon Ball Z",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Bulma",
+    "source": "Dragon Ball",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Ryuko Matoi",
+    "source": "Kill la Kill",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Yoko Littner",
+    "source": "Gurren Lagann",
+    "universe": "ANIME"
+  },
+  {
+    "name": "Winry Rockbell",
+    "source": "Fullmetal Alchemist",
+    "universe": "ANIME"
+  }
+]
