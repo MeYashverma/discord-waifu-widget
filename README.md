@@ -41,6 +41,7 @@ Each run:
 - 🛟 Jikan/MyAnimeList fallback when AniList is down/rate-limited
 - 🖼 Nekos.best SFW artwork fallback so the workflow still updates during API outages
 - 🖼 Character artwork field
+- 🧩 Discord-CDN image upload/fix for reliable widget rendering
 - 🧾 Full Discord payload with `username` binding
 - 🔐 GitHub Secrets for Discord credentials
 - 🧪 Local `DRY_RUN=true` testing mode
@@ -101,6 +102,7 @@ Local `.env` or GitHub repository secrets:
 DISCORD_APP_ID=
 DISCORD_USER_ID=
 DISCORD_BOT_TOKEN=
+DISCORD_IMAGE_WEBHOOK_URL=   # recommended for image display
 ```
 
 Optional:
