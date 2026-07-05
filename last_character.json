@@ -1,8 +1,37 @@
 {
-  "lastId": null,
-  "lastName": null,
-  "recent": [],
-  "provider": null,
-  "updatedAt": null,
-  "cached": null
+  "lastId": "nekos:https://nekos.best/api/v2/waifu/226830b4-a1e3-43d9-9585-b991e573c5eb.png",
+  "lastName": "Waifu of the Day",
+  "recent": [
+    "nekos:https://nekos.best/api/v2/waifu/226830b4-a1e3-43d9-9585-b991e573c5eb.png"
+  ],
+  "provider": "nekos.best",
+  "updatedAt": "2026-07-05T20:08:15.401Z",
+  "cached": {
+    "character": {
+      "provider": "nekos.best",
+      "globalId": "nekos:https://nekos.best/api/v2/waifu/226830b4-a1e3-43d9-9585-b991e573c5eb.png",
+      "id": "nekos:https://nekos.best/api/v2/waifu/226830b4-a1e3-43d9-9585-b991e573c5eb.png",
+      "name": "Waifu of the Day",
+      "source": "Art by KKato",
+      "universe": "ARTWORK",
+      "favourites": 0,
+      "age": "Unknown",
+      "blood": "Unknown",
+      "description": "Fresh artwork fallback",
+      "image": "https://nekos.best/api/v2/waifu/226830b4-a1e3-43d9-9585-b991e573c5eb.png",
+      "siteUrl": "https://www.pixiv.net/en/artworks/121572088"
+    },
+    "meta": {
+      "source": "Art by KKato",
+      "fanbase": 368976,
+      "vibe": "PLAYFUL",
+      "rating": "ELITE",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Fresh artwork fallback",
+      "image": "https://nekos.best/api/v2/waifu/226830b4-a1e3-43d9-9585-b991e573c5eb.png"
+    },
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523420265005060187/waifu-0f4a428c6d11e2df5fe878d4.png?ex=6a4c0b2e&is=6a4ab9ae&hm=010f66fb6b1058964b8bb56451ffd7c7d3a705fe035a0d0fd75edd0fedde2f95&"
+  }
 }
