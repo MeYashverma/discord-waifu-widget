@@ -1,38 +1,38 @@
 {
-  "lastId": "db:Rebecca Chambers:Resident Evil",
-  "lastName": "Rebecca Chambers",
-  "index": 232,
+  "lastId": "db:Milly Ashford:Code Geass",
+  "lastName": "Milly Ashford",
+  "index": 190,
   "recent": [
-    "db:Rebecca Chambers:Resident Evil",
+    "db:Milly Ashford:Code Geass",
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T22:05:57.722Z",
+  "updatedAt": "2026-07-05T22:07:33.096Z",
   "cached": {
     "character": {
-      "name": "Rebecca Chambers",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Milly Ashford",
+      "source": "Code Geass",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rebecca Chambers:Resident Evil",
-      "nextIndex": 232
+      "globalId": "db:Milly Ashford:Code Geass",
+      "nextIndex": 190
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 260725,
-      "vibe": "CHAOTIC",
+      "source": "Code Geass",
+      "fanbase": 228379,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Ex-S",
-      "image": "https://media.kitsu.app/characters/images/76060/original.jpg"
+      "bio": "Student",
+      "description": "July 24 O cm Milly Ashford is the granddaughter of the school superintendent, R…",
+      "image": "https://media.kitsu.app/characters/images/16471/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523449887197233252/waifu-2258df6093b7b336d9bd721b.png?ex=6a4c26c5&is=6a4ad545&hm=3222e455ab5c107aa8137b99bdefbde6c9bfb1ffa87682982e57efccf4eea3c2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523450286822133802/waifu-30a9f459e9914776579cf9e0.png?ex=6a4c2724&is=6a4ad5a4&hm=1feb67ea161ff07558e6b9d1768592df8f317566716ac4482ef8ab1b64b7eb9c&"
   }
 }
