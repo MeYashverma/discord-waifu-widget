@@ -1,8 +1,37 @@
 {
-  "lastId": null,
-  "lastName": null,
-  "recent": [],
-  "provider": null,
-  "updatedAt": null,
-  "cached": null
+  "lastId": "db:Nobara Kugisaki:Jujutsu Kaisen",
+  "lastName": "Nobara Kugisaki",
+  "index": 123,
+  "recent": [
+    "db:Nobara Kugisaki:Jujutsu Kaisen"
+  ],
+  "provider": "database",
+  "updatedAt": "2026-07-05T20:55:43.897Z",
+  "cached": {
+    "character": {
+      "name": "Nobara Kugisaki",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
+      "image": "",
+      "bio": "",
+      "description": "",
+      "age": "",
+      "blood": "",
+      "provider": "database",
+      "globalId": "db:Nobara Kugisaki:Jujutsu Kaisen",
+      "nextIndex": 123
+    },
+    "meta": {
+      "source": "Jujutsu Kaisen",
+      "fanbase": 536735,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
+      "age": "16",
+      "blood": "Unknown",
+      "bio": "Sorcerer",
+      "description": "Tokyo Jujutsu High student",
+      "image": "https://media.kitsu.app/characters/images/53639/original.jpg"
+    },
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523432213109145680/waifu-4b0d0f5135a72d767d2bc767.png?ex=6a4c164f&is=6a4ac4cf&hm=c8fba0abf95d142b8b8d6f48742bd20c00f528593cb293af1d7342e7efbd60ae&"
+  }
 }
