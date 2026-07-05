@@ -1,16 +1,16 @@
 {
-  "lastId": "db:Kotori Itsuka:Date A Live",
-  "lastName": "Kotori Itsuka",
-  "index": 100,
+  "lastId": "db:Asia Argento:High School DxD",
+  "lastName": "Asia Argento",
+  "index": 91,
   "recent": [
-    "db:Kotori Itsuka:Date A Live"
+    "db:Asia Argento:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T21:39:57.530Z",
+  "updatedAt": "2026-07-05T21:43:20.340Z",
   "cached": {
     "character": {
-      "name": "Kotori Itsuka",
-      "source": "Date A Live",
+      "name": "Asia Argento",
+      "source": "High School DxD",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -18,20 +18,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kotori Itsuka:Date A Live",
-      "nextIndex": 100
+      "globalId": "db:Asia Argento:High School DxD",
+      "nextIndex": 91
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 211653,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "High School DxD",
+      "fanbase": 267503,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "August 3 Zodiac: Leo cm AB BWH: 72-53-74 Favorite candy: Lollipop Likes: Bath b…",
-      "image": "https://media.kitsu.app/characters/images/38192/original.jpg"
+      "bio": "Student",
+      "description": "cm Weight: BWH: 78/55/81 Rank: Low-class Devil Role: Bishop Race: Reincarnated …",
+      "image": "https://media.kitsu.app/characters/images/35596/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523443340815761508/waifu-a6a88ac2b8712bd1cc574166.png?ex=6a4c20ac&is=6a4acf2c&hm=c731e668e252692498870e8e907740f32029dc3adb07298616b8dfce0d17ba32&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523444193886863572/waifu-6a1e0c9b206845c7f576fbcc.png?ex=6a4c2178&is=6a4acff8&hm=a69eeea670c9b920f03a87dca3581bd4cbaa8951f24736fff7396fd6f0399f95&"
   }
 }
