@@ -1,37 +1,37 @@
 {
-  "lastId": "db:Asia Argento:High School DxD",
-  "lastName": "Asia Argento",
-  "index": 91,
+  "lastId": "db:Ada Wong:Resident Evil",
+  "lastName": "Ada Wong",
+  "index": 229,
   "recent": [
-    "db:Asia Argento:High School DxD"
+    "db:Ada Wong:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T21:43:20.340Z",
+  "updatedAt": "2026-07-05T21:44:27.506Z",
   "cached": {
     "character": {
-      "name": "Asia Argento",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Ada Wong",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asia Argento:High School DxD",
-      "nextIndex": 91
+      "globalId": "db:Ada Wong:Resident Evil",
+      "nextIndex": 229
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 267503,
-      "vibe": "PLAYFUL",
+      "source": "Resident Evil",
+      "fanbase": 240692,
+      "vibe": "CONFIDENT",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "cm Weight: BWH: 78/55/81 Rank: Low-class Devil Role: Bishop Race: Reincarnated …",
-      "image": "https://media.kitsu.app/characters/images/35596/original.jpg"
+      "bio": "Character",
+      "description": "Ada Wong is a red-clad, cunning and formidable secret agent of Chinese heritage…",
+      "image": "https://media.kitsu.app/characters/images/31542/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523444193886863572/waifu-6a1e0c9b206845c7f576fbcc.png?ex=6a4c2178&is=6a4acff8&hm=a69eeea670c9b920f03a87dca3581bd4cbaa8951f24736fff7396fd6f0399f95&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523444475337244814/waifu-56bcd2e7feac47b0089f3edd.png?ex=6a4c21bb&is=6a4ad03b&hm=cd3ad4e8129a58b6dddc0c8b21c6266d6b870e77b88ba0e361c818b8dba566a5&"
   }
 }
