@@ -58,6 +58,11 @@ Optional repository variables:
 | Variable | Default | Description |
 | --- | --- | --- |
 | `WIDGET_USERNAME` | `waifu-widget` | Root payload username for Discord binding |
+| `CHARACTER_SOURCE` | `auto` | `auto`, `anilist`, or `jikan` |
+| `MIN_SOURCE_PAGE` | `1` | First source page to sample |
+| `MAX_SOURCE_PAGE` | `5` | Last source page to sample; keep low for Jikan stability |
+| `MAX_PICK_ATTEMPTS` | `8` | Number of page attempts before fallback |
+| `DISABLE_IMAGE_FALLBACK` | `false` | Disable Nekos.best emergency artwork fallback |
 
 ---
 
@@ -92,6 +97,7 @@ DRY_RUN=true npm start
 ```text
 Starting Discord Waifu Widget update...
 Source mode: auto
+Image fallback: enabled
 Picked: Makima (Chainsaw Man)
 Discord widget updated: 204
 Saved character memory.

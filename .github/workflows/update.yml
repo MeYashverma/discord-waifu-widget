@@ -44,8 +44,9 @@ jobs:
           WIDGET_USERNAME: ${{ vars.WIDGET_USERNAME || 'waifu-widget' }}
           CHARACTER_SOURCE: ${{ vars.CHARACTER_SOURCE || 'auto' }}
           MIN_SOURCE_PAGE: ${{ vars.MIN_SOURCE_PAGE || '1' }}
-          MAX_SOURCE_PAGE: ${{ vars.MAX_SOURCE_PAGE || '40' }}
+          MAX_SOURCE_PAGE: ${{ vars.MAX_SOURCE_PAGE || '5' }}
           MAX_PICK_ATTEMPTS: ${{ vars.MAX_PICK_ATTEMPTS || '8' }}
+          DISABLE_IMAGE_FALLBACK: ${{ vars.DISABLE_IMAGE_FALLBACK || 'false' }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: npm start
 

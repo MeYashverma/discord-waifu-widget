@@ -39,6 +39,7 @@ Each run:
 - 🎲 Manual reroll through GitHub Actions `workflow_dispatch`
 - 🧠 AniList metadata enrichment
 - 🛟 Jikan/MyAnimeList fallback when AniList is down/rate-limited
+- 🖼 Nekos.best SFW artwork fallback so the workflow still updates during API outages
 - 🖼 Character artwork field
 - 🧾 Full Discord payload with `username` binding
 - 🔐 GitHub Secrets for Discord credentials
@@ -108,7 +109,7 @@ Optional:
 WIDGET_USERNAME=waifu-widget
 CHARACTER_SOURCE=auto   # auto, anilist, or jikan
 MIN_SOURCE_PAGE=1
-MAX_SOURCE_PAGE=40
+MAX_SOURCE_PAGE=5
 DRY_RUN=false
 ```
 

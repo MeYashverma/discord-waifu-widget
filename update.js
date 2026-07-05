@@ -7,6 +7,7 @@ const axios = require("axios");
 
 const ANILIST_API = "https://graphql.anilist.co";
 const JIKAN_API = "https://api.jikan.moe/v4";
+const NEKOS_BEST_API = "https://nekos.best/api/v2/waifu";
 const DISCORD_API = "https://discord.com/api/v9";
 const MEMORY_FILE = path.resolve(__dirname, "last_character.json");
 const DISCORD_USER_AGENT =
@@ -32,8 +33,9 @@ function loadConfig() {
     widgetUsername: process.env.WIDGET_USERNAME?.trim() || "waifu-widget",
     source: normalizeSource(process.env.CHARACTER_SOURCE || "auto"),
     minPage: positiveInt(process.env.MIN_SOURCE_PAGE, 1),
-    maxPage: positiveInt(process.env.MAX_SOURCE_PAGE, 40),
+    maxPage: positiveInt(process.env.MAX_SOURCE_PAGE, 5),
     maxAttempts: positiveInt(process.env.MAX_PICK_ATTEMPTS, 8),
+    imageFallback: !isTruthy(process.env.DISABLE_IMAGE_FALLBACK),
     dryRun: isTruthy(process.env.DRY_RUN),
     eventName: process.env.GITHUB_EVENT_NAME || "local",
   };
@@ -340,7 +342,7 @@ async function fetchAniListCandidates(page) {
 
 async function fetchJikanTopAnimePage(page) {
   const response = await axios.get(`${JIKAN_API}/top/anime`, {
-    timeout: 15_000,
+    timeout: 25_000,
     params: { page, limit: 10 },
     headers: {
       Accept: "application/json",
@@ -353,7 +355,7 @@ async function fetchJikanTopAnimePage(page) {
 
 async function fetchJikanAnimeCharacters(animeId) {
   const response = await axios.get(`${JIKAN_API}/anime/${animeId}/characters`, {
-    timeout: 15_000,
+    timeout: 25_000,
     headers: {
       Accept: "application/json",
       "User-Agent": "discord-waifu-widget/1.0",
@@ -365,7 +367,7 @@ async function fetchJikanAnimeCharacters(animeId) {
 
 async function fetchJikanFull(id) {
   const response = await axios.get(`${JIKAN_API}/characters/${id}/full`, {
-    timeout: 15_000,
+    timeout: 25_000,
     headers: {
       Accept: "application/json",
       "User-Agent": "discord-waifu-widget/1.0",
@@ -459,6 +461,43 @@ async function pickFromJikan(memory) {
   return null;
 }
 
+async function pickFromNekosBest(memory) {
+  if (!config.imageFallback) return null;
+
+  try {
+    const response = await axios.get(NEKOS_BEST_API, {
+      timeout: 15_000,
+      headers: {
+        Accept: "application/json",
+        "User-Agent": "discord-waifu-widget/1.0",
+      },
+    });
+
+    const item = response.data?.results?.[0];
+    if (!item?.url) return null;
+
+    const id = `nekos:${item.url}`;
+    return {
+      provider: "nekos.best",
+      globalId: id,
+      id,
+      name: "Waifu of the Day",
+      source: item.artist_name ? `Art by ${item.artist_name}` : "Nekos.best",
+      universe: "ARTWORK",
+      favourites: 0,
+      age: "Unknown",
+      blood: "Unknown",
+      description: item.source_url ? "Fresh artwork fallback" : "Random SFW artwork",
+      image: item.url,
+      siteUrl: item.source_url || item.artist_href || "https://nekos.best/",
+    };
+  } catch (error) {
+    const status = error.response?.status;
+    console.warn(`Nekos.best image fallback failed${status ? ` (${status})` : ""}.`);
+    return null;
+  }
+}
+
 async function pickCharacter(memory) {
   if (config.source !== "jikan") {
     const ani = await pickFromAniList(memory);
@@ -471,7 +510,10 @@ async function pickCharacter(memory) {
   const jikan = await pickFromJikan(memory);
   if (jikan) return jikan;
 
-  throw new Error("Could not pick a character from AniList or Jikan");
+  const imageFallback = await pickFromNekosBest(memory);
+  if (imageFallback) return imageFallback;
+
+  throw new Error("Could not pick a character from AniList, Jikan, or image fallback");
 }
 
 function buildMetadata(character) {
@@ -559,6 +601,7 @@ async function updateDiscord(payload) {
 async function main() {
   console.log("Starting Discord Waifu Widget update...");
   console.log(`Source mode: ${config.source}`);
+  console.log(`Image fallback: ${config.imageFallback ? "enabled" : "disabled"}`);
 
   const memory = loadMemory();
   const character = await pickCharacter(memory);

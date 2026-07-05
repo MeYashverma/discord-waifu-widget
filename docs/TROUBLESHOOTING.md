@@ -10,6 +10,7 @@
 | Widget shows defaults | Field binding mismatch | Re-check [WIDGET_FIELDS.md](WIDGET_FIELDS.md) |
 | Image missing | `image` field not Image/User Data | Set field type Image and Data Field `image` |
 | AniList 403/disabled | AniList API issue | Script falls back to Jikan automatically |
+| AniList and Jikan both fail | Upstream API outage/rate limit | Nekos.best image fallback keeps widget updating |
 | Memory advances on failed update | Old script behavior | Updated script saves memory only after Discord success |
 | Workflow cannot push memory | Permissions/token issue | Ensure workflow has `permissions: contents: write` |
 | `npm ci` fails | Missing/outdated lockfile | Run `npm install --package-lock-only` and commit lockfile |

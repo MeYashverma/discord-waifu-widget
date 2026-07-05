@@ -27,6 +27,7 @@ flowchart TB
     subgraph APIs[External APIs]
         ANILIST[AniList GraphQL API]
         JIKAN[Jikan REST API]
+        NEKOS[Nekos.best image API]
         DISCORD[Discord Profile Widget API]
     end
 
@@ -36,6 +37,7 @@ flowchart TB
     SCRIPT --> PICK
     PICK -. primary female candidates .-> ANILIST
     PICK -. fallback anime cast candidates .-> JIKAN
+    PICK -. emergency artwork fallback .-> NEKOS
     PICK --> META --> PAYLOAD
     PAYLOAD -. PATCH dynamic payload .-> DISCORD
     SCRIPT --> MEMORY
@@ -126,6 +128,7 @@ The workflow commits this file after a successful Discord update so the next run
 | Invalid memory file | Reset memory safely |
 | AniList unavailable | Try Jikan when `CHARACTER_SOURCE=auto` |
 | Jikan rate-limited | Wait briefly and try another page until attempts are exhausted |
+| AniList and Jikan both fail | Use Nekos.best SFW artwork fallback unless disabled |
 | No candidate found | Fail without changing memory |
 | Discord PATCH fails | Exit non-zero and do not save memory |
 | Successful PATCH | Save memory and let workflow commit it |
