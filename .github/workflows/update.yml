@@ -43,13 +43,11 @@ jobs:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DISCORD_IMAGE_WEBHOOK_URL: ${{ secrets.DISCORD_IMAGE_WEBHOOK_URL }}
           DISCORD_TARGET_CHANNEL_ID: ${{ secrets.DISCORD_TARGET_CHANNEL_ID }}
+          REMOVE_BG_API_KEY: ${{ secrets.REMOVE_BG_API_KEY }}
           WIDGET_USERNAME: ${{ vars.WIDGET_USERNAME || 'waifu-widget' }}
-          CHARACTER_SOURCE: ${{ vars.CHARACTER_SOURCE || 'auto' }}
-          MIN_SOURCE_PAGE: ${{ vars.MIN_SOURCE_PAGE || '1' }}
-          MAX_SOURCE_PAGE: ${{ vars.MAX_SOURCE_PAGE || '5' }}
-          MAX_PICK_ATTEMPTS: ${{ vars.MAX_PICK_ATTEMPTS || '8' }}
           DISABLE_IMAGE_FALLBACK: ${{ vars.DISABLE_IMAGE_FALLBACK || 'false' }}
           DISABLE_IMAGE_FIX: ${{ vars.DISABLE_IMAGE_FIX || 'false' }}
+          DISABLE_REMOVE_BG: ${{ vars.DISABLE_REMOVE_BG || 'false' }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: npm start
 
