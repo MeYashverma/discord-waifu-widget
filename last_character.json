@@ -1,37 +1,8 @@
 {
-  "lastId": "db:Lisa:Genshin Impact",
-  "lastName": "Lisa",
-  "index": 17,
-  "recent": [
-    "db:Lisa:Genshin Impact"
-  ],
-  "provider": "database",
-  "updatedAt": "2026-07-05T21:03:00.572Z",
-  "cached": {
-    "character": {
-      "name": "Lisa",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
-      "image": "",
-      "bio": "",
-      "description": "",
-      "age": "",
-      "blood": "",
-      "provider": "database",
-      "globalId": "db:Lisa:Genshin Impact",
-      "nextIndex": 17
-    },
-    "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 518740,
-      "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "The grandmother of Anita",
-      "image": "https://media.kitsu.app/characters/images/75431/original.jpg"
-    },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523434044807839764/waifu-fb557e3a858830f0edbb4754.png?ex=6a4c1804&is=6a4ac684&hm=9d514435eedf74acee522537a128cda7a03c59d8d07dab0d252e919879f9f4be&"
-  }
+  "lastId": null,
+  "lastName": null,
+  "recent": [],
+  "provider": null,
+  "updatedAt": null,
+  "cached": null
 }

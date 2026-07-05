@@ -9,6 +9,8 @@
 | `Missing required environment variables` | Secrets/env vars not set | Add `DISCORD_APP_ID`, `DISCORD_USER_ID`, `DISCORD_BOT_TOKEN` |
 | Widget shows defaults | Field binding mismatch | Re-check [WIDGET_FIELDS.md](WIDGET_FIELDS.md) |
 | Image missing | Field mismatch or remote image blocked | Set field type Image/Data Field `image`, and set `DISCORD_IMAGE_WEBHOOK_URL` so images are uploaded to Discord CDN |
+| Image too small / not cropped | Fit mode is contain or zoom too low | Use `WIDGET_IMAGE_FIT=cover` and increase `WIDGET_IMAGE_ZOOM` |
+| Background not transparent | remove.bg missing/failed or complex background | Add valid `REMOVE_BG_API_KEY`; local cleanup is only heuristic |
 | AniList 403/disabled | AniList API issue | Script falls back to Jikan automatically |
 | AniList and Jikan both fail | Upstream API outage/rate limit | Verified seed fallback keeps fields real; Nekos.best can provide artwork |
 | Memory advances on failed update | Old script behavior | Updated script saves memory only after Discord success |

@@ -48,6 +48,8 @@ function loadConfig() {
     imageFix: !isTruthy(process.env.DISABLE_IMAGE_FIX),
     removeBg: !isTruthy(process.env.DISABLE_REMOVE_BG),
     removeBgApiKey: process.env.REMOVE_BG_API_KEY?.trim() || "",
+    imageFit: normalizeImageFit(process.env.WIDGET_IMAGE_FIT || "cover"),
+    imageZoom: positiveNumber(process.env.WIDGET_IMAGE_ZOOM, 1.18),
     discordImageWebhookUrl: process.env.DISCORD_IMAGE_WEBHOOK_URL?.trim() || "",
     discordTargetChannelId: process.env.DISCORD_TARGET_CHANNEL_ID?.trim() || "",
     imageFallback: !isTruthy(process.env.DISABLE_IMAGE_FALLBACK),
@@ -56,6 +58,16 @@ function loadConfig() {
 
 function isTruthy(value) {
   return ["1", "true", "yes", "on"].includes(String(value || "").toLowerCase());
+}
+
+function positiveNumber(value, fallback) {
+  const parsed = Number(value);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
+}
+
+function normalizeImageFit(value) {
+  const normalized = String(value || "cover").trim().toLowerCase();
+  return ["cover", "contain"].includes(normalized) ? normalized : "cover";
 }
 
 function sleep(ms) {
@@ -136,32 +148,21 @@ function characterId(character) {
 }
 
 function pickCharacter(memory) {
-  let picked;
-  let nextIndex = memory.index % WAIFUS.length;
+  // Random on every run, not sequential. The old database is intentionally kept
+  // as a stable source of real character identities, but selection should feel
+  // fresh and not walk through the Genshin-heavy first block.
+  const recent = new Set(memory.recent || []);
+  let pool = WAIFUS.filter((item) => !recent.has(characterId(item)));
+  if (pool.length === 0) pool = WAIFUS;
 
-  if (isManualRun()) {
-    const candidates = WAIFUS.filter((item) => !memory.recent.includes(characterId(item)));
-    const pool = candidates.length > 0 ? candidates : WAIFUS;
-    picked = pool[Math.floor(Math.random() * pool.length)];
-    nextIndex = (WAIFUS.findIndex((item) => item.name === picked.name && item.source === picked.source) + 1) % WAIFUS.length;
-  } else {
-    for (let i = 0; i < WAIFUS.length; i += 1) {
-      const candidate = WAIFUS[(nextIndex + i) % WAIFUS.length];
-      if (!memory.recent.includes(characterId(candidate))) {
-        picked = candidate;
-        nextIndex = (nextIndex + i + 1) % WAIFUS.length;
-        break;
-      }
-    }
-    picked ||= WAIFUS[nextIndex];
-    nextIndex = (nextIndex + 1) % WAIFUS.length;
-  }
+  const picked = pool[Math.floor(Math.random() * pool.length)];
+  const index = WAIFUS.findIndex((item) => item.name === picked.name && item.source === picked.source);
 
   return {
     ...picked,
     provider: "database",
     globalId: characterId(picked),
-    nextIndex,
+    nextIndex: index >= 0 ? (index + 1) % WAIFUS.length : memory.index || 0,
   };
 }
 
@@ -450,27 +451,45 @@ async function downloadImage(url, outputPath) {
   await fsp.writeFile(outputPath, Buffer.from(response.data));
 }
 
-async function removeBackgroundWithApi(inputPath, outputPath) {
+async function removeBackgroundWithApi(inputPath, outputPath, sourceUrl = "") {
   if (!config.removeBg || !config.removeBgApiKey) return false;
-  const form = new FormData();
-  form.append("image_file", await fsp.readFile(inputPath), { filename: "waifu.png" });
-  form.append("size", "auto");
-  form.append("format", "png");
 
-  try {
-    const response = await axios.post(REMOVE_BG_API, form, {
-      responseType: "arraybuffer",
-      timeout: 45_000,
-      headers: { ...form.getHeaders(), "X-Api-Key": config.removeBgApiKey },
-      validateStatus: (status) => status >= 200 && status < 300,
-    });
-    await fsp.writeFile(outputPath, Buffer.from(response.data));
-    console.log("Background removed with remove.bg API.");
-    return true;
-  } catch (error) {
-    console.warn(`remove.bg failed${error.response?.status ? ` (${error.response.status})` : ""}; using local background cleanup.`);
-    return false;
+  const attempts = [];
+  if (/^https?:\/\//i.test(sourceUrl)) {
+    const byUrl = new FormData();
+    byUrl.append("image_url", sourceUrl);
+    byUrl.append("size", "auto");
+    byUrl.append("format", "png");
+    attempts.push(byUrl);
   }
+
+  const byFile = new FormData();
+  byFile.append("image_file", await fsp.readFile(inputPath), { filename: "waifu.png" });
+  byFile.append("size", "auto");
+  byFile.append("format", "png");
+  attempts.push(byFile);
+
+  for (const form of attempts) {
+    try {
+      const response = await axios.post(REMOVE_BG_API, form, {
+        responseType: "arraybuffer",
+        timeout: 45_000,
+        headers: { ...form.getHeaders(), "X-Api-Key": config.removeBgApiKey },
+        validateStatus: (status) => status >= 200 && status < 300,
+      });
+      await fsp.writeFile(outputPath, Buffer.from(response.data));
+      console.log("Background removed with remove.bg API.");
+      return true;
+    } catch (error) {
+      const status = error.response?.status;
+      let body = "";
+      try { body = error.response?.data ? Buffer.from(error.response.data).toString("utf8").slice(0, 180) : ""; } catch {}
+      console.warn(`remove.bg attempt failed${status ? ` (${status})` : ""}${body ? `: ${body}` : ""}`);
+    }
+  }
+
+  console.warn("remove.bg unavailable; using local background cleanup.");
+  return false;
 }
 
 function removeBorderBackground({ data, info }) {
@@ -510,21 +529,45 @@ function removeBorderBackground({ data, info }) {
 async function localImageCleanup(inputPath, outputPath) {
   const raw = await sharp(inputPath)
     .rotate()
-    .resize(768, 768, { fit: "inside", withoutEnlargement: false })
+    .resize(900, 900, { fit: "inside", withoutEnlargement: false })
     .ensureAlpha()
     .raw()
     .toBuffer({ resolveWithObject: true });
+
   const transparent = removeBorderBackground(raw);
-  await sharp(transparent, { raw: { width: raw.info.width, height: raw.info.height, channels: 4 } })
-    .trim({ background: { r: 0, g: 0, b: 0, alpha: 0 }, threshold: 8 })
-    .resize(512, 512, { fit: "contain", position: "centre", background: { r: 0, g: 0, b: 0, alpha: 0 } })
+  let pipeline = sharp(transparent, {
+    raw: { width: raw.info.width, height: raw.info.height, channels: 4 },
+  })
+    .trim({ background: { r: 0, g: 0, b: 0, alpha: 0 }, threshold: 8 });
+
+  if (config.imageFit === "cover") {
+    // Match the Genshin/Vinyl-style widget look: large character portrait,
+    // intentionally cropped by the square frame instead of small full-body art.
+    const size = Math.max(512, Math.round(512 * config.imageZoom));
+    pipeline = pipeline
+      .resize(size, size, { fit: "cover", position: "attention" })
+      .extract({
+        left: Math.max(0, Math.floor((size - 512) / 2)),
+        top: Math.max(0, Math.floor((size - 512) / 2)),
+        width: 512,
+        height: 512,
+      });
+  } else {
+    pipeline = pipeline.resize(512, 512, {
+      fit: "contain",
+      position: "centre",
+      background: { r: 0, g: 0, b: 0, alpha: 0 },
+    });
+  }
+
+  await pipeline
     .png({ compressionLevel: 9 })
     .toFile(outputPath);
 }
 
-async function processImage(inputPath, outputPath) {
+async function processImage(inputPath, outputPath, sourceUrl = "") {
   const removedPath = outputPath.replace(/\.png$/, "-removebg.png");
-  const removed = await removeBackgroundWithApi(inputPath, removedPath);
+  const removed = await removeBackgroundWithApi(inputPath, removedPath, sourceUrl);
   await localImageCleanup(removed ? removedPath : inputPath, outputPath);
 }
 
@@ -566,7 +609,7 @@ async function prepareImageUrl(sourceUrl) {
     const rawPath = path.join(IMAGE_CACHE_DIR, `${key}.img`);
     const pngPath = path.join(IMAGE_CACHE_DIR, `${key}-widget.png`);
     await downloadImage(url, rawPath);
-    await processImage(rawPath, pngPath);
+    await processImage(rawPath, pngPath, url);
     const cdnUrl = config.discordImageWebhookUrl
       ? await uploadViaWebhook(pngPath, `waifu-${key}.png`)
       : await uploadViaBotChannel(pngPath, `waifu-${key}.png`);
@@ -628,6 +671,7 @@ async function main() {
   console.log("Starting Discord Waifu Widget update...");
   console.log(`Database size: ${WAIFUS.length}`);
   console.log(`Image fix/upload: ${config.imageFix ? "enabled" : "disabled"}`);
+  console.log(`Image fit: ${config.imageFit} (zoom ${config.imageZoom})`);
   console.log(`remove.bg: ${config.removeBg && config.removeBgApiKey ? "enabled" : "not configured"}`);
 
   const memory = loadMemory();

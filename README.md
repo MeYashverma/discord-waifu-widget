@@ -42,6 +42,7 @@ Each run:
 - 🧾 Verified seed fallback for real character fields during full API outages
 - 🖼 Nekos.best SFW artwork fallback only if no character art is found
 - ✂️ Optional remove.bg background removal for transparent widget images
+- 🔍 Cover/zoom image framing so characters appear large like the Genshin widget
 - 🖼 Character artwork field
 - 🧩 Discord-CDN image upload/fix for reliable widget rendering
 - 🧾 Full Discord payload with `username` binding
@@ -115,6 +116,8 @@ REMOVE_BG_API_KEY=      # optional, best transparent cutouts
 DISABLE_IMAGE_FALLBACK=false
 DISABLE_IMAGE_FIX=false
 DISABLE_REMOVE_BG=false
+WIDGET_IMAGE_FIT=cover      # cover = large/cropped, contain = full image
+WIDGET_IMAGE_ZOOM=1.18      # larger = more zoom/crop
 DRY_RUN=false
 ```
 

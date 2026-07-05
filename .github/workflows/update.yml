@@ -48,6 +48,8 @@ jobs:
           DISABLE_IMAGE_FALLBACK: ${{ vars.DISABLE_IMAGE_FALLBACK || 'false' }}
           DISABLE_IMAGE_FIX: ${{ vars.DISABLE_IMAGE_FIX || 'false' }}
           DISABLE_REMOVE_BG: ${{ vars.DISABLE_REMOVE_BG || 'false' }}
+          WIDGET_IMAGE_FIT: ${{ vars.WIDGET_IMAGE_FIT || 'cover' }}
+          WIDGET_IMAGE_ZOOM: ${{ vars.WIDGET_IMAGE_ZOOM || '1.18' }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: npm start
 

@@ -64,6 +64,8 @@ Optional repository variables:
 | `DISABLE_IMAGE_FALLBACK` | `false` | Disable Nekos.best emergency artwork fallback |
 | `DISABLE_IMAGE_FIX` | `false` | Disable image processing/upload to Discord CDN |
 | `DISABLE_REMOVE_BG` | `false` | Skip remove.bg even when API key exists |
+| `WIDGET_IMAGE_FIT` | `cover` | `cover` for large cropped portraits, `contain` for full image |
+| `WIDGET_IMAGE_ZOOM` | `1.18` | Portrait zoom when `WIDGET_IMAGE_FIT=cover` |
 
 ---
 
