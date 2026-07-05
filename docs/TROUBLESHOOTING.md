@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | `Missing required environment variables` | Secrets/env vars not set | Add `DISCORD_APP_ID`, `DISCORD_USER_ID`, `DISCORD_BOT_TOKEN` |
 | Widget shows defaults | Field binding mismatch | Re-check [WIDGET_FIELDS.md](WIDGET_FIELDS.md) |
-| Image missing | `image` field not Image/User Data | Set field type Image and Data Field `image` |
+| Image missing | Field mismatch or remote image blocked | Set field type Image/Data Field `image`, and set `DISCORD_IMAGE_WEBHOOK_URL` so images are uploaded to Discord CDN |
 | AniList 403/disabled | AniList API issue | Script falls back to Jikan automatically |
 | AniList and Jikan both fail | Upstream API outage/rate limit | Nekos.best image fallback keeps widget updating |
 | Memory advances on failed update | Old script behavior | Updated script saves memory only after Discord success |
