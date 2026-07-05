@@ -1,37 +1,37 @@
 {
-  "lastId": "db:Akagi:Azur Lane",
-  "lastName": "Akagi",
-  "index": 281,
+  "lastId": "db:Shinju Inui:My Dress-Up Darling",
+  "lastName": "Shinju Inui",
+  "index": 156,
   "recent": [
-    "db:Akagi:Azur Lane"
+    "db:Shinju Inui:My Dress-Up Darling"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T21:45:20.564Z",
+  "updatedAt": "2026-07-05T21:46:02.225Z",
   "cached": {
     "character": {
-      "name": "Akagi",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Shinju Inui",
+      "source": "My Dress-Up Darling",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Akagi:Azur Lane",
-      "nextIndex": 281
+      "globalId": "db:Shinju Inui:My Dress-Up Darling",
+      "nextIndex": 156
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 242432,
-      "vibe": "INTENSE",
+      "source": "My Dress-Up Darling",
+      "fanbase": 254485,
+      "vibe": "SEDUCTIVE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Akagi-sensei is a strong advocate of discipline at the school and gets frequent…",
-      "image": "https://media.kitsu.app/characters/images/23136/original.jpg"
+      "bio": "Character",
+      "description": "Shinji Inui is the downhill driver for Sidewinder",
+      "image": "https://media.kitsu.app/characters/images/39094/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523444697035571381/waifu-baea630dc7b93481e23a6c94.png?ex=6a4c21f0&is=6a4ad070&hm=ee823def0be6f088c606022f98cf52dc0290a490f71c2e7bc33cb7828a9c7be9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523444872567324682/waifu-fc4681cd13e21fae80b050bc.png?ex=6a4c2219&is=6a4ad099&hm=c5c3fb4d40ca5de9a2fb0fda9c95a317f6de85013a63523329a8dbd609bb8ef5&"
   }
 }
