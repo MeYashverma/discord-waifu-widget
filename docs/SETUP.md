@@ -53,6 +53,7 @@ Add:
 | `DISCORD_USER_ID` | Yes | Your Discord user ID |
 | `DISCORD_BOT_TOKEN` | Yes | Bot token |
 | `DISCORD_IMAGE_WEBHOOK_URL` | Recommended | Webhook used to upload processed images to Discord CDN |
+| `REMOVE_BG_API_KEY` | Optional | remove.bg API key for high-quality transparent images |
 | `DISCORD_TARGET_CHANNEL_ID` | Optional | Bot channel-upload fallback for images |
 
 Optional repository variables:
@@ -60,12 +61,9 @@ Optional repository variables:
 | Variable | Default | Description |
 | --- | --- | --- |
 | `WIDGET_USERNAME` | `waifu-widget` | Root payload username for Discord binding |
-| `CHARACTER_SOURCE` | `auto` | `auto`, `anilist`, or `jikan` |
-| `MIN_SOURCE_PAGE` | `1` | First source page to sample |
-| `MAX_SOURCE_PAGE` | `5` | Last source page to sample; keep low for Jikan stability |
-| `MAX_PICK_ATTEMPTS` | `8` | Number of page attempts before fallback |
 | `DISABLE_IMAGE_FALLBACK` | `false` | Disable Nekos.best emergency artwork fallback |
 | `DISABLE_IMAGE_FIX` | `false` | Disable image processing/upload to Discord CDN |
+| `DISABLE_REMOVE_BG` | `false` | Skip remove.bg even when API key exists |
 
 ---
 
