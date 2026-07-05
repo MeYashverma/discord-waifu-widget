@@ -1,4 +1,30 @@
 {
+  "name": "discord-waifu-widget",
+  "version": "1.0.0",
+  "description": "Automated Discord Dynamic Profile Widget that pulls live anime/game character data from AniList with Jikan fallback.",
+  "main": "update.js",
+  "scripts": {
+    "start": "node update.js",
+    "check": "node --check update.js",
+    "dry-run": "DRY_RUN=true node update.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "discord",
+    "discord-widget",
+    "profile-widget",
+    "anilist",
+    "anime",
+    "waifu",
+    "github-actions"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MeYashverma/Discord-waifu-widget.git"
+  },
   "dependencies": {
     "axios": "^1.11.0"
   }

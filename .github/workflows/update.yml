@@ -1,12 +1,10 @@
 name: Update Discord Waifu Widget
 
 on:
-  # automatic updates every 6 hours
-  schedule:
-    - cron: "0 */6 * * *"
-
-  # manual reroll button
   workflow_dispatch:
+  schedule:
+    # Rotate automatically every 6 hours.
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
@@ -18,72 +16,47 @@ concurrency:
 jobs:
   update-widget:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      # =====================
-      # CHECKOUT
-      # =====================
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # IMPORTANT for pull/rebase
+          fetch-depth: 0
 
-      # =====================
-      # NODE SETUP
-      # =====================
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: "22"
+          cache: npm
 
-      # =====================
-      # CACHE
-      # =====================
-      - name: Cache npm
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      # =====================
-      # INSTALL DEPENDENCIES
-      # =====================
       - name: Install dependencies
-        run: npm install axios
+        run: npm ci
 
-      # =====================
-      # RUN SCRIPT
-      # =====================
-      - name: Run update.js
+      - name: Validate script syntax
+        run: npm run check
+
+      - name: Update Discord widget
         env:
           DISCORD_APP_ID: ${{ secrets.DISCORD_APP_ID }}
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          WIDGET_USERNAME: ${{ vars.WIDGET_USERNAME || 'waifu-widget' }}
+          CHARACTER_SOURCE: ${{ vars.CHARACTER_SOURCE || 'auto' }}
+          MIN_SOURCE_PAGE: ${{ vars.MIN_SOURCE_PAGE || '1' }}
+          MAX_SOURCE_PAGE: ${{ vars.MAX_SOURCE_PAGE || '40' }}
+          MAX_PICK_ATTEMPTS: ${{ vars.MAX_PICK_ATTEMPTS || '8' }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-        run: node update.js
+        run: npm start
 
-      # =====================
-      # SAVE MEMORY FILE
-      # =====================
-      - name: Commit last_character.json
+      - name: Commit character memory
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add last_character.json
+          git diff --staged --quiet && echo "No memory changes to commit." && exit 0
 
-          # only commit if changed
-          git diff --staged --quiet || git commit -m "Update character memory"
-
-          # sync with remote before push
-          git pull --rebase origin main || true
-
-          git push origin main || true
-
-      # =====================
-      # SUCCESS
-      # =====================
-      - name: Done
-        run: echo "Discord widget updated successfully"
+          git commit -m "Update character memory"
+          git pull --rebase origin main
+          git push origin main
