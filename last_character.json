@@ -1,37 +1,38 @@
 {
-  "lastId": "db:Bambietta Basterbine:Bleach",
-  "lastName": "Bambietta Basterbine",
-  "index": 186,
+  "lastId": "db:Rebecca Chambers:Resident Evil",
+  "lastName": "Rebecca Chambers",
+  "index": 232,
   "recent": [
+    "db:Rebecca Chambers:Resident Evil",
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T21:48:02.915Z",
+  "updatedAt": "2026-07-05T22:05:57.722Z",
   "cached": {
     "character": {
-      "name": "Bambietta Basterbine",
-      "source": "Bleach",
-      "universe": "ANIME",
+      "name": "Rebecca Chambers",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bambietta Basterbine:Bleach",
-      "nextIndex": 186
+      "globalId": "db:Rebecca Chambers:Resident Evil",
+      "nextIndex": 232
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 453494,
-      "vibe": "WHOLESOME",
-      "rating": "ELITE",
+      "source": "Resident Evil",
+      "fanbase": 260725,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Bambietta Basterbine is a Quincy and a member of the Vandenreich's Stern Ritter…",
-      "image": "https://media.kitsu.app/character/41266/image/b4e486ed313e5c21da36596d89433dc0.jpg"
+      "bio": "Character",
+      "description": "Ex-S",
+      "image": "https://media.kitsu.app/characters/images/76060/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523445378928742490/waifu-cf3509b81ca9714a7496cf1a.png?ex=6a4c2292&is=6a4ad112&hm=b291ba27c9e3b52936f3cf997d213528f0354c364af21fb5c8335fb27cee6777&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523449887197233252/waifu-2258df6093b7b336d9bd721b.png?ex=6a4c26c5&is=6a4ad545&hm=3222e455ab5c107aa8137b99bdefbde6c9bfb1ffa87682982e57efccf4eea3c2&"
   }
 }
