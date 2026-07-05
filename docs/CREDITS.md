@@ -23,7 +23,7 @@
 
 ---
 
-## Related projects by Me
+## Related projects by MeYashverma
 
 | Project | Link |
 | --- | --- |
