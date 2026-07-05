@@ -1,15 +1,15 @@
 {
-  "lastId": "db:Eula:Genshin Impact",
-  "lastName": "Eula",
-  "index": 4,
+  "lastId": "db:Lisa:Genshin Impact",
+  "lastName": "Lisa",
+  "index": 17,
   "recent": [
-    "db:Eula:Genshin Impact"
+    "db:Lisa:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T21:00:26.995Z",
+  "updatedAt": "2026-07-05T21:03:00.572Z",
   "cached": {
     "character": {
-      "name": "Eula",
+      "name": "Lisa",
       "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
@@ -18,20 +18,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Eula:Genshin Impact",
-      "nextIndex": 4
+      "globalId": "db:Lisa:Genshin Impact",
+      "nextIndex": 17
     },
     "meta": {
       "source": "Genshin Impact",
-      "fanbase": 543254,
-      "vibe": "ELEGANT",
+      "fanbase": 518740,
+      "vibe": "WHOLESOME",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Spindrift Knight",
-      "image": "https://media.kitsu.app/characters/images/47670/original.jpg"
+      "bio": "Character",
+      "description": "The grandmother of Anita",
+      "image": "https://media.kitsu.app/characters/images/75431/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523433399199731883/waifu-72919e622e7be07f16002a0c.png?ex=6a4c176a&is=6a4ac5ea&hm=0372ae6335b1115a400ad663a3db6db5ecd67e39dd16d94a25934fa30b154c25&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523434044807839764/waifu-fb557e3a858830f0edbb4754.png?ex=6a4c1804&is=6a4ac684&hm=9d514435eedf74acee522537a128cda7a03c59d8d07dab0d252e919879f9f4be&"
   }
 }
