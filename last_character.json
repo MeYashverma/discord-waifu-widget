@@ -1,39 +1,39 @@
 {
-  "lastId": "db:Samus Aran:Metroid",
-  "lastName": "Samus Aran",
-  "index": 264,
+  "lastId": "db:Carlotta:Wuthering Waves",
+  "lastName": "Carlotta",
+  "index": 48,
   "recent": [
-    "db:Samus Aran:Metroid",
+    "db:Carlotta:Wuthering Waves",
     "db:Quanxi:Chainsaw Man",
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T22:09:25.296Z",
+  "updatedAt": "2026-07-05T22:10:59.698Z",
   "cached": {
     "character": {
-      "name": "Samus Aran",
-      "source": "Metroid",
-      "universe": "GAME",
+      "name": "Carlotta",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Samus Aran:Metroid",
-      "nextIndex": 264
+      "globalId": "db:Carlotta:Wuthering Waves",
+      "nextIndex": 48
     },
     "meta": {
-      "source": "Metroid",
-      "fanbase": 212966,
-      "vibe": "INTENSE",
+      "source": "Wuthering Waves",
+      "fanbase": 205594,
+      "vibe": "DOMINANT",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Samus is a bounty hunter",
-      "image": "https://media.kitsu.app/characters/images/45633/original.jpg"
+      "bio": "Character",
+      "description": "An Auxiliary that aids Peavey in her mission",
+      "image": "https://media.kitsu.app/characters/images/34759/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523450757767237754/waifu-f38ea3d36404582e2cebda29.png?ex=6a4c2794&is=6a4ad614&hm=31e570f566b5c07544355850d54f41469da0f99647a38dd7395662953c209a1f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523451148860784711/waifu-51655a819f27bd37004d5474.png?ex=6a4c27f2&is=6a4ad672&hm=8842f4511c74dc06bb02ded8c34be60517f7092ec1ffc85e723f7bdcac655bc8&"
   }
 }
