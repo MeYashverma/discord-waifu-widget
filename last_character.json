@@ -1,16 +1,16 @@
 {
-  "lastId": "db:Roccia:Wuthering Waves",
-  "lastName": "Roccia",
-  "index": 49,
+  "lastId": "db:Eula:Genshin Impact",
+  "lastName": "Eula",
+  "index": 4,
   "recent": [
-    "db:Roccia:Wuthering Waves"
+    "db:Eula:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T20:59:16.544Z",
+  "updatedAt": "2026-07-05T21:00:26.995Z",
   "cached": {
     "character": {
-      "name": "Roccia",
-      "source": "Wuthering Waves",
+      "name": "Eula",
+      "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -18,20 +18,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Roccia:Wuthering Waves",
-      "nextIndex": 49
+      "globalId": "db:Eula:Genshin Impact",
+      "nextIndex": 4
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 182103,
-      "vibe": "DEADLY",
-      "rating": "POPULAR",
+      "source": "Genshin Impact",
+      "fanbase": 543254,
+      "vibe": "ELEGANT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Marco Rocca is Jet's buddy in orphanage and a close friend of Robert",
-      "image": "https://media.kitsu.app/characters/images/20717/original.jpg"
+      "bio": "Knight",
+      "description": "Spindrift Knight",
+      "image": "https://media.kitsu.app/characters/images/47670/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523433103278735480/waifu-271b89153863371d7278ac30.png?ex=6a4c1723&is=6a4ac5a3&hm=36a1c87d454f7234f9bc59a448e7312fbc9298fd6e7414f976f0cdcf04af0c0d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523433399199731883/waifu-72919e622e7be07f16002a0c.png?ex=6a4c176a&is=6a4ac5ea&hm=0372ae6335b1115a400ad663a3db6db5ecd67e39dd16d94a25934fa30b154c25&"
   }
 }
