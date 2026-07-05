@@ -41,12 +41,15 @@ jobs:
           DISCORD_APP_ID: ${{ secrets.DISCORD_APP_ID }}
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_IMAGE_WEBHOOK_URL: ${{ secrets.DISCORD_IMAGE_WEBHOOK_URL }}
+          DISCORD_TARGET_CHANNEL_ID: ${{ secrets.DISCORD_TARGET_CHANNEL_ID }}
           WIDGET_USERNAME: ${{ vars.WIDGET_USERNAME || 'waifu-widget' }}
           CHARACTER_SOURCE: ${{ vars.CHARACTER_SOURCE || 'auto' }}
           MIN_SOURCE_PAGE: ${{ vars.MIN_SOURCE_PAGE || '1' }}
           MAX_SOURCE_PAGE: ${{ vars.MAX_SOURCE_PAGE || '5' }}
           MAX_PICK_ATTEMPTS: ${{ vars.MAX_PICK_ATTEMPTS || '8' }}
           DISABLE_IMAGE_FALLBACK: ${{ vars.DISABLE_IMAGE_FALLBACK || 'false' }}
+          DISABLE_IMAGE_FIX: ${{ vars.DISABLE_IMAGE_FIX || 'false' }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: npm start
 
@@ -55,9 +58,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          cp last_character.json /tmp/last_character.json
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/last_character.json last_character.json
+
           git add last_character.json
           git diff --staged --quiet && echo "No memory changes to commit." && exit 0
 
           git commit -m "Update character memory"
-          git pull --rebase origin main
-          git push origin main
+          git push origin HEAD:main
