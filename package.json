@@ -26,6 +26,8 @@
     "url": "https://github.com/MeYashverma/Discord-waifu-widget.git"
   },
   "dependencies": {
-    "axios": "^1.11.0"
+    "axios": "^1.11.0",
+    "form-data": "^4.0.3",
+    "sharp": "^0.33.5"
   }
 }
