@@ -1,8 +1,37 @@
 {
-  "lastId": null,
-  "lastName": null,
-  "recent": [],
-  "provider": null,
-  "updatedAt": null,
-  "cached": null
+  "lastId": "db:Kotori Itsuka:Date A Live",
+  "lastName": "Kotori Itsuka",
+  "index": 100,
+  "recent": [
+    "db:Kotori Itsuka:Date A Live"
+  ],
+  "provider": "database",
+  "updatedAt": "2026-07-05T21:39:57.530Z",
+  "cached": {
+    "character": {
+      "name": "Kotori Itsuka",
+      "source": "Date A Live",
+      "universe": "ANIME",
+      "image": "",
+      "bio": "",
+      "description": "",
+      "age": "",
+      "blood": "",
+      "provider": "database",
+      "globalId": "db:Kotori Itsuka:Date A Live",
+      "nextIndex": 100
+    },
+    "meta": {
+      "source": "Date A Live",
+      "fanbase": 211653,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Mage",
+      "description": "August 3 Zodiac: Leo cm AB BWH: 72-53-74 Favorite candy: Lollipop Likes: Bath b…",
+      "image": "https://media.kitsu.app/characters/images/38192/original.jpg"
+    },
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523443340815761508/waifu-a6a88ac2b8712bd1cc574166.png?ex=6a4c20ac&is=6a4acf2c&hm=c731e668e252692498870e8e907740f32029dc3adb07298616b8dfce0d17ba32&"
+  }
 }
