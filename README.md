@@ -22,10 +22,10 @@ This repo updates a Discord profile widget with a rotating **Waifu of the Day**.
 
 Each run:
 
-1. Reads `last_character.json` to avoid recent repeats.
-2. Pulls live characters from AniList top-character pages.
-3. Filters AniList results to female characters.
-4. Falls back to Jikan/MyAnimeList top-anime cast pages if AniList is unavailable.
+1. Picks a real character from the upgraded `waifus_final.json` database.
+2. Uses AniList, Jikan/MyAnimeList, and Kitsu to enrich details and find accurate artwork.
+3. Falls back to verified local details when public APIs are unavailable.
+4. Optionally removes image backgrounds with remove.bg, then uploads a transparent PNG to Discord CDN.
 5. Generates widget stats like fanbase, vibe, rating, age, blood type, bio, and universe.
 6. Sends one full Discord Dynamic Identity payload.
 7. Saves the new memory file only after a successful Discord update.
@@ -34,12 +34,14 @@ Each run:
 
 ## Features
 
-- 🌐 Live character discovery from AniList, no stale local character database
-- 🚺 Female-character filtering when AniList is available
+- 🧾 Upgraded real-character waifu database for stable names/sources
+- 🌐 AniList, Jikan, and Kitsu enrichment for images and metadata
 - 🎲 Manual reroll through GitHub Actions `workflow_dispatch`
 - 🧠 AniList metadata enrichment
 - 🛟 Jikan/MyAnimeList fallback when AniList is down/rate-limited
-- 🖼 Nekos.best SFW artwork fallback so the workflow still updates during API outages
+- 🧾 Verified seed fallback for real character fields during full API outages
+- 🖼 Nekos.best SFW artwork fallback only if no character art is found
+- ✂️ Optional remove.bg background removal for transparent widget images
 - 🖼 Character artwork field
 - 🧩 Discord-CDN image upload/fix for reliable widget rendering
 - 🧾 Full Discord payload with `username` binding
@@ -109,9 +111,10 @@ Optional:
 
 ```text
 WIDGET_USERNAME=waifu-widget
-CHARACTER_SOURCE=auto   # auto, anilist, or jikan
-MIN_SOURCE_PAGE=1
-MAX_SOURCE_PAGE=5
+REMOVE_BG_API_KEY=      # optional, best transparent cutouts
+DISABLE_IMAGE_FALLBACK=false
+DISABLE_IMAGE_FIX=false
+DISABLE_REMOVE_BG=false
 DRY_RUN=false
 ```
 
@@ -139,12 +142,15 @@ Scheduled runs happen every 6 hours.
 ```mermaid
 flowchart TD
     GHA[GitHub Actions trigger] --> APP[update.js]
+    APP --> DB[waifus_final.json]
     APP --> MEM[last_character.json]
-    MEM --> PICK[Pick fresh character]
-    PICK --> ANI[AniList top characters]
-    ANI -->|success| META[Metadata builder]
-    ANI -->|failure| JIKAN[Jikan fallback]
+    DB --> PICK[Pick real character]
+    PICK --> ANI[AniList lookup]
+    PICK --> JIKAN[Jikan lookup]
+    PICK --> KITSU[Kitsu lookup]
+    ANI --> META[Metadata builder]
     JIKAN --> META
+    KITSU --> META
     META --> PAYLOAD[Discord payload]
     PAYLOAD --> DISCORD[PATCH Discord widget]
     DISCORD --> SAVE[Save memory]
@@ -181,7 +187,7 @@ flowchart TD
 ## Notes
 
 - This is a personal/fan automation project.
-- Character data is pulled live from AniList/Jikan instead of a local static character database.
+- Character names/sources come from `waifus_final.json` so fields stay real. Public APIs enrich the selected character with better images and metadata.
 - AniList may sometimes disable or rate-limit its API; Jikan fallback keeps the widget useful.
 - Discord Dynamic Profile Widgets are experimental and may change.
 
