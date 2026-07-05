@@ -1,38 +1,39 @@
 {
-  "lastId": "db:Quanxi:Chainsaw Man",
-  "lastName": "Quanxi",
-  "index": 77,
+  "lastId": "db:Samus Aran:Metroid",
+  "lastName": "Samus Aran",
+  "index": 264,
   "recent": [
+    "db:Samus Aran:Metroid",
     "db:Quanxi:Chainsaw Man",
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T22:08:21.357Z",
+  "updatedAt": "2026-07-05T22:09:25.296Z",
   "cached": {
     "character": {
-      "name": "Quanxi",
-      "source": "Chainsaw Man",
-      "universe": "ANIME",
+      "name": "Samus Aran",
+      "source": "Metroid",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Quanxi:Chainsaw Man",
-      "nextIndex": 77
+      "globalId": "db:Samus Aran:Metroid",
+      "nextIndex": 264
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 436969,
-      "vibe": "LOYAL",
-      "rating": "ELITE",
+      "source": "Metroid",
+      "fanbase": 212966,
+      "vibe": "INTENSE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Quanxi from Chainsaw Man",
-      "image": "https://media.kitsu.app/characters/images/36949/original.jpg"
+      "bio": "Hunter",
+      "description": "Samus is a bounty hunter",
+      "image": "https://media.kitsu.app/characters/images/45633/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523450489285378110/waifu-3f9301fc228a8c0f92a5ddb8.png?ex=6a4c2754&is=6a4ad5d4&hm=1bffc4c4eecef404149d980813d9e2b4431e328106205a4d78bd1cb5e7b8a622&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523450757767237754/waifu-f38ea3d36404582e2cebda29.png?ex=6a4c2794&is=6a4ad614&hm=31e570f566b5c07544355850d54f41469da0f99647a38dd7395662953c209a1f&"
   }
 }
