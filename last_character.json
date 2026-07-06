@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Mitsuri Kanroji:Demon Slayer",
-  "lastName": "Mitsuri Kanroji",
-  "index": 116,
+  "lastId": "db:Modernia:Nikke",
+  "lastName": "Modernia",
+  "index": 56,
   "recent": [
-    "db:Mitsuri Kanroji:Demon Slayer",
+    "db:Modernia:Nikke",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
@@ -11,32 +11,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T18:00:30.822Z",
+  "updatedAt": "2026-07-06T18:02:21.330Z",
   "cached": {
     "character": {
-      "name": "Mitsuri Kanroji",
-      "source": "Demon Slayer",
-      "universe": "ANIME",
+      "name": "Modernia",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mitsuri Kanroji:Demon Slayer",
-      "nextIndex": 116
+      "globalId": "db:Modernia:Nikke",
+      "nextIndex": 56
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 561193,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "19",
+      "source": "Nikke",
+      "fanbase": 258196,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hashira",
-      "description": "Love Hashira",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
+      "bio": "Captain",
+      "description": "Once known as the Nikke Marian of Elysion, she was corrupted by the Raptures, a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398725-pdDOe3ZUlTIf.jpg"
     },
-    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523750969538646056/waifu-4978ba23e4c015ff4909c7e4.png?ex=6a4d3f2d&is=6a4bedad&hm=c0cc5d24b79df9cad6bb0c2f0ab866001bfc1b2ef1ff1d881b4b91ab8c2defd6&"
   }
 }
