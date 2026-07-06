@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
-  "lastName": "Mari Illustrious Makinami",
-  "index": 151,
+  "lastId": "db:Bronya:Honkai Star Rail",
+  "lastName": "Bronya",
+  "index": 28,
   "recent": [
+    "db:Bronya:Honkai Star Rail",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
@@ -10,32 +11,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T09:57:40.803Z",
+  "updatedAt": "2026-07-06T15:12:56.649Z",
   "cached": {
     "character": {
-      "name": "Mari Illustrious Makinami",
-      "source": "Neon Genesis Evangelion",
-      "universe": "ANIME",
+      "name": "Bronya",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
-      "nextIndex": 151
+      "globalId": "db:Bronya:Honkai Star Rail",
+      "nextIndex": 28
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 265674,
+      "source": "Honkai Star Rail",
+      "fanbase": 423520,
       "vibe": "ELEGANT",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "rating": "ELITE",
+      "age": "14-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Mari Makinami Illustrious is an Evangelion pilot introduced into the franchise …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21512-IuVgN5P0zg5P.jpg"
+      "bio": "Student",
+      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523628996783243384/waifu-51de1d45f6f064c7d26bcd45.png?ex=6a4ccd94&is=6a4b7c14&hm=09c30b422ba444f09951776535f66697e689911be1b843f1c55467171a784120&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523708335319290080/waifu-89e0b2cd16b563ce39a7818e.png?ex=6a4d1778&is=6a4bc5f8&hm=fa45efa9d96ad312283c642ea7d74e56671062675492e4ab4f16d90c67c20862&"
   }
 }
