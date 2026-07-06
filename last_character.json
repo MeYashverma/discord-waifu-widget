@@ -1,19 +1,20 @@
 {
-  "lastId": "db:C.C.:Code Geass",
-  "lastName": "C.C.",
-  "index": 187,
+  "lastId": "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
+  "lastName": "Mari Illustrious Makinami",
+  "index": 151,
   "recent": [
+    "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
     "db:Quanxi:Chainsaw Man",
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T02:14:17.392Z",
+  "updatedAt": "2026-07-06T09:57:40.803Z",
   "cached": {
     "character": {
-      "name": "C.C.",
-      "source": "Code Geass",
+      "name": "Mari Illustrious Makinami",
+      "source": "Neon Genesis Evangelion",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -21,20 +22,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:C.C.:Code Geass",
-      "nextIndex": 187
+      "globalId": "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
+      "nextIndex": 151
     },
     "meta": {
-      "source": "Code Geass",
-      "fanbase": 181809,
-      "vibe": "DEADLY",
-      "rating": "POPULAR",
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 265674,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "cm Allegiance: The Black Knights C",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
+      "bio": "Character",
+      "description": "Mari Makinami Illustrious is an Evangelion pilot introduced into the franchise …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21512-IuVgN5P0zg5P.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523512380762493018/waifu-a86b6ddfd52583dea7e7ffac.png?ex=6a4c60f9&is=6a4b0f79&hm=57c4f511ffbf86cc3366fb6c58cfb09ad980831811d908c6478141af2437d8ef&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523628996783243384/waifu-51de1d45f6f064c7d26bcd45.png?ex=6a4ccd94&is=6a4b7c14&hm=09c30b422ba444f09951776535f66697e689911be1b843f1c55467171a784120&"
   }
 }
