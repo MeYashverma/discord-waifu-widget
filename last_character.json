@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Ellen Joe:Zenless Zone Zero",
-  "lastName": "Ellen Joe",
-  "index": 35,
+  "lastId": "db:Mitsuri Kanroji:Demon Slayer",
+  "lastName": "Mitsuri Kanroji",
+  "index": 116,
   "recent": [
-    "db:Ellen Joe:Zenless Zone Zero",
+    "db:Mitsuri Kanroji:Demon Slayer",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
@@ -11,32 +11,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T17:59:42.022Z",
+  "updatedAt": "2026-07-06T18:00:30.822Z",
   "cached": {
     "character": {
-      "name": "Ellen Joe",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Mitsuri Kanroji",
+      "source": "Demon Slayer",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ellen Joe:Zenless Zone Zero",
-      "nextIndex": 35
+      "globalId": "db:Mitsuri Kanroji:Demon Slayer",
+      "nextIndex": 116
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 242831,
-      "vibe": "ROYAL",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Demon Slayer",
+      "fanbase": 561193,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Ellen is a character of the day who appeared in Mild 'n Wooly",
-      "image": "https://cdn.myanimelist.net/images/characters/7/553782.jpg"
+      "bio": "Hashira",
+      "description": "Love Hashira",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
     },
-    "imageUrl": "https://cdn.myanimelist.net/images/characters/7/553782.jpg"
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
   }
 }
