@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Bronya:Honkai Star Rail",
-  "lastName": "Bronya",
-  "index": 28,
+  "lastId": "db:Formidable:Azur Lane",
+  "lastName": "Formidable",
+  "index": 280,
   "recent": [
-    "db:Bronya:Honkai Star Rail",
+    "db:Formidable:Azur Lane",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
@@ -11,11 +11,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T15:12:56.649Z",
+  "updatedAt": "2026-07-06T17:55:33.510Z",
   "cached": {
     "character": {
-      "name": "Bronya",
-      "source": "Honkai Star Rail",
+      "name": "Formidable",
+      "source": "Azur Lane",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -23,20 +23,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bronya:Honkai Star Rail",
-      "nextIndex": 28
+      "globalId": "db:Formidable:Azur Lane",
+      "nextIndex": 280
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 423520,
-      "vibe": "ELEGANT",
-      "rating": "ELITE",
-      "age": "14-",
+      "source": "Azur Lane",
+      "fanbase": 236062,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
+      "bio": "Character",
+      "description": "HMS Formidable is an Illustrious-class aircraft carrier that was built around l…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206521-6yl8aZDd36wH.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523708335319290080/waifu-89e0b2cd16b563ce39a7818e.png?ex=6a4d1778&is=6a4bc5f8&hm=fa45efa9d96ad312283c642ea7d74e56671062675492e4ab4f16d90c67c20862&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523749258065612971/waifu-95cd4cf4bddfa74c302ae9b4.png?ex=6a4d3d95&is=6a4bec15&hm=aee32f435f69cdd8e2382a83315638e66e23dcdc4453af665b913ec801a180c8&"
   }
 }
