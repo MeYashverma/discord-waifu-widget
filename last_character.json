@@ -1,39 +1,40 @@
 {
-  "lastId": "db:Carlotta:Wuthering Waves",
-  "lastName": "Carlotta",
-  "index": 48,
+  "lastId": "db:C.C.:Code Geass",
+  "lastName": "C.C.",
+  "index": 187,
   "recent": [
+    "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
     "db:Quanxi:Chainsaw Man",
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-05T22:10:59.698Z",
+  "updatedAt": "2026-07-06T02:14:17.392Z",
   "cached": {
     "character": {
-      "name": "Carlotta",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "C.C.",
+      "source": "Code Geass",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Carlotta:Wuthering Waves",
-      "nextIndex": 48
+      "globalId": "db:C.C.:Code Geass",
+      "nextIndex": 187
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 205594,
-      "vibe": "DOMINANT",
+      "source": "Code Geass",
+      "fanbase": 181809,
+      "vibe": "DEADLY",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "An Auxiliary that aids Peavey in her mission",
-      "image": "https://media.kitsu.app/characters/images/34759/original.jpg"
+      "bio": "Knight",
+      "description": "cm Allegiance: The Black Knights C",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523451148860784711/waifu-51655a819f27bd37004d5474.png?ex=6a4c27f2&is=6a4ad672&hm=8842f4511c74dc06bb02ded8c34be60517f7092ec1ffc85e723f7bdcac655bc8&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523512380762493018/waifu-a86b6ddfd52583dea7e7ffac.png?ex=6a4c60f9&is=6a4b0f79&hm=57c4f511ffbf86cc3366fb6c58cfb09ad980831811d908c6478141af2437d8ef&"
   }
 }
