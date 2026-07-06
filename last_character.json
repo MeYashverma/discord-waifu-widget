@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Formidable:Azur Lane",
-  "lastName": "Formidable",
-  "index": 280,
+  "lastId": "db:Mirajane Strauss:Fairy Tail",
+  "lastName": "Mirajane Strauss",
+  "index": 108,
   "recent": [
-    "db:Formidable:Azur Lane",
+    "db:Mirajane Strauss:Fairy Tail",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
@@ -11,32 +11,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T17:55:33.510Z",
+  "updatedAt": "2026-07-06T17:58:30.558Z",
   "cached": {
     "character": {
-      "name": "Formidable",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Mirajane Strauss",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Formidable:Azur Lane",
-      "nextIndex": 280
+      "globalId": "db:Mirajane Strauss:Fairy Tail",
+      "nextIndex": 108
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 236062,
-      "vibe": "YANDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Fairy Tail",
+      "fanbase": 193388,
+      "vibe": "ELEGANT",
+      "rating": "POPULAR",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "HMS Formidable is an Illustrious-class aircraft carrier that was built around l…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206521-6yl8aZDd36wH.png"
+      "bio": "Mage",
+      "description": "Title: The Demon Occupation: Mage Known relatives: ;",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523749258065612971/waifu-95cd4cf4bddfa74c302ae9b4.png?ex=6a4d3d95&is=6a4bec15&hm=aee32f435f69cdd8e2382a83315638e66e23dcdc4453af665b913ec801a180c8&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523750001170321570/waifu-4a3ba33abf7a36ed98a3b75a.png?ex=6a4d3e46&is=6a4becc6&hm=750f9ab469b93ae16600773fd9d42e0856d1f9317a03bd6850255b574d07a88f&"
   }
 }
