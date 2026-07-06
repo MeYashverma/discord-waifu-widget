@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Mirajane Strauss:Fairy Tail",
-  "lastName": "Mirajane Strauss",
-  "index": 108,
+  "lastId": "db:Ellen Joe:Zenless Zone Zero",
+  "lastName": "Ellen Joe",
+  "index": 35,
   "recent": [
-    "db:Mirajane Strauss:Fairy Tail",
+    "db:Ellen Joe:Zenless Zone Zero",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
@@ -11,32 +11,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T17:58:30.558Z",
+  "updatedAt": "2026-07-06T17:59:42.022Z",
   "cached": {
     "character": {
-      "name": "Mirajane Strauss",
-      "source": "Fairy Tail",
-      "universe": "ANIME",
+      "name": "Ellen Joe",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mirajane Strauss:Fairy Tail",
-      "nextIndex": 108
+      "globalId": "db:Ellen Joe:Zenless Zone Zero",
+      "nextIndex": 35
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 193388,
-      "vibe": "ELEGANT",
-      "rating": "POPULAR",
-      "age": "19",
+      "source": "Zenless Zone Zero",
+      "fanbase": 242831,
+      "vibe": "ROYAL",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Title: The Demon Occupation: Mage Known relatives: ;",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png"
+      "bio": "Character",
+      "description": "Ellen is a character of the day who appeared in Mild 'n Wooly",
+      "image": "https://cdn.myanimelist.net/images/characters/7/553782.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523750001170321570/waifu-4a3ba33abf7a36ed98a3b75a.png?ex=6a4d3e46&is=6a4becc6&hm=750f9ab469b93ae16600773fd9d42e0856d1f9317a03bd6850255b574d07a88f&"
+    "imageUrl": "https://cdn.myanimelist.net/images/characters/7/553782.jpg"
   }
 }
