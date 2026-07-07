@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Neru:Blue Archive",
-  "lastName": "Neru",
-  "index": 72,
+  "lastId": "db:Rapi:Nikke",
+  "lastName": "Rapi",
+  "index": 51,
   "recent": [
+    "db:Rapi:Nikke",
     "db:Neru:Blue Archive",
     "db:Megumin:Konosuba",
     "db:Shalltear Bloodfallen:Overlord",
@@ -15,11 +16,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-07T14:09:00.107Z",
+  "updatedAt": "2026-07-07T19:43:09.482Z",
   "cached": {
     "character": {
-      "name": "Neru",
-      "source": "Blue Archive",
+      "name": "Rapi",
+      "source": "Nikke",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -27,20 +28,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Neru:Blue Archive",
-      "nextIndex": 72
+      "globalId": "db:Rapi:Nikke",
+      "nextIndex": 51
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 186743,
-      "vibe": "ROYAL",
+      "source": "Nikke",
+      "fanbase": 215267,
+      "vibe": "SEDUCTIVE",
       "rating": "POPULAR",
-      "age": "16-",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "Relatives: , Affiliation: Arakawa School Occupation: Rakugoka cm She is the pro…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264023-7IqKZv0bL8o8.png"
+      "age": "17-",
+      "blood": "AB",
+      "bio": "Hunter",
+      "description": "cm Kurapika is a member of the Kurta tribe who were massacred by the Phantom Tr…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524054631481872475/waifu-623f2cc9d55926549fe45a82.png?ex=6a4e59fb&is=6a4d087b&hm=0b9214eda8382e155133e95d59d2f2ca7132f436feb4569f52d273e7b3cc1ffc&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524138724579999784/waifu-1cf86f4b421cc4332400e155.png?ex=6a4ea84d&is=6a4d56cd&hm=12102c2d24f2f89ecbef3cedd598469bf46c8322951203fb5708dbe3c6d562e0&"
   }
 }
