@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Megumin:Konosuba",
-  "lastName": "Megumin",
-  "index": 193,
+  "lastId": "db:Neru:Blue Archive",
+  "lastName": "Neru",
+  "index": 72,
   "recent": [
+    "db:Neru:Blue Archive",
     "db:Megumin:Konosuba",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Konan:Naruto",
@@ -14,32 +15,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-07T09:25:20.292Z",
+  "updatedAt": "2026-07-07T14:09:00.107Z",
   "cached": {
     "character": {
-      "name": "Megumin",
-      "source": "Konosuba",
-      "universe": "ANIME",
+      "name": "Neru",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Megumin:Konosuba",
-      "nextIndex": 193
+      "globalId": "db:Neru:Blue Archive",
+      "nextIndex": 72
     },
     "meta": {
-      "source": "Konosuba",
-      "fanbase": 259337,
-      "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
-      "age": "13-17",
+      "source": "Blue Archive",
+      "fanbase": 186743,
+      "vibe": "ROYAL",
+      "rating": "POPULAR",
+      "age": "16-",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+      "bio": "Character",
+      "description": "Relatives: , Affiliation: Arakawa School Occupation: Rakugoka cm She is the pro…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264023-7IqKZv0bL8o8.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523983245576769546/waifu-a1b90ae95ac74778d110e519.png?ex=6a4e177f&is=6a4cc5ff&hm=13d4fb7555c76e7f2c5c7b71b1eb9a350854ef97468e2274f634edb1d5aff980&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524054631481872475/waifu-623f2cc9d55926549fe45a82.png?ex=6a4e59fb&is=6a4d087b&hm=0b9214eda8382e155133e95d59d2f2ca7132f436feb4569f52d273e7b3cc1ffc&"
   }
 }
