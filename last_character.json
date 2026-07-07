@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shalltear Bloodfallen:Overlord",
-  "lastName": "Shalltear Bloodfallen",
-  "index": 198,
+  "lastId": "db:Megumin:Konosuba",
+  "lastName": "Megumin",
+  "index": 193,
   "recent": [
+    "db:Megumin:Konosuba",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Konan:Naruto",
     "db:Modernia:Nikke",
@@ -13,11 +14,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-07T02:09:51.720Z",
+  "updatedAt": "2026-07-07T09:25:20.292Z",
   "cached": {
     "character": {
-      "name": "Shalltear Bloodfallen",
-      "source": "Overlord",
+      "name": "Megumin",
+      "source": "Konosuba",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -25,20 +26,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shalltear Bloodfallen:Overlord",
-      "nextIndex": 198
+      "globalId": "db:Megumin:Konosuba",
+      "nextIndex": 193
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 218838,
-      "vibe": "CONFIDENT",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Konosuba",
+      "fanbase": 259337,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
+      "age": "13-17",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+      "bio": "Mage",
+      "description": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523873654423683122/waifu-0016b31d14801cbd5d24151b.png?ex=6a4db16f&is=6a4c5fef&hm=f500e8f78789738b34874268a49b17cff63ad223dc3efdeab1c71692b7e0fb25&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523983245576769546/waifu-a1b90ae95ac74778d110e519.png?ex=6a4e177f&is=6a4cc5ff&hm=13d4fb7555c76e7f2c5c7b71b1eb9a350854ef97468e2274f634edb1d5aff980&"
   }
 }
