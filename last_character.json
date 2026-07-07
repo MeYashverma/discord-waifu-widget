@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Konan:Naruto",
-  "lastName": "Konan",
-  "index": 177,
+  "lastId": "db:Shalltear Bloodfallen:Overlord",
+  "lastName": "Shalltear Bloodfallen",
+  "index": 198,
   "recent": [
+    "db:Shalltear Bloodfallen:Overlord",
     "db:Konan:Naruto",
     "db:Modernia:Nikke",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
@@ -12,11 +13,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-06T19:43:37.695Z",
+  "updatedAt": "2026-07-07T02:09:51.720Z",
   "cached": {
     "character": {
-      "name": "Konan",
-      "source": "Naruto",
+      "name": "Shalltear Bloodfallen",
+      "source": "Overlord",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -24,20 +25,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Konan:Naruto",
-      "nextIndex": 177
+      "globalId": "db:Shalltear Bloodfallen:Overlord",
+      "nextIndex": 198
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 531167,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "35",
-      "blood": "O",
+      "source": "Overlord",
+      "fanbase": 218838,
+      "vibe": "CONFIDENT",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "Konan is the partner of the Akatsuki leader, , and the only female ninja in Aka…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/3179-YVD5zJSYrnPg.jpg"
+      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523776454532530306/waifu-738df9083fa04a36b986fbee.png?ex=6a4d56e9&is=6a4c0569&hm=59e5ed898a7ebd1c88ff7f2d92087408f99f828a844b135c4c8c161ccbae6c2b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1523873654423683122/waifu-0016b31d14801cbd5d24151b.png?ex=6a4db16f&is=6a4c5fef&hm=f500e8f78789738b34874268a49b17cff63ad223dc3efdeab1c71692b7e0fb25&"
   }
 }
