@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Camellya:Wuthering Waves",
-  "lastName": "Camellya",
-  "index": 36,
+  "lastId": "db:Rem:Re:Zero",
+  "lastName": "Rem",
+  "index": 81,
   "recent": [
+    "db:Rem:Re:Zero",
     "db:Camellya:Wuthering Waves",
     "db:Priscilla Barielle:Re:Zero",
     "db:Rapi:Nikke",
@@ -18,32 +19,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-08T08:09:33.780Z",
+  "updatedAt": "2026-07-08T13:47:39.912Z",
   "cached": {
     "character": {
-      "name": "Camellya",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Rem",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Camellya:Wuthering Waves",
-      "nextIndex": 36
+      "globalId": "db:Rem:Re:Zero",
+      "nextIndex": 81
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 266092,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
+      "source": "Re:Zero",
+      "fanbase": 217150,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A mysterious girl who attacked Masaki in her apartment",
-      "image": "https://media.kitsu.app/characters/images/47683/original.jpg"
+      "bio": "Maid",
+      "description": "Oni maid of Roswaal mansion",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524326563976577064/waifu-73091d76af9c122a6aedc941.png?ex=6a4f573d&is=6a4e05bd&hm=81f6b104cda2e012eeab7ec40f9324ef468f391852f092f4ead68d2044f2eb73&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524411649409421392/waifu-664eea4d2cdf971601100088.png?ex=6a4fa67b&is=6a4e54fb&hm=d8ec7f3148e269805115de5f43d60058c088a6ec8503be6254c27c1608724588&"
   }
 }
