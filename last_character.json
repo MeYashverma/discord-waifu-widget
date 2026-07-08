@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Priscilla Barielle:Re:Zero",
-  "lastName": "Priscilla Barielle",
-  "index": 86,
+  "lastId": "db:Camellya:Wuthering Waves",
+  "lastName": "Camellya",
+  "index": 36,
   "recent": [
+    "db:Camellya:Wuthering Waves",
     "db:Priscilla Barielle:Re:Zero",
     "db:Rapi:Nikke",
     "db:Neru:Blue Archive",
@@ -17,32 +18,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-08T01:50:27.511Z",
+  "updatedAt": "2026-07-08T08:09:33.780Z",
   "cached": {
     "character": {
-      "name": "Priscilla Barielle",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Camellya",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Priscilla Barielle:Re:Zero",
-      "nextIndex": 86
+      "globalId": "db:Camellya:Wuthering Waves",
+      "nextIndex": 36
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 238817,
-      "vibe": "LOYAL",
+      "source": "Wuthering Waves",
+      "fanbase": 266092,
+      "vibe": "CONFIDENT",
       "rating": "ICONIC",
-      "age": "19-20",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "The matriarch of House Barielle and a candidate to become the 42nd King of Lugu…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png"
+      "bio": "Character",
+      "description": "A mysterious girl who attacked Masaki in her apartment",
+      "image": "https://media.kitsu.app/characters/images/47683/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524231159230238830/waifu-e49fbb9c19a24bbed74b54e0.png?ex=6a4efe63&is=6a4dace3&hm=ca9bdb9b5b278b96ba2982267619d4438978daae79b645deadc5de965a6c97f6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524326563976577064/waifu-73091d76af9c122a6aedc941.png?ex=6a4f573d&is=6a4e05bd&hm=81f6b104cda2e012eeab7ec40f9324ef468f391852f092f4ead68d2044f2eb73&"
   }
 }
