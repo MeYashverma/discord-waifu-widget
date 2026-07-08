@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rapi:Nikke",
-  "lastName": "Rapi",
-  "index": 51,
+  "lastId": "db:Priscilla Barielle:Re:Zero",
+  "lastName": "Priscilla Barielle",
+  "index": 86,
   "recent": [
+    "db:Priscilla Barielle:Re:Zero",
     "db:Rapi:Nikke",
     "db:Neru:Blue Archive",
     "db:Megumin:Konosuba",
@@ -16,32 +17,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-07T19:43:09.482Z",
+  "updatedAt": "2026-07-08T01:50:27.511Z",
   "cached": {
     "character": {
-      "name": "Rapi",
-      "source": "Nikke",
-      "universe": "GACHA",
+      "name": "Priscilla Barielle",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rapi:Nikke",
-      "nextIndex": 51
+      "globalId": "db:Priscilla Barielle:Re:Zero",
+      "nextIndex": 86
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 215267,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "17-",
-      "blood": "AB",
-      "bio": "Hunter",
-      "description": "cm Kurapika is a member of the Kurta tribe who were massacred by the Phantom Tr…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png"
+      "source": "Re:Zero",
+      "fanbase": 238817,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
+      "age": "19-20",
+      "blood": "Unknown",
+      "bio": "Knight",
+      "description": "The matriarch of House Barielle and a candidate to become the 42nd King of Lugu…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524138724579999784/waifu-1cf86f4b421cc4332400e155.png?ex=6a4ea84d&is=6a4d56cd&hm=12102c2d24f2f89ecbef3cedd598469bf46c8322951203fb5708dbe3c6d562e0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524231159230238830/waifu-e49fbb9c19a24bbed74b54e0.png?ex=6a4efe63&is=6a4dace3&hm=ca9bdb9b5b278b96ba2982267619d4438978daae79b645deadc5de965a6c97f6&"
   }
 }
