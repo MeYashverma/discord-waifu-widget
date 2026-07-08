@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rem:Re:Zero",
-  "lastName": "Rem",
-  "index": 81,
+  "lastId": "db:Kai'Sa:League of Legends",
+  "lastName": "Kai'Sa",
+  "index": 239,
   "recent": [
+    "db:Kai'Sa:League of Legends",
     "db:Rem:Re:Zero",
     "db:Camellya:Wuthering Waves",
     "db:Priscilla Barielle:Re:Zero",
@@ -19,32 +20,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-08T13:47:39.912Z",
+  "updatedAt": "2026-07-08T19:38:53.108Z",
   "cached": {
     "character": {
-      "name": "Rem",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Kai'Sa",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rem:Re:Zero",
-      "nextIndex": 81
+      "globalId": "db:Kai'Sa:League of Legends",
+      "nextIndex": 239
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 217150,
-      "vibe": "DOMINANT",
+      "source": "League of Legends",
+      "fanbase": 180399,
+      "vibe": "CHAOTIC",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "Oni maid of Roswaal mansion",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
+      "bio": "Student",
+      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
+      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524411649409421392/waifu-664eea4d2cdf971601100088.png?ex=6a4fa67b&is=6a4e54fb&hm=d8ec7f3148e269805115de5f43d60058c088a6ec8503be6254c27c1608724588&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524500037273387028/waifu-56af0a92d4b1922188a77f6f.png?ex=6a4ff8cc&is=6a4ea74c&hm=134e7cb01eda3d95d94e096b489221d830d767b22c2a7595b9c259f98e727fd4&"
   }
 }
