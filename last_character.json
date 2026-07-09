@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Brandish μ:Fairy Tail",
-  "lastName": "Brandish μ",
-  "index": 112,
+  "lastId": "db:Rosa:Bayonetta",
+  "lastName": "Rosa",
+  "index": 262,
   "recent": [
+    "db:Rosa:Bayonetta",
     "db:Brandish μ:Fairy Tail",
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Shionne Imeris:Tales of Arise",
@@ -23,32 +24,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-09T14:54:12.509Z",
+  "updatedAt": "2026-07-09T19:23:34.824Z",
   "cached": {
     "character": {
-      "name": "Brandish μ",
-      "source": "Fairy Tail",
-      "universe": "ANIME",
+      "name": "Rosa",
+      "source": "Bayonetta",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Brandish μ:Fairy Tail",
-      "nextIndex": 112
+      "globalId": "db:Rosa:Bayonetta",
+      "nextIndex": 262
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 234189,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
+      "source": "Bayonetta",
+      "fanbase": 204683,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "15-29",
+      "blood": "A",
+      "bio": "Mage",
+      "description": "Race: Human cm Zanpakutou: Relatives: , , and Ichigo Kurosaki is an orange hair…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524790783658426388/waifu-996720f0e1f19f63f4c07150.png?ex=6a510794&is=6a4fb614&hm=552f0b2095db1d049aed2bb1a3fb88fd4e1dd2b83d26cd0bb266b1a1116253d2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524858573765611560/waifu-2edf87f59661c10a16bc88cb.png?ex=6a5146b6&is=6a4ff536&hm=83b043c58bd4fb361d6217f297da4e09ba27a1465b9ac029cd65ddf7cd716423&"
   }
 }
