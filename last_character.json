@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mitsuri Kanroji:Demon Slayer",
-  "lastName": "Mitsuri Kanroji",
-  "index": 116,
+  "lastId": "db:Brandish μ:Fairy Tail",
+  "lastName": "Brandish μ",
+  "index": 112,
   "recent": [
+    "db:Brandish μ:Fairy Tail",
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Shionne Imeris:Tales of Arise",
     "db:Kai'Sa:League of Legends",
@@ -22,11 +23,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-09T10:38:14.792Z",
+  "updatedAt": "2026-07-09T14:54:12.509Z",
   "cached": {
     "character": {
-      "name": "Mitsuri Kanroji",
-      "source": "Demon Slayer",
+      "name": "Brandish μ",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -34,20 +35,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mitsuri Kanroji:Demon Slayer",
-      "nextIndex": 116
+      "globalId": "db:Brandish μ:Fairy Tail",
+      "nextIndex": 112
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 561193,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "19",
+      "source": "Fairy Tail",
+      "fanbase": 234189,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hashira",
-      "description": "Love Hashira",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
+      "bio": "Character",
+      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524726368791826543/waifu-c1ad98a9104b98a52ba12db1.png?ex=6a50cb96&is=6a4f7a16&hm=06562f34ee234be362fbda9c8a16803fff92febb337cc2adfe27d716a0c5423a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524790783658426388/waifu-996720f0e1f19f63f4c07150.png?ex=6a510794&is=6a4fb614&hm=552f0b2095db1d049aed2bb1a3fb88fd4e1dd2b83d26cd0bb266b1a1116253d2&"
   }
 }
