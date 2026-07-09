@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shionne Imeris:Tales of Arise",
-  "lastName": "Shionne Imeris",
-  "index": 270,
+  "lastId": "db:Mitsuri Kanroji:Demon Slayer",
+  "lastName": "Mitsuri Kanroji",
+  "index": 116,
   "recent": [
+    "db:Mitsuri Kanroji:Demon Slayer",
     "db:Shionne Imeris:Tales of Arise",
     "db:Kai'Sa:League of Legends",
     "db:Rem:Re:Zero",
@@ -21,32 +22,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-09T02:08:19.699Z",
+  "updatedAt": "2026-07-09T10:38:14.792Z",
   "cached": {
     "character": {
-      "name": "Shionne Imeris",
-      "source": "Tales of Arise",
-      "universe": "JRPG",
+      "name": "Mitsuri Kanroji",
+      "source": "Demon Slayer",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shionne Imeris:Tales of Arise",
-      "nextIndex": 270
+      "globalId": "db:Mitsuri Kanroji:Demon Slayer",
+      "nextIndex": 116
     },
     "meta": {
-      "source": "Tales of Arise",
-      "fanbase": 266296,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Demon Slayer",
+      "fanbase": 561193,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "One of the twin sister's, Inukami contracted to Kaoru",
-      "image": "https://media.kitsu.app/characters/images/11852/original.jpg"
+      "bio": "Hashira",
+      "description": "Love Hashira",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524598044161736876/waifu-6e28701f04a3b096d5e43159.png?ex=6a505413&is=6a4f0293&hm=b9e7297b6863431b8db8f3a92b04b5270ff779147be5f3c57dfa721625e6d2dd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524726368791826543/waifu-c1ad98a9104b98a52ba12db1.png?ex=6a50cb96&is=6a4f7a16&hm=06562f34ee234be362fbda9c8a16803fff92febb337cc2adfe27d716a0c5423a&"
   }
 }
