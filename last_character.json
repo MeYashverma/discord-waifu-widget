@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kai'Sa:League of Legends",
-  "lastName": "Kai'Sa",
-  "index": 239,
+  "lastId": "db:Shionne Imeris:Tales of Arise",
+  "lastName": "Shionne Imeris",
+  "index": 270,
   "recent": [
+    "db:Shionne Imeris:Tales of Arise",
     "db:Kai'Sa:League of Legends",
     "db:Rem:Re:Zero",
     "db:Camellya:Wuthering Waves",
@@ -20,32 +21,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-08T19:38:53.108Z",
+  "updatedAt": "2026-07-09T02:08:19.699Z",
   "cached": {
     "character": {
-      "name": "Kai'Sa",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Shionne Imeris",
+      "source": "Tales of Arise",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kai'Sa:League of Legends",
-      "nextIndex": 239
+      "globalId": "db:Shionne Imeris:Tales of Arise",
+      "nextIndex": 270
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 180399,
-      "vibe": "CHAOTIC",
-      "rating": "POPULAR",
+      "source": "Tales of Arise",
+      "fanbase": 266296,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
-      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
+      "bio": "Character",
+      "description": "One of the twin sister's, Inukami contracted to Kaoru",
+      "image": "https://media.kitsu.app/characters/images/11852/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524500037273387028/waifu-56af0a92d4b1922188a77f6f.png?ex=6a4ff8cc&is=6a4ea74c&hm=134e7cb01eda3d95d94e096b489221d830d767b22c2a7595b9c259f98e727fd4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524598044161736876/waifu-6e28701f04a3b096d5e43159.png?ex=6a505413&is=6a4f0293&hm=b9e7297b6863431b8db8f3a92b04b5270ff779147be5f3c57dfa721625e6d2dd&"
   }
 }
