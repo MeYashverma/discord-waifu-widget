@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Selena:Punishing Gray Raven",
-  "lastName": "Selena",
-  "index": 294,
+  "lastId": "db:Mei Terumi:Naruto",
+  "lastName": "Mei Terumi",
+  "index": 179,
   "recent": [
+    "db:Mei Terumi:Naruto",
     "db:Selena:Punishing Gray Raven",
     "db:Rosa:Bayonetta",
     "db:Brandish μ:Fairy Tail",
@@ -25,32 +26,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-10T02:01:44.331Z",
+  "updatedAt": "2026-07-10T09:19:55.807Z",
   "cached": {
     "character": {
-      "name": "Selena",
-      "source": "Punishing Gray Raven",
-      "universe": "GACHA",
+      "name": "Mei Terumi",
+      "source": "Naruto",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Selena:Punishing Gray Raven",
-      "nextIndex": 294
+      "globalId": "db:Mei Terumi:Naruto",
+      "nextIndex": 179
     },
     "meta": {
-      "source": "Punishing Gray Raven",
-      "fanbase": 194779,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Naruto",
+      "fanbase": 536177,
+      "vibe": "ROYAL",
+      "rating": "LEGENDARY",
+      "age": "31",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Sid's female partner for the tournament",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283226-fFREv59LNudw.png"
+      "description": "Mei Terumi is the Fifth Mizukage and the leader of Kirigakure",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23478-U7n8YUe2gFDW.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524958772903153766/waifu-ec504795944d48fbb724ebd3.png?ex=6a51a407&is=6a505287&hm=6a26a6baec1c947addfc4dcfba3cc9e4879c5184e1f71ba30085d6455ec09dea&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525069048302272665/waifu-42fcb086d1654719f072001e.png?ex=6a520abb&is=6a50b93b&hm=8770604959ec9bed1a3b0889433bf6591e26f57f8c3004943986b1ac3316863b&"
   }
 }
