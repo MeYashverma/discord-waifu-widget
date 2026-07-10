@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Esdeath:Akame ga Kill!",
-  "lastName": "Esdeath",
-  "index": 158,
+  "lastId": "db:Ymir:Attack on Titan",
+  "lastName": "Ymir",
+  "index": 136,
   "recent": [
+    "db:Ymir:Attack on Titan",
     "db:Esdeath:Akame ga Kill!",
     "db:Mei Terumi:Naruto",
     "db:Selena:Punishing Gray Raven",
@@ -27,11 +28,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-10T14:01:33.496Z",
+  "updatedAt": "2026-07-10T19:16:57.224Z",
   "cached": {
     "character": {
-      "name": "Esdeath",
-      "source": "Akame ga Kill!",
+      "name": "Ymir",
+      "source": "Attack on Titan",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -39,20 +40,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Esdeath:Akame ga Kill!",
-      "nextIndex": 158
+      "globalId": "db:Ymir:Attack on Titan",
+      "nextIndex": 136
     },
     "meta": {
-      "source": "Akame ga Kill!",
-      "fanbase": 196441,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "20",
+      "source": "Attack on Titan",
+      "fanbase": 685373,
+      "vibe": "ROYAL",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Esdeath is a high-ranking general of the Empire, and leader of the Jaegers",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+      "description": "cm Affiliations: 104th Trainees Squad, Scouting Legion Member of the Scouting L…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525139921495523469/waifu-3afa5fea60eb46854bbd3d8c.png?ex=6a524cbd&is=6a50fb3d&hm=910b3de27a8828390c807258b85b71ccc8da594c6f6347c44355d025414dcbf5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525219294194172074/waifu-b2c084d1100cccdbfb5b0064.png?ex=6a5296a8&is=6a514528&hm=3fe6ea39a129807991541d4b4331db939eee41c76512093b7d1abb332e9e14ca&"
   }
 }
