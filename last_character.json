@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rosa:Bayonetta",
-  "lastName": "Rosa",
-  "index": 262,
+  "lastId": "db:Selena:Punishing Gray Raven",
+  "lastName": "Selena",
+  "index": 294,
   "recent": [
+    "db:Selena:Punishing Gray Raven",
     "db:Rosa:Bayonetta",
     "db:Brandish μ:Fairy Tail",
     "db:Mitsuri Kanroji:Demon Slayer",
@@ -24,32 +25,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-09T19:23:34.824Z",
+  "updatedAt": "2026-07-10T02:01:44.331Z",
   "cached": {
     "character": {
-      "name": "Rosa",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Selena",
+      "source": "Punishing Gray Raven",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rosa:Bayonetta",
-      "nextIndex": 262
+      "globalId": "db:Selena:Punishing Gray Raven",
+      "nextIndex": 294
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 204683,
-      "vibe": "SEDUCTIVE",
+      "source": "Punishing Gray Raven",
+      "fanbase": 194779,
+      "vibe": "PLAYFUL",
       "rating": "POPULAR",
-      "age": "15-29",
-      "blood": "A",
-      "bio": "Mage",
-      "description": "Race: Human cm Zanpakutou: Relatives: , , and Ichigo Kurosaki is an orange hair…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Sid's female partner for the tournament",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283226-fFREv59LNudw.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524858573765611560/waifu-2edf87f59661c10a16bc88cb.png?ex=6a5146b6&is=6a4ff536&hm=83b043c58bd4fb361d6217f297da4e09ba27a1465b9ac029cd65ddf7cd716423&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1524958772903153766/waifu-ec504795944d48fbb724ebd3.png?ex=6a51a407&is=6a505287&hm=6a26a6baec1c947addfc4dcfba3cc9e4879c5184e1f71ba30085d6455ec09dea&"
   }
 }
