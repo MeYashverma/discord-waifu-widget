@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mei Terumi:Naruto",
-  "lastName": "Mei Terumi",
-  "index": 179,
+  "lastId": "db:Esdeath:Akame ga Kill!",
+  "lastName": "Esdeath",
+  "index": 158,
   "recent": [
+    "db:Esdeath:Akame ga Kill!",
     "db:Mei Terumi:Naruto",
     "db:Selena:Punishing Gray Raven",
     "db:Rosa:Bayonetta",
@@ -26,11 +27,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-10T09:19:55.807Z",
+  "updatedAt": "2026-07-10T14:01:33.496Z",
   "cached": {
     "character": {
-      "name": "Mei Terumi",
-      "source": "Naruto",
+      "name": "Esdeath",
+      "source": "Akame ga Kill!",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -38,20 +39,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mei Terumi:Naruto",
-      "nextIndex": 179
+      "globalId": "db:Esdeath:Akame ga Kill!",
+      "nextIndex": 158
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 536177,
-      "vibe": "ROYAL",
-      "rating": "LEGENDARY",
-      "age": "31",
+      "source": "Akame ga Kill!",
+      "fanbase": 196441,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
+      "age": "20",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Mei Terumi is the Fifth Mizukage and the leader of Kirigakure",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23478-U7n8YUe2gFDW.png"
+      "description": "cm Esdeath is a high-ranking general of the Empire, and leader of the Jaegers",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525069048302272665/waifu-42fcb086d1654719f072001e.png?ex=6a520abb&is=6a50b93b&hm=8770604959ec9bed1a3b0889433bf6591e26f57f8c3004943986b1ac3316863b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525139921495523469/waifu-3afa5fea60eb46854bbd3d8c.png?ex=6a524cbd&is=6a50fb3d&hm=910b3de27a8828390c807258b85b71ccc8da594c6f6347c44355d025414dcbf5&"
   }
 }
