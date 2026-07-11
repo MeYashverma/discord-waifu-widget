@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Albedo:Overlord",
-  "lastName": "Albedo",
-  "index": 197,
+  "lastId": "db:Formidable:Azur Lane",
+  "lastName": "Formidable",
+  "index": 280,
   "recent": [
-    "db:Albedo:Overlord",
+    "db:Formidable:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
@@ -35,32 +35,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T18:46:15.240Z",
+  "updatedAt": "2026-07-11T22:17:36.729Z",
   "cached": {
     "character": {
-      "name": "Albedo",
-      "source": "Overlord",
-      "universe": "ANIME",
+      "name": "Formidable",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Albedo:Overlord",
-      "nextIndex": 197
+      "globalId": "db:Formidable:Azur Lane",
+      "nextIndex": 280
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 195259,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "source": "Azur Lane",
+      "fanbase": 236062,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "The overseer of the Floor Guardians and one of the most powerful NPC in Nazarick",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
+      "description": "Formidable from Azur Lane",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206521-6yl8aZDd36wH.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525573956113797222/waifu-83a43a3c6dc1eeb70e3d5513.png?ex=6a53e0f6&is=6a528f76&hm=fae33d21dd4b0330463f7e24a295314e10ff6f10b8ff37ecf7be81d3704ef318&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525627146272244004/waifu-95cd4cf4bddfa74c302ae9b4.png?ex=6a541280&is=6a52c100&hm=7f5fd59f705716c54c2c65e3ea241a0552581dd34d0489f6fa00489d2fc939e4&"
   }
 }
