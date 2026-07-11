@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sakura Matou:Fate/stay night",
-  "lastName": "Sakura Matou",
-  "index": 204,
+  "lastId": "db:Jeanne:Bayonetta",
+  "lastName": "Jeanne",
+  "index": 260,
   "recent": [
+    "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Ymir:Attack on Titan",
@@ -30,32 +31,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T07:41:21.518Z",
+  "updatedAt": "2026-07-11T12:57:19.763Z",
   "cached": {
     "character": {
-      "name": "Sakura Matou",
-      "source": "Fate/stay night",
-      "universe": "ANIME",
+      "name": "Jeanne",
+      "source": "Bayonetta",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sakura Matou:Fate/stay night",
-      "nextIndex": 204
+      "globalId": "db:Jeanne:Bayonetta",
+      "nextIndex": 260
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 203476,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "16-18",
-      "blood": "O",
-      "bio": "Student",
-      "description": "cm , A student in her first year of high school, Sakura is the sister of",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png"
+      "source": "Bayonetta",
+      "fanbase": 231467,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525406629678284860/waifu-6867940b0cab73b3317337ae.png?ex=6a534521&is=6a51f3a1&hm=97f821b4bbcc70e3e56845833b1577624c0f992c09cdef4eac8d9cc9fee66abc&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525486146321387742/waifu-e6045378a725917caf1d2dab.png?ex=6a538f2f&is=6a523daf&hm=1f6473fbdf919288bdf107bb64408e1de4aad1a4da3ea01654a8f729c08be878&"
   }
 }
