@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ymir:Attack on Titan",
-  "lastName": "Ymir",
-  "index": 136,
+  "lastId": "db:Yuki Tsukumo:Jujutsu Kaisen",
+  "lastName": "Yuki Tsukumo",
+  "index": 125,
   "recent": [
+    "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Ymir:Attack on Titan",
     "db:Esdeath:Akame ga Kill!",
     "db:Mei Terumi:Naruto",
@@ -28,11 +29,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-10T19:16:57.224Z",
+  "updatedAt": "2026-07-11T01:49:19.364Z",
   "cached": {
     "character": {
-      "name": "Ymir",
-      "source": "Attack on Titan",
+      "name": "Yuki Tsukumo",
+      "source": "Jujutsu Kaisen",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -40,20 +41,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ymir:Attack on Titan",
-      "nextIndex": 136
+      "globalId": "db:Yuki Tsukumo:Jujutsu Kaisen",
+      "nextIndex": 125
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 685373,
-      "vibe": "ROYAL",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 568184,
+      "vibe": "DOMINANT",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Affiliations: 104th Trainees Squad, Scouting Legion Member of the Scouting L…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png"
+      "bio": "Mage",
+      "description": "One of the four Special Grade Sorcerers",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525219294194172074/waifu-b2c084d1100cccdbfb5b0064.png?ex=6a5296a8&is=6a514528&hm=3fe6ea39a129807991541d4b4331db939eee41c76512093b7d1abb332e9e14ca&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525318036809322587/waifu-741a262b31b049ef1a1c5682.png?ex=6a52f29f&is=6a51a11f&hm=70615786f5665a71cae9ebfbf11b3175dba80e9e48fdc536e0da71e735aa96d6&"
   }
 }
