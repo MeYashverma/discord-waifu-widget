@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
-  "lastName": "Sajuna Inui",
-  "index": 155,
+  "lastId": "db:Nina Williams:Tekken",
+  "lastName": "Nina Williams",
+  "index": 249,
   "recent": [
-    "db:Sajuna Inui:My Dress-Up Darling",
+    "db:Nina Williams:Tekken",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
@@ -33,32 +33,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:20:19.991Z",
+  "updatedAt": "2026-07-11T15:20:54.606Z",
   "cached": {
     "character": {
-      "name": "Sajuna Inui",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Nina Williams",
+      "source": "Tekken",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
-      "nextIndex": 155
+      "globalId": "db:Nina Williams:Tekken",
+      "nextIndex": 249
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 207074,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "Tekken",
+      "fanbase": 234827,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A famous cosplayer that looks up to",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+      "bio": "Assassin",
+      "description": "Nina Williams is a character from the Tekken game series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522134116339822/waifu-b95cb77b2891a829327af9ef.png?ex=6a53b0b3&is=6a525f33&hm=2bd3405b2206551c796b6d354ed34000edaa4ba8aad81a242938bfd52c46a1d4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522279906148542/waifu-2b144ef5becf884fc2c3db6e.png?ex=6a53b0d6&is=6a525f56&hm=886f596d1a39a12c0d1cc83e0bf0bf988fef70685e006593cae8e5920d3fba34&"
   }
 }
