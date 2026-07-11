@@ -526,7 +526,7 @@ function removeBorderBackground({ data, info }) {
   return out;
 }
 
-async function localImageCleanup(inputPath, outputPath) {
+async function localImageCleanup(inputPath, outputPath, { skipHeuristicCleanup = false } = {}) {
   const raw = await sharp(inputPath)
     .rotate()
     .resize(900, 900, { fit: "inside", withoutEnlargement: false })
@@ -534,7 +534,18 @@ async function localImageCleanup(inputPath, outputPath) {
     .raw()
     .toBuffer({ resolveWithObject: true });
 
-  const transparent = removeBorderBackground(raw);
+  // When remove.bg already produced the transparent cutout, trust its own
+  // edges instead of re-running our border/color heuristic on top of them.
+  // removeBorderBackground() is a coarse fallback (bright/white or
+  // low-saturation border flood-fill) written for the "no remove.bg" case;
+  // applied a second time on already-AI-segmented art it can't fix
+  // remove.bg's own imperfect edges (soft backgrounds bleeding into hair,
+  // translucent fabric, etc. -- inherent limits of automated background
+  // removal on complex illustrated art) and occasionally makes things worse
+  // by clipping legitimate low-saturation/shadowed pixels that are still
+  // part of the character. Skipping it here only changes which edges we
+  // trust; the resize/crop/trim to the widget frame below still always runs.
+  const transparent = skipHeuristicCleanup ? raw.data : removeBorderBackground(raw);
   let pipeline = sharp(transparent, {
     raw: { width: raw.info.width, height: raw.info.height, channels: 4 },
   })
@@ -568,7 +579,12 @@ async function localImageCleanup(inputPath, outputPath) {
 async function processImage(inputPath, outputPath, sourceUrl = "") {
   const removedPath = outputPath.replace(/\.png$/, "-removebg.png");
   const removed = await removeBackgroundWithApi(inputPath, removedPath, sourceUrl);
-  await localImageCleanup(removed ? removedPath : inputPath, outputPath);
+  await localImageCleanup(removed ? removedPath : inputPath, outputPath, {
+    // remove.bg already did real AI-based background removal -- only fall
+    // back to our own coarse border/color heuristic when remove.bg wasn't
+    // used or failed and we're cleaning up the raw, unprocessed source image.
+    skipHeuristicCleanup: removed,
+  });
 }
 
 async function uploadViaWebhook(localPath, filename) {
