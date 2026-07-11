@@ -53,7 +53,7 @@ Add:
 | `DISCORD_USER_ID` | Yes | Your Discord user ID |
 | `DISCORD_BOT_TOKEN` | Yes | Bot token |
 | `DISCORD_IMAGE_WEBHOOK_URL` | Recommended | Webhook used to upload processed images to Discord CDN |
-| `REMOVE_BG_API_KEY` | Optional | remove.bg API key for high-quality transparent images |
+| `REMOVE_BG_API_KEY` | Optional | remove.bg API key for high-quality transparent images. When set and the call succeeds, its cutout is used as-is (no extra local cleanup layered on top) |
 | `DISCORD_TARGET_CHANNEL_ID` | Optional | Bot channel-upload fallback for images |
 
 Optional repository variables:
@@ -63,7 +63,7 @@ Optional repository variables:
 | `WIDGET_USERNAME` | `waifu-widget` | Root payload username for Discord binding |
 | `DISABLE_IMAGE_FALLBACK` | `false` | Disable Nekos.best emergency artwork fallback |
 | `DISABLE_IMAGE_FIX` | `false` | Disable image processing/upload to Discord CDN |
-| `DISABLE_REMOVE_BG` | `false` | Skip remove.bg even when API key exists |
+| `DISABLE_REMOVE_BG` | `false` | Skip remove.bg even when API key exists, forcing the local border/color heuristic cleanup instead |
 | `WIDGET_IMAGE_FIT` | `cover` | `cover` for large cropped portraits, `contain` for full image |
 | `WIDGET_IMAGE_ZOOM` | `1.18` | Portrait zoom when `WIDGET_IMAGE_FIT=cover` |
 
