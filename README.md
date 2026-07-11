@@ -25,7 +25,7 @@ Each run:
 1. Picks a real character from the upgraded `waifus_final.json` database.
 2. Uses AniList, Jikan/MyAnimeList, and Kitsu to enrich details and find accurate artwork.
 3. Falls back to verified local details when public APIs are unavailable.
-4. Optionally removes image backgrounds with remove.bg, then uploads a transparent PNG to Discord CDN.
+4. Optionally removes image backgrounds with remove.bg (trusted as-is when it succeeds; a local cleanup heuristic is only used as a fallback when remove.bg isn't configured or fails), then uploads a transparent PNG to Discord CDN.
 5. Generates widget stats like fanbase, vibe, rating, age, blood type, bio, and universe.
 6. Sends one full Discord Dynamic Identity payload.
 7. Saves the new memory file only after a successful Discord update.
@@ -41,7 +41,7 @@ Each run:
 - 🛟 Jikan/MyAnimeList fallback when AniList is down/rate-limited
 - 🧾 Verified seed fallback for real character fields during full API outages
 - 🖼 Nekos.best SFW artwork fallback only if no character art is found
-- ✂️ Optional remove.bg background removal for transparent widget images
+- ✂️ Optional remove.bg background removal for transparent widget images, trusted as-is when it succeeds (see [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md#faint-background-fringe-after-removebg) for the fallback behavior and its known limits)
 - 🔍 Cover/zoom image framing so characters appear large like the Genshin widget
 - 🖼 Character artwork field
 - 🧩 Discord-CDN image upload/fix for reliable widget rendering
@@ -112,7 +112,7 @@ Optional:
 
 ```text
 WIDGET_USERNAME=waifu-widget
-REMOVE_BG_API_KEY=      # optional, best transparent cutouts
+REMOVE_BG_API_KEY=      # optional, best transparent cutouts (used as-is when it succeeds)
 DISABLE_IMAGE_FALLBACK=false
 DISABLE_IMAGE_FIX=false
 DISABLE_REMOVE_BG=false
