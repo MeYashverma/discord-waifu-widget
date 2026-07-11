@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Aigis:Persona 3",
-  "lastName": "Aigis",
-  "index": 271,
+  "lastId": "db:Yui Ikari:Neon Genesis Evangelion",
+  "lastName": "Yui Ikari",
+  "index": 153,
   "recent": [
-    "db:Aigis:Persona 3",
+    "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
@@ -33,32 +33,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:21:56.056Z",
+  "updatedAt": "2026-07-11T15:22:49.657Z",
   "cached": {
     "character": {
-      "name": "Aigis",
-      "source": "Persona 3",
-      "universe": "JRPG",
+      "name": "Yui Ikari",
+      "source": "Neon Genesis Evangelion",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aigis:Persona 3",
-      "nextIndex": 271
+      "globalId": "db:Yui Ikari:Neon Genesis Evangelion",
+      "nextIndex": 153
     },
     "meta": {
-      "source": "Persona 3",
-      "fanbase": 254915,
-      "vibe": "CHAOTIC",
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 240630,
+      "vibe": "WHOLESOME",
       "rating": "ICONIC",
-      "age": "8-9 (P3), 9 (TA), 11 (P4A)",
+      "age": "27",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "Date of Activation: September 10, / 5'3\" Initial Persona: Palladion Ultimate Pe…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6207-NXtbN975KoQh.jpg"
+      "bio": "Maid",
+      "description": "Ikari Shinji's mother and wife of Gendou Ikari",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522537457651813/waifu-a95a96f8c7e293c7ff22611e.png?ex=6a53b113&is=6a525f93&hm=85bc38b567e9a60f9f5fb4e2d900877f02dc8ebc99c26acc3e204eb590ce7601&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522761655521311/waifu-eadd9a1de1d9c91ab4f332ad.png?ex=6a53b149&is=6a525fc9&hm=109593b2b74dd9ec71b3e66e213f23ecf760af6ca0e87eaa17b681b48dae185b&"
   }
 }
