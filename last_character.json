@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuki Tsukumo:Jujutsu Kaisen",
-  "lastName": "Yuki Tsukumo",
-  "index": 125,
+  "lastId": "db:Sakura Matou:Fate/stay night",
+  "lastName": "Sakura Matou",
+  "index": 204,
   "recent": [
+    "db:Sakura Matou:Fate/stay night",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Ymir:Attack on Titan",
     "db:Esdeath:Akame ga Kill!",
@@ -29,11 +30,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T01:49:19.364Z",
+  "updatedAt": "2026-07-11T07:41:21.518Z",
   "cached": {
     "character": {
-      "name": "Yuki Tsukumo",
-      "source": "Jujutsu Kaisen",
+      "name": "Sakura Matou",
+      "source": "Fate/stay night",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -41,20 +42,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuki Tsukumo:Jujutsu Kaisen",
-      "nextIndex": 125
+      "globalId": "db:Sakura Matou:Fate/stay night",
+      "nextIndex": 204
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 568184,
-      "vibe": "DOMINANT",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Mage",
-      "description": "One of the four Special Grade Sorcerers",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png"
+      "source": "Fate/stay night",
+      "fanbase": 203476,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "16-18",
+      "blood": "O",
+      "bio": "Student",
+      "description": "cm , A student in her first year of high school, Sakura is the sister of",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525318036809322587/waifu-741a262b31b049ef1a1c5682.png?ex=6a52f29f&is=6a51a11f&hm=70615786f5665a71cae9ebfbf11b3175dba80e9e48fdc536e0da71e735aa96d6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525406629678284860/waifu-6867940b0cab73b3317337ae.png?ex=6a534521&is=6a51f3a1&hm=97f821b4bbcc70e3e56845833b1577624c0f992c09cdef4eac8d9cc9fee66abc&"
   }
 }
