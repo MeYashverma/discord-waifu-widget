@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Artoria Pendragon:Fate/stay night",
-  "lastName": "Artoria Pendragon",
-  "index": 205,
+  "lastId": "db:Aigis:Persona 3",
+  "lastName": "Aigis",
+  "index": 271,
   "recent": [
-    "db:Artoria Pendragon:Fate/stay night",
+    "db:Aigis:Persona 3",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
@@ -33,32 +33,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:21:27.928Z",
+  "updatedAt": "2026-07-11T15:21:56.056Z",
   "cached": {
     "character": {
-      "name": "Artoria Pendragon",
-      "source": "Fate/stay night",
-      "universe": "ANIME",
+      "name": "Aigis",
+      "source": "Persona 3",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Artoria Pendragon:Fate/stay night",
-      "nextIndex": 205
+      "globalId": "db:Aigis:Persona 3",
+      "nextIndex": 271
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 233187,
-      "vibe": "SEDUCTIVE",
+      "source": "Persona 3",
+      "fanbase": 254915,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "35 (chronologically), 15 (physically)",
+      "age": "8-9 (P3), 9 (TA), 11 (P4A)",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+      "bio": "Android",
+      "description": "Date of Activation: September 10, / 5'3\" Initial Persona: Palladion Ultimate Pe…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6207-NXtbN975KoQh.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522418792140932/waifu-037c5c336a16aeca995a47f9.png?ex=6a53b0f7&is=6a525f77&hm=e29533f300c274e250a4188151114844ed11b6c25d5b5375afd4b2786bdf0967&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522537457651813/waifu-a95a96f8c7e293c7ff22611e.png?ex=6a53b113&is=6a525f93&hm=85bc38b567e9a60f9f5fb4e2d900877f02dc8ebc99c26acc3e204eb590ce7601&"
   }
 }
