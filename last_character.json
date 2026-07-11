@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jeanne:Bayonetta",
-  "lastName": "Jeanne",
-  "index": 260,
+  "lastId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
+  "lastName": "Ritsuko Akagi",
+  "index": 152,
   "recent": [
+    "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
@@ -31,32 +32,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T12:57:19.763Z",
+  "updatedAt": "2026-07-11T14:12:39.257Z",
   "cached": {
     "character": {
-      "name": "Jeanne",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Ritsuko Akagi",
+      "source": "Neon Genesis Evangelion",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jeanne:Bayonetta",
-      "nextIndex": 260
+      "globalId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
+      "nextIndex": 152
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 231467,
-      "vibe": "CHAOTIC",
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 235555,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "age": "30",
+      "blood": "B",
       "bio": "Character",
-      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
+      "description": "Ritsuko Akagi is NERV's head scientist and is heavily involved in the repairs a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525486146321387742/waifu-e6045378a725917caf1d2dab.png?ex=6a538f2f&is=6a523daf&hm=1f6473fbdf919288bdf107bb64408e1de4aad1a4da3ea01654a8f729c08be878&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525505101916274688/waifu-4aeec74c3763229499cbf97b.png?ex=6a53a0d6&is=6a524f56&hm=c13e1c3e5b9d0e978acfd7d742a95c600116f67248bf462ebb1c9d2abd3d0cd8&"
   }
 }
