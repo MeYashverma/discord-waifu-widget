@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kurumi Tokisaki:Date A Live",
-  "lastName": "Kurumi Tokisaki",
-  "index": 97,
+  "lastId": "db:Albedo:Overlord",
+  "lastName": "Albedo",
+  "index": 197,
   "recent": [
+    "db:Albedo:Overlord",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
@@ -34,11 +35,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:29:29.098Z",
+  "updatedAt": "2026-07-11T18:46:15.240Z",
   "cached": {
     "character": {
-      "name": "Kurumi Tokisaki",
-      "source": "Date A Live",
+      "name": "Albedo",
+      "source": "Overlord",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -46,20 +47,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kurumi Tokisaki:Date A Live",
-      "nextIndex": 97
+      "globalId": "db:Albedo:Overlord",
+      "nextIndex": 197
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 200654,
-      "vibe": "YANDERE",
+      "source": "Overlord",
+      "fanbase": 195259,
+      "vibe": "LOYAL",
       "rating": "POPULAR",
-      "age": "17 (physically)",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Kurumi is the third spirit who appeared after and",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg"
+      "description": "The overseer of the Floor Guardians and one of the most powerful NPC in Nazarick",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525524437577892070/waifu-44231879409d3a7b6d679658.png?ex=6a53b2d8&is=6a526158&hm=12cd7842039fcba5dcdac4cea72b76f2ae7a4d9179e562030ee4a337d54f7a0e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525573956113797222/waifu-83a43a3c6dc1eeb70e3d5513.png?ex=6a53e0f6&is=6a528f76&hm=fae33d21dd4b0330463f7e24a295314e10ff6f10b8ff37ecf7be81d3704ef318&"
   }
 }
