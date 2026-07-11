@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Albedo:Overlord",
-  "lastName": "Albedo",
-  "index": 197,
+  "lastId": "db:Soi Fon:Bleach",
+  "lastName": "Soi Fon",
+  "index": 185,
   "recent": [
-    "db:Albedo:Overlord",
+    "db:Soi Fon:Bleach",
     "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
@@ -34,11 +34,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:28:30.368Z",
+  "updatedAt": "2026-07-11T15:28:54.380Z",
   "cached": {
     "character": {
-      "name": "Albedo",
-      "source": "Overlord",
+      "name": "Soi Fon",
+      "source": "Bleach",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -46,20 +46,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Albedo:Overlord",
-      "nextIndex": 197
+      "globalId": "db:Soi Fon:Bleach",
+      "nextIndex": 185
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 195259,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "source": "Bleach",
+      "fanbase": 533158,
+      "vibe": "CONFIDENT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "The overseer of the Floor Guardians and one of the most powerful NPC in Nazarick",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
+      "bio": "Captain",
+      "description": "Race: Shinigami cm Rank: Captain of the 2nd Division, Commander-in-Chief of the…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b905-zKwCoIRiYJSr.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525524191120719982/waifu-83a43a3c6dc1eeb70e3d5513.png?ex=6a53b29e&is=6a52611e&hm=cc127a5c66f08f27b515f53f1e66959815521d12d0418b5a963eac0a9052daba&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525524288747339898/waifu-e25dbd3e728b846f3867955c.png?ex=6a53b2b5&is=6a526135&hm=9af13fde571863e6f960d113731fe2ea40e4e7757a84c2592c3c5367339eb43f&"
   }
 }
