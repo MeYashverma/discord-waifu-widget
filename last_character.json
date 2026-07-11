@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Yui Ikari:Neon Genesis Evangelion",
-  "lastName": "Yui Ikari",
-  "index": 153,
+  "lastId": "db:Power:Chainsaw Man",
+  "lastName": "Power",
+  "index": 74,
   "recent": [
-    "db:Yui Ikari:Neon Genesis Evangelion",
+    "db:Power:Chainsaw Man",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
@@ -33,11 +33,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:22:49.657Z",
+  "updatedAt": "2026-07-11T15:23:37.965Z",
   "cached": {
     "character": {
-      "name": "Yui Ikari",
-      "source": "Neon Genesis Evangelion",
+      "name": "Power",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -45,20 +45,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yui Ikari:Neon Genesis Evangelion",
-      "nextIndex": 153
+      "globalId": "db:Power:Chainsaw Man",
+      "nextIndex": 74
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 240630,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
-      "age": "27",
+      "source": "Chainsaw Man",
+      "fanbase": 506394,
+      "vibe": "DOMINANT",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "Ikari Shinji's mother and wife of Gendou Ikari",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png"
+      "bio": "Fiend",
+      "description": "Blood Devil fiend",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522761655521311/waifu-eadd9a1de1d9c91ab4f332ad.png?ex=6a53b149&is=6a525fc9&hm=109593b2b74dd9ec71b3e66e213f23ecf760af6ca0e87eaa17b681b48dae185b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522964861419702/waifu-7415189131d248384180934c.png?ex=6a53b179&is=6a525ff9&hm=88dfb4931b0e681ae38484c35d9eacbc4574135fa80545220c5e5f442b2ba094&"
   }
 }
