@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Nina Williams:Tekken",
-  "lastName": "Nina Williams",
-  "index": 249,
+  "lastId": "db:Artoria Pendragon:Fate/stay night",
+  "lastName": "Artoria Pendragon",
+  "index": 205,
   "recent": [
-    "db:Nina Williams:Tekken",
+    "db:Artoria Pendragon:Fate/stay night",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
@@ -33,32 +33,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:20:54.606Z",
+  "updatedAt": "2026-07-11T15:21:27.928Z",
   "cached": {
     "character": {
-      "name": "Nina Williams",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Artoria Pendragon",
+      "source": "Fate/stay night",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nina Williams:Tekken",
-      "nextIndex": 249
+      "globalId": "db:Artoria Pendragon:Fate/stay night",
+      "nextIndex": 205
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 234827,
-      "vibe": "CHAOTIC",
+      "source": "Fate/stay night",
+      "fanbase": 233187,
+      "vibe": "SEDUCTIVE",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "35 (chronologically), 15 (physically)",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Nina Williams is a character from the Tekken game series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
+      "bio": "Knight",
+      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522279906148542/waifu-2b144ef5becf884fc2c3db6e.png?ex=6a53b0d6&is=6a525f56&hm=886f596d1a39a12c0d1cc83e0bf0bf988fef70685e006593cae8e5920d3fba34&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522418792140932/waifu-037c5c336a16aeca995a47f9.png?ex=6a53b0f7&is=6a525f77&hm=e29533f300c274e250a4188151114844ed11b6c25d5b5375afd4b2786bdf0967&"
   }
 }
