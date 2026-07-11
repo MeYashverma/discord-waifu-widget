@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
-  "lastName": "Ritsuko Akagi",
-  "index": 152,
+  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
+  "lastName": "Sajuna Inui",
+  "index": 155,
   "recent": [
+    "db:Sajuna Inui:My Dress-Up Darling",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
@@ -32,11 +33,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T14:12:39.257Z",
+  "updatedAt": "2026-07-11T15:20:19.991Z",
   "cached": {
     "character": {
-      "name": "Ritsuko Akagi",
-      "source": "Neon Genesis Evangelion",
+      "name": "Sajuna Inui",
+      "source": "My Dress-Up Darling",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -44,20 +45,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
-      "nextIndex": 152
+      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
+      "nextIndex": 155
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 235555,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "30",
-      "blood": "B",
+      "source": "My Dress-Up Darling",
+      "fanbase": 207074,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "17",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "Ritsuko Akagi is NERV's head scientist and is heavily involved in the repairs a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png"
+      "description": "A famous cosplayer that looks up to",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525505101916274688/waifu-4aeec74c3763229499cbf97b.png?ex=6a53a0d6&is=6a524f56&hm=c13e1c3e5b9d0e978acfd7d742a95c600116f67248bf462ebb1c9d2abd3d0cd8&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522134116339822/waifu-b95cb77b2891a829327af9ef.png?ex=6a53b0b3&is=6a525f33&hm=2bd3405b2206551c796b6d354ed34000edaa4ba8aad81a242938bfd52c46a1d4&"
   }
 }
