@@ -22,6 +22,12 @@ sequenceDiagram
     end
     App->>App: merge DB + API data
     App->>RemoveBG: optional background removal
+    alt remove.bg succeeded
+        RemoveBG-->>App: transparent cutout (trusted as-is)
+    else remove.bg not configured or failed
+        App->>App: local border/color heuristic cleanup
+    end
+    App->>App: resize/crop to widget frame
     App->>DiscordCDN: upload processed PNG
     DiscordCDN-->>App: cdn.discordapp.com URL
     App->>Discord: PATCH full Dynamic Identity payload
@@ -35,7 +41,7 @@ sequenceDiagram
 | Character name/source/universe | `waifus_final.json` |
 | Bio/description | verified seed details → AniList/Jikan/Kitsu text → generated fallback |
 | Image | database image → AniList → Jikan → Kitsu → Nekos.best fallback |
-| Background removal | remove.bg when `REMOVE_BG_API_KEY` exists, local edge cleanup otherwise |
+| Background removal | remove.bg when `REMOVE_BG_API_KEY` exists and the call succeeds (its cutout is trusted as-is); local border/color heuristic only runs as a fallback when remove.bg is not configured or fails |
 
 ## Discord PATCH
 
