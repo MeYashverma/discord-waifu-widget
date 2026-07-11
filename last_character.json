@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Taoqi:Wuthering Waves",
-  "lastName": "Taoqi",
-  "index": 45,
+  "lastId": "db:Albedo:Overlord",
+  "lastName": "Albedo",
+  "index": 197,
   "recent": [
+    "db:Albedo:Overlord",
     "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
@@ -33,32 +34,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:24:28.410Z",
+  "updatedAt": "2026-07-11T15:28:30.368Z",
   "cached": {
     "character": {
-      "name": "Taoqi",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Albedo",
+      "source": "Overlord",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Taoqi:Wuthering Waves",
-      "nextIndex": 45
+      "globalId": "db:Albedo:Overlord",
+      "nextIndex": 197
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 233068,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
+      "source": "Overlord",
+      "fanbase": 195259,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Taoqi from Wuthering Waves",
-      "image": "https://media.kitsu.app/characters/images/63519/original.jpg"
+      "description": "The overseer of the Floor Guardians and one of the most powerful NPC in Nazarick",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525523175599771779/waifu-3417fe2508fc690967adee12.png?ex=6a53b1ab&is=6a52602b&hm=43f4653246061f68a940ff5d077a95f0b4a6e5dc46288f634b039c014918a996&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525524191120719982/waifu-83a43a3c6dc1eeb70e3d5513.png?ex=6a53b29e&is=6a52611e&hm=cc127a5c66f08f27b515f53f1e66959815521d12d0418b5a963eac0a9052daba&"
   }
 }
