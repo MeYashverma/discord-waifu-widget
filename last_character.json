@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Soi Fon:Bleach",
-  "lastName": "Soi Fon",
-  "index": 185,
+  "lastId": "db:Kurumi Tokisaki:Date A Live",
+  "lastName": "Kurumi Tokisaki",
+  "index": 97,
   "recent": [
-    "db:Soi Fon:Bleach",
+    "db:Kurumi Tokisaki:Date A Live",
     "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
@@ -34,11 +34,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:28:54.380Z",
+  "updatedAt": "2026-07-11T15:29:29.098Z",
   "cached": {
     "character": {
-      "name": "Soi Fon",
-      "source": "Bleach",
+      "name": "Kurumi Tokisaki",
+      "source": "Date A Live",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -46,20 +46,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Soi Fon:Bleach",
-      "nextIndex": 185
+      "globalId": "db:Kurumi Tokisaki:Date A Live",
+      "nextIndex": 97
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 533158,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "source": "Date A Live",
+      "fanbase": 200654,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "17 (physically)",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Race: Shinigami cm Rank: Captain of the 2nd Division, Commander-in-Chief of the…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b905-zKwCoIRiYJSr.png"
+      "bio": "Character",
+      "description": "cm Kurumi is the third spirit who appeared after and",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525524288747339898/waifu-e25dbd3e728b846f3867955c.png?ex=6a53b2b5&is=6a526135&hm=9af13fde571863e6f960d113731fe2ea40e4e7757a84c2592c3c5367339eb43f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525524437577892070/waifu-44231879409d3a7b6d679658.png?ex=6a53b2d8&is=6a526158&hm=12cd7842039fcba5dcdac4cea72b76f2ae7a4d9179e562030ee4a337d54f7a0e&"
   }
 }
