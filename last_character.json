@@ -1,9 +1,9 @@
 {
-  "lastId": "db:Power:Chainsaw Man",
-  "lastName": "Power",
-  "index": 74,
+  "lastId": "db:Taoqi:Wuthering Waves",
+  "lastName": "Taoqi",
+  "index": 45,
   "recent": [
-    "db:Power:Chainsaw Man",
+    "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
@@ -33,32 +33,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T15:23:37.965Z",
+  "updatedAt": "2026-07-11T15:24:28.410Z",
   "cached": {
     "character": {
-      "name": "Power",
-      "source": "Chainsaw Man",
-      "universe": "ANIME",
+      "name": "Taoqi",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Power:Chainsaw Man",
-      "nextIndex": 74
+      "globalId": "db:Taoqi:Wuthering Waves",
+      "nextIndex": 45
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 506394,
-      "vibe": "DOMINANT",
-      "rating": "LEGENDARY",
+      "source": "Wuthering Waves",
+      "fanbase": 233068,
+      "vibe": "WHOLESOME",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Fiend",
-      "description": "Blood Devil fiend",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
+      "bio": "Character",
+      "description": "Taoqi from Wuthering Waves",
+      "image": "https://media.kitsu.app/characters/images/63519/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525522964861419702/waifu-7415189131d248384180934c.png?ex=6a53b179&is=6a525ff9&hm=88dfb4931b0e681ae38484c35d9eacbc4574135fa80545220c5e5f442b2ba094&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525523175599771779/waifu-3417fe2508fc690967adee12.png?ex=6a53b1ab&is=6a52602b&hm=43f4653246061f68a940ff5d077a95f0b4a6e5dc46288f634b039c014918a996&"
   }
 }
