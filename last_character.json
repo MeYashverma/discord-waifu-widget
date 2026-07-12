@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Phoebe:Wuthering Waves",
-  "lastName": "Phoebe",
-  "index": 46,
+  "lastId": "db:Historia Reiss:Attack on Titan",
+  "lastName": "Historia Reiss",
+  "index": 132,
   "recent": [
+    "db:Historia Reiss:Attack on Titan",
     "db:Phoebe:Wuthering Waves",
     "db:Daki:Demon Slayer",
     "db:Yinlin:Wuthering Waves",
@@ -38,32 +39,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-12T12:58:11.833Z",
+  "updatedAt": "2026-07-12T18:52:24.066Z",
   "cached": {
     "character": {
-      "name": "Phoebe",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Historia Reiss",
+      "source": "Attack on Titan",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Phoebe:Wuthering Waves",
-      "nextIndex": 46
+      "globalId": "db:Historia Reiss:Attack on Titan",
+      "nextIndex": 132
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 207657,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "Attack on Titan",
+      "fanbase": 672365,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "A Bounty Hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129488-ayuWDn205dwn.png"
+      "bio": "Royalty",
+      "description": "Frieda was Rod Reiss' eldest daughter and Historia's oldest half-sister",
+      "image": "https://media.kitsu.app/character/63763/image/ffd32b636a6753382d2ea53902577d0b.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525848752852570212/waifu-6a633d71be9b8f3e1acc8759.png?ex=6a54e0e3&is=6a538f63&hm=b3b044904ff4def097d46938a99c045aa4b77788fb5c19cf48b9b94994a84728&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525937891119730789/waifu-758edd9f5cbe494801bb732b.png?ex=6a5533e7&is=6a53e267&hm=9719df49326779b6a61163f2cb50b6d955b1f704a9c49a7b54515f62ac3e62da&"
   }
 }
