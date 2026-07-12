@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yinlin:Wuthering Waves",
-  "lastName": "Yinlin",
-  "index": 38,
+  "lastId": "db:Daki:Demon Slayer",
+  "lastName": "Daki",
+  "index": 120,
   "recent": [
+    "db:Daki:Demon Slayer",
     "db:Yinlin:Wuthering Waves",
     "db:Formidable:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
@@ -36,32 +37,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-12T01:51:53.584Z",
+  "updatedAt": "2026-07-12T08:01:58.613Z",
   "cached": {
     "character": {
-      "name": "Yinlin",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Daki",
+      "source": "Demon Slayer",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yinlin:Wuthering Waves",
-      "nextIndex": 38
+      "globalId": "db:Daki:Demon Slayer",
+      "nextIndex": 120
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 203395,
+      "source": "Demon Slayer",
+      "fanbase": 572283,
       "vibe": "LOYAL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "rating": "LEGENDARY",
+      "age": "13-16",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Yinlin from Wuthering Waves",
-      "image": "https://media.kitsu.app/characters/images/30099/original.jpg"
+      "description": "cm Combat Style: Water Breathing & Sun Breathing Tanjirou is kind by nature and…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525681071474212935/waifu-b5f9aae043243877f788b685.png?ex=6a5444b9&is=6a52f339&hm=642a6edb433deffc09ece393757dfa065afd0a3dbfe6a7abd9e0cc9ce4f2bbe3&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525774206334402600/waifu-29f37cb973852eebd6dbacb8.png?ex=6a549b76&is=6a5349f6&hm=37c8a5243025b544c3b69764e4396f29d44bcbba6d5c18165fe8cb04ae3c5938&"
   }
 }
