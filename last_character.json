@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Formidable:Azur Lane",
-  "lastName": "Formidable",
-  "index": 280,
+  "lastId": "db:Yinlin:Wuthering Waves",
+  "lastName": "Yinlin",
+  "index": 38,
   "recent": [
+    "db:Yinlin:Wuthering Waves",
     "db:Formidable:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Taoqi:Wuthering Waves",
@@ -35,11 +36,11 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-11T22:17:36.729Z",
+  "updatedAt": "2026-07-12T01:51:53.584Z",
   "cached": {
     "character": {
-      "name": "Formidable",
-      "source": "Azur Lane",
+      "name": "Yinlin",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -47,20 +48,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Formidable:Azur Lane",
-      "nextIndex": 280
+      "globalId": "db:Yinlin:Wuthering Waves",
+      "nextIndex": 38
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 236062,
-      "vibe": "YANDERE",
-      "rating": "ICONIC",
+      "source": "Wuthering Waves",
+      "fanbase": 203395,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Formidable from Azur Lane",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206521-6yl8aZDd36wH.png"
+      "description": "Yinlin from Wuthering Waves",
+      "image": "https://media.kitsu.app/characters/images/30099/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525627146272244004/waifu-95cd4cf4bddfa74c302ae9b4.png?ex=6a541280&is=6a52c100&hm=7f5fd59f705716c54c2c65e3ea241a0552581dd34d0489f6fa00489d2fc939e4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525681071474212935/waifu-b5f9aae043243877f788b685.png?ex=6a5444b9&is=6a52f339&hm=642a6edb433deffc09ece393757dfa065afd0a3dbfe6a7abd9e0cc9ce4f2bbe3&"
   }
 }
