@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Daki:Demon Slayer",
-  "lastName": "Daki",
-  "index": 120,
+  "lastId": "db:Phoebe:Wuthering Waves",
+  "lastName": "Phoebe",
+  "index": 46,
   "recent": [
+    "db:Phoebe:Wuthering Waves",
     "db:Daki:Demon Slayer",
     "db:Yinlin:Wuthering Waves",
     "db:Formidable:Azur Lane",
@@ -37,32 +38,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-12T08:01:58.613Z",
+  "updatedAt": "2026-07-12T12:58:11.833Z",
   "cached": {
     "character": {
-      "name": "Daki",
-      "source": "Demon Slayer",
-      "universe": "ANIME",
+      "name": "Phoebe",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Daki:Demon Slayer",
-      "nextIndex": 120
+      "globalId": "db:Phoebe:Wuthering Waves",
+      "nextIndex": 46
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 572283,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "13-16",
+      "source": "Wuthering Waves",
+      "fanbase": 207657,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Combat Style: Water Breathing & Sun Breathing Tanjirou is kind by nature and…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+      "bio": "Hunter",
+      "description": "A Bounty Hunter",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129488-ayuWDn205dwn.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525774206334402600/waifu-29f37cb973852eebd6dbacb8.png?ex=6a549b76&is=6a5349f6&hm=37c8a5243025b544c3b69764e4396f29d44bcbba6d5c18165fe8cb04ae3c5938&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525848752852570212/waifu-6a633d71be9b8f3e1acc8759.png?ex=6a54e0e3&is=6a538f63&hm=b3b044904ff4def097d46938a99c045aa4b77788fb5c19cf48b9b94994a84728&"
   }
 }
