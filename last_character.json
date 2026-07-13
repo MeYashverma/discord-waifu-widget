@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Historia Reiss:Attack on Titan",
-  "lastName": "Historia Reiss",
-  "index": 132,
+  "lastId": "db:Firefly:Honkai Star Rail",
+  "lastName": "Firefly",
+  "index": 23,
   "recent": [
+    "db:Firefly:Honkai Star Rail",
     "db:Historia Reiss:Attack on Titan",
     "db:Phoebe:Wuthering Waves",
     "db:Daki:Demon Slayer",
@@ -39,32 +40,32 @@
     "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-12T18:52:24.066Z",
+  "updatedAt": "2026-07-13T01:54:05.204Z",
   "cached": {
     "character": {
-      "name": "Historia Reiss",
-      "source": "Attack on Titan",
-      "universe": "ANIME",
+      "name": "Firefly",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Historia Reiss:Attack on Titan",
-      "nextIndex": 132
+      "globalId": "db:Firefly:Honkai Star Rail",
+      "nextIndex": 23
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 672365,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
+      "source": "Honkai Star Rail",
+      "fanbase": 439840,
+      "vibe": "INTENSE",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Frieda was Rod Reiss' eldest daughter and Historia's oldest half-sister",
-      "image": "https://media.kitsu.app/character/63763/image/ffd32b636a6753382d2ea53902577d0b.jpg"
+      "bio": "Hunter",
+      "description": "Claiming herself to be a new artist from the Iris Family",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349493-mkABJfIuqzAQ.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1525937891119730789/waifu-758edd9f5cbe494801bb732b.png?ex=6a5533e7&is=6a53e267&hm=9719df49326779b6a61163f2cb50b6d955b1f704a9c49a7b54515f62ac3e62da&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526044011738169515/waifu-95f55378dbb428728e82d10d.png?ex=6a5596bc&is=6a54453c&hm=9145590a5dd3c4f43e6bf200907741c5152f683f557fd501ec42a52e009bd734&"
   }
 }
