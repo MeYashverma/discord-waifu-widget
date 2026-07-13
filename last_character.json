@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nina Williams:Tekken",
-  "lastName": "Nina Williams",
-  "index": 249,
+  "lastId": "db:Alice:Nikke",
+  "lastName": "Alice",
+  "index": 57,
   "recent": [
+    "db:Alice:Nikke",
     "db:Nina Williams:Tekken",
     "db:Arlecchino:Genshin Impact",
     "db:Firefly:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Konan:Naruto",
     "db:Modernia:Nikke",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
-    "db:C.C.:Code Geass",
-    "db:Carlotta:Wuthering Waves"
+    "db:C.C.:Code Geass"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-13T14:08:04.174Z",
+  "updatedAt": "2026-07-13T19:13:23.577Z",
   "cached": {
     "character": {
-      "name": "Nina Williams",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Alice",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nina Williams:Tekken",
-      "nextIndex": 249
+      "globalId": "db:Alice:Nikke",
+      "nextIndex": 57
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 234827,
-      "vibe": "CHAOTIC",
+      "source": "Nikke",
+      "fanbase": 220435,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Nina Williams is a character from the Tekken game series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
+      "bio": "Knight",
+      "description": "The heroine of Sword Art Online's fourth story arc, Alicization",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526228724427657277/waifu-2b144ef5becf884fc2c3db6e.png?ex=6a5642c3&is=6a54f143&hm=2d92ef38c18a1f041e29b5628c81dbc083c0b934834587b18fc6ef8b0ac14c97&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526305561539510533/waifu-46eb9db7a504a00e2b2fa3cb.png?ex=6a568a53&is=6a5538d3&hm=51c59117b7aa39549ac730145a78c52497e1559b65369e64b8594f32f3f169d2&"
   }
 }
