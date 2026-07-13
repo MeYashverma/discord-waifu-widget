@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Firefly:Honkai Star Rail",
-  "lastName": "Firefly",
-  "index": 23,
+  "lastId": "db:Arlecchino:Genshin Impact",
+  "lastName": "Arlecchino",
+  "index": 7,
   "recent": [
+    "db:Arlecchino:Genshin Impact",
     "db:Firefly:Honkai Star Rail",
     "db:Historia Reiss:Attack on Titan",
     "db:Phoebe:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
     "db:Carlotta:Wuthering Waves",
-    "db:Quanxi:Chainsaw Man",
-    "db:Bambietta Basterbine:Bleach"
+    "db:Quanxi:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-13T01:54:05.204Z",
+  "updatedAt": "2026-07-13T08:50:42.222Z",
   "cached": {
     "character": {
-      "name": "Firefly",
-      "source": "Honkai Star Rail",
+      "name": "Arlecchino",
+      "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Firefly:Honkai Star Rail",
-      "nextIndex": 23
+      "globalId": "db:Arlecchino:Genshin Impact",
+      "nextIndex": 7
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 439840,
-      "vibe": "INTENSE",
-      "rating": "ELITE",
+      "source": "Genshin Impact",
+      "fanbase": 579703,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Claiming herself to be a new artist from the Iris Family",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349493-mkABJfIuqzAQ.jpg"
+      "bio": "Character",
+      "description": "Vision: Pyro Constellation: Ignis Purgatorius She is the Fourth of the Eleven F…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b350172-xFva2PNL6aUw.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526044011738169515/waifu-95f55378dbb428728e82d10d.png?ex=6a5596bc&is=6a54453c&hm=9145590a5dd3c4f43e6bf200907741c5152f683f557fd501ec42a52e009bd734&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526148856314593441/waifu-06ae949e7b6639d73b0b271a.png?ex=6a55f861&is=6a54a6e1&hm=47075e56e24aa3581376303932ecd0b08acc77b0086a07de0c7e43fd61904c49&"
   }
 }
