@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Arlecchino:Genshin Impact",
-  "lastName": "Arlecchino",
-  "index": 7,
+  "lastId": "db:Nina Williams:Tekken",
+  "lastName": "Nina Williams",
+  "index": 249,
   "recent": [
+    "db:Nina Williams:Tekken",
     "db:Arlecchino:Genshin Impact",
     "db:Firefly:Honkai Star Rail",
     "db:Historia Reiss:Attack on Titan",
@@ -36,36 +37,35 @@
     "db:Modernia:Nikke",
     "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
     "db:C.C.:Code Geass",
-    "db:Carlotta:Wuthering Waves",
-    "db:Quanxi:Chainsaw Man"
+    "db:Carlotta:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-13T08:50:42.222Z",
+  "updatedAt": "2026-07-13T14:08:04.174Z",
   "cached": {
     "character": {
-      "name": "Arlecchino",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Nina Williams",
+      "source": "Tekken",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Arlecchino:Genshin Impact",
-      "nextIndex": 7
+      "globalId": "db:Nina Williams:Tekken",
+      "nextIndex": 249
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 579703,
-      "vibe": "DEADLY",
-      "rating": "LEGENDARY",
+      "source": "Tekken",
+      "fanbase": 234827,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Vision: Pyro Constellation: Ignis Purgatorius She is the Fourth of the Eleven F…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b350172-xFva2PNL6aUw.jpg"
+      "bio": "Assassin",
+      "description": "Nina Williams is a character from the Tekken game series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526148856314593441/waifu-06ae949e7b6639d73b0b271a.png?ex=6a55f861&is=6a54a6e1&hm=47075e56e24aa3581376303932ecd0b08acc77b0086a07de0c7e43fd61904c49&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526228724427657277/waifu-2b144ef5becf884fc2c3db6e.png?ex=6a5642c3&is=6a54f143&hm=2d92ef38c18a1f041e29b5628c81dbc083c0b934834587b18fc6ef8b0ac14c97&"
   }
 }
