@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Alice:Nikke",
-  "lastName": "Alice",
-  "index": 57,
+  "lastId": "db:Ichigo:Darling in the Franxx",
+  "lastName": "Ichigo",
+  "index": 144,
   "recent": [
+    "db:Ichigo:Darling in the Franxx",
     "db:Alice:Nikke",
     "db:Nina Williams:Tekken",
     "db:Arlecchino:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Shalltear Bloodfallen:Overlord",
     "db:Konan:Naruto",
     "db:Modernia:Nikke",
-    "db:Mari Illustrious Makinami:Neon Genesis Evangelion",
-    "db:C.C.:Code Geass"
+    "db:Mari Illustrious Makinami:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-13T19:13:23.577Z",
+  "updatedAt": "2026-07-14T02:08:58.553Z",
   "cached": {
     "character": {
-      "name": "Alice",
-      "source": "Nikke",
-      "universe": "GACHA",
+      "name": "Ichigo",
+      "source": "Darling in the Franxx",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Alice:Nikke",
-      "nextIndex": 57
+      "globalId": "db:Ichigo:Darling in the Franxx",
+      "nextIndex": 144
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 220435,
-      "vibe": "DEADLY",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Darling in the Franxx",
+      "fanbase": 216554,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
+      "age": "14-17",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "The heroine of Sword Art Online's fourth story arc, Alicization",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
+      "bio": "Character",
+      "description": "cm Ichigo is a former Parasite with the codename \"015\" of the Thirteenth Planta…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526305561539510533/waifu-46eb9db7a504a00e2b2fa3cb.png?ex=6a568a53&is=6a5538d3&hm=51c59117b7aa39549ac730145a78c52497e1559b65369e64b8594f32f3f169d2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526410146358628495/waifu-6a5b161bcb70f8a59b09b606.png?ex=6a56ebba&is=6a559a3a&hm=cc53d8f95d80bd13be4f3f1e90ceaefb89d6e3892f16748cbea5cda06a0bc2bf&"
   }
 }
