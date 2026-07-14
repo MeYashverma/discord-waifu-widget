@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mika:Blue Archive",
-  "lastName": "Mika",
-  "index": 68,
+  "lastId": "db:Rangiku Matsumoto:Bleach",
+  "lastName": "Rangiku Matsumoto",
+  "index": 183,
   "recent": [
+    "db:Rangiku Matsumoto:Bleach",
     "db:Mika:Blue Archive",
     "db:Ichigo:Darling in the Franxx",
     "db:Alice:Nikke",
@@ -36,36 +37,35 @@
     "db:Neru:Blue Archive",
     "db:Megumin:Konosuba",
     "db:Shalltear Bloodfallen:Overlord",
-    "db:Konan:Naruto",
-    "db:Modernia:Nikke"
+    "db:Konan:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-14T08:14:59.061Z",
+  "updatedAt": "2026-07-14T14:07:10.968Z",
   "cached": {
     "character": {
-      "name": "Mika",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Rangiku Matsumoto",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mika:Blue Archive",
-      "nextIndex": 68
+      "globalId": "db:Rangiku Matsumoto:Bleach",
+      "nextIndex": 183
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 189301,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "Bleach",
+      "fanbase": 506666,
+      "vibe": "MYSTERIOUS",
+      "rating": "LEGENDARY",
       "age": "Unknown",
-      "blood": "O",
-      "bio": "Character",
-      "description": "cm The deuteragonist of the Owari no Seraph series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87287-cBUVUJNbvfvT.png"
+      "blood": "Unknown",
+      "bio": "Mage",
+      "description": "cm Zanpakutou: Rangiku Matsumoto is the lieutenant of the 10th Division of the …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526502255409238090/waifu-1fd1701ee74fda8c4a1c739a.png?ex=6a574182&is=6a55f002&hm=7ded111c0bc0f2abd8242f0d212fc02774b52b14a2bc30c5aeefd1a226c6ecc8&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526590889282113547/waifu-d54d3f27c973d37b6fd0c916.png?ex=6a57940e&is=6a56428e&hm=17dffc2b7afa77cc6d9b65a8b89fd73f57c2d309a491da8b9602dbdab61bb67a&"
   }
 }
