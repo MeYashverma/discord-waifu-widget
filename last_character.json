@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rangiku Matsumoto:Bleach",
-  "lastName": "Rangiku Matsumoto",
-  "index": 183,
+  "lastId": "db:Belfast:Azur Lane",
+  "lastName": "Belfast",
+  "index": 276,
   "recent": [
+    "db:Belfast:Azur Lane",
     "db:Rangiku Matsumoto:Bleach",
     "db:Mika:Blue Archive",
     "db:Ichigo:Darling in the Franxx",
@@ -36,36 +37,35 @@
     "db:Rapi:Nikke",
     "db:Neru:Blue Archive",
     "db:Megumin:Konosuba",
-    "db:Shalltear Bloodfallen:Overlord",
-    "db:Konan:Naruto"
+    "db:Shalltear Bloodfallen:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-14T14:07:10.968Z",
+  "updatedAt": "2026-07-14T19:59:25.572Z",
   "cached": {
     "character": {
-      "name": "Rangiku Matsumoto",
-      "source": "Bleach",
-      "universe": "ANIME",
+      "name": "Belfast",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rangiku Matsumoto:Bleach",
-      "nextIndex": 183
+      "globalId": "db:Belfast:Azur Lane",
+      "nextIndex": 276
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 506666,
+      "source": "Azur Lane",
+      "fanbase": 265362,
       "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "cm Zanpakutou: Rangiku Matsumoto is the lieutenant of the 10th Division of the …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png"
+      "bio": "Royalty",
+      "description": "Edinburgh-Class Light Cruiser",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130070-aFSpprHYoWNn.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526590889282113547/waifu-d54d3f27c973d37b6fd0c916.png?ex=6a57940e&is=6a56428e&hm=17dffc2b7afa77cc6d9b65a8b89fd73f57c2d309a491da8b9602dbdab61bb67a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526679534177489026/waifu-db4ba776c5aca8cecf5ef44c.png?ex=6a57e69d&is=6a56951d&hm=716b707f0e591f5804387d01506b6b0c0bc6554498f3b48dd11ebccd29fe28cd&"
   }
 }
