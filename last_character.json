@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Noir:Nikke",
-  "lastName": "Noir",
-  "index": 59,
+  "lastId": "db:Wakamo:Blue Archive",
+  "lastName": "Wakamo",
+  "index": 70,
   "recent": [
+    "db:Wakamo:Blue Archive",
     "db:Noir:Nikke",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Rias Gremory:High School DxD",
@@ -36,15 +37,14 @@
     "db:Kai'Sa:League of Legends",
     "db:Rem:Re:Zero",
     "db:Camellya:Wuthering Waves",
-    "db:Priscilla Barielle:Re:Zero",
-    "db:Rapi:Nikke"
+    "db:Priscilla Barielle:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-15T13:33:52.438Z",
+  "updatedAt": "2026-07-15T19:08:43.535Z",
   "cached": {
     "character": {
-      "name": "Noir",
-      "source": "Nikke",
+      "name": "Wakamo",
+      "source": "Blue Archive",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Noir:Nikke",
-      "nextIndex": 59
+      "globalId": "db:Wakamo:Blue Archive",
+      "nextIndex": 70
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 198429,
-      "vibe": "ROYAL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Blue Archive",
+      "fanbase": 258011,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Kirika Yuumura is an assassin who teamed up with under the codename Noir",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2258-G45d2iDhEJVp.png"
+      "bio": "Student",
+      "description": "Academy: Allied Hyakkiyako Academy Year: Suspended Club: None Hobbies: Destroyi…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287031-6e8XpbooLHDE.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526944894013280336/waifu-d31330b24ceebc9d26dd1ccf.png?ex=6a58ddbf&is=6a578c3f&hm=4ea3ca358751f90bb4532b9b40efdf7cb0dc6bfabe2d61c2e7eb33d3f4977982&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527029162731110591/waifu-2d0f3da4cc7b9a38fc0b40f1.png?ex=6a592c3b&is=6a57dabb&hm=07f60a7669c6c41329feabb2db82807876f8a73eed6a4b4facb0567d2f59c37d&"
   }
 }
