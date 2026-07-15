@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rias Gremory:High School DxD",
-  "lastName": "Rias Gremory",
-  "index": 89,
+  "lastId": "db:Shalltear Bloodfallen:Overlord",
+  "lastName": "Shalltear Bloodfallen",
+  "index": 198,
   "recent": [
+    "db:Shalltear Bloodfallen:Overlord",
     "db:Rias Gremory:High School DxD",
     "db:Belfast:Azur Lane",
     "db:Rangiku Matsumoto:Bleach",
@@ -36,15 +37,14 @@
     "db:Camellya:Wuthering Waves",
     "db:Priscilla Barielle:Re:Zero",
     "db:Rapi:Nikke",
-    "db:Neru:Blue Archive",
-    "db:Megumin:Konosuba"
+    "db:Neru:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-15T02:10:03.123Z",
+  "updatedAt": "2026-07-15T08:03:48.249Z",
   "cached": {
     "character": {
-      "name": "Rias Gremory",
-      "source": "High School DxD",
+      "name": "Shalltear Bloodfallen",
+      "source": "Overlord",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rias Gremory:High School DxD",
-      "nextIndex": 89
+      "globalId": "db:Shalltear Bloodfallen:Overlord",
+      "nextIndex": 198
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 229879,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
+      "source": "Overlord",
+      "fanbase": 218838,
+      "vibe": "CONFIDENT",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Gremory clan heiress",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50389-gIhJkyk8xj1P.png"
+      "bio": "Character",
+      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526772804115103944/waifu-0ca8fdeffd2bdd609379dbd7.png?ex=6a583d7a&is=6a56ebfa&hm=9086e5fb610770570a3c3b1e1e61dfc652c4b440892578deb344dacec0daa2c2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526861829559681055/waifu-0016b31d14801cbd5d24151b.png?ex=6a589063&is=6a573ee3&hm=5eb059b4a0a5e2611f58ee285d108e373c6a180352ff80520d9c740fef93a29a&"
   }
 }
