@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Belfast:Azur Lane",
-  "lastName": "Belfast",
-  "index": 276,
+  "lastId": "db:Rias Gremory:High School DxD",
+  "lastName": "Rias Gremory",
+  "index": 89,
   "recent": [
+    "db:Rias Gremory:High School DxD",
     "db:Belfast:Azur Lane",
     "db:Rangiku Matsumoto:Bleach",
     "db:Mika:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Priscilla Barielle:Re:Zero",
     "db:Rapi:Nikke",
     "db:Neru:Blue Archive",
-    "db:Megumin:Konosuba",
-    "db:Shalltear Bloodfallen:Overlord"
+    "db:Megumin:Konosuba"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-14T19:59:25.572Z",
+  "updatedAt": "2026-07-15T02:10:03.123Z",
   "cached": {
     "character": {
-      "name": "Belfast",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Rias Gremory",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Belfast:Azur Lane",
-      "nextIndex": 276
+      "globalId": "db:Rias Gremory:High School DxD",
+      "nextIndex": 89
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 265362,
-      "vibe": "MYSTERIOUS",
+      "source": "High School DxD",
+      "fanbase": 229879,
+      "vibe": "LOYAL",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Edinburgh-Class Light Cruiser",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130070-aFSpprHYoWNn.jpg"
+      "bio": "Devil",
+      "description": "Gremory clan heiress",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50389-gIhJkyk8xj1P.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526679534177489026/waifu-db4ba776c5aca8cecf5ef44c.png?ex=6a57e69d&is=6a56951d&hm=716b707f0e591f5804387d01506b6b0c0bc6554498f3b48dd11ebccd29fe28cd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526772804115103944/waifu-0ca8fdeffd2bdd609379dbd7.png?ex=6a583d7a&is=6a56ebfa&hm=9086e5fb610770570a3c3b1e1e61dfc652c4b440892578deb344dacec0daa2c2&"
   }
 }
