@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shalltear Bloodfallen:Overlord",
-  "lastName": "Shalltear Bloodfallen",
-  "index": 198,
+  "lastId": "db:Noir:Nikke",
+  "lastName": "Noir",
+  "index": 59,
   "recent": [
+    "db:Noir:Nikke",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Rias Gremory:High School DxD",
     "db:Belfast:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Rem:Re:Zero",
     "db:Camellya:Wuthering Waves",
     "db:Priscilla Barielle:Re:Zero",
-    "db:Rapi:Nikke",
-    "db:Neru:Blue Archive"
+    "db:Rapi:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-15T08:03:48.249Z",
+  "updatedAt": "2026-07-15T13:33:52.438Z",
   "cached": {
     "character": {
-      "name": "Shalltear Bloodfallen",
-      "source": "Overlord",
-      "universe": "ANIME",
+      "name": "Noir",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shalltear Bloodfallen:Overlord",
-      "nextIndex": 198
+      "globalId": "db:Noir:Nikke",
+      "nextIndex": 59
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 218838,
-      "vibe": "CONFIDENT",
+      "source": "Nikke",
+      "fanbase": 198429,
+      "vibe": "ROYAL",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+      "bio": "Assassin",
+      "description": "Kirika Yuumura is an assassin who teamed up with under the codename Noir",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2258-G45d2iDhEJVp.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526861829559681055/waifu-0016b31d14801cbd5d24151b.png?ex=6a589063&is=6a573ee3&hm=5eb059b4a0a5e2611f58ee285d108e373c6a180352ff80520d9c740fef93a29a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1526944894013280336/waifu-d31330b24ceebc9d26dd1ccf.png?ex=6a58ddbf&is=6a578c3f&hm=4ea3ca358751f90bb4532b9b40efdf7cb0dc6bfabe2d61c2e7eb33d3f4977982&"
   }
 }
