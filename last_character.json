@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yoruichi Shihouin:Bleach",
-  "lastName": "Yoruichi Shihouin",
-  "index": 181,
+  "lastId": "db:Kal'tsit:Arknights",
+  "lastName": "Kal'tsit",
+  "index": 286,
   "recent": [
+    "db:Kal'tsit:Arknights",
     "db:Yoruichi Shihouin:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Wakamo:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Brandish μ:Fairy Tail",
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Shionne Imeris:Tales of Arise",
-    "db:Kai'Sa:League of Legends",
-    "db:Rem:Re:Zero"
+    "db:Kai'Sa:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-16T09:49:29.384Z",
+  "updatedAt": "2026-07-16T14:41:19.702Z",
   "cached": {
     "character": {
-      "name": "Yoruichi Shihouin",
-      "source": "Bleach",
-      "universe": "ANIME",
+      "name": "Kal'tsit",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yoruichi Shihouin:Bleach",
-      "nextIndex": 181
+      "globalId": "db:Kal'tsit:Arknights",
+      "nextIndex": 286
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 512525,
+      "source": "Arknights",
+      "fanbase": 209789,
       "vibe": "SEDUCTIVE",
-      "rating": "LEGENDARY",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "cm Previous Position: 22nd Head of Shihōin Clan, Captain of the 2nd Division, O…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+      "bio": "Character",
+      "description": "Undisclosed Place of Birth: Rhodes Island Race: Feline cm Kal'tsit, one of Rhod…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527250814035296426/waifu-d0b70b658541131d94d79c7d.png?ex=6a59faa9&is=6a58a929&hm=780c7d960f744386fa8a6e29e2b523ea5872a95910bc3b8e5f4e1cc8235861e5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527324256965230712/waifu-41862c5a519ca98ec6c1bbdb.png?ex=6a5a3f0f&is=6a58ed8f&hm=1504314445fcee0cd972e037748d34305c2853b9d37195c9afe44a832d0a23ad&"
   }
 }
