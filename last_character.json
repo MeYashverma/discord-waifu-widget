@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mitsuru Kirijo:Persona 3",
-  "lastName": "Mitsuru Kirijo",
-  "index": 227,
+  "lastId": "db:Yoruichi Shihouin:Bleach",
+  "lastName": "Yoruichi Shihouin",
+  "index": 181,
   "recent": [
+    "db:Yoruichi Shihouin:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Wakamo:Blue Archive",
     "db:Noir:Nikke",
@@ -36,36 +37,35 @@
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Shionne Imeris:Tales of Arise",
     "db:Kai'Sa:League of Legends",
-    "db:Rem:Re:Zero",
-    "db:Camellya:Wuthering Waves"
+    "db:Rem:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-16T05:07:02.081Z",
+  "updatedAt": "2026-07-16T09:49:29.384Z",
   "cached": {
     "character": {
-      "name": "Mitsuru Kirijo",
-      "source": "Persona 3",
-      "universe": "JRPG",
+      "name": "Yoruichi Shihouin",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mitsuru Kirijo:Persona 3",
-      "nextIndex": 227
+      "globalId": "db:Yoruichi Shihouin:Bleach",
+      "nextIndex": 181
     },
     "meta": {
-      "source": "Persona 3",
-      "fanbase": 246761,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "17-18 (P3), 20 (P4A)",
-      "blood": "O",
-      "bio": "Student",
-      "description": "cm Initial Persona: Penthesilea Ultimate Persona: Artemisia Mitsuru is the only…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6206-f9Q2688rcIv7.png"
+      "source": "Bleach",
+      "fanbase": 512525,
+      "vibe": "SEDUCTIVE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Captain",
+      "description": "cm Previous Position: 22nd Head of Shihōin Clan, Captain of the 2nd Division, O…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527179732343328879/waifu-f607d4cece8ca7085eadd7f1.png?ex=6a59b875&is=6a5866f5&hm=d845d129aa4c4d9206d370b4216fb91dc83582ba28ff5b9e1fb5f5b59b038c5d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527250814035296426/waifu-d0b70b658541131d94d79c7d.png?ex=6a59faa9&is=6a58a929&hm=780c7d960f744386fa8a6e29e2b523ea5872a95910bc3b8e5f4e1cc8235861e5&"
   }
 }
