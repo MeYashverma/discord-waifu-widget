@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Wakamo:Blue Archive",
-  "lastName": "Wakamo",
-  "index": 70,
+  "lastId": "db:Mitsuru Kirijo:Persona 3",
+  "lastName": "Mitsuru Kirijo",
+  "index": 227,
   "recent": [
+    "db:Mitsuru Kirijo:Persona 3",
     "db:Wakamo:Blue Archive",
     "db:Noir:Nikke",
     "db:Shalltear Bloodfallen:Overlord",
@@ -36,36 +37,35 @@
     "db:Shionne Imeris:Tales of Arise",
     "db:Kai'Sa:League of Legends",
     "db:Rem:Re:Zero",
-    "db:Camellya:Wuthering Waves",
-    "db:Priscilla Barielle:Re:Zero"
+    "db:Camellya:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-15T19:08:43.535Z",
+  "updatedAt": "2026-07-16T05:07:02.081Z",
   "cached": {
     "character": {
-      "name": "Wakamo",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Mitsuru Kirijo",
+      "source": "Persona 3",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Wakamo:Blue Archive",
-      "nextIndex": 70
+      "globalId": "db:Mitsuru Kirijo:Persona 3",
+      "nextIndex": 227
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 258011,
-      "vibe": "TSUNDERE",
+      "source": "Persona 3",
+      "fanbase": 246761,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "18",
-      "blood": "Unknown",
+      "age": "17-18 (P3), 20 (P4A)",
+      "blood": "O",
       "bio": "Student",
-      "description": "Academy: Allied Hyakkiyako Academy Year: Suspended Club: None Hobbies: Destroyi…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287031-6e8XpbooLHDE.jpg"
+      "description": "cm Initial Persona: Penthesilea Ultimate Persona: Artemisia Mitsuru is the only…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6206-f9Q2688rcIv7.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527029162731110591/waifu-2d0f3da4cc7b9a38fc0b40f1.png?ex=6a592c3b&is=6a57dabb&hm=07f60a7669c6c41329feabb2db82807876f8a73eed6a4b4facb0567d2f59c37d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527179732343328879/waifu-f607d4cece8ca7085eadd7f1.png?ex=6a59b875&is=6a5866f5&hm=d845d129aa4c4d9206d370b4216fb91dc83582ba28ff5b9e1fb5f5b59b038c5d&"
   }
 }
