@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kal'tsit:Arknights",
-  "lastName": "Kal'tsit",
-  "index": 286,
+  "lastId": "db:Kushina Uzumaki:Naruto",
+  "lastName": "Kushina Uzumaki",
+  "index": 178,
   "recent": [
+    "db:Kushina Uzumaki:Naruto",
     "db:Kal'tsit:Arknights",
     "db:Yoruichi Shihouin:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
@@ -36,36 +37,35 @@
     "db:Rosa:Bayonetta",
     "db:Brandish μ:Fairy Tail",
     "db:Mitsuri Kanroji:Demon Slayer",
-    "db:Shionne Imeris:Tales of Arise",
-    "db:Kai'Sa:League of Legends"
+    "db:Shionne Imeris:Tales of Arise"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-16T14:41:19.702Z",
+  "updatedAt": "2026-07-16T21:30:22.719Z",
   "cached": {
     "character": {
-      "name": "Kal'tsit",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Kushina Uzumaki",
+      "source": "Naruto",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kal'tsit:Arknights",
-      "nextIndex": 286
+      "globalId": "db:Kushina Uzumaki:Naruto",
+      "nextIndex": 178
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 209789,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "source": "Naruto",
+      "fanbase": 609231,
+      "vibe": "ROYAL",
+      "rating": "LEGENDARY",
+      "age": "24",
+      "blood": "B",
       "bio": "Character",
-      "description": "Undisclosed Place of Birth: Rhodes Island Race: Feline cm Kal'tsit, one of Rhod…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg"
+      "description": "cm Kushina Uzumaki is a ninja of the former Land of the Whirlpool",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7302-KQ6ddZtOkvUf.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527324256965230712/waifu-41862c5a519ca98ec6c1bbdb.png?ex=6a5a3f0f&is=6a58ed8f&hm=1504314445fcee0cd972e037748d34305c2853b9d37195c9afe44a832d0a23ad&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527427198091264050/waifu-55610928123bd48748d674ef.png?ex=6a5a9eee&is=6a594d6e&hm=b78cac676d9311dd3ec88917a0ddcc9f607108cb62dee5e363d8357b17e725e5&"
   }
 }
