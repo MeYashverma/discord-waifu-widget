@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Matoi Ryuko:Kill la Kill",
-  "lastName": "Matoi Ryuko",
-  "index": 272,
+  "lastId": "db:Seele:Honkai Star Rail",
+  "lastName": "Seele",
+  "index": 29,
   "recent": [
+    "db:Seele:Honkai Star Rail",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Kushina Uzumaki:Naruto",
     "db:Kal'tsit:Arknights",
@@ -36,36 +37,35 @@
     "db:Mei Terumi:Naruto",
     "db:Selena:Punishing Gray Raven",
     "db:Rosa:Bayonetta",
-    "db:Brandish μ:Fairy Tail",
-    "db:Mitsuri Kanroji:Demon Slayer"
+    "db:Brandish μ:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-17T02:23:49.335Z",
+  "updatedAt": "2026-07-17T09:13:01.832Z",
   "cached": {
     "character": {
-      "name": "Matoi Ryuko",
-      "source": "Kill la Kill",
-      "universe": "ANIME",
+      "name": "Seele",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Matoi Ryuko:Kill la Kill",
-      "nextIndex": 272
+      "globalId": "db:Seele:Honkai Star Rail",
+      "nextIndex": 29
     },
     "meta": {
-      "source": "Kill la Kill",
-      "fanbase": 196694,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "Honkai Star Rail",
+      "fanbase": 439315,
+      "vibe": "TSUNDERE",
+      "rating": "ELITE",
+      "age": "14-16",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+      "bio": "Character",
+      "description": "cm An orphaned girl who became Bronya's closest friend at Cocolia's orphanage",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142952-31LnDxvK1dgQ.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527501036250595468/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6a5ae3b2&is=6a599232&hm=c5166ccc9f8a5761c63805eacbdb504fdb22d4cb8aca5975099abda9485f2918&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527604026777276547/waifu-f709b195bc32a3ac5ee07d5d.png?ex=6a5b439d&is=6a59f21d&hm=37f2e4a0a2d18aec7e3208a3cde7f7d4d535b242614baf6f73bf72bb19e2d8e9&"
   }
 }
