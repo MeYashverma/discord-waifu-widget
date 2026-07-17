@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kushina Uzumaki:Naruto",
-  "lastName": "Kushina Uzumaki",
-  "index": 178,
+  "lastId": "db:Matoi Ryuko:Kill la Kill",
+  "lastName": "Matoi Ryuko",
+  "index": 272,
   "recent": [
+    "db:Matoi Ryuko:Kill la Kill",
     "db:Kushina Uzumaki:Naruto",
     "db:Kal'tsit:Arknights",
     "db:Yoruichi Shihouin:Bleach",
@@ -36,15 +37,14 @@
     "db:Selena:Punishing Gray Raven",
     "db:Rosa:Bayonetta",
     "db:Brandish μ:Fairy Tail",
-    "db:Mitsuri Kanroji:Demon Slayer",
-    "db:Shionne Imeris:Tales of Arise"
+    "db:Mitsuri Kanroji:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-16T21:30:22.719Z",
+  "updatedAt": "2026-07-17T02:23:49.335Z",
   "cached": {
     "character": {
-      "name": "Kushina Uzumaki",
-      "source": "Naruto",
+      "name": "Matoi Ryuko",
+      "source": "Kill la Kill",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kushina Uzumaki:Naruto",
-      "nextIndex": 178
+      "globalId": "db:Matoi Ryuko:Kill la Kill",
+      "nextIndex": 272
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 609231,
-      "vibe": "ROYAL",
-      "rating": "LEGENDARY",
-      "age": "24",
-      "blood": "B",
-      "bio": "Character",
-      "description": "cm Kushina Uzumaki is a ninja of the former Land of the Whirlpool",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7302-KQ6ddZtOkvUf.png"
+      "source": "Kill la Kill",
+      "fanbase": 196694,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "17",
+      "blood": "Unknown",
+      "bio": "Student",
+      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527427198091264050/waifu-55610928123bd48748d674ef.png?ex=6a5a9eee&is=6a594d6e&hm=b78cac676d9311dd3ec88917a0ddcc9f607108cb62dee5e363d8357b17e725e5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527501036250595468/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6a5ae3b2&is=6a599232&hm=c5166ccc9f8a5761c63805eacbdb504fdb22d4cb8aca5975099abda9485f2918&"
   }
 }
