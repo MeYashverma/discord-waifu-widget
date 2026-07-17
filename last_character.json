@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Seele:Honkai Star Rail",
-  "lastName": "Seele",
-  "index": 29,
+  "lastId": "db:Cornelia li Britannia:Code Geass",
+  "lastName": "Cornelia li Britannia",
+  "index": 191,
   "recent": [
+    "db:Cornelia li Britannia:Code Geass",
     "db:Seele:Honkai Star Rail",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Kushina Uzumaki:Naruto",
@@ -36,36 +37,35 @@
     "db:Esdeath:Akame ga Kill!",
     "db:Mei Terumi:Naruto",
     "db:Selena:Punishing Gray Raven",
-    "db:Rosa:Bayonetta",
-    "db:Brandish μ:Fairy Tail"
+    "db:Rosa:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-17T09:13:01.832Z",
+  "updatedAt": "2026-07-17T14:06:33.365Z",
   "cached": {
     "character": {
-      "name": "Seele",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Cornelia li Britannia",
+      "source": "Code Geass",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Seele:Honkai Star Rail",
-      "nextIndex": 29
+      "globalId": "db:Cornelia li Britannia:Code Geass",
+      "nextIndex": 191
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 439315,
-      "vibe": "TSUNDERE",
-      "rating": "ELITE",
-      "age": "14-16",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm An orphaned girl who became Bronya's closest friend at Cocolia's orphanage",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142952-31LnDxvK1dgQ.jpg"
+      "source": "Code Geass",
+      "fanbase": 184893,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "27-28",
+      "blood": "O",
+      "bio": "Royalty",
+      "description": "Cornelia is the second princess of the Britannia Imperial Family and, as such, …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527604026777276547/waifu-f709b195bc32a3ac5ee07d5d.png?ex=6a5b439d&is=6a59f21d&hm=37f2e4a0a2d18aec7e3208a3cde7f7d4d535b242614baf6f73bf72bb19e2d8e9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527677894946721982/waifu-4842e5b1ab1a3d3d71ec4204.png?ex=6a5b8869&is=6a5a36e9&hm=3ff84f8c5abec82549465250b030ce05f0445651b585e9a96b006ff69b7fe75a&"
   }
 }
