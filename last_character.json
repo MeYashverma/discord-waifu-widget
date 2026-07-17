@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Cornelia li Britannia:Code Geass",
-  "lastName": "Cornelia li Britannia",
-  "index": 191,
+  "lastId": "db:Cereza:Bayonetta Origins",
+  "lastName": "Cereza",
+  "index": 261,
   "recent": [
+    "db:Cereza:Bayonetta Origins",
     "db:Cornelia li Britannia:Code Geass",
     "db:Seele:Honkai Star Rail",
     "db:Matoi Ryuko:Kill la Kill",
@@ -36,36 +37,35 @@
     "db:Ymir:Attack on Titan",
     "db:Esdeath:Akame ga Kill!",
     "db:Mei Terumi:Naruto",
-    "db:Selena:Punishing Gray Raven",
-    "db:Rosa:Bayonetta"
+    "db:Selena:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-17T14:06:33.365Z",
+  "updatedAt": "2026-07-17T18:54:12.998Z",
   "cached": {
     "character": {
-      "name": "Cornelia li Britannia",
-      "source": "Code Geass",
-      "universe": "ANIME",
+      "name": "Cereza",
+      "source": "Bayonetta Origins",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Cornelia li Britannia:Code Geass",
-      "nextIndex": 191
+      "globalId": "db:Cereza:Bayonetta Origins",
+      "nextIndex": 261
     },
     "meta": {
-      "source": "Code Geass",
-      "fanbase": 184893,
-      "vibe": "SEDUCTIVE",
+      "source": "Bayonetta Origins",
+      "fanbase": 200895,
+      "vibe": "TSUNDERE",
       "rating": "POPULAR",
-      "age": "27-28",
-      "blood": "O",
-      "bio": "Royalty",
-      "description": "Cornelia is the second princess of the Britannia Imperial Family and, as such, …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg"
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Cereza is the time-displaced young girl",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219274-P9RmNHp3VJTO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527677894946721982/waifu-4842e5b1ab1a3d3d71ec4204.png?ex=6a5b8869&is=6a5a36e9&hm=3ff84f8c5abec82549465250b030ce05f0445651b585e9a96b006ff69b7fe75a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527750286972817498/waifu-57f24d98f571a396cd958eb3.png?ex=6a5bcbd4&is=6a5a7a54&hm=de759498848fef63bacebd4dabdc03e174d80c767c8ed202254e96f1d548746c&"
   }
 }
