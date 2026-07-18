@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Acheron:Honkai Star Rail",
-  "lastName": "Acheron",
-  "index": 24,
+  "lastId": "db:Ishtar:Fate Series",
+  "lastName": "Ishtar",
+  "index": 208,
   "recent": [
+    "db:Ishtar:Fate Series",
     "db:Acheron:Honkai Star Rail",
     "db:Android 18:Dragon Ball Z",
     "db:Fiona Frost:Spy x Family",
@@ -36,36 +37,35 @@
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
-    "db:Yuki Tsukumo:Jujutsu Kaisen",
-    "db:Ymir:Attack on Titan"
+    "db:Yuki Tsukumo:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-18T12:54:10.174Z",
+  "updatedAt": "2026-07-18T18:48:39.270Z",
   "cached": {
     "character": {
-      "name": "Acheron",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Ishtar",
+      "source": "Fate Series",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Acheron:Honkai Star Rail",
-      "nextIndex": 24
+      "globalId": "db:Ishtar:Fate Series",
+      "nextIndex": 208
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 447093,
-      "vibe": "SEDUCTIVE",
-      "rating": "ELITE",
+      "source": "Fate Series",
+      "fanbase": 228599,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A drifter claiming to be a Galaxy Ranger",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338375-hu2kmZMO8Mgk.png"
+      "bio": "Goddess",
+      "description": "cm Ishtar is the goddess of beauty, good harvests, war, lust, discord, and fert…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135743-K9rrQKqxWB5q.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528022066237018122/waifu-0125eadbc525f37edf2e63d1.png?ex=6a5cc8f1&is=6a5b7771&hm=2a9fdfc062425231d1ea5dcc8ec1b6d6346b259e363463b89f312d9e76a5111e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528111275295637554/waifu-141ac2da7684f17f1e7b79ab.png?ex=6a5d1c06&is=6a5bca86&hm=304849ed1d7f2b808822752832e9ad09db06a170aaec95723955208b9b48973e&"
   }
 }
