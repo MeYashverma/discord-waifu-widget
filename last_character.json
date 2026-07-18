@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Cereza:Bayonetta Origins",
-  "lastName": "Cereza",
-  "index": 261,
+  "lastId": "db:Fiona Frost:Spy x Family",
+  "lastName": "Fiona Frost",
+  "index": 140,
   "recent": [
+    "db:Fiona Frost:Spy x Family",
     "db:Cereza:Bayonetta Origins",
     "db:Cornelia li Britannia:Code Geass",
     "db:Seele:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Ymir:Attack on Titan",
     "db:Esdeath:Akame ga Kill!",
-    "db:Mei Terumi:Naruto",
-    "db:Selena:Punishing Gray Raven"
+    "db:Mei Terumi:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-17T18:54:12.998Z",
+  "updatedAt": "2026-07-18T01:41:16.251Z",
   "cached": {
     "character": {
-      "name": "Cereza",
-      "source": "Bayonetta Origins",
-      "universe": "GAME",
+      "name": "Fiona Frost",
+      "source": "Spy x Family",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Cereza:Bayonetta Origins",
-      "nextIndex": 261
+      "globalId": "db:Fiona Frost:Spy x Family",
+      "nextIndex": 140
     },
     "meta": {
-      "source": "Bayonetta Origins",
-      "fanbase": 200895,
-      "vibe": "TSUNDERE",
+      "source": "Spy x Family",
+      "fanbase": 204086,
+      "vibe": "YANDERE",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Cereza is the time-displaced young girl",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219274-P9RmNHp3VJTO.png"
+      "description": "cm Occupation: Hospital Assistant A spy who works undercover as an assistant to…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184936-kVn06kjZly6H.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527750286972817498/waifu-57f24d98f571a396cd958eb3.png?ex=6a5bcbd4&is=6a5a7a54&hm=de759498848fef63bacebd4dabdc03e174d80c767c8ed202254e96f1d548746c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527852725834879097/waifu-88d9aaded7724ea22960b17e.png?ex=6a5c2b3b&is=6a5ad9bb&hm=077fa48c504a95f4a2385850a776fc5bdc2a9759f64bcdd9e5c911a62ad04ee5&"
   }
 }
