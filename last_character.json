@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Android 18:Dragon Ball Z",
-  "lastName": "Android 18",
-  "index": 298,
+  "lastId": "db:Acheron:Honkai Star Rail",
+  "lastName": "Acheron",
+  "index": 24,
   "recent": [
+    "db:Acheron:Honkai Star Rail",
     "db:Android 18:Dragon Ball Z",
     "db:Fiona Frost:Spy x Family",
     "db:Cereza:Bayonetta Origins",
@@ -36,36 +37,35 @@
     "db:Jeanne:Bayonetta",
     "db:Sakura Matou:Fate/stay night",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
-    "db:Ymir:Attack on Titan",
-    "db:Esdeath:Akame ga Kill!"
+    "db:Ymir:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-18T07:28:08.428Z",
+  "updatedAt": "2026-07-18T12:54:10.174Z",
   "cached": {
     "character": {
-      "name": "Android 18",
-      "source": "Dragon Ball Z",
-      "universe": "ANIME",
+      "name": "Acheron",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Android 18:Dragon Ball Z",
-      "nextIndex": 298
+      "globalId": "db:Acheron:Honkai Star Rail",
+      "nextIndex": 24
     },
     "meta": {
-      "source": "Dragon Ball Z",
-      "fanbase": 265065,
+      "source": "Honkai Star Rail",
+      "fanbase": 447093,
       "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "Android 18 is a fictional character who first appears in the Dragon Ball manga …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png"
+      "bio": "Character",
+      "description": "A drifter claiming to be a Galaxy Ranger",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338375-hu2kmZMO8Mgk.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527940018402754661/waifu-a65371d1478b3150377c3c7c.png?ex=6a5c7c88&is=6a5b2b08&hm=3f39194ae6073ae045c1b8681bcb60351dd462f14efd09cf19a5333efa3cebc5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528022066237018122/waifu-0125eadbc525f37edf2e63d1.png?ex=6a5cc8f1&is=6a5b7771&hm=2a9fdfc062425231d1ea5dcc8ec1b6d6346b259e363463b89f312d9e76a5111e&"
   }
 }
