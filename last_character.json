@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fiona Frost:Spy x Family",
-  "lastName": "Fiona Frost",
-  "index": 140,
+  "lastId": "db:Android 18:Dragon Ball Z",
+  "lastName": "Android 18",
+  "index": 298,
   "recent": [
+    "db:Android 18:Dragon Ball Z",
     "db:Fiona Frost:Spy x Family",
     "db:Cereza:Bayonetta Origins",
     "db:Cornelia li Britannia:Code Geass",
@@ -36,15 +37,14 @@
     "db:Sakura Matou:Fate/stay night",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Ymir:Attack on Titan",
-    "db:Esdeath:Akame ga Kill!",
-    "db:Mei Terumi:Naruto"
+    "db:Esdeath:Akame ga Kill!"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-18T01:41:16.251Z",
+  "updatedAt": "2026-07-18T07:28:08.428Z",
   "cached": {
     "character": {
-      "name": "Fiona Frost",
-      "source": "Spy x Family",
+      "name": "Android 18",
+      "source": "Dragon Ball Z",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fiona Frost:Spy x Family",
-      "nextIndex": 140
+      "globalId": "db:Android 18:Dragon Ball Z",
+      "nextIndex": 298
     },
     "meta": {
-      "source": "Spy x Family",
-      "fanbase": 204086,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
+      "source": "Dragon Ball Z",
+      "fanbase": 265065,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Occupation: Hospital Assistant A spy who works undercover as an assistant to…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184936-kVn06kjZly6H.png"
+      "bio": "Android",
+      "description": "Android 18 is a fictional character who first appears in the Dragon Ball manga …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527852725834879097/waifu-88d9aaded7724ea22960b17e.png?ex=6a5c2b3b&is=6a5ad9bb&hm=077fa48c504a95f4a2385850a776fc5bdc2a9759f64bcdd9e5c911a62ad04ee5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1527940018402754661/waifu-a65371d1478b3150377c3c7c.png?ex=6a5c7c88&is=6a5b2b08&hm=3f39194ae6073ae045c1b8681bcb60351dd462f14efd09cf19a5333efa3cebc5&"
   }
 }
