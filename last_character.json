@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fami:Chainsaw Man",
-  "lastName": "Fami",
-  "index": 79,
+  "lastId": "db:Sasha Blouse:Attack on Titan",
+  "lastName": "Sasha Blouse",
+  "index": 134,
   "recent": [
+    "db:Sasha Blouse:Attack on Titan",
     "db:Fami:Chainsaw Man",
     "db:Enterprise:Azur Lane",
     "db:Ishtar:Fate Series",
@@ -36,15 +37,14 @@
     "db:Formidable:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Taoqi:Wuthering Waves",
-    "db:Ritsuko Akagi:Neon Genesis Evangelion",
-    "db:Jeanne:Bayonetta"
+    "db:Ritsuko Akagi:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-19T08:00:38.795Z",
+  "updatedAt": "2026-07-19T12:56:12.703Z",
   "cached": {
     "character": {
-      "name": "Fami",
-      "source": "Chainsaw Man",
+      "name": "Sasha Blouse",
+      "source": "Attack on Titan",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fami:Chainsaw Man",
-      "nextIndex": 79
+      "globalId": "db:Sasha Blouse:Attack on Titan",
+      "nextIndex": 134
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 488286,
-      "vibe": "DOMINANT",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Attack on Titan",
+      "fanbase": 675572,
+      "vibe": "CONFIDENT",
+      "rating": "LEGENDARY",
+      "age": "16-",
       "blood": "Unknown",
       "bio": "Hunter",
-      "description": "The Famine Devil is one of the four horseman devils",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294475-3DOVtMBudU9f.jpg"
+      "description": "Initial cm Affiliations: 104th Cadet Corps, Survey Corps; Soldier Relatives: , …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528310586235158710/waifu-9474bc77da4290c49ee1d4e6.png?ex=6a5dd5a6&is=6a5c8426&hm=7985393b15cfa72dc30ea7604522d2b7da46c75e861c55eebaedf5e42bfda3f1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528384968345124925/waifu-310c550ce324fcd621d218a5.png?ex=6a5e1aec&is=6a5cc96c&hm=4632d1be2aa6d5fc6bc27329382300b3bb23ad56e6c779e8668f455dc4017820&"
   }
 }
