@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ishtar:Fate Series",
-  "lastName": "Ishtar",
-  "index": 208,
+  "lastId": "db:Enterprise:Azur Lane",
+  "lastName": "Enterprise",
+  "index": 275,
   "recent": [
+    "db:Enterprise:Azur Lane",
     "db:Ishtar:Fate Series",
     "db:Acheron:Honkai Star Rail",
     "db:Android 18:Dragon Ball Z",
@@ -36,36 +37,35 @@
     "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Jeanne:Bayonetta",
-    "db:Sakura Matou:Fate/stay night",
-    "db:Yuki Tsukumo:Jujutsu Kaisen"
+    "db:Sakura Matou:Fate/stay night"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-18T18:48:39.270Z",
+  "updatedAt": "2026-07-19T01:49:19.001Z",
   "cached": {
     "character": {
-      "name": "Ishtar",
-      "source": "Fate Series",
-      "universe": "ANIME",
+      "name": "Enterprise",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ishtar:Fate Series",
-      "nextIndex": 208
+      "globalId": "db:Enterprise:Azur Lane",
+      "nextIndex": 275
     },
     "meta": {
-      "source": "Fate Series",
-      "fanbase": 228599,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
+      "source": "Azur Lane",
+      "fanbase": 206370,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Goddess",
-      "description": "cm Ishtar is the goddess of beauty, good harvests, war, lust, discord, and fert…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135743-K9rrQKqxWB5q.jpg"
+      "bio": "Character",
+      "description": "Faction: Eagle Union Class: Yorktown Legendary Yorktown-class aircraft carrier …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130082-WiDwPynLeBXD.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528111275295637554/waifu-141ac2da7684f17f1e7b79ab.png?ex=6a5d1c06&is=6a5bca86&hm=304849ed1d7f2b808822752832e9ad09db06a170aaec95723955208b9b48973e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528217138102276096/waifu-547bb1f43d1f32157b103dc3.png?ex=6a5d7e9e&is=6a5c2d1e&hm=ac2d9471687ac4aab5edd4df36892d24f07ba3c59c6e93745be21334f10a19c9&"
   }
 }
