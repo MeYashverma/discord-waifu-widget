@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Enterprise:Azur Lane",
-  "lastName": "Enterprise",
-  "index": 275,
+  "lastId": "db:Fami:Chainsaw Man",
+  "lastName": "Fami",
+  "index": 79,
   "recent": [
+    "db:Fami:Chainsaw Man",
     "db:Enterprise:Azur Lane",
     "db:Ishtar:Fate Series",
     "db:Acheron:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Kurumi Tokisaki:Date A Live",
     "db:Taoqi:Wuthering Waves",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
-    "db:Jeanne:Bayonetta",
-    "db:Sakura Matou:Fate/stay night"
+    "db:Jeanne:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-19T01:49:19.001Z",
+  "updatedAt": "2026-07-19T08:00:38.795Z",
   "cached": {
     "character": {
-      "name": "Enterprise",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Fami",
+      "source": "Chainsaw Man",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Enterprise:Azur Lane",
-      "nextIndex": 275
+      "globalId": "db:Fami:Chainsaw Man",
+      "nextIndex": 79
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 206370,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
+      "source": "Chainsaw Man",
+      "fanbase": 488286,
+      "vibe": "DOMINANT",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Faction: Eagle Union Class: Yorktown Legendary Yorktown-class aircraft carrier …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130082-WiDwPynLeBXD.jpg"
+      "bio": "Hunter",
+      "description": "The Famine Devil is one of the four horseman devils",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294475-3DOVtMBudU9f.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528217138102276096/waifu-547bb1f43d1f32157b103dc3.png?ex=6a5d7e9e&is=6a5c2d1e&hm=ac2d9471687ac4aab5edd4df36892d24f07ba3c59c6e93745be21334f10a19c9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528310586235158710/waifu-9474bc77da4290c49ee1d4e6.png?ex=6a5dd5a6&is=6a5c8426&hm=7985393b15cfa72dc30ea7604522d2b7da46c75e861c55eebaedf5e42bfda3f1&"
   }
 }
