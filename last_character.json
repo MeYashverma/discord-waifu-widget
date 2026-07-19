@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sasha Blouse:Attack on Titan",
-  "lastName": "Sasha Blouse",
-  "index": 134,
+  "lastId": "db:Esdeath:Akame ga Kill!",
+  "lastName": "Esdeath",
+  "index": 158,
   "recent": [
+    "db:Esdeath:Akame ga Kill!",
     "db:Sasha Blouse:Attack on Titan",
     "db:Fami:Chainsaw Man",
     "db:Enterprise:Azur Lane",
@@ -36,15 +37,14 @@
     "db:Yinlin:Wuthering Waves",
     "db:Formidable:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
-    "db:Taoqi:Wuthering Waves",
-    "db:Ritsuko Akagi:Neon Genesis Evangelion"
+    "db:Taoqi:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-19T12:56:12.703Z",
+  "updatedAt": "2026-07-19T18:52:35.388Z",
   "cached": {
     "character": {
-      "name": "Sasha Blouse",
-      "source": "Attack on Titan",
+      "name": "Esdeath",
+      "source": "Akame ga Kill!",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sasha Blouse:Attack on Titan",
-      "nextIndex": 134
+      "globalId": "db:Esdeath:Akame ga Kill!",
+      "nextIndex": 158
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 675572,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
-      "age": "16-",
+      "source": "Akame ga Kill!",
+      "fanbase": 196441,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
+      "age": "20",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Initial cm Affiliations: 104th Cadet Corps, Survey Corps; Soldier Relatives: , …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
+      "bio": "Character",
+      "description": "cm Esdeath is a high-ranking general of the Empire, and leader of the Jaegers",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528384968345124925/waifu-310c550ce324fcd621d218a5.png?ex=6a5e1aec&is=6a5cc96c&hm=4632d1be2aa6d5fc6bc27329382300b3bb23ad56e6c779e8668f455dc4017820&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528474653553725450/waifu-3afa5fea60eb46854bbd3d8c.png?ex=6a5e6e73&is=6a5d1cf3&hm=c2e4e4bdf1000558b0e99f0e6caf847ffbb5ce64d429cfa57ed241988fa20790&"
   }
 }
