@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jinhsi:Wuthering Waves",
-  "lastName": "Jinhsi",
-  "index": 44,
+  "lastId": "db:Clorinde:Genshin Impact",
+  "lastName": "Clorinde",
+  "index": 13,
   "recent": [
+    "db:Clorinde:Genshin Impact",
     "db:Jinhsi:Wuthering Waves",
     "db:Futaba Sakura:Persona 5",
     "db:Yuffie Kisaragi:Final Fantasy VII",
@@ -36,15 +37,14 @@
     "db:Firefly:Honkai Star Rail",
     "db:Historia Reiss:Attack on Titan",
     "db:Phoebe:Wuthering Waves",
-    "db:Daki:Demon Slayer",
-    "db:Yinlin:Wuthering Waves"
+    "db:Daki:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-20T13:49:34.591Z",
+  "updatedAt": "2026-07-20T19:26:17.653Z",
   "cached": {
     "character": {
-      "name": "Jinhsi",
-      "source": "Wuthering Waves",
+      "name": "Clorinde",
+      "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jinhsi:Wuthering Waves",
-      "nextIndex": 44
+      "globalId": "db:Clorinde:Genshin Impact",
+      "nextIndex": 13
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 240363,
+      "source": "Genshin Impact",
+      "fanbase": 512279,
       "vibe": "DEADLY",
-      "rating": "ICONIC",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "No biography written",
-      "image": "https://media.kitsu.app/characters/images/15836/original.jpg"
+      "description": "Novel Debut: Volume 14",
+      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528760784975564861/waifu-4b07a7a4bad9f23a801fd788.png?ex=6a5f78ee&is=6a5e276e&hm=314f205702fb60d4857570ee8a4e562a1acd89f78ae244aea3ee0a6c4b91d84d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528845523690459156/waifu-6422de0ae7c66a0e9f3a82dc.png?ex=6a5fc7d9&is=6a5e7659&hm=9d186c1d2989c32c5a38c07967c26a441969f3fc09d92df0c43396a1ef32455f&"
   }
 }
