@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Esdeath:Akame ga Kill!",
-  "lastName": "Esdeath",
-  "index": 158,
+  "lastId": "db:Yuffie Kisaragi:Final Fantasy VII",
+  "lastName": "Yuffie Kisaragi",
+  "index": 212,
   "recent": [
+    "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Esdeath:Akame ga Kill!",
     "db:Sasha Blouse:Attack on Titan",
     "db:Fami:Chainsaw Man",
@@ -36,36 +37,35 @@
     "db:Daki:Demon Slayer",
     "db:Yinlin:Wuthering Waves",
     "db:Formidable:Azur Lane",
-    "db:Kurumi Tokisaki:Date A Live",
-    "db:Taoqi:Wuthering Waves"
+    "db:Kurumi Tokisaki:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-19T18:52:35.388Z",
+  "updatedAt": "2026-07-20T02:07:07.249Z",
   "cached": {
     "character": {
-      "name": "Esdeath",
-      "source": "Akame ga Kill!",
-      "universe": "ANIME",
+      "name": "Yuffie Kisaragi",
+      "source": "Final Fantasy VII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Esdeath:Akame ga Kill!",
-      "nextIndex": 158
+      "globalId": "db:Yuffie Kisaragi:Final Fantasy VII",
+      "nextIndex": 212
     },
     "meta": {
-      "source": "Akame ga Kill!",
-      "fanbase": 196441,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "20",
-      "blood": "Unknown",
+      "source": "Final Fantasy VII",
+      "fanbase": 481666,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "9-15",
+      "blood": "A",
       "bio": "Character",
-      "description": "cm Esdeath is a high-ranking general of the Empire, and leader of the Jaegers",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+      "description": "Yuffle is a Ninja and a Thief, wielding a large shuriken",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/2911.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528474653553725450/waifu-3afa5fea60eb46854bbd3d8c.png?ex=6a5e6e73&is=6a5d1cf3&hm=c2e4e4bdf1000558b0e99f0e6caf847ffbb5ce64d429cfa57ed241988fa20790&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528584005711167529/waifu-a49051fc514312688401ec31.png?ex=6a5ed44a&is=6a5d82ca&hm=db8d715462fc13d80715f1509b422367c892b75f24ece792cb21f57f4d6556bf&"
   }
 }
