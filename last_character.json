@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Futaba Sakura:Persona 5",
-  "lastName": "Futaba Sakura",
-  "index": 225,
+  "lastId": "db:Jinhsi:Wuthering Waves",
+  "lastName": "Jinhsi",
+  "index": 44,
   "recent": [
+    "db:Jinhsi:Wuthering Waves",
     "db:Futaba Sakura:Persona 5",
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Esdeath:Akame ga Kill!",
@@ -36,36 +37,35 @@
     "db:Historia Reiss:Attack on Titan",
     "db:Phoebe:Wuthering Waves",
     "db:Daki:Demon Slayer",
-    "db:Yinlin:Wuthering Waves",
-    "db:Formidable:Azur Lane"
+    "db:Yinlin:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-20T08:42:11.284Z",
+  "updatedAt": "2026-07-20T13:49:34.591Z",
   "cached": {
     "character": {
-      "name": "Futaba Sakura",
-      "source": "Persona 5",
-      "universe": "JRPG",
+      "name": "Jinhsi",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Futaba Sakura:Persona 5",
-      "nextIndex": 225
+      "globalId": "db:Jinhsi:Wuthering Waves",
+      "nextIndex": 44
     },
     "meta": {
-      "source": "Persona 5",
-      "fanbase": 407378,
-      "vibe": "MYSTERIOUS",
-      "rating": "ELITE",
-      "age": "15 - 16",
-      "blood": "AB-",
+      "source": "Wuthering Waves",
+      "fanbase": 240363,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "Birth Name: Futaba Isshiki cm Arcana: Hermit Initial Persona: Necronomicon Tran…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121635-x3rT0I5xKaDu.png"
+      "description": "No biography written",
+      "image": "https://media.kitsu.app/characters/images/15836/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528683428449353769/waifu-508b2e67657a8441042b4dd6.png?ex=6a5f30e2&is=6a5ddf62&hm=ab5776f842748a89f08fef02a4a2ff5a5369f98f4bc8db76a3df7a43209a104c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528760784975564861/waifu-4b07a7a4bad9f23a801fd788.png?ex=6a5f78ee&is=6a5e276e&hm=314f205702fb60d4857570ee8a4e562a1acd89f78ae244aea3ee0a6c4b91d84d&"
   }
 }
