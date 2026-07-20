@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuffie Kisaragi:Final Fantasy VII",
-  "lastName": "Yuffie Kisaragi",
-  "index": 212,
+  "lastId": "db:Futaba Sakura:Persona 5",
+  "lastName": "Futaba Sakura",
+  "index": 225,
   "recent": [
+    "db:Futaba Sakura:Persona 5",
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Esdeath:Akame ga Kill!",
     "db:Sasha Blouse:Attack on Titan",
@@ -36,15 +37,14 @@
     "db:Phoebe:Wuthering Waves",
     "db:Daki:Demon Slayer",
     "db:Yinlin:Wuthering Waves",
-    "db:Formidable:Azur Lane",
-    "db:Kurumi Tokisaki:Date A Live"
+    "db:Formidable:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-20T02:07:07.249Z",
+  "updatedAt": "2026-07-20T08:42:11.284Z",
   "cached": {
     "character": {
-      "name": "Yuffie Kisaragi",
-      "source": "Final Fantasy VII",
+      "name": "Futaba Sakura",
+      "source": "Persona 5",
       "universe": "JRPG",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuffie Kisaragi:Final Fantasy VII",
-      "nextIndex": 212
+      "globalId": "db:Futaba Sakura:Persona 5",
+      "nextIndex": 225
     },
     "meta": {
-      "source": "Final Fantasy VII",
-      "fanbase": 481666,
-      "vibe": "ELEGANT",
+      "source": "Persona 5",
+      "fanbase": 407378,
+      "vibe": "MYSTERIOUS",
       "rating": "ELITE",
-      "age": "9-15",
-      "blood": "A",
+      "age": "15 - 16",
+      "blood": "AB-",
       "bio": "Character",
-      "description": "Yuffle is a Ninja and a Thief, wielding a large shuriken",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/2911.jpg"
+      "description": "Birth Name: Futaba Isshiki cm Arcana: Hermit Initial Persona: Necronomicon Tran…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121635-x3rT0I5xKaDu.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528584005711167529/waifu-a49051fc514312688401ec31.png?ex=6a5ed44a&is=6a5d82ca&hm=db8d715462fc13d80715f1509b422367c892b75f24ece792cb21f57f4d6556bf&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528683428449353769/waifu-508b2e67657a8441042b4dd6.png?ex=6a5f30e2&is=6a5ddf62&hm=ab5776f842748a89f08fef02a4a2ff5a5369f98f4bc8db76a3df7a43209a104c&"
   }
 }
