@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Clorinde:Genshin Impact",
-  "lastName": "Clorinde",
-  "index": 13,
+  "lastId": "db:Boa Hancock:One Piece",
+  "lastName": "Boa Hancock",
+  "index": 166,
   "recent": [
+    "db:Boa Hancock:One Piece",
     "db:Clorinde:Genshin Impact",
     "db:Jinhsi:Wuthering Waves",
     "db:Futaba Sakura:Persona 5",
@@ -36,36 +37,35 @@
     "db:Arlecchino:Genshin Impact",
     "db:Firefly:Honkai Star Rail",
     "db:Historia Reiss:Attack on Titan",
-    "db:Phoebe:Wuthering Waves",
-    "db:Daki:Demon Slayer"
+    "db:Phoebe:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-20T19:26:17.653Z",
+  "updatedAt": "2026-07-21T01:48:59.990Z",
   "cached": {
     "character": {
-      "name": "Clorinde",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Boa Hancock",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Clorinde:Genshin Impact",
-      "nextIndex": 13
+      "globalId": "db:Boa Hancock:One Piece",
+      "nextIndex": 166
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 512279,
-      "vibe": "DEADLY",
+      "source": "One Piece",
+      "fanbase": 624986,
+      "vibe": "INTENSE",
       "rating": "LEGENDARY",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "Novel Debut: Volume 14",
-      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
+      "age": "29-",
+      "blood": "S",
+      "bio": "Captain",
+      "description": "cm Affiliation: Kuja; Kuja Pirates; Shichibukai Occupation: Pirate Captain; Emp…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528845523690459156/waifu-6422de0ae7c66a0e9f3a82dc.png?ex=6a5fc7d9&is=6a5e7659&hm=9d186c1d2989c32c5a38c07967c26a441969f3fc09d92df0c43396a1ef32455f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528941834280374334/waifu-af4d3c37982fd0d95abb34e5.png?ex=6a60218b&is=6a5ed00b&hm=85655891adeb78a3ad5d05112445cae81d7714f462d5721af86d068b4aa0c7b4&"
   }
 }
