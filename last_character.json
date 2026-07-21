@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Boa Hancock:One Piece",
-  "lastName": "Boa Hancock",
-  "index": 166,
+  "lastId": "db:Rossweisse:High School DxD",
+  "lastName": "Rossweisse",
+  "index": 95,
   "recent": [
+    "db:Rossweisse:High School DxD",
     "db:Boa Hancock:One Piece",
     "db:Clorinde:Genshin Impact",
     "db:Jinhsi:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Nina Williams:Tekken",
     "db:Arlecchino:Genshin Impact",
     "db:Firefly:Honkai Star Rail",
-    "db:Historia Reiss:Attack on Titan",
-    "db:Phoebe:Wuthering Waves"
+    "db:Historia Reiss:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-21T01:48:59.990Z",
+  "updatedAt": "2026-07-21T08:09:15.270Z",
   "cached": {
     "character": {
-      "name": "Boa Hancock",
-      "source": "One Piece",
+      "name": "Rossweisse",
+      "source": "High School DxD",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Boa Hancock:One Piece",
-      "nextIndex": 166
+      "globalId": "db:Rossweisse:High School DxD",
+      "nextIndex": 95
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 624986,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
-      "age": "29-",
-      "blood": "S",
-      "bio": "Captain",
-      "description": "cm Affiliation: Kuja; Kuja Pirates; Shichibukai Occupation: Pirate Captain; Emp…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
+      "source": "High School DxD",
+      "fanbase": 211366,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Student",
+      "description": "Rank: Low-class Devil Role: Rook Species: Reincarnated Devil Power: Norse Magic…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51341-HCHqmcrlZ8M8.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1528941834280374334/waifu-af4d3c37982fd0d95abb34e5.png?ex=6a60218b&is=6a5ed00b&hm=85655891adeb78a3ad5d05112445cae81d7714f462d5721af86d068b4aa0c7b4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529037528219259012/waifu-d45b350bb09018d2b670c4a7.png?ex=6a607aaa&is=6a5f292a&hm=112b3cd557eae97a2b6ce9b292dcc9bc02ae02623bc0851cfa1508817b83bc83&"
   }
 }
