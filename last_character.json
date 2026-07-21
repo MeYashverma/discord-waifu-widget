@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Crusch Karsten:Re:Zero",
-  "lastName": "Crusch Karsten",
-  "index": 85,
+  "lastId": "db:Formidable:Azur Lane",
+  "lastName": "Formidable",
+  "index": 280,
   "recent": [
+    "db:Formidable:Azur Lane",
     "db:Crusch Karsten:Re:Zero",
     "db:Rossweisse:High School DxD",
     "db:Boa Hancock:One Piece",
@@ -36,36 +37,35 @@
     "db:Ichigo:Darling in the Franxx",
     "db:Alice:Nikke",
     "db:Nina Williams:Tekken",
-    "db:Arlecchino:Genshin Impact",
-    "db:Firefly:Honkai Star Rail"
+    "db:Arlecchino:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-21T13:18:34.979Z",
+  "updatedAt": "2026-07-21T19:04:41.464Z",
   "cached": {
     "character": {
-      "name": "Crusch Karsten",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Formidable",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Crusch Karsten:Re:Zero",
-      "nextIndex": 85
+      "globalId": "db:Formidable:Azur Lane",
+      "nextIndex": 280
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 250412,
-      "vibe": "INTENSE",
+      "source": "Azur Lane",
+      "fanbase": 236062,
+      "vibe": "YANDERE",
       "rating": "ICONIC",
-      "age": "20",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
+      "bio": "Character",
+      "description": "Formidable from Azur Lane",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206521-6yl8aZDd36wH.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529115373159452763/waifu-cabbe95ce713429f4c7d1406.png?ex=6a60c32a&is=6a5f71aa&hm=f7153a1a8413fbcbaff4a2bb5372d31ee7d7170f20b7637e30eeaab61e0da899&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529202474580316432/waifu-95cd4cf4bddfa74c302ae9b4.png?ex=6a611449&is=6a5fc2c9&hm=ce70540682c83bca47adb358c9e11d88727bf0f4fa2371d468871cadf0b7b8a1&"
   }
 }
