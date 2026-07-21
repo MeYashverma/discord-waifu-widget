@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rossweisse:High School DxD",
-  "lastName": "Rossweisse",
-  "index": 95,
+  "lastId": "db:Crusch Karsten:Re:Zero",
+  "lastName": "Crusch Karsten",
+  "index": 85,
   "recent": [
+    "db:Crusch Karsten:Re:Zero",
     "db:Rossweisse:High School DxD",
     "db:Boa Hancock:One Piece",
     "db:Clorinde:Genshin Impact",
@@ -36,15 +37,14 @@
     "db:Alice:Nikke",
     "db:Nina Williams:Tekken",
     "db:Arlecchino:Genshin Impact",
-    "db:Firefly:Honkai Star Rail",
-    "db:Historia Reiss:Attack on Titan"
+    "db:Firefly:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-21T08:09:15.270Z",
+  "updatedAt": "2026-07-21T13:18:34.979Z",
   "cached": {
     "character": {
-      "name": "Rossweisse",
-      "source": "High School DxD",
+      "name": "Crusch Karsten",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rossweisse:High School DxD",
-      "nextIndex": 95
+      "globalId": "db:Crusch Karsten:Re:Zero",
+      "nextIndex": 85
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 211366,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Re:Zero",
+      "fanbase": 250412,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
+      "age": "20",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Rank: Low-class Devil Role: Rook Species: Reincarnated Devil Power: Norse Magic…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51341-HCHqmcrlZ8M8.png"
+      "bio": "Soldier",
+      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529037528219259012/waifu-d45b350bb09018d2b670c4a7.png?ex=6a607aaa&is=6a5f292a&hm=112b3cd557eae97a2b6ce9b292dcc9bc02ae02623bc0851cfa1508817b83bc83&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529115373159452763/waifu-cabbe95ce713429f4c7d1406.png?ex=6a60c32a&is=6a5f71aa&hm=f7153a1a8413fbcbaff4a2bb5372d31ee7d7170f20b7637e30eeaab61e0da899&"
   }
 }
