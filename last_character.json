@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yor Forger:Spy x Family",
-  "lastName": "Yor Forger",
-  "index": 138,
+  "lastId": "db:Rin Tohsaka:Fate/stay night",
+  "lastName": "Rin Tohsaka",
+  "index": 203,
   "recent": [
+    "db:Rin Tohsaka:Fate/stay night",
     "db:Yor Forger:Spy x Family",
     "db:Formidable:Azur Lane",
     "db:Crusch Karsten:Re:Zero",
@@ -36,15 +37,14 @@
     "db:Rangiku Matsumoto:Bleach",
     "db:Mika:Blue Archive",
     "db:Ichigo:Darling in the Franxx",
-    "db:Alice:Nikke",
-    "db:Nina Williams:Tekken"
+    "db:Alice:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-22T01:48:26.441Z",
+  "updatedAt": "2026-07-22T08:09:41.818Z",
   "cached": {
     "character": {
-      "name": "Yor Forger",
-      "source": "Spy x Family",
+      "name": "Rin Tohsaka",
+      "source": "Fate/stay night",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yor Forger:Spy x Family",
-      "nextIndex": 138
+      "globalId": "db:Rin Tohsaka:Fate/stay night",
+      "nextIndex": 203
     },
     "meta": {
-      "source": "Spy x Family",
-      "fanbase": 233556,
-      "vibe": "YANDERE",
-      "rating": "ICONIC",
-      "age": "27",
-      "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "cm Occupation: City Hall Clerk, Assassin Affiliation: Berlint City Hall, Garden…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
+      "source": "Fate/stay night",
+      "fanbase": 218647,
+      "vibe": "DEADLY",
+      "rating": "POPULAR",
+      "age": "17-19",
+      "blood": "O",
+      "bio": "Mage",
+      "description": "cm , Rin is a model student and idol of 's school",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529304081292595331/waifu-a9fde993d62cf57e3a2318ed.png?ex=6a6172ea&is=6a60216a&hm=f75ffa9a3bbef9e3243f1a16a137cbeb6a8a34a70a227d9ef64e48db07484ee1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529400026743177267/waifu-821e17dde8ac09a95e5718c9.png?ex=6a61cc45&is=6a607ac5&hm=e83954ad43faa9fe4ccef2238dbde31e07f67ccfe5b51048b5dff7765d512458&"
   }
 }
