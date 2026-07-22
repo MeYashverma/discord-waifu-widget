@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rin Tohsaka:Fate/stay night",
-  "lastName": "Rin Tohsaka",
-  "index": 203,
+  "lastId": "db:Blanc:Nikke",
+  "lastName": "Blanc",
+  "index": 60,
   "recent": [
+    "db:Blanc:Nikke",
     "db:Rin Tohsaka:Fate/stay night",
     "db:Yor Forger:Spy x Family",
     "db:Formidable:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Belfast:Azur Lane",
     "db:Rangiku Matsumoto:Bleach",
     "db:Mika:Blue Archive",
-    "db:Ichigo:Darling in the Franxx",
-    "db:Alice:Nikke"
+    "db:Ichigo:Darling in the Franxx"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-22T08:09:41.818Z",
+  "updatedAt": "2026-07-22T13:22:46.142Z",
   "cached": {
     "character": {
-      "name": "Rin Tohsaka",
-      "source": "Fate/stay night",
-      "universe": "ANIME",
+      "name": "Blanc",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rin Tohsaka:Fate/stay night",
-      "nextIndex": 203
+      "globalId": "db:Blanc:Nikke",
+      "nextIndex": 60
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 218647,
-      "vibe": "DEADLY",
-      "rating": "POPULAR",
-      "age": "17-19",
-      "blood": "O",
+      "source": "Nikke",
+      "fanbase": 228613,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "16",
+      "blood": "Unknown",
       "bio": "Mage",
-      "description": "cm , Rin is a model student and idol of 's school",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png"
+      "description": "cm Familiar: A Knight , Hiraga Saito Louise Françoise Le Blanc de La Vallière i…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136-UQtsjr2SZdIO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529400026743177267/waifu-821e17dde8ac09a95e5718c9.png?ex=6a61cc45&is=6a607ac5&hm=e83954ad43faa9fe4ccef2238dbde31e07f67ccfe5b51048b5dff7765d512458&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529478813774516427/waifu-eac89a6772947b75e71d0d1e.png?ex=6a6215a5&is=6a60c425&hm=1b0d6a78c721e6e03517078b88889e795a9252ea11cd76a7bed9a9d96f7c9113&"
   }
 }
