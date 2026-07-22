@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Formidable:Azur Lane",
-  "lastName": "Formidable",
-  "index": 280,
+  "lastId": "db:Yor Forger:Spy x Family",
+  "lastName": "Yor Forger",
+  "index": 138,
   "recent": [
+    "db:Yor Forger:Spy x Family",
     "db:Formidable:Azur Lane",
     "db:Crusch Karsten:Re:Zero",
     "db:Rossweisse:High School DxD",
@@ -36,36 +37,35 @@
     "db:Mika:Blue Archive",
     "db:Ichigo:Darling in the Franxx",
     "db:Alice:Nikke",
-    "db:Nina Williams:Tekken",
-    "db:Arlecchino:Genshin Impact"
+    "db:Nina Williams:Tekken"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-21T19:04:41.464Z",
+  "updatedAt": "2026-07-22T01:48:26.441Z",
   "cached": {
     "character": {
-      "name": "Formidable",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Yor Forger",
+      "source": "Spy x Family",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Formidable:Azur Lane",
-      "nextIndex": 280
+      "globalId": "db:Yor Forger:Spy x Family",
+      "nextIndex": 138
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 236062,
+      "source": "Spy x Family",
+      "fanbase": 233556,
       "vibe": "YANDERE",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "27",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Formidable from Azur Lane",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206521-6yl8aZDd36wH.png"
+      "bio": "Royalty",
+      "description": "cm Occupation: City Hall Clerk, Assassin Affiliation: Berlint City Hall, Garden…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529202474580316432/waifu-95cd4cf4bddfa74c302ae9b4.png?ex=6a611449&is=6a5fc2c9&hm=ce70540682c83bca47adb358c9e11d88727bf0f4fa2371d468871cadf0b7b8a1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529304081292595331/waifu-a9fde993d62cf57e3a2318ed.png?ex=6a6172ea&is=6a60216a&hm=f75ffa9a3bbef9e3243f1a16a137cbeb6a8a34a70a227d9ef64e48db07484ee1&"
   }
 }
