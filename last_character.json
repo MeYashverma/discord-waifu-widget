@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Perona:One Piece",
-  "lastName": "Perona",
-  "index": 170,
+  "lastId": "db:Ahri:League of Legends",
+  "lastName": "Ahri",
+  "index": 235,
   "recent": [
+    "db:Ahri:League of Legends",
     "db:Perona:One Piece",
     "db:Annie Leonhart:Attack on Titan",
     "db:Lightning Farron:Final Fantasy XIII",
@@ -36,36 +37,35 @@
     "db:Wakamo:Blue Archive",
     "db:Noir:Nikke",
     "db:Shalltear Bloodfallen:Overlord",
-    "db:Rias Gremory:High School DxD",
-    "db:Belfast:Azur Lane"
+    "db:Rias Gremory:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-23T08:13:00.837Z",
+  "updatedAt": "2026-07-23T13:25:43.016Z",
   "cached": {
     "character": {
-      "name": "Perona",
-      "source": "One Piece",
-      "universe": "ANIME",
+      "name": "Ahri",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Perona:One Piece",
-      "nextIndex": 170
+      "globalId": "db:Ahri:League of Legends",
+      "nextIndex": 235
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 566824,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
-      "age": "23-",
-      "blood": "XF",
-      "bio": "Royalty",
-      "description": "cm Affiliations: Thriller Bark Pirates Devil Fruit: Horo Horo no Mi Devil Fruit…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg"
+      "source": "League of Legends",
+      "fanbase": 182183,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200021-z9ZtcHtm3SkD.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529763249908875285/waifu-692da142106e2135b6e86760.png?ex=6a631e8c&is=6a61cd0c&hm=32cf096894ddc2e48e2a986c7f04a3e2fecb1bf4b0903e38f6b0aa0493969660&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529841944354750474/waifu-80aec1d0169555b39225ad4a.png?ex=6a6367d6&is=6a621656&hm=336a1d181602592d43b79d0ce151468878bb9721f5c8533844708a4d3a6a4bbb&"
   }
 }
