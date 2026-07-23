@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Annie Leonhart:Attack on Titan",
-  "lastName": "Annie Leonhart",
-  "index": 133,
+  "lastId": "db:Perona:One Piece",
+  "lastName": "Perona",
+  "index": 170,
   "recent": [
+    "db:Perona:One Piece",
     "db:Annie Leonhart:Attack on Titan",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Blanc:Nikke",
@@ -36,15 +37,14 @@
     "db:Noir:Nikke",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Rias Gremory:High School DxD",
-    "db:Belfast:Azur Lane",
-    "db:Rangiku Matsumoto:Bleach"
+    "db:Belfast:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-23T01:55:21.763Z",
+  "updatedAt": "2026-07-23T08:13:00.837Z",
   "cached": {
     "character": {
-      "name": "Annie Leonhart",
-      "source": "Attack on Titan",
+      "name": "Perona",
+      "source": "One Piece",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Annie Leonhart:Attack on Titan",
-      "nextIndex": 133
+      "globalId": "db:Perona:One Piece",
+      "nextIndex": 170
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 680332,
-      "vibe": "ELEGANT",
+      "source": "One Piece",
+      "fanbase": 566824,
+      "vibe": "CONFIDENT",
       "rating": "LEGENDARY",
-      "age": "16-",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm A member of the 104th Southern Division in the Cadet Corps",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
+      "age": "23-",
+      "blood": "XF",
+      "bio": "Royalty",
+      "description": "cm Affiliations: Thriller Bark Pirates Devil Fruit: Horo Horo no Mi Devil Fruit…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529668211509952553/waifu-b1b77849d34bd53ed47f4165.png?ex=6a62c609&is=6a617489&hm=ffa3a4df16f0bca803f6a9a14b392902d8a896cabb79cc12b0d24d553f905f55&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529763249908875285/waifu-692da142106e2135b6e86760.png?ex=6a631e8c&is=6a61cd0c&hm=32cf096894ddc2e48e2a986c7f04a3e2fecb1bf4b0903e38f6b0aa0493969660&"
   }
 }
