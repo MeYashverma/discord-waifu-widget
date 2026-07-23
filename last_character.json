@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ahri:League of Legends",
-  "lastName": "Ahri",
-  "index": 235,
+  "lastId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
+  "lastName": "Ritsuko Akagi",
+  "index": 152,
   "recent": [
+    "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Ahri:League of Legends",
     "db:Perona:One Piece",
     "db:Annie Leonhart:Attack on Titan",
@@ -36,36 +37,35 @@
     "db:Mitsuru Kirijo:Persona 3",
     "db:Wakamo:Blue Archive",
     "db:Noir:Nikke",
-    "db:Shalltear Bloodfallen:Overlord",
-    "db:Rias Gremory:High School DxD"
+    "db:Shalltear Bloodfallen:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-23T13:25:43.016Z",
+  "updatedAt": "2026-07-23T19:00:14.227Z",
   "cached": {
     "character": {
-      "name": "Ahri",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Ritsuko Akagi",
+      "source": "Neon Genesis Evangelion",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ahri:League of Legends",
-      "nextIndex": 235
+      "globalId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
+      "nextIndex": 152
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 182183,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 235555,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
+      "age": "30",
+      "blood": "B",
       "bio": "Character",
-      "description": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200021-z9ZtcHtm3SkD.png"
+      "description": "Ritsuko Akagi is NERV's head scientist and is heavily involved in the repairs a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529841944354750474/waifu-80aec1d0169555b39225ad4a.png?ex=6a6367d6&is=6a621656&hm=336a1d181602592d43b79d0ce151468878bb9721f5c8533844708a4d3a6a4bbb&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529926129656397834/waifu-4aeec74c3763229499cbf97b.png?ex=6a63b63d&is=6a6264bd&hm=3de48768e8b166d34b9c092966873baf253e67d7ff0566187370e5af6e935721&"
   }
 }
