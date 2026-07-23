@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lightning Farron:Final Fantasy XIII",
-  "lastName": "Lightning Farron",
-  "index": 213,
+  "lastId": "db:Annie Leonhart:Attack on Titan",
+  "lastName": "Annie Leonhart",
+  "index": 133,
   "recent": [
+    "db:Annie Leonhart:Attack on Titan",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Blanc:Nikke",
     "db:Rin Tohsaka:Fate/stay night",
@@ -36,36 +37,35 @@
     "db:Shalltear Bloodfallen:Overlord",
     "db:Rias Gremory:High School DxD",
     "db:Belfast:Azur Lane",
-    "db:Rangiku Matsumoto:Bleach",
-    "db:Mika:Blue Archive"
+    "db:Rangiku Matsumoto:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-22T18:58:39.348Z",
+  "updatedAt": "2026-07-23T01:55:21.763Z",
   "cached": {
     "character": {
-      "name": "Lightning Farron",
-      "source": "Final Fantasy XIII",
-      "universe": "JRPG",
+      "name": "Annie Leonhart",
+      "source": "Attack on Titan",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lightning Farron:Final Fantasy XIII",
-      "nextIndex": 213
+      "globalId": "db:Annie Leonhart:Attack on Titan",
+      "nextIndex": 133
     },
     "meta": {
-      "source": "Final Fantasy XIII",
-      "fanbase": 186316,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Attack on Titan",
+      "fanbase": 680332,
+      "vibe": "ELEGANT",
+      "rating": "LEGENDARY",
+      "age": "16-",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Lightning, her original name being Claire Farron , is the main protagonist of F…",
-      "image": "https://media.kitsu.app/characters/images/59906/original.jpg"
+      "bio": "Character",
+      "description": "cm A member of the 104th Southern Division in the Cadet Corps",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529563342157512855/waifu-9880bb4a61252d6f572cc1ff.png?ex=6a62645e&is=6a6112de&hm=dd50e2f85964b92051f4e6f5aa8e3736b7e690231fa07eb9d1bb7c6c53d87320&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529668211509952553/waifu-b1b77849d34bd53ed47f4165.png?ex=6a62c609&is=6a617489&hm=ffa3a4df16f0bca803f6a9a14b392902d8a896cabb79cc12b0d24d553f905f55&"
   }
 }
