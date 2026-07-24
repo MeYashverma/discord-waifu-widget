@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Misa Amane:Death Note",
-  "lastName": "Misa Amane",
-  "index": 295,
+  "lastId": "db:Satella:Re:Zero",
+  "lastName": "Satella",
+  "index": 88,
   "recent": [
+    "db:Satella:Re:Zero",
     "db:Misa Amane:Death Note",
     "db:Peach:Super Mario",
     "db:Tsunade:Naruto",
@@ -36,15 +37,14 @@
     "db:Matoi Ryuko:Kill la Kill",
     "db:Kushina Uzumaki:Naruto",
     "db:Kal'tsit:Arknights",
-    "db:Yoruichi Shihouin:Bleach",
-    "db:Mitsuru Kirijo:Persona 3"
+    "db:Yoruichi Shihouin:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-24T13:18:52.121Z",
+  "updatedAt": "2026-07-24T19:13:33.527Z",
   "cached": {
     "character": {
-      "name": "Misa Amane",
-      "source": "Death Note",
+      "name": "Satella",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Misa Amane:Death Note",
-      "nextIndex": 295
+      "globalId": "db:Satella:Re:Zero",
+      "nextIndex": 88
     },
     "meta": {
-      "source": "Death Note",
-      "fanbase": 225453,
-      "vibe": "TSUNDERE",
+      "source": "Re:Zero",
+      "fanbase": 224644,
+      "vibe": "CONFIDENT",
       "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "AB",
-      "bio": "Idol",
-      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
+      "age": "14-19",
+      "blood": "Unknown",
+      "bio": "Royalty",
+      "description": "cm She is a silver-haired half-elf girl who is one of the candidates to become …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530202609284026481/waifu-5f7bc451f018b2f82cb25fda.png?ex=6a64b7bb&is=6a63663b&hm=ce1f94c9f48acf79b52e396ed5c5fec296b130c1ad0e06a6de207ff89308dba7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530291869928652982/waifu-3b16754d536665f2a24d36ff.png?ex=6a650add&is=6a63b95d&hm=e0cc7c20cc119920d3ef3d7b66725e4b31f1b8eaeefc816bbe3910874dd21a0c&"
   }
 }
