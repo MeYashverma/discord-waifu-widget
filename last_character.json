@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
-  "lastName": "Ritsuko Akagi",
-  "index": 152,
+  "lastId": "db:Tsunade:Naruto",
+  "lastName": "Tsunade",
+  "index": 173,
   "recent": [
+    "db:Tsunade:Naruto",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Ahri:League of Legends",
     "db:Perona:One Piece",
@@ -36,15 +37,14 @@
     "db:Yoruichi Shihouin:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Wakamo:Blue Archive",
-    "db:Noir:Nikke",
-    "db:Shalltear Bloodfallen:Overlord"
+    "db:Noir:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-23T19:00:14.227Z",
+  "updatedAt": "2026-07-24T01:51:24.199Z",
   "cached": {
     "character": {
-      "name": "Ritsuko Akagi",
-      "source": "Neon Genesis Evangelion",
+      "name": "Tsunade",
+      "source": "Naruto",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ritsuko Akagi:Neon Genesis Evangelion",
-      "nextIndex": 152
+      "globalId": "db:Tsunade:Naruto",
+      "nextIndex": 173
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 235555,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "30",
+      "source": "Naruto",
+      "fanbase": 581436,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
+      "age": "51 (I), 54-55 (II), 70 (III) ",
       "blood": "B",
       "bio": "Character",
-      "description": "Ritsuko Akagi is NERV's head scientist and is heavily involved in the repairs a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png"
+      "description": "Tsunade is the granddaughter of the and she is one of the legendary Sannin",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2767-r61Cj9v8I0wl.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1529926129656397834/waifu-4aeec74c3763229499cbf97b.png?ex=6a63b63d&is=6a6264bd&hm=3de48768e8b166d34b9c092966873baf253e67d7ff0566187370e5af6e935721&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530029602695544873/waifu-bcb060f936fd88629c23d203.png?ex=6a64169b&is=6a62c51b&hm=0b24b32998de65a5c870c616df9deab976fa38f6668fd5e9d2c39ccd8631f0a2&"
   }
 }
