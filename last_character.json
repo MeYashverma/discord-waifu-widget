@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Peach:Super Mario",
-  "lastName": "Peach",
-  "index": 267,
+  "lastId": "db:Misa Amane:Death Note",
+  "lastName": "Misa Amane",
+  "index": 295,
   "recent": [
+    "db:Misa Amane:Death Note",
     "db:Peach:Super Mario",
     "db:Tsunade:Naruto",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
@@ -36,36 +37,35 @@
     "db:Kushina Uzumaki:Naruto",
     "db:Kal'tsit:Arknights",
     "db:Yoruichi Shihouin:Bleach",
-    "db:Mitsuru Kirijo:Persona 3",
-    "db:Wakamo:Blue Archive"
+    "db:Mitsuru Kirijo:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-24T08:09:08.989Z",
+  "updatedAt": "2026-07-24T13:18:52.121Z",
   "cached": {
     "character": {
-      "name": "Peach",
-      "source": "Super Mario",
-      "universe": "GAME",
+      "name": "Misa Amane",
+      "source": "Death Note",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Peach:Super Mario",
-      "nextIndex": 267
+      "globalId": "db:Misa Amane:Death Note",
+      "nextIndex": 295
     },
     "meta": {
-      "source": "Super Mario",
-      "fanbase": 196379,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
+      "source": "Death Note",
+      "fanbase": 225453,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
       "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "Bonchien is the prince of the Uralis Kingdom",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
+      "blood": "AB",
+      "bio": "Idol",
+      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530124665710968922/waifu-633cfd713b0ebeaf021da25d.png?ex=6a646f24&is=6a631da4&hm=9a1b0232a337d5aaf063c05fda638cb6cb21ae02fb8a607200de2a7267ea0d70&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530202609284026481/waifu-5f7bc451f018b2f82cb25fda.png?ex=6a64b7bb&is=6a63663b&hm=ce1f94c9f48acf79b52e396ed5c5fec296b130c1ad0e06a6de207ff89308dba7&"
   }
 }
