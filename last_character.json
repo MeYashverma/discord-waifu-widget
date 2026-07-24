@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Tsunade:Naruto",
-  "lastName": "Tsunade",
-  "index": 173,
+  "lastId": "db:Peach:Super Mario",
+  "lastName": "Peach",
+  "index": 267,
   "recent": [
+    "db:Peach:Super Mario",
     "db:Tsunade:Naruto",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Ahri:League of Legends",
@@ -36,36 +37,35 @@
     "db:Kal'tsit:Arknights",
     "db:Yoruichi Shihouin:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
-    "db:Wakamo:Blue Archive",
-    "db:Noir:Nikke"
+    "db:Wakamo:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-24T01:51:24.199Z",
+  "updatedAt": "2026-07-24T08:09:08.989Z",
   "cached": {
     "character": {
-      "name": "Tsunade",
-      "source": "Naruto",
-      "universe": "ANIME",
+      "name": "Peach",
+      "source": "Super Mario",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Tsunade:Naruto",
-      "nextIndex": 173
+      "globalId": "db:Peach:Super Mario",
+      "nextIndex": 267
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 581436,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
-      "age": "51 (I), 54-55 (II), 70 (III) ",
-      "blood": "B",
+      "source": "Super Mario",
+      "fanbase": 196379,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "Tsunade is the granddaughter of the and she is one of the legendary Sannin",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2767-r61Cj9v8I0wl.png"
+      "description": "Bonchien is the prince of the Uralis Kingdom",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530029602695544873/waifu-bcb060f936fd88629c23d203.png?ex=6a64169b&is=6a62c51b&hm=0b24b32998de65a5c870c616df9deab976fa38f6668fd5e9d2c39ccd8631f0a2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530124665710968922/waifu-633cfd713b0ebeaf021da25d.png?ex=6a646f24&is=6a631da4&hm=9a1b0232a337d5aaf063c05fda638cb6cb21ae02fb8a607200de2a7267ea0d70&"
   }
 }
