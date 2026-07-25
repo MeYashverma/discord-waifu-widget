@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Belfast:Azur Lane",
-  "lastName": "Belfast",
-  "index": 276,
+  "lastId": "db:Asuka Kazama:Tekken",
+  "lastName": "Asuka Kazama",
+  "index": 248,
   "recent": [
+    "db:Asuka Kazama:Tekken",
     "db:Belfast:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Grace Howard:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Fiona Frost:Spy x Family",
     "db:Cereza:Bayonetta Origins",
     "db:Cornelia li Britannia:Code Geass",
-    "db:Seele:Honkai Star Rail",
-    "db:Matoi Ryuko:Kill la Kill"
+    "db:Seele:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-25T13:03:14.735Z",
+  "updatedAt": "2026-07-25T18:53:50.009Z",
   "cached": {
     "character": {
-      "name": "Belfast",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Asuka Kazama",
+      "source": "Tekken",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Belfast:Azur Lane",
-      "nextIndex": 276
+      "globalId": "db:Asuka Kazama:Tekken",
+      "nextIndex": 248
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 265362,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
+      "source": "Tekken",
+      "fanbase": 184861,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Edinburgh-Class Light Cruiser",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130070-aFSpprHYoWNn.jpg"
+      "bio": "Mage",
+      "description": "Asuka Kazama is introduced in Tekken 5 and she has returned for Tekken 5: Dark …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/50951.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530561065455456337/waifu-db4ba776c5aca8cecf5ef44c.png?ex=6a660592&is=6a64b412&hm=4f9dd5850add9d1534f77166559c0c0cc579edf2771b0e077896904b9a673020&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530649293713707058/waifu-ecb5ff679c8a017ffde71748.png?ex=6a6657bd&is=6a65063d&hm=d9d41052b2ecd2684b91b1d44bc618ff037e28bc79d81f9bbf41db90f8bbbe05&"
   }
 }
