@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kurumi Tokisaki:Date A Live",
-  "lastName": "Kurumi Tokisaki",
-  "index": 97,
+  "lastId": "db:Belfast:Azur Lane",
+  "lastName": "Belfast",
+  "index": 276,
   "recent": [
+    "db:Belfast:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Grace Howard:Zenless Zone Zero",
     "db:Satella:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Cereza:Bayonetta Origins",
     "db:Cornelia li Britannia:Code Geass",
     "db:Seele:Honkai Star Rail",
-    "db:Matoi Ryuko:Kill la Kill",
-    "db:Kushina Uzumaki:Naruto"
+    "db:Matoi Ryuko:Kill la Kill"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-25T07:51:38.648Z",
+  "updatedAt": "2026-07-25T13:03:14.735Z",
   "cached": {
     "character": {
-      "name": "Kurumi Tokisaki",
-      "source": "Date A Live",
-      "universe": "ANIME",
+      "name": "Belfast",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kurumi Tokisaki:Date A Live",
-      "nextIndex": 97
+      "globalId": "db:Belfast:Azur Lane",
+      "nextIndex": 276
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 200654,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "17 (physically)",
+      "source": "Azur Lane",
+      "fanbase": 265362,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Kurumi is the third spirit who appeared after and",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg"
+      "bio": "Royalty",
+      "description": "Edinburgh-Class Light Cruiser",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130070-aFSpprHYoWNn.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530482648370122772/waifu-44231879409d3a7b6d679658.png?ex=6a65bc8a&is=6a646b0a&hm=6b1da25d75ff3c07488cd5f3a623dc5cef0b002068fb3980ba8a038a8306619c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530561065455456337/waifu-db4ba776c5aca8cecf5ef44c.png?ex=6a660592&is=6a64b412&hm=4f9dd5850add9d1534f77166559c0c0cc579edf2771b0e077896904b9a673020&"
   }
 }
