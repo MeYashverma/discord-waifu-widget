@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Satella:Re:Zero",
-  "lastName": "Satella",
-  "index": 88,
+  "lastId": "db:Grace Howard:Zenless Zone Zero",
+  "lastName": "Grace Howard",
+  "index": 34,
   "recent": [
+    "db:Grace Howard:Zenless Zone Zero",
     "db:Satella:Re:Zero",
     "db:Misa Amane:Death Note",
     "db:Peach:Super Mario",
@@ -36,36 +37,35 @@
     "db:Seele:Honkai Star Rail",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Kushina Uzumaki:Naruto",
-    "db:Kal'tsit:Arknights",
-    "db:Yoruichi Shihouin:Bleach"
+    "db:Kal'tsit:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-24T19:13:33.527Z",
+  "updatedAt": "2026-07-25T01:51:19.206Z",
   "cached": {
     "character": {
-      "name": "Satella",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Grace Howard",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Satella:Re:Zero",
-      "nextIndex": 88
+      "globalId": "db:Grace Howard:Zenless Zone Zero",
+      "nextIndex": 34
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 224644,
-      "vibe": "CONFIDENT",
+      "source": "Zenless Zone Zero",
+      "fanbase": 243508,
+      "vibe": "WHOLESOME",
       "rating": "ICONIC",
-      "age": "14-19",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "cm She is a silver-haired half-elf girl who is one of the candidates to become …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+      "bio": "Character",
+      "description": "Cynthia's alter ego, who takes control when Cynthia's asleep",
+      "image": "https://media.kitsu.app/characters/images/7011/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530291869928652982/waifu-3b16754d536665f2a24d36ff.png?ex=6a650add&is=6a63b95d&hm=e0cc7c20cc119920d3ef3d7b66725e4b31f1b8eaeefc816bbe3910874dd21a0c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530391969056948315/waifu-a37fc88612ee639a613c3b31.png?ex=6a656816&is=6a641696&hm=6a89ff7ba6914dba0a96c1d506b783c41ee07eeee6c7cca730c8b540b3716ef1&"
   }
 }
