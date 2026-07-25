@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Grace Howard:Zenless Zone Zero",
-  "lastName": "Grace Howard",
-  "index": 34,
+  "lastId": "db:Kurumi Tokisaki:Date A Live",
+  "lastName": "Kurumi Tokisaki",
+  "index": 97,
   "recent": [
+    "db:Kurumi Tokisaki:Date A Live",
     "db:Grace Howard:Zenless Zone Zero",
     "db:Satella:Re:Zero",
     "db:Misa Amane:Death Note",
@@ -36,36 +37,35 @@
     "db:Cornelia li Britannia:Code Geass",
     "db:Seele:Honkai Star Rail",
     "db:Matoi Ryuko:Kill la Kill",
-    "db:Kushina Uzumaki:Naruto",
-    "db:Kal'tsit:Arknights"
+    "db:Kushina Uzumaki:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-25T01:51:19.206Z",
+  "updatedAt": "2026-07-25T07:51:38.648Z",
   "cached": {
     "character": {
-      "name": "Grace Howard",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Kurumi Tokisaki",
+      "source": "Date A Live",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Grace Howard:Zenless Zone Zero",
-      "nextIndex": 34
+      "globalId": "db:Kurumi Tokisaki:Date A Live",
+      "nextIndex": 97
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 243508,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Date A Live",
+      "fanbase": 200654,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "17 (physically)",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Cynthia's alter ego, who takes control when Cynthia's asleep",
-      "image": "https://media.kitsu.app/characters/images/7011/original.jpg"
+      "description": "cm Kurumi is the third spirit who appeared after and",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530391969056948315/waifu-a37fc88612ee639a613c3b31.png?ex=6a656816&is=6a641696&hm=6a89ff7ba6914dba0a96c1d506b783c41ee07eeee6c7cca730c8b540b3716ef1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530482648370122772/waifu-44231879409d3a7b6d679658.png?ex=6a65bc8a&is=6a646b0a&hm=6b1da25d75ff3c07488cd5f3a623dc5cef0b002068fb3980ba8a038a8306619c&"
   }
 }
