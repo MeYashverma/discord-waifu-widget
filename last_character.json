@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kallen Kozuki:Code Geass",
-  "lastName": "Kallen Kozuki",
-  "index": 188,
+  "lastId": "db:Ashley Graham:Resident Evil 4",
+  "lastName": "Ashley Graham",
+  "index": 234,
   "recent": [
+    "db:Ashley Graham:Resident Evil 4",
     "db:Kallen Kozuki:Code Geass",
     "db:Orihime Inoue:Bleach",
     "db:Asuka Kazama:Tekken",
@@ -36,36 +37,35 @@
     "db:Ishtar:Fate Series",
     "db:Acheron:Honkai Star Rail",
     "db:Android 18:Dragon Ball Z",
-    "db:Fiona Frost:Spy x Family",
-    "db:Cereza:Bayonetta Origins"
+    "db:Fiona Frost:Spy x Family"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-26T08:09:34.696Z",
+  "updatedAt": "2026-07-26T13:00:09.339Z",
   "cached": {
     "character": {
-      "name": "Kallen Kozuki",
-      "source": "Code Geass",
-      "universe": "ANIME",
+      "name": "Ashley Graham",
+      "source": "Resident Evil 4",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kallen Kozuki:Code Geass",
-      "nextIndex": 188
+      "globalId": "db:Ashley Graham:Resident Evil 4",
+      "nextIndex": 234
     },
     "meta": {
-      "source": "Code Geass",
-      "fanbase": 236777,
-      "vibe": "SEDUCTIVE",
+      "source": "Resident Evil 4",
+      "fanbase": 261743,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Kallen Kozuki from Code Geass",
-      "image": "https://media.kitsu.app/characters/images/25576/original.jpg"
+      "description": "Ashley is the daughter of former US President Graham",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146257-7kTBSqPrmggV.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530849549198037134/waifu-11a6a21c3d2c6c635384a78f.png?ex=6a67123e&is=6a65c0be&hm=2a17ef948463ddacbb71293d812faefac6037cf6be84b4fd928043b4892667dd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530922674413371502/waifu-79602d54d5ba40f56566b81f.png?ex=6a675658&is=6a6604d8&hm=35b3b8cc49265c9a2a58139a7f23bf040ee80368895c1a2659e4ce4a65fad914&"
   }
 }
