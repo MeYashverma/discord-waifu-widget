@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asuka Kazama:Tekken",
-  "lastName": "Asuka Kazama",
-  "index": 248,
+  "lastId": "db:Orihime Inoue:Bleach",
+  "lastName": "Orihime Inoue",
+  "index": 182,
   "recent": [
+    "db:Orihime Inoue:Bleach",
     "db:Asuka Kazama:Tekken",
     "db:Belfast:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
@@ -36,36 +37,35 @@
     "db:Android 18:Dragon Ball Z",
     "db:Fiona Frost:Spy x Family",
     "db:Cereza:Bayonetta Origins",
-    "db:Cornelia li Britannia:Code Geass",
-    "db:Seele:Honkai Star Rail"
+    "db:Cornelia li Britannia:Code Geass"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-25T18:53:50.009Z",
+  "updatedAt": "2026-07-26T01:54:35.579Z",
   "cached": {
     "character": {
-      "name": "Asuka Kazama",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Orihime Inoue",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asuka Kazama:Tekken",
-      "nextIndex": 248
+      "globalId": "db:Orihime Inoue:Bleach",
+      "nextIndex": 182
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 184861,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Asuka Kazama is introduced in Tekken 5 and she has returned for Tekken 5: Dark …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/50951.jpg"
+      "source": "Bleach",
+      "fanbase": 491057,
+      "vibe": "CHAOTIC",
+      "rating": "ELITE",
+      "age": "15-29",
+      "blood": "B",
+      "bio": "Character",
+      "description": "cm Orihime Inoue is a teenage girl who lives by herself in Karakura Town, being…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7-JdR4betokDjR.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530649293713707058/waifu-ecb5ff679c8a017ffde71748.png?ex=6a6657bd&is=6a65063d&hm=d9d41052b2ecd2684b91b1d44bc618ff037e28bc79d81f9bbf41db90f8bbbe05&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1530755181262667876/waifu-ac186d0169459438a7d9875b.png?ex=6a66ba5b&is=6a6568db&hm=d2e967c0308685a17d7da578b1f8bf72d162b417ad496c7c295d19f096f75ece&"
   }
 }
