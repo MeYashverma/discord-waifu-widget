@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ganyu:Genshin Impact",
-  "lastName": "Ganyu",
-  "index": 8,
+  "lastId": "db:Brandish μ:Fairy Tail",
+  "lastName": "Brandish μ",
+  "index": 112,
   "recent": [
+    "db:Brandish μ:Fairy Tail",
     "db:Ganyu:Genshin Impact",
     "db:Rebecca:Cyberpunk Edgerunners",
     "db:Miyabi:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Esdeath:Akame ga Kill!",
     "db:Sasha Blouse:Attack on Titan",
     "db:Fami:Chainsaw Man",
-    "db:Enterprise:Azur Lane",
-    "db:Ishtar:Fate Series"
+    "db:Enterprise:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-27T09:33:05.580Z",
+  "updatedAt": "2026-07-27T14:11:41.843Z",
   "cached": {
     "character": {
-      "name": "Ganyu",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Brandish μ",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ganyu:Genshin Impact",
-      "nextIndex": 8
+      "globalId": "db:Brandish μ:Fairy Tail",
+      "nextIndex": 112
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 548423,
-      "vibe": "SEDUCTIVE",
-      "rating": "LEGENDARY",
+      "source": "Fairy Tail",
+      "fanbase": 234189,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "A half-adeptus emissary and secretary for the Liyue Qixing",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233410-ighPdb5x8tQK.png"
+      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531232953672405052/waifu-595843821eb367ce57d61224.png?ex=6a687751&is=6a6725d1&hm=8c0af4cc5f9d39422bb79a5dab1d3748f0fc439c0e329affa0df1267d7817353&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531303066224295976/waifu-996720f0e1f19f63f4c07150.png?ex=6a68b89d&is=6a67671d&hm=4457cd5011d75ba67c832641b6694f9346fe852723c966ae06456d42fa9e87a5&"
   }
 }
