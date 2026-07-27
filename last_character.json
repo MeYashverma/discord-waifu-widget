@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Miyabi:Zenless Zone Zero",
-  "lastName": "Miyabi",
-  "index": 33,
+  "lastId": "db:Rebecca:Cyberpunk Edgerunners",
+  "lastName": "Rebecca",
+  "index": 255,
   "recent": [
+    "db:Rebecca:Cyberpunk Edgerunners",
     "db:Miyabi:Zenless Zone Zero",
     "db:Ashley Graham:Resident Evil 4",
     "db:Kallen Kozuki:Code Geass",
@@ -36,36 +37,35 @@
     "db:Fami:Chainsaw Man",
     "db:Enterprise:Azur Lane",
     "db:Ishtar:Fate Series",
-    "db:Acheron:Honkai Star Rail",
-    "db:Android 18:Dragon Ball Z"
+    "db:Acheron:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-26T18:58:01.153Z",
+  "updatedAt": "2026-07-27T02:02:26.430Z",
   "cached": {
     "character": {
-      "name": "Miyabi",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Rebecca",
+      "source": "Cyberpunk Edgerunners",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Miyabi:Zenless Zone Zero",
-      "nextIndex": 33
+      "globalId": "db:Rebecca:Cyberpunk Edgerunners",
+      "nextIndex": 255
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 216366,
-      "vibe": "MYSTERIOUS",
+      "source": "Cyberpunk Edgerunners",
+      "fanbase": 184309,
+      "vibe": "TSUNDERE",
       "rating": "POPULAR",
-      "age": "17",
-      "blood": "B",
-      "bio": "Character",
-      "description": "cm Class: 2-C Affiliation: Supernatural Studies Club Miyabi Itou is a girl that…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62437-32tse1zFMino.png"
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Solo",
+      "description": "Chaotic edgerunner",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531012732835594251/waifu-cc2f0b70b0b6a9b3a34cd7d1.png?ex=6a67aa38&is=6a6658b8&hm=f0e4dcf70263f4592aa2c4a603fa0ee569deafd853df6c66985e697165e1caae&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531119543873835179/waifu-456250cffc9a787d18874d98.png?ex=6a680db2&is=6a66bc32&hm=7b54c8d457ee16d1a930897d40daabf37d591070a789b35b2e0e2549c4cde101&"
   }
 }
