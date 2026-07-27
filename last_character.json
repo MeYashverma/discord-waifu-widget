@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Brandish μ:Fairy Tail",
-  "lastName": "Brandish μ",
-  "index": 112,
+  "lastId": "db:Emilia:Re:Zero",
+  "lastName": "Emilia",
+  "index": 82,
   "recent": [
+    "db:Emilia:Re:Zero",
     "db:Brandish μ:Fairy Tail",
     "db:Ganyu:Genshin Impact",
     "db:Rebecca:Cyberpunk Edgerunners",
@@ -36,15 +37,14 @@
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Esdeath:Akame ga Kill!",
     "db:Sasha Blouse:Attack on Titan",
-    "db:Fami:Chainsaw Man",
-    "db:Enterprise:Azur Lane"
+    "db:Fami:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-27T14:11:41.843Z",
+  "updatedAt": "2026-07-27T19:13:57.190Z",
   "cached": {
     "character": {
-      "name": "Brandish μ",
-      "source": "Fairy Tail",
+      "name": "Emilia",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Brandish μ:Fairy Tail",
-      "nextIndex": 112
+      "globalId": "db:Emilia:Re:Zero",
+      "nextIndex": 82
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 234189,
+      "source": "Re:Zero",
+      "fanbase": 226109,
       "vibe": "CHAOTIC",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
+      "bio": "Royal Candidate",
+      "description": "Half-elf royal candidate",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531303066224295976/waifu-996720f0e1f19f63f4c07150.png?ex=6a68b89d&is=6a67671d&hm=4457cd5011d75ba67c832641b6694f9346fe852723c966ae06456d42fa9e87a5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531379132250980553/waifu-3b16754d536665f2a24d36ff.png?ex=6a68ff74&is=6a67adf4&hm=59d79f1d25fdddafef6cd828e7c1d95d90525f6ecef9f6a37c524e05396c9455&"
   }
 }
