@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kaine:NieR Replicant",
-  "lastName": "Kaine",
-  "index": 220,
+  "lastId": "db:Hina:Blue Archive",
+  "lastName": "Hina",
+  "index": 64,
   "recent": [
+    "db:Hina:Blue Archive",
     "db:Kaine:NieR Replicant",
     "db:Emilia:Re:Zero",
     "db:Brandish μ:Fairy Tail",
@@ -36,36 +37,35 @@
     "db:Jinhsi:Wuthering Waves",
     "db:Futaba Sakura:Persona 5",
     "db:Yuffie Kisaragi:Final Fantasy VII",
-    "db:Esdeath:Akame ga Kill!",
-    "db:Sasha Blouse:Attack on Titan"
+    "db:Esdeath:Akame ga Kill!"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-28T01:44:25.639Z",
+  "updatedAt": "2026-07-28T08:16:26.631Z",
   "cached": {
     "character": {
-      "name": "Kaine",
-      "source": "NieR Replicant",
-      "universe": "JRPG",
+      "name": "Hina",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kaine:NieR Replicant",
-      "nextIndex": 220
+      "globalId": "db:Hina:Blue Archive",
+      "nextIndex": 64
     },
     "meta": {
-      "source": "NieR Replicant",
-      "fanbase": 225837,
-      "vibe": "ROYAL",
-      "rating": "ICONIC",
-      "age": "26-",
+      "source": "Blue Archive",
+      "fanbase": 194833,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
+      "age": "15-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "The chief of Aria Trading Company",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323312-ENOMdJjuGRpI.png"
+      "bio": "Captain",
+      "description": "Teams: Yukigaoka Junior High ; Karasuno High Number: 1 ; 10 ; 5 Position: Capta…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531477398690992228/waifu-5153cf17a9a242c20392f778.png?ex=6a695af9&is=6a680979&hm=b620efe6f194cc81ac7219114786271be29653b992abcfdba5a2439c8f29fab7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531576052948664360/waifu-a59ec7a8363d2315f92abb50.png?ex=6a69b6da&is=6a68655a&hm=9b2366bfa8526d7cc16a5b4459ac067adec962965648aa1eef301ee603d1d681&"
   }
 }
