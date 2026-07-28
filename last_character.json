@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Cantarella:Wuthering Waves",
-  "lastName": "Cantarella",
-  "index": 50,
+  "lastId": "db:Shorekeeper:Wuthering Waves",
+  "lastName": "Shorekeeper",
+  "index": 39,
   "recent": [
+    "db:Shorekeeper:Wuthering Waves",
     "db:Cantarella:Wuthering Waves",
     "db:Hina:Blue Archive",
     "db:Kaine:NieR Replicant",
@@ -36,14 +37,13 @@
     "db:Boa Hancock:One Piece",
     "db:Clorinde:Genshin Impact",
     "db:Jinhsi:Wuthering Waves",
-    "db:Futaba Sakura:Persona 5",
-    "db:Yuffie Kisaragi:Final Fantasy VII"
+    "db:Futaba Sakura:Persona 5"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-28T13:40:59.029Z",
+  "updatedAt": "2026-07-28T19:09:19.770Z",
   "cached": {
     "character": {
-      "name": "Cantarella",
+      "name": "Shorekeeper",
       "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Cantarella:Wuthering Waves",
-      "nextIndex": 50
+      "globalId": "db:Shorekeeper:Wuthering Waves",
+      "nextIndex": 39
     },
     "meta": {
       "source": "Wuthering Waves",
-      "fanbase": 204995,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "fanbase": 269537,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Son of a legendary assassin, Chiaro was ordered to kill Cesare in order to set …",
-      "image": "https://media.kitsu.app/characters/images/44597/original.jpg"
+      "bio": "Character",
+      "description": "The shopkeeper of crystals",
+      "image": "https://media.kitsu.app/characters/images/70242/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531657725711355904/waifu-c5a094a6f614838c4b9f9fd7.png?ex=6a6a02ea&is=6a68b16a&hm=51c2ce83ec80130c29e1e55b542993730737398019622b13aceb00ba7c90e4ea&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531740356385968208/waifu-765361dc963adaeb58479979.png?ex=6a6a4fdf&is=6a68fe5f&hm=feb74862e5bcb55a462f820b863bf7aae133d2168c3c63b5fecfa944cdbbb02e&"
   }
 }
