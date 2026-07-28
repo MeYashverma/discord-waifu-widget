@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Hina:Blue Archive",
-  "lastName": "Hina",
-  "index": 64,
+  "lastId": "db:Cantarella:Wuthering Waves",
+  "lastName": "Cantarella",
+  "index": 50,
   "recent": [
+    "db:Cantarella:Wuthering Waves",
     "db:Hina:Blue Archive",
     "db:Kaine:NieR Replicant",
     "db:Emilia:Re:Zero",
@@ -36,15 +37,14 @@
     "db:Clorinde:Genshin Impact",
     "db:Jinhsi:Wuthering Waves",
     "db:Futaba Sakura:Persona 5",
-    "db:Yuffie Kisaragi:Final Fantasy VII",
-    "db:Esdeath:Akame ga Kill!"
+    "db:Yuffie Kisaragi:Final Fantasy VII"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-28T08:16:26.631Z",
+  "updatedAt": "2026-07-28T13:40:59.029Z",
   "cached": {
     "character": {
-      "name": "Hina",
-      "source": "Blue Archive",
+      "name": "Cantarella",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Hina:Blue Archive",
-      "nextIndex": 64
+      "globalId": "db:Cantarella:Wuthering Waves",
+      "nextIndex": 50
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 194833,
+      "source": "Wuthering Waves",
+      "fanbase": 204995,
       "vibe": "LOYAL",
       "rating": "POPULAR",
-      "age": "15-",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Teams: Yukigaoka Junior High ; Karasuno High Number: 1 ; 10 ; 5 Position: Capta…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+      "bio": "Assassin",
+      "description": "Son of a legendary assassin, Chiaro was ordered to kill Cesare in order to set …",
+      "image": "https://media.kitsu.app/characters/images/44597/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531576052948664360/waifu-a59ec7a8363d2315f92abb50.png?ex=6a69b6da&is=6a68655a&hm=9b2366bfa8526d7cc16a5b4459ac067adec962965648aa1eef301ee603d1d681&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531657725711355904/waifu-c5a094a6f614838c4b9f9fd7.png?ex=6a6a02ea&is=6a68b16a&hm=51c2ce83ec80130c29e1e55b542993730737398019622b13aceb00ba7c90e4ea&"
   }
 }
