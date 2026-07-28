@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Emilia:Re:Zero",
-  "lastName": "Emilia",
-  "index": 82,
+  "lastId": "db:Kaine:NieR Replicant",
+  "lastName": "Kaine",
+  "index": 220,
   "recent": [
+    "db:Kaine:NieR Replicant",
     "db:Emilia:Re:Zero",
     "db:Brandish μ:Fairy Tail",
     "db:Ganyu:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Futaba Sakura:Persona 5",
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Esdeath:Akame ga Kill!",
-    "db:Sasha Blouse:Attack on Titan",
-    "db:Fami:Chainsaw Man"
+    "db:Sasha Blouse:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-27T19:13:57.190Z",
+  "updatedAt": "2026-07-28T01:44:25.639Z",
   "cached": {
     "character": {
-      "name": "Emilia",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Kaine",
+      "source": "NieR Replicant",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Emilia:Re:Zero",
-      "nextIndex": 82
+      "globalId": "db:Kaine:NieR Replicant",
+      "nextIndex": 220
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 226109,
-      "vibe": "CHAOTIC",
+      "source": "NieR Replicant",
+      "fanbase": 225837,
+      "vibe": "ROYAL",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "26-",
       "blood": "Unknown",
-      "bio": "Royal Candidate",
-      "description": "Half-elf royal candidate",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+      "bio": "Character",
+      "description": "The chief of Aria Trading Company",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323312-ENOMdJjuGRpI.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531379132250980553/waifu-3b16754d536665f2a24d36ff.png?ex=6a68ff74&is=6a67adf4&hm=59d79f1d25fdddafef6cd828e7c1d95d90525f6ecef9f6a37c524e05396c9455&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531477398690992228/waifu-5153cf17a9a242c20392f778.png?ex=6a695af9&is=6a680979&hm=b620efe6f194cc81ac7219114786271be29653b992abcfdba5a2439c8f29fab7&"
   }
 }
