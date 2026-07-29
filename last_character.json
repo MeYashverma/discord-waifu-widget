@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
-  "lastName": "Neliel Tu Odelschwanck",
-  "index": 184,
+  "lastId": "db:Samus Aran:Metroid",
+  "lastName": "Samus Aran",
+  "index": 264,
   "recent": [
+    "db:Samus Aran:Metroid",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Jill Valentine:Resident Evil",
     "db:Shorekeeper:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Formidable:Azur Lane",
     "db:Crusch Karsten:Re:Zero",
     "db:Rossweisse:High School DxD",
-    "db:Boa Hancock:One Piece",
-    "db:Clorinde:Genshin Impact"
+    "db:Boa Hancock:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-29T08:22:12.528Z",
+  "updatedAt": "2026-07-29T13:47:06.674Z",
   "cached": {
     "character": {
-      "name": "Neliel Tu Odelschwanck",
-      "source": "Bleach",
-      "universe": "ANIME",
+      "name": "Samus Aran",
+      "source": "Metroid",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
-      "nextIndex": 184
+      "globalId": "db:Samus Aran:Metroid",
+      "nextIndex": 264
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 502692,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
+      "source": "Metroid",
+      "fanbase": 212966,
+      "vibe": "INTENSE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
-      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
+      "bio": "Hunter",
+      "description": "Samus is a bounty hunter",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11998-akZrClzG6mrR.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531939890982420540/waifu-83365ab8caedee1172cb4616.png?ex=6a6b09b4&is=6a69b834&hm=3ac57c5ebeac29d5fb8ff1b9e65bed86466727820a2dce0c6cfeb0bc228c03fd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532021655528931358/waifu-3e6132f64819d61e924a76bd.png?ex=6a6b55da&is=6a6a045a&hm=837f752b88986b2830bc1a125d7ce6ad6e6b41431925a7a0e98f4a9cb640fd1d&"
   }
 }
