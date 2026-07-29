@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shorekeeper:Wuthering Waves",
-  "lastName": "Shorekeeper",
-  "index": 39,
+  "lastId": "db:Jill Valentine:Resident Evil",
+  "lastName": "Jill Valentine",
+  "index": 230,
   "recent": [
+    "db:Jill Valentine:Resident Evil",
     "db:Shorekeeper:Wuthering Waves",
     "db:Cantarella:Wuthering Waves",
     "db:Hina:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Rossweisse:High School DxD",
     "db:Boa Hancock:One Piece",
     "db:Clorinde:Genshin Impact",
-    "db:Jinhsi:Wuthering Waves",
-    "db:Futaba Sakura:Persona 5"
+    "db:Jinhsi:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-28T19:09:19.770Z",
+  "updatedAt": "2026-07-29T01:46:03.725Z",
   "cached": {
     "character": {
-      "name": "Shorekeeper",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Jill Valentine",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shorekeeper:Wuthering Waves",
-      "nextIndex": 39
+      "globalId": "db:Jill Valentine:Resident Evil",
+      "nextIndex": 230
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 269537,
-      "vibe": "DEADLY",
+      "source": "Resident Evil",
+      "fanbase": 233330,
+      "vibe": "INTENSE",
       "rating": "ICONIC",
       "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "The shopkeeper of crystals",
-      "image": "https://media.kitsu.app/characters/images/70242/original.jpg"
+      "blood": "B",
+      "bio": "Captain",
+      "description": "A member of S",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12664-eVuO8OpCf1EO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531740356385968208/waifu-765361dc963adaeb58479979.png?ex=6a6a4fdf&is=6a68fe5f&hm=feb74862e5bcb55a462f820b863bf7aae133d2168c3c63b5fecfa944cdbbb02e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531840197954895943/waifu-d45bed1c61e9f38c11ae1778.png?ex=6a6aacdb&is=6a695b5b&hm=a9b8cf37e48517d362860e57e0363d777e3f7e83830d5d6151713c7f990b31c5&"
   }
 }
