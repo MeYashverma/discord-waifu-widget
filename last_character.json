@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jill Valentine:Resident Evil",
-  "lastName": "Jill Valentine",
-  "index": 230,
+  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
+  "lastName": "Neliel Tu Odelschwanck",
+  "index": 184,
   "recent": [
+    "db:Neliel Tu Odelschwanck:Bleach",
     "db:Jill Valentine:Resident Evil",
     "db:Shorekeeper:Wuthering Waves",
     "db:Cantarella:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Crusch Karsten:Re:Zero",
     "db:Rossweisse:High School DxD",
     "db:Boa Hancock:One Piece",
-    "db:Clorinde:Genshin Impact",
-    "db:Jinhsi:Wuthering Waves"
+    "db:Clorinde:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-29T01:46:03.725Z",
+  "updatedAt": "2026-07-29T08:22:12.528Z",
   "cached": {
     "character": {
-      "name": "Jill Valentine",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Neliel Tu Odelschwanck",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jill Valentine:Resident Evil",
-      "nextIndex": 230
+      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
+      "nextIndex": 184
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 233330,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
+      "source": "Bleach",
+      "fanbase": 502692,
+      "vibe": "MYSTERIOUS",
+      "rating": "LEGENDARY",
       "age": "Unknown",
-      "blood": "B",
-      "bio": "Captain",
-      "description": "A member of S",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12664-eVuO8OpCf1EO.png"
+      "blood": "Unknown",
+      "bio": "Knight",
+      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
+      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531840197954895943/waifu-d45bed1c61e9f38c11ae1778.png?ex=6a6aacdb&is=6a695b5b&hm=a9b8cf37e48517d362860e57e0363d777e3f7e83830d5d6151713c7f990b31c5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1531939890982420540/waifu-83365ab8caedee1172cb4616.png?ex=6a6b09b4&is=6a69b834&hm=3ac57c5ebeac29d5fb8ff1b9e65bed86466727820a2dce0c6cfeb0bc228c03fd&"
   }
 }
