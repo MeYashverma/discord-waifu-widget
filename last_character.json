@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Samus Aran:Metroid",
-  "lastName": "Samus Aran",
-  "index": 264,
+  "lastId": "db:Android 18:Dragon Ball Z",
+  "lastName": "Android 18",
+  "index": 298,
   "recent": [
+    "db:Android 18:Dragon Ball Z",
     "db:Samus Aran:Metroid",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Jill Valentine:Resident Evil",
@@ -36,36 +37,35 @@
     "db:Yor Forger:Spy x Family",
     "db:Formidable:Azur Lane",
     "db:Crusch Karsten:Re:Zero",
-    "db:Rossweisse:High School DxD",
-    "db:Boa Hancock:One Piece"
+    "db:Rossweisse:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-29T13:47:06.674Z",
+  "updatedAt": "2026-07-29T18:58:47.657Z",
   "cached": {
     "character": {
-      "name": "Samus Aran",
-      "source": "Metroid",
-      "universe": "GAME",
+      "name": "Android 18",
+      "source": "Dragon Ball Z",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Samus Aran:Metroid",
-      "nextIndex": 264
+      "globalId": "db:Android 18:Dragon Ball Z",
+      "nextIndex": 298
     },
     "meta": {
-      "source": "Metroid",
-      "fanbase": 212966,
-      "vibe": "INTENSE",
-      "rating": "POPULAR",
+      "source": "Dragon Ball Z",
+      "fanbase": 265065,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Samus is a bounty hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11998-akZrClzG6mrR.jpg"
+      "bio": "Android",
+      "description": "Android 18 is a fictional character who first appears in the Dragon Ball manga …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532021655528931358/waifu-3e6132f64819d61e924a76bd.png?ex=6a6b55da&is=6a6a045a&hm=837f752b88986b2830bc1a125d7ce6ad6e6b41431925a7a0e98f4a9cb640fd1d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532100092948123748/waifu-a65371d1478b3150377c3c7c.png?ex=6a6b9ee7&is=6a6a4d67&hm=bf83d19c214a268181ebfa20aaf1be7b6d91271ab327b355a92f1faca4059501&"
   }
 }
