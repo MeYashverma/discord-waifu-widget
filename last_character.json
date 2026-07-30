@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Android 18:Dragon Ball Z",
-  "lastName": "Android 18",
-  "index": 298,
+  "lastId": "db:Shirahoshi:One Piece",
+  "lastName": "Shirahoshi",
+  "index": 171,
   "recent": [
+    "db:Shirahoshi:One Piece",
     "db:Android 18:Dragon Ball Z",
     "db:Samus Aran:Metroid",
     "db:Neliel Tu Odelschwanck:Bleach",
@@ -36,15 +37,14 @@
     "db:Rin Tohsaka:Fate/stay night",
     "db:Yor Forger:Spy x Family",
     "db:Formidable:Azur Lane",
-    "db:Crusch Karsten:Re:Zero",
-    "db:Rossweisse:High School DxD"
+    "db:Crusch Karsten:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-29T18:58:47.657Z",
+  "updatedAt": "2026-07-30T01:29:13.575Z",
   "cached": {
     "character": {
-      "name": "Android 18",
-      "source": "Dragon Ball Z",
+      "name": "Shirahoshi",
+      "source": "One Piece",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Android 18:Dragon Ball Z",
-      "nextIndex": 298
+      "globalId": "db:Shirahoshi:One Piece",
+      "nextIndex": 171
     },
     "meta": {
-      "source": "Dragon Ball Z",
-      "fanbase": 265065,
-      "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "One Piece",
+      "fanbase": 639129,
+      "vibe": "CHAOTIC",
+      "rating": "LEGENDARY",
+      "age": "16",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "Android 18 is a fictional character who first appears in the Dragon Ball manga …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png"
+      "bio": "Maid",
+      "description": "First Appearance: Chapter 612 A giant smelt-whiting mermaid and the youngest of…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/40273.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532100092948123748/waifu-a65371d1478b3150377c3c7c.png?ex=6a6b9ee7&is=6a6a4d67&hm=bf83d19c214a268181ebfa20aaf1be7b6d91271ab327b355a92f1faca4059501&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532198346880712774/waifu-4f5ba64ab380f494c9d0de67.png?ex=6a6bfa68&is=6a6aa8e8&hm=e52fe118b614e2b66dbdb7d7cf8b5d9916809e9a256de57cdc04608138568d50&"
   }
 }
