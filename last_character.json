@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shirahoshi:One Piece",
-  "lastName": "Shirahoshi",
-  "index": 171,
+  "lastId": "db:Matoi Ryuko:Kill la Kill",
+  "lastName": "Matoi Ryuko",
+  "index": 272,
   "recent": [
+    "db:Matoi Ryuko:Kill la Kill",
     "db:Shirahoshi:One Piece",
     "db:Android 18:Dragon Ball Z",
     "db:Samus Aran:Metroid",
@@ -36,15 +37,14 @@
     "db:Blanc:Nikke",
     "db:Rin Tohsaka:Fate/stay night",
     "db:Yor Forger:Spy x Family",
-    "db:Formidable:Azur Lane",
-    "db:Crusch Karsten:Re:Zero"
+    "db:Formidable:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-30T01:29:13.575Z",
+  "updatedAt": "2026-07-30T08:08:46.893Z",
   "cached": {
     "character": {
-      "name": "Shirahoshi",
-      "source": "One Piece",
+      "name": "Matoi Ryuko",
+      "source": "Kill la Kill",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shirahoshi:One Piece",
-      "nextIndex": 171
+      "globalId": "db:Matoi Ryuko:Kill la Kill",
+      "nextIndex": 272
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 639129,
-      "vibe": "CHAOTIC",
-      "rating": "LEGENDARY",
-      "age": "16",
+      "source": "Kill la Kill",
+      "fanbase": 196694,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "First Appearance: Chapter 612 A giant smelt-whiting mermaid and the youngest of…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/40273.jpg"
+      "bio": "Student",
+      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532198346880712774/waifu-4f5ba64ab380f494c9d0de67.png?ex=6a6bfa68&is=6a6aa8e8&hm=e52fe118b614e2b66dbdb7d7cf8b5d9916809e9a256de57cdc04608138568d50&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532298900491472916/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6a6c580e&is=6a6b068e&hm=38cb837d182e38f1e0b4a0479a28ec877acca159b613de3198000af8477f5b5c&"
   }
 }
