@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Matoi Ryuko:Kill la Kill",
-  "lastName": "Matoi Ryuko",
-  "index": 272,
+  "lastId": "db:Shenhe:Genshin Impact",
+  "lastName": "Shenhe",
+  "index": 3,
   "recent": [
+    "db:Shenhe:Genshin Impact",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Shirahoshi:One Piece",
     "db:Android 18:Dragon Ball Z",
@@ -36,36 +37,35 @@
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Blanc:Nikke",
     "db:Rin Tohsaka:Fate/stay night",
-    "db:Yor Forger:Spy x Family",
-    "db:Formidable:Azur Lane"
+    "db:Yor Forger:Spy x Family"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-30T08:08:46.893Z",
+  "updatedAt": "2026-07-30T13:28:27.821Z",
   "cached": {
     "character": {
-      "name": "Matoi Ryuko",
-      "source": "Kill la Kill",
-      "universe": "ANIME",
+      "name": "Shenhe",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Matoi Ryuko:Kill la Kill",
-      "nextIndex": 272
+      "globalId": "db:Shenhe:Genshin Impact",
+      "nextIndex": 3
     },
     "meta": {
-      "source": "Kill la Kill",
-      "fanbase": 196694,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "Genshin Impact",
+      "fanbase": 504624,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+      "bio": "Character",
+      "description": "An adepti disciple with a most unusual air about her",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532298900491472916/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6a6c580e&is=6a6b068e&hm=38cb837d182e38f1e0b4a0479a28ec877acca159b613de3198000af8477f5b5c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532379350337327265/waifu-18f2972feb3f928906683dcf.png?ex=6a6ca2fb&is=6a6b517b&hm=16e93906eb992a979dcb8a4c4dd25589630408b67feaecd5dcdc358da1b6a71c&"
   }
 }
