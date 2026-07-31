@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Boa Hancock:One Piece",
-  "lastName": "Boa Hancock",
-  "index": 166,
+  "lastId": "db:Ram:Re:Zero",
+  "lastName": "Ram",
+  "index": 83,
   "recent": [
+    "db:Ram:Re:Zero",
     "db:Boa Hancock:One Piece",
     "db:Hange Zoë:Attack on Titan",
     "db:Camellya:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Tsunade:Naruto",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
     "db:Ahri:League of Legends",
-    "db:Perona:One Piece",
-    "db:Annie Leonhart:Attack on Titan"
+    "db:Perona:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-31T13:42:00.614Z",
+  "updatedAt": "2026-07-31T19:09:00.291Z",
   "cached": {
     "character": {
-      "name": "Boa Hancock",
-      "source": "One Piece",
+      "name": "Ram",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Boa Hancock:One Piece",
-      "nextIndex": 166
+      "globalId": "db:Ram:Re:Zero",
+      "nextIndex": 83
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 624986,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
-      "age": "29-",
-      "blood": "S",
-      "bio": "Captain",
-      "description": "cm Affiliation: Kuja; Kuja Pirates; Shichibukai Occupation: Pirate Captain; Emp…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
+      "source": "Re:Zero",
+      "fanbase": 222018,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
+      "age": "17-",
+      "blood": "Unknown",
+      "bio": "Maid",
+      "description": "cm Ram is one of the twin maids working for",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532745147777814659/waifu-af4d3c37982fd0d95abb34e5.png?ex=6a6df7a8&is=6a6ca628&hm=fbe86c264fb7a382aadefef9a40e3d6003802e91e6660ab94d55ca9ce9e2e6db&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532827438961135669/waifu-9da6a8c40cf85c9039c233d6.png?ex=6a6e444c&is=6a6cf2cc&hm=8ffb35a99648d1d392dd152722c881a4abd39e7167b6f162047b027ccb498840&"
   }
 }
