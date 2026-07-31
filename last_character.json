@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Camellya:Wuthering Waves",
-  "lastName": "Camellya",
-  "index": 36,
+  "lastId": "db:Hange Zoë:Attack on Titan",
+  "lastName": "Hange Zoë",
+  "index": 137,
   "recent": [
+    "db:Hange Zoë:Attack on Titan",
     "db:Camellya:Wuthering Waves",
     "db:Yamato:One Piece",
     "db:Shenhe:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Ahri:League of Legends",
     "db:Perona:One Piece",
     "db:Annie Leonhart:Attack on Titan",
-    "db:Lightning Farron:Final Fantasy XIII",
-    "db:Blanc:Nikke"
+    "db:Lightning Farron:Final Fantasy XIII"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-31T01:56:25.291Z",
+  "updatedAt": "2026-07-31T08:35:31.193Z",
   "cached": {
     "character": {
-      "name": "Camellya",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Hange Zoë",
+      "source": "Attack on Titan",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Camellya:Wuthering Waves",
-      "nextIndex": 36
+      "globalId": "db:Hange Zoë:Attack on Titan",
+      "nextIndex": 137
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 266092,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
+      "source": "Attack on Titan",
+      "fanbase": 672645,
+      "vibe": "PLAYFUL",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A mysterious girl who attacked Masaki in her apartment",
-      "image": "https://media.kitsu.app/characters/images/47683/original.jpg"
+      "bio": "Captain",
+      "description": "cm Affiliation: Survey Corps; Section Commander, Squad Leader",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532567580634775663/waifu-73091d76af9c122a6aedc941.png?ex=6a6d5248&is=6a6c00c8&hm=a2ff5e0cae7d41087b9d47d8c2d2e32a463464d99e6e63bf2628c85d089a524a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532668017044099233/waifu-35f308f51465b0eba8a2177f.png?ex=6a6dafd2&is=6a6c5e52&hm=340d28ddfcc82e9106fe88933bb8f72df3c07f07602391bac235c54bfe63b37f&"
   }
 }
