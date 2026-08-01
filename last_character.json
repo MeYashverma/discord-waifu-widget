@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jinx:League of Legends",
-  "lastName": "Jinx",
-  "index": 236,
+  "lastId": "db:New Jersey:Azur Lane",
+  "lastName": "New Jersey",
+  "index": 279,
   "recent": [
+    "db:New Jersey:Azur Lane",
     "db:Jinx:League of Legends",
     "db:Encore:Wuthering Waves",
     "db:Alice:Nikke",
@@ -36,36 +37,35 @@
     "db:Grace Howard:Zenless Zone Zero",
     "db:Satella:Re:Zero",
     "db:Misa Amane:Death Note",
-    "db:Peach:Super Mario",
-    "db:Tsunade:Naruto"
+    "db:Peach:Super Mario"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-01T12:58:12.326Z",
+  "updatedAt": "2026-08-01T18:55:44.399Z",
   "cached": {
     "character": {
-      "name": "Jinx",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "New Jersey",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jinx:League of Legends",
-      "nextIndex": 236
+      "globalId": "db:New Jersey:Azur Lane",
+      "nextIndex": 279
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 238228,
-      "vibe": "WHOLESOME",
+      "source": "Azur Lane",
+      "fanbase": 223439,
+      "vibe": "SEDUCTIVE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without car…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318488-mWXfYcnSsNXE.png"
+      "bio": "Captain",
+      "description": "Faction: Eagle Union Class: Iowa Iowa-class battleship New Jersey, the indomita…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244476-ki04wZ39VU85.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533096511741628587/waifu-174d59077fc759629a75f3d3.png?ex=6a6f3ee3&is=6a6ded63&hm=cc0179a3d20cd479ef162c2bb02d4d8281684e66141db5e4f59c968292a2004b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533186487968071740/waifu-2dcaabd54ae53f2a953eeb77.png?ex=6a6f92af&is=6a6e412f&hm=c8c207698e39708e251b8ba881e172c5d3390a0bc88d529631324f49494f180c&"
   }
 }
