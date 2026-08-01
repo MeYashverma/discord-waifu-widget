@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Encore:Wuthering Waves",
-  "lastName": "Encore",
-  "index": 41,
+  "lastId": "db:Jinx:League of Legends",
+  "lastName": "Jinx",
+  "index": 236,
   "recent": [
+    "db:Jinx:League of Legends",
     "db:Encore:Wuthering Waves",
     "db:Alice:Nikke",
     "db:Ram:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Satella:Re:Zero",
     "db:Misa Amane:Death Note",
     "db:Peach:Super Mario",
-    "db:Tsunade:Naruto",
-    "db:Ritsuko Akagi:Neon Genesis Evangelion"
+    "db:Tsunade:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-01T08:05:04.392Z",
+  "updatedAt": "2026-08-01T12:58:12.326Z",
   "cached": {
     "character": {
-      "name": "Encore",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Jinx",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Encore:Wuthering Waves",
-      "nextIndex": 41
+      "globalId": "db:Jinx:League of Legends",
+      "nextIndex": 236
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 242756,
-      "vibe": "ELEGANT",
+      "source": "League of Legends",
+      "fanbase": 238228,
+      "vibe": "WHOLESOME",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Encore from Wuthering Waves",
-      "image": "https://media.kitsu.app/characters/images/63379/original.jpg"
+      "description": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without car…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318488-mWXfYcnSsNXE.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533022742373208175/waifu-e2059362ff67a55b96d67004.png?ex=6a6efa2f&is=6a6da8af&hm=c7d5a4c7f3527af1db15281a7f99d338fce9ade32e27cc9912255a11c8436157&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533096511741628587/waifu-174d59077fc759629a75f3d3.png?ex=6a6f3ee3&is=6a6ded63&hm=cc0179a3d20cd479ef162c2bb02d4d8281684e66141db5e4f59c968292a2004b&"
   }
 }
