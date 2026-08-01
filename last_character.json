@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Alice:Nikke",
-  "lastName": "Alice",
-  "index": 57,
+  "lastId": "db:Encore:Wuthering Waves",
+  "lastName": "Encore",
+  "index": 41,
   "recent": [
+    "db:Encore:Wuthering Waves",
     "db:Alice:Nikke",
     "db:Ram:Re:Zero",
     "db:Boa Hancock:One Piece",
@@ -36,15 +37,14 @@
     "db:Misa Amane:Death Note",
     "db:Peach:Super Mario",
     "db:Tsunade:Naruto",
-    "db:Ritsuko Akagi:Neon Genesis Evangelion",
-    "db:Ahri:League of Legends"
+    "db:Ritsuko Akagi:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-01T01:57:28.414Z",
+  "updatedAt": "2026-08-01T08:05:04.392Z",
   "cached": {
     "character": {
-      "name": "Alice",
-      "source": "Nikke",
+      "name": "Encore",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Alice:Nikke",
-      "nextIndex": 57
+      "globalId": "db:Encore:Wuthering Waves",
+      "nextIndex": 41
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 220435,
-      "vibe": "DEADLY",
+      "source": "Wuthering Waves",
+      "fanbase": 242756,
+      "vibe": "ELEGANT",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "The heroine of Sword Art Online's fourth story arc, Alicization",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
+      "bio": "Character",
+      "description": "Encore from Wuthering Waves",
+      "image": "https://media.kitsu.app/characters/images/63379/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532930232900780052/waifu-46eb9db7a504a00e2b2fa3cb.png?ex=6a6ea407&is=6a6d5287&hm=07c26a4932fbc4a20c21b24ee6424f68511bfbb291aff7ec11ccccc50cf4c661&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533022742373208175/waifu-e2059362ff67a55b96d67004.png?ex=6a6efa2f&is=6a6da8af&hm=c7d5a4c7f3527af1db15281a7f99d338fce9ade32e27cc9912255a11c8436157&"
   }
 }
