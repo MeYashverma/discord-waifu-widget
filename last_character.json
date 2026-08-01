@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ram:Re:Zero",
-  "lastName": "Ram",
-  "index": 83,
+  "lastId": "db:Alice:Nikke",
+  "lastName": "Alice",
+  "index": 57,
   "recent": [
+    "db:Alice:Nikke",
     "db:Ram:Re:Zero",
     "db:Boa Hancock:One Piece",
     "db:Hange Zoë:Attack on Titan",
@@ -36,36 +37,35 @@
     "db:Peach:Super Mario",
     "db:Tsunade:Naruto",
     "db:Ritsuko Akagi:Neon Genesis Evangelion",
-    "db:Ahri:League of Legends",
-    "db:Perona:One Piece"
+    "db:Ahri:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-07-31T19:09:00.291Z",
+  "updatedAt": "2026-08-01T01:57:28.414Z",
   "cached": {
     "character": {
-      "name": "Ram",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Alice",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ram:Re:Zero",
-      "nextIndex": 83
+      "globalId": "db:Alice:Nikke",
+      "nextIndex": 57
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 222018,
-      "vibe": "ELEGANT",
+      "source": "Nikke",
+      "fanbase": 220435,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
-      "age": "17-",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "cm Ram is one of the twin maids working for",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
+      "bio": "Knight",
+      "description": "The heroine of Sword Art Online's fourth story arc, Alicization",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532827438961135669/waifu-9da6a8c40cf85c9039c233d6.png?ex=6a6e444c&is=6a6cf2cc&hm=8ffb35a99648d1d392dd152722c881a4abd39e7167b6f162047b027ccb498840&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1532930232900780052/waifu-46eb9db7a504a00e2b2fa3cb.png?ex=6a6ea407&is=6a6d5287&hm=07c26a4932fbc4a20c21b24ee6424f68511bfbb291aff7ec11ccccc50cf4c661&"
   }
 }
