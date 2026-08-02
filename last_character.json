@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Liv:Punishing Gray Raven",
-  "lastName": "Liv",
-  "index": 291,
+  "lastId": "db:Dehya:Genshin Impact",
+  "lastName": "Dehya",
+  "index": 18,
   "recent": [
+    "db:Dehya:Genshin Impact",
     "db:Liv:Punishing Gray Raven",
     "db:New Jersey:Azur Lane",
     "db:Jinx:League of Legends",
@@ -36,15 +37,14 @@
     "db:Belfast:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Grace Howard:Zenless Zone Zero",
-    "db:Satella:Re:Zero",
-    "db:Misa Amane:Death Note"
+    "db:Satella:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-02T01:53:47.339Z",
+  "updatedAt": "2026-08-02T13:00:40.347Z",
   "cached": {
     "character": {
-      "name": "Liv",
-      "source": "Punishing Gray Raven",
+      "name": "Dehya",
+      "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Liv:Punishing Gray Raven",
-      "nextIndex": 291
+      "globalId": "db:Dehya:Genshin Impact",
+      "nextIndex": 18
     },
     "meta": {
-      "source": "Punishing Gray Raven",
-      "fanbase": 251794,
-      "vibe": "ELEGANT",
-      "rating": "ICONIC",
-      "age": "37",
+      "source": "Genshin Impact",
+      "fanbase": 554178,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Species: Human Occupation: Military Officer, Briggs General Weapon: A family he…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png"
+      "bio": "Character",
+      "description": "Dehya from Genshin Impact",
+      "image": "https://media.kitsu.app/characters/images/20189/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533291693414158446/waifu-14797bd54240c481ce7b1fa6.png?ex=6a6ff4aa&is=6a6ea32a&hm=f76f5bf0883a64d89843ee796c727f6d8a8eb3a789149ebd43f13534d0c82f01&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533459520477728808/waifu-c3f63cb653dcbd8caf7307de.png?ex=6a7090f7&is=6a6f3f77&hm=301c52a61c9542152335c7e5a0af0ffda4ecc8be0efb43b60056da85ddb94d89&"
   }
 }
