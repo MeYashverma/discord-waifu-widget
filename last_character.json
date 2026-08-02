@@ -1,8 +1,9 @@
 {
-  "lastId": "db:New Jersey:Azur Lane",
-  "lastName": "New Jersey",
-  "index": 279,
+  "lastId": "db:Liv:Punishing Gray Raven",
+  "lastName": "Liv",
+  "index": 291,
   "recent": [
+    "db:Liv:Punishing Gray Raven",
     "db:New Jersey:Azur Lane",
     "db:Jinx:League of Legends",
     "db:Encore:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Kurumi Tokisaki:Date A Live",
     "db:Grace Howard:Zenless Zone Zero",
     "db:Satella:Re:Zero",
-    "db:Misa Amane:Death Note",
-    "db:Peach:Super Mario"
+    "db:Misa Amane:Death Note"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-01T18:55:44.399Z",
+  "updatedAt": "2026-08-02T01:53:47.339Z",
   "cached": {
     "character": {
-      "name": "New Jersey",
-      "source": "Azur Lane",
+      "name": "Liv",
+      "source": "Punishing Gray Raven",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:New Jersey:Azur Lane",
-      "nextIndex": 279
+      "globalId": "db:Liv:Punishing Gray Raven",
+      "nextIndex": 291
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 223439,
-      "vibe": "SEDUCTIVE",
+      "source": "Punishing Gray Raven",
+      "fanbase": 251794,
+      "vibe": "ELEGANT",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "37",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Faction: Eagle Union Class: Iowa Iowa-class battleship New Jersey, the indomita…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244476-ki04wZ39VU85.png"
+      "bio": "Soldier",
+      "description": "Species: Human Occupation: Military Officer, Briggs General Weapon: A family he…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533186487968071740/waifu-2dcaabd54ae53f2a953eeb77.png?ex=6a6f92af&is=6a6e412f&hm=c8c207698e39708e251b8ba881e172c5d3390a0bc88d529631324f49494f180c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533291693414158446/waifu-14797bd54240c481ce7b1fa6.png?ex=6a6ff4aa&is=6a6ea32a&hm=f76f5bf0883a64d89843ee796c727f6d8a8eb3a789149ebd43f13534d0c82f01&"
   }
 }
