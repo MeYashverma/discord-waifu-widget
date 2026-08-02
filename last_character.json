@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Dehya:Genshin Impact",
-  "lastName": "Dehya",
-  "index": 18,
+  "lastId": "db:Rangiku Matsumoto:Bleach",
+  "lastName": "Rangiku Matsumoto",
+  "index": 183,
   "recent": [
+    "db:Rangiku Matsumoto:Bleach",
     "db:Dehya:Genshin Impact",
     "db:Liv:Punishing Gray Raven",
     "db:New Jersey:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Asuka Kazama:Tekken",
     "db:Belfast:Azur Lane",
     "db:Kurumi Tokisaki:Date A Live",
-    "db:Grace Howard:Zenless Zone Zero",
-    "db:Satella:Re:Zero"
+    "db:Grace Howard:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-02T13:00:40.347Z",
+  "updatedAt": "2026-08-02T18:56:20.886Z",
   "cached": {
     "character": {
-      "name": "Dehya",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Rangiku Matsumoto",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Dehya:Genshin Impact",
-      "nextIndex": 18
+      "globalId": "db:Rangiku Matsumoto:Bleach",
+      "nextIndex": 183
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 554178,
-      "vibe": "INTENSE",
+      "source": "Bleach",
+      "fanbase": 506666,
+      "vibe": "MYSTERIOUS",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Dehya from Genshin Impact",
-      "image": "https://media.kitsu.app/characters/images/20189/original.jpg"
+      "bio": "Mage",
+      "description": "September 29 Zodiac sign: Libra cm Weight: Occupation: Lieutenant of the 10th D…",
+      "image": "https://media.kitsu.app/characters/images/5638/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533459520477728808/waifu-c3f63cb653dcbd8caf7307de.png?ex=6a7090f7&is=6a6f3f77&hm=301c52a61c9542152335c7e5a0af0ffda4ecc8be0efb43b60056da85ddb94d89&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533549028409872394/waifu-0283fe62c6f4c06b3572ed58.png?ex=6a70e454&is=6a6f92d4&hm=572a0dd8e0c58d3b9086a37237a94c5318d292515b45e2615c0502e710e7d0cb&"
   }
 }
