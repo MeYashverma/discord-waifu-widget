@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Zhu Yuan:Zenless Zone Zero",
-  "lastName": "Zhu Yuan",
-  "index": 30,
+  "lastId": "db:Anis:Nikke",
+  "lastName": "Anis",
+  "index": 52,
   "recent": [
+    "db:Anis:Nikke",
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Wendy Marvell:Fairy Tail",
     "db:Rangiku Matsumoto:Bleach",
@@ -36,15 +37,14 @@
     "db:Ashley Graham:Resident Evil 4",
     "db:Kallen Kozuki:Code Geass",
     "db:Orihime Inoue:Bleach",
-    "db:Asuka Kazama:Tekken",
-    "db:Belfast:Azur Lane"
+    "db:Asuka Kazama:Tekken"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-03T09:23:49.983Z",
+  "updatedAt": "2026-08-03T14:17:23.851Z",
   "cached": {
     "character": {
-      "name": "Zhu Yuan",
-      "source": "Zenless Zone Zero",
+      "name": "Anis",
+      "source": "Nikke",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Zhu Yuan:Zenless Zone Zero",
-      "nextIndex": 30
+      "globalId": "db:Anis:Nikke",
+      "nextIndex": 52
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 245073,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Nikke",
+      "fanbase": 204086,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
+      "age": "17-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled indivi…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383125-TbQDyftLbMJG.jpg"
+      "bio": "Royalty",
+      "description": "Anisphia is the first Princess of the Kingdom of Palettia",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203119-1vybpGB6PaEh.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533767337902211112/waifu-ff4d54271acd0e710201cd96.png?ex=6a71afa5&is=6a705e25&hm=26651e8c331f69922175d6131b827262e73fe6c385bf1aa586313b4a9f1562e6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533841216943165602/waifu-ba71ff598bb67ac0defc11a6.png?ex=6a71f473&is=6a70a2f3&hm=b8f1b7355b8901d0bb30ea6b4fc5277e20ae8daf9b86e95d3a00c66795d6db1c&"
   }
 }
