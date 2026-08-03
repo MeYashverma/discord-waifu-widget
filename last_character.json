@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Wendy Marvell:Fairy Tail",
-  "lastName": "Wendy Marvell",
-  "index": 107,
+  "lastId": "db:Zhu Yuan:Zenless Zone Zero",
+  "lastName": "Zhu Yuan",
+  "index": 30,
   "recent": [
+    "db:Zhu Yuan:Zenless Zone Zero",
     "db:Wendy Marvell:Fairy Tail",
     "db:Rangiku Matsumoto:Bleach",
     "db:Dehya:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Kallen Kozuki:Code Geass",
     "db:Orihime Inoue:Bleach",
     "db:Asuka Kazama:Tekken",
-    "db:Belfast:Azur Lane",
-    "db:Kurumi Tokisaki:Date A Live"
+    "db:Belfast:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-03T01:56:18.352Z",
+  "updatedAt": "2026-08-03T09:23:49.983Z",
   "cached": {
     "character": {
-      "name": "Wendy Marvell",
-      "source": "Fairy Tail",
-      "universe": "ANIME",
+      "name": "Zhu Yuan",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Wendy Marvell:Fairy Tail",
-      "nextIndex": 107
+      "globalId": "db:Zhu Yuan:Zenless Zone Zero",
+      "nextIndex": 30
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 238978,
-      "vibe": "ELEGANT",
+      "source": "Zenless Zone Zero",
+      "fanbase": 245073,
+      "vibe": "PLAYFUL",
       "rating": "ICONIC",
-      "age": "12",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Wendy is the sky dragon slayer",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28886-unO1rEi3zdyF.jpg"
+      "description": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled indivi…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383125-TbQDyftLbMJG.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533654715043151952/waifu-67e64fa2aa94edef715bd475.png?ex=6a7146c1&is=6a6ff541&hm=f1bcd7e23b7bc842404b4b9da95001fadd41a6f33fae008601e04352b1cc8229&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533767337902211112/waifu-ff4d54271acd0e710201cd96.png?ex=6a71afa5&is=6a705e25&hm=26651e8c331f69922175d6131b827262e73fe6c385bf1aa586313b4a9f1562e6&"
   }
 }
