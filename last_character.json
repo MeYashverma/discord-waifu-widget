@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Anis:Nikke",
-  "lastName": "Anis",
-  "index": 52,
+  "lastId": "db:Shiroko:Blue Archive",
+  "lastName": "Shiroko",
+  "index": 63,
   "recent": [
+    "db:Shiroko:Blue Archive",
     "db:Anis:Nikke",
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Wendy Marvell:Fairy Tail",
@@ -36,15 +37,14 @@
     "db:Miyabi:Zenless Zone Zero",
     "db:Ashley Graham:Resident Evil 4",
     "db:Kallen Kozuki:Code Geass",
-    "db:Orihime Inoue:Bleach",
-    "db:Asuka Kazama:Tekken"
+    "db:Orihime Inoue:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-03T14:17:23.851Z",
+  "updatedAt": "2026-08-03T19:20:01.276Z",
   "cached": {
     "character": {
-      "name": "Anis",
-      "source": "Nikke",
+      "name": "Shiroko",
+      "source": "Blue Archive",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Anis:Nikke",
-      "nextIndex": 52
+      "globalId": "db:Shiroko:Blue Archive",
+      "nextIndex": 63
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 204086,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
-      "age": "17-",
+      "source": "Blue Archive",
+      "fanbase": 264856,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
+      "age": "16-17",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Anisphia is the first Princess of the Kingdom of Palettia",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203119-1vybpGB6PaEh.png"
+      "bio": "Student",
+      "description": "Academy: Abydos High School Year: 2nd Year cm Shiroko is a member of the Counte…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245672-3Ehhnue9efnx.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533841216943165602/waifu-ba71ff598bb67ac0defc11a6.png?ex=6a71f473&is=6a70a2f3&hm=b8f1b7355b8901d0bb30ea6b4fc5277e20ae8daf9b86e95d3a00c66795d6db1c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533917374846074992/waifu-8cf68e78a569d2d87938ea90.png?ex=6a723b60&is=6a70e9e0&hm=457bab61e717b7a16b4585c5c3f87d55269f31cbed68bc303c6300e0c1527736&"
   }
 }
