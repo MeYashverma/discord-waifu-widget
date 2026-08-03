@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rangiku Matsumoto:Bleach",
-  "lastName": "Rangiku Matsumoto",
-  "index": 183,
+  "lastId": "db:Wendy Marvell:Fairy Tail",
+  "lastName": "Wendy Marvell",
+  "index": 107,
   "recent": [
+    "db:Wendy Marvell:Fairy Tail",
     "db:Rangiku Matsumoto:Bleach",
     "db:Dehya:Genshin Impact",
     "db:Liv:Punishing Gray Raven",
@@ -36,15 +37,14 @@
     "db:Orihime Inoue:Bleach",
     "db:Asuka Kazama:Tekken",
     "db:Belfast:Azur Lane",
-    "db:Kurumi Tokisaki:Date A Live",
-    "db:Grace Howard:Zenless Zone Zero"
+    "db:Kurumi Tokisaki:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-02T18:56:20.886Z",
+  "updatedAt": "2026-08-03T01:56:18.352Z",
   "cached": {
     "character": {
-      "name": "Rangiku Matsumoto",
-      "source": "Bleach",
+      "name": "Wendy Marvell",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rangiku Matsumoto:Bleach",
-      "nextIndex": 183
+      "globalId": "db:Wendy Marvell:Fairy Tail",
+      "nextIndex": 107
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 506666,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "source": "Fairy Tail",
+      "fanbase": 238978,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
+      "age": "12",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "September 29 Zodiac sign: Libra cm Weight: Occupation: Lieutenant of the 10th D…",
-      "image": "https://media.kitsu.app/characters/images/5638/original.jpg"
+      "bio": "Character",
+      "description": "Wendy is the sky dragon slayer",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28886-unO1rEi3zdyF.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533549028409872394/waifu-0283fe62c6f4c06b3572ed58.png?ex=6a70e454&is=6a6f92d4&hm=572a0dd8e0c58d3b9086a37237a94c5318d292515b45e2615c0502e710e7d0cb&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533654715043151952/waifu-67e64fa2aa94edef715bd475.png?ex=6a7146c1&is=6a6ff541&hm=f1bcd7e23b7bc842404b4b9da95001fadd41a6f33fae008601e04352b1cc8229&"
   }
 }
