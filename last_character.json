@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Makima:Chainsaw Man",
-  "lastName": "Makima",
-  "index": 73,
+  "lastId": "db:Felt:Re:Zero",
+  "lastName": "Felt",
+  "index": 87,
   "recent": [
+    "db:Felt:Re:Zero",
     "db:Makima:Chainsaw Man",
     "db:Peach:Super Mario",
     "db:Yui Ikari:Neon Genesis Evangelion",
@@ -36,15 +37,14 @@
     "db:Emilia:Re:Zero",
     "db:Brandish μ:Fairy Tail",
     "db:Ganyu:Genshin Impact",
-    "db:Rebecca:Cyberpunk Edgerunners",
-    "db:Miyabi:Zenless Zone Zero"
+    "db:Rebecca:Cyberpunk Edgerunners"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-04T13:49:08.423Z",
+  "updatedAt": "2026-08-04T19:18:52.197Z",
   "cached": {
     "character": {
-      "name": "Makima",
-      "source": "Chainsaw Man",
+      "name": "Felt",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Makima:Chainsaw Man",
-      "nextIndex": 73
+      "globalId": "db:Felt:Re:Zero",
+      "nextIndex": 87
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 456163,
-      "vibe": "DEADLY",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Re:Zero",
+      "fanbase": 248441,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
+      "age": "14-",
       "blood": "Unknown",
-      "bio": "Devil Hunter",
-      "description": "Tokyo Special Division 4",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
+      "bio": "Royalty",
+      "description": "cm A thief that lives in the slums",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534196493857325256/waifu-d766273f50c8cfa7ec808f01.png?ex=6a733f54&is=6a71edd4&hm=4e7b5b41b7c31eb8d7f84e551ad09570c9539d3aad15f73cbae1e3ae40df2876&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534279472587735083/waifu-df0440f6485e7d84b4e51bd0.png?ex=6a738c9b&is=6a723b1b&hm=ec2b21f2244b78e09f9088221d4876ed8a1b9b49467cab06a9d4928b23020d04&"
   }
 }
