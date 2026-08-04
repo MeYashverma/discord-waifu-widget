@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shiroko:Blue Archive",
-  "lastName": "Shiroko",
-  "index": 63,
+  "lastId": "db:Yui Ikari:Neon Genesis Evangelion",
+  "lastName": "Yui Ikari",
+  "index": 153,
   "recent": [
+    "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Shiroko:Blue Archive",
     "db:Anis:Nikke",
     "db:Zhu Yuan:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Rebecca:Cyberpunk Edgerunners",
     "db:Miyabi:Zenless Zone Zero",
     "db:Ashley Graham:Resident Evil 4",
-    "db:Kallen Kozuki:Code Geass",
-    "db:Orihime Inoue:Bleach"
+    "db:Kallen Kozuki:Code Geass"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-03T19:20:01.276Z",
+  "updatedAt": "2026-08-04T01:42:44.496Z",
   "cached": {
     "character": {
-      "name": "Shiroko",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Yui Ikari",
+      "source": "Neon Genesis Evangelion",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shiroko:Blue Archive",
-      "nextIndex": 63
+      "globalId": "db:Yui Ikari:Neon Genesis Evangelion",
+      "nextIndex": 153
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 264856,
-      "vibe": "ELEGANT",
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 240630,
+      "vibe": "WHOLESOME",
       "rating": "ICONIC",
-      "age": "16-17",
+      "age": "27",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Academy: Abydos High School Year: 2nd Year cm Shiroko is a member of the Counte…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245672-3Ehhnue9efnx.png"
+      "bio": "Maid",
+      "description": "Ikari Shinji's mother and wife of Gendou Ikari",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1533917374846074992/waifu-8cf68e78a569d2d87938ea90.png?ex=6a723b60&is=6a70e9e0&hm=457bab61e717b7a16b4585c5c3f87d55269f31cbed68bc303c6300e0c1527736&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534013689022124082/waifu-eadd9a1de1d9c91ab4f332ad.png?ex=6a729514&is=6a714394&hm=a07b08df3d9a8ffcd5be75a83bc1ab1ecbda8c2699220cb0c904e4b5b1919d93&"
   }
 }
