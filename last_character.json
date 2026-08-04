@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yui Ikari:Neon Genesis Evangelion",
-  "lastName": "Yui Ikari",
-  "index": 153,
+  "lastId": "db:Peach:Super Mario",
+  "lastName": "Peach",
+  "index": 267,
   "recent": [
+    "db:Peach:Super Mario",
     "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Shiroko:Blue Archive",
     "db:Anis:Nikke",
@@ -36,36 +37,35 @@
     "db:Ganyu:Genshin Impact",
     "db:Rebecca:Cyberpunk Edgerunners",
     "db:Miyabi:Zenless Zone Zero",
-    "db:Ashley Graham:Resident Evil 4",
-    "db:Kallen Kozuki:Code Geass"
+    "db:Ashley Graham:Resident Evil 4"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-04T01:42:44.496Z",
+  "updatedAt": "2026-08-04T08:22:23.087Z",
   "cached": {
     "character": {
-      "name": "Yui Ikari",
-      "source": "Neon Genesis Evangelion",
-      "universe": "ANIME",
+      "name": "Peach",
+      "source": "Super Mario",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yui Ikari:Neon Genesis Evangelion",
-      "nextIndex": 153
+      "globalId": "db:Peach:Super Mario",
+      "nextIndex": 267
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 240630,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
-      "age": "27",
+      "source": "Super Mario",
+      "fanbase": 196379,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "Ikari Shinji's mother and wife of Gendou Ikari",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png"
+      "bio": "Character",
+      "description": "Bonchien is the prince of the Uralis Kingdom",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534013689022124082/waifu-eadd9a1de1d9c91ab4f332ad.png?ex=6a729514&is=6a714394&hm=a07b08df3d9a8ffcd5be75a83bc1ab1ecbda8c2699220cb0c904e4b5b1919d93&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534114263394811954/waifu-633cfd713b0ebeaf021da25d.png?ex=6a72f2be&is=6a71a13e&hm=d60a480c339f5d99193c2f9f01a77f049e2f1f3a3da79f268feeedb95229ba1e&"
   }
 }
