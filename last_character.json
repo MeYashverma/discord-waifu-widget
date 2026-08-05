@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Skadi:Arknights",
-  "lastName": "Skadi",
-  "index": 285,
+  "lastId": "db:Xenovia Quarta:High School DxD",
+  "lastName": "Xenovia Quarta",
+  "index": 93,
   "recent": [
+    "db:Xenovia Quarta:High School DxD",
     "db:Skadi:Arknights",
     "db:Marisa:Street Fighter 6",
     "db:Devola:NieR Automata",
@@ -36,36 +37,35 @@
     "db:Shorekeeper:Wuthering Waves",
     "db:Cantarella:Wuthering Waves",
     "db:Hina:Blue Archive",
-    "db:Kaine:NieR Replicant",
-    "db:Emilia:Re:Zero"
+    "db:Kaine:NieR Replicant"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-05T13:44:32.956Z",
+  "updatedAt": "2026-08-05T19:15:41.997Z",
   "cached": {
     "character": {
-      "name": "Skadi",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Xenovia Quarta",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Skadi:Arknights",
-      "nextIndex": 285
+      "globalId": "db:Xenovia Quarta:High School DxD",
+      "nextIndex": 93
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 263472,
-      "vibe": "ELEGANT",
-      "rating": "ICONIC",
+      "source": "High School DxD",
+      "fanbase": 198837,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
+      "bio": "Knight",
+      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534557726041182239/waifu-0457d2f9d23735099c470103.png?ex=6a748fc0&is=6a733e40&hm=0f40482bbcc8af9d1e593edbf3688c5eb2517dda650efe93a41d8204d6f8f31e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534641063183122593/waifu-5d6ea2b2e9ddf59a58edab0d.png?ex=6a74dd5d&is=6a738bdd&hm=022c81e972e25ba0e65d97b44ebdb5d2427bc8221149f710caef9b08c8746639&"
   }
 }
