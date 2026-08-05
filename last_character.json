@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Felt:Re:Zero",
-  "lastName": "Felt",
-  "index": 87,
+  "lastId": "db:Devola:NieR Automata",
+  "lastName": "Devola",
+  "index": 221,
   "recent": [
+    "db:Devola:NieR Automata",
     "db:Felt:Re:Zero",
     "db:Makima:Chainsaw Man",
     "db:Peach:Super Mario",
@@ -36,36 +37,35 @@
     "db:Kaine:NieR Replicant",
     "db:Emilia:Re:Zero",
     "db:Brandish μ:Fairy Tail",
-    "db:Ganyu:Genshin Impact",
-    "db:Rebecca:Cyberpunk Edgerunners"
+    "db:Ganyu:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-04T19:18:52.197Z",
+  "updatedAt": "2026-08-05T01:45:01.959Z",
   "cached": {
     "character": {
-      "name": "Felt",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Devola",
+      "source": "NieR Automata",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Felt:Re:Zero",
-      "nextIndex": 87
+      "globalId": "db:Devola:NieR Automata",
+      "nextIndex": 221
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 248441,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
-      "age": "14-",
+      "source": "NieR Automata",
+      "fanbase": 452536,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "cm A thief that lives in the slums",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg"
+      "bio": "Android",
+      "description": "Devola is the older twin sister of , and with her shares the administrative dut…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138301-VCBlI7TEIn2i.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534279472587735083/waifu-df0440f6485e7d84b4e51bd0.png?ex=6a738c9b&is=6a723b1b&hm=ec2b21f2244b78e09f9088221d4876ed8a1b9b49467cab06a9d4928b23020d04&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534376654238122227/waifu-ee55a58b4d99825a3d342505.png?ex=6a73e71d&is=6a72959d&hm=f9b91cfe4a38fde369448a42a3064a9df5c2211cc9cc69e41dec191caa73f99b&"
   }
 }
