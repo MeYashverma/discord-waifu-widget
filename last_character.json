@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Devola:NieR Automata",
-  "lastName": "Devola",
-  "index": 221,
+  "lastId": "db:Marisa:Street Fighter 6",
+  "lastName": "Marisa",
+  "index": 247,
   "recent": [
+    "db:Marisa:Street Fighter 6",
     "db:Devola:NieR Automata",
     "db:Felt:Re:Zero",
     "db:Makima:Chainsaw Man",
@@ -36,36 +37,35 @@
     "db:Hina:Blue Archive",
     "db:Kaine:NieR Replicant",
     "db:Emilia:Re:Zero",
-    "db:Brandish μ:Fairy Tail",
-    "db:Ganyu:Genshin Impact"
+    "db:Brandish μ:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-05T01:45:01.959Z",
+  "updatedAt": "2026-08-05T08:19:14.199Z",
   "cached": {
     "character": {
-      "name": "Devola",
-      "source": "NieR Automata",
-      "universe": "JRPG",
+      "name": "Marisa",
+      "source": "Street Fighter 6",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Devola:NieR Automata",
-      "nextIndex": 221
+      "globalId": "db:Marisa:Street Fighter 6",
+      "nextIndex": 247
     },
     "meta": {
-      "source": "NieR Automata",
-      "fanbase": 452536,
-      "vibe": "ELEGANT",
-      "rating": "ELITE",
+      "source": "Street Fighter 6",
+      "fanbase": 181192,
+      "vibe": "INTENSE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "Devola is the older twin sister of , and with her shares the administrative dut…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138301-VCBlI7TEIn2i.png"
+      "bio": "Witch",
+      "description": "Marisa is a human witch who lives in a cluttered house in the Forest of Magic",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5458-ERiRSncVQOY1.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534376654238122227/waifu-ee55a58b4d99825a3d342505.png?ex=6a73e71d&is=6a72959d&hm=f9b91cfe4a38fde369448a42a3064a9df5c2211cc9cc69e41dec191caa73f99b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534475858847207494/waifu-0f86e9eadd56c3671ca9f1e1.png?ex=6a744381&is=6a72f201&hm=dc94fddbaa40e2988ff76a2babd43138afffb44d0b70824bf1c52602a678f118&"
   }
 }
