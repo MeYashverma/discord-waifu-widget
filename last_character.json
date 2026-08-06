@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Xenovia Quarta:High School DxD",
-  "lastName": "Xenovia Quarta",
-  "index": 93,
+  "lastId": "db:Yoruichi Shihouin:Bleach",
+  "lastName": "Yoruichi Shihouin",
+  "index": 181,
   "recent": [
+    "db:Yoruichi Shihouin:Bleach",
     "db:Xenovia Quarta:High School DxD",
     "db:Skadi:Arknights",
     "db:Marisa:Street Fighter 6",
@@ -36,15 +37,14 @@
     "db:Jill Valentine:Resident Evil",
     "db:Shorekeeper:Wuthering Waves",
     "db:Cantarella:Wuthering Waves",
-    "db:Hina:Blue Archive",
-    "db:Kaine:NieR Replicant"
+    "db:Hina:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-05T19:15:41.997Z",
+  "updatedAt": "2026-08-06T01:44:33.366Z",
   "cached": {
     "character": {
-      "name": "Xenovia Quarta",
-      "source": "High School DxD",
+      "name": "Yoruichi Shihouin",
+      "source": "Bleach",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Xenovia Quarta:High School DxD",
-      "nextIndex": 93
+      "globalId": "db:Yoruichi Shihouin:Bleach",
+      "nextIndex": 181
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 198837,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "source": "Bleach",
+      "fanbase": 512525,
+      "vibe": "SEDUCTIVE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
+      "bio": "Captain",
+      "description": "cm Previous Position: 22nd Head of Shihōin Clan, Captain of the 2nd Division, O…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534641063183122593/waifu-5d6ea2b2e9ddf59a58edab0d.png?ex=6a74dd5d&is=6a738bdd&hm=022c81e972e25ba0e65d97b44ebdb5d2427bc8221149f710caef9b08c8746639&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534738922091843735/waifu-d0b70b658541131d94d79c7d.png?ex=6a753881&is=6a73e701&hm=c9bc7e3d5dd31865cfe26a06e11f39c7c689d7223ff8727387708925b347ca53&"
   }
 }
