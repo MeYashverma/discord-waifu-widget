@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yoruichi Shihouin:Bleach",
-  "lastName": "Yoruichi Shihouin",
-  "index": 181,
+  "lastId": "db:Sasha Blouse:Attack on Titan",
+  "lastName": "Sasha Blouse",
+  "index": 134,
   "recent": [
+    "db:Sasha Blouse:Attack on Titan",
     "db:Yoruichi Shihouin:Bleach",
     "db:Xenovia Quarta:High School DxD",
     "db:Skadi:Arknights",
@@ -36,15 +37,14 @@
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Jill Valentine:Resident Evil",
     "db:Shorekeeper:Wuthering Waves",
-    "db:Cantarella:Wuthering Waves",
-    "db:Hina:Blue Archive"
+    "db:Cantarella:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-06T01:44:33.366Z",
+  "updatedAt": "2026-08-06T08:16:25.005Z",
   "cached": {
     "character": {
-      "name": "Yoruichi Shihouin",
-      "source": "Bleach",
+      "name": "Sasha Blouse",
+      "source": "Attack on Titan",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yoruichi Shihouin:Bleach",
-      "nextIndex": 181
+      "globalId": "db:Sasha Blouse:Attack on Titan",
+      "nextIndex": 134
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 512525,
-      "vibe": "SEDUCTIVE",
+      "source": "Attack on Titan",
+      "fanbase": 675572,
+      "vibe": "CONFIDENT",
       "rating": "LEGENDARY",
-      "age": "Unknown",
+      "age": "16-",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "cm Previous Position: 22nd Head of Shihōin Clan, Captain of the 2nd Division, O…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+      "bio": "Hunter",
+      "description": "Initial cm Affiliations: 104th Cadet Corps, Survey Corps; Soldier Relatives: , …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534738922091843735/waifu-d0b70b658541131d94d79c7d.png?ex=6a753881&is=6a73e701&hm=c9bc7e3d5dd31865cfe26a06e11f39c7c689d7223ff8727387708925b347ca53&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534837536516477019/waifu-310c550ce324fcd621d218a5.png?ex=6a759458&is=6a7442d8&hm=d783d5d233df75d03344ed6530863453569aed69bb90e8805fb1ce3017f13972&"
   }
 }
