@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jeanne:Bayonetta",
-  "lastName": "Jeanne",
-  "index": 260,
+  "lastId": "db:Nobara Kugisaki:Jujutsu Kaisen",
+  "lastName": "Nobara Kugisaki",
+  "index": 123,
   "recent": [
+    "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Jeanne:Bayonetta",
     "db:Sasha Blouse:Attack on Titan",
     "db:Yoruichi Shihouin:Bleach",
@@ -36,36 +37,35 @@
     "db:Android 18:Dragon Ball Z",
     "db:Samus Aran:Metroid",
     "db:Neliel Tu Odelschwanck:Bleach",
-    "db:Jill Valentine:Resident Evil",
-    "db:Shorekeeper:Wuthering Waves"
+    "db:Jill Valentine:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-06T13:42:49.508Z",
+  "updatedAt": "2026-08-06T23:50:40.148Z",
   "cached": {
     "character": {
-      "name": "Jeanne",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Nobara Kugisaki",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jeanne:Bayonetta",
-      "nextIndex": 260
+      "globalId": "db:Nobara Kugisaki:Jujutsu Kaisen",
+      "nextIndex": 123
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 231467,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 536735,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
+      "age": "16",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
+      "bio": "Sorcerer",
+      "description": "Tokyo Jujutsu High student",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1534919679871549530/waifu-e6045378a725917caf1d2dab.png?ex=6a75e0d9&is=6a748f59&hm=6d3eae02caf4812378aa77efa4d4b4c22425e421de9c53c92820ecf7f101162b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535072649015992400/waifu-aae6665e51f71aca81693a34.png?ex=6a766f4f&is=6a751dcf&hm=c5c0e6760e034f7c8355091557081fa725e3911db7e6683b532a7b0d477357ad&"
   }
 }
