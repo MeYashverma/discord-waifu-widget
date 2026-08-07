@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Princess Zelda:The Legend of Zelda",
-  "lastName": "Princess Zelda",
-  "index": 265,
+  "lastId": "db:Lara Croft:Tomb Raider",
+  "lastName": "Lara Croft",
+  "index": 266,
   "recent": [
+    "db:Lara Croft:Tomb Raider",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Jeanne:Bayonetta",
@@ -36,15 +37,14 @@
     "db:Matoi Ryuko:Kill la Kill",
     "db:Shirahoshi:One Piece",
     "db:Android 18:Dragon Ball Z",
-    "db:Samus Aran:Metroid",
-    "db:Neliel Tu Odelschwanck:Bleach"
+    "db:Samus Aran:Metroid"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-07T02:09:31.631Z",
+  "updatedAt": "2026-08-07T07:00:44.092Z",
   "cached": {
     "character": {
-      "name": "Princess Zelda",
-      "source": "The Legend of Zelda",
+      "name": "Lara Croft",
+      "source": "Tomb Raider",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Princess Zelda:The Legend of Zelda",
-      "nextIndex": 265
+      "globalId": "db:Lara Croft:Tomb Raider",
+      "nextIndex": 266
     },
     "meta": {
-      "source": "The Legend of Zelda",
-      "fanbase": 241705,
-      "vibe": "ROYAL",
-      "rating": "ICONIC",
+      "source": "Tomb Raider",
+      "fanbase": 216300,
+      "vibe": "INTENSE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Zelda/Zeruda is Claymore No",
-      "image": "https://media.kitsu.app/characters/images/43274/original.jpg"
+      "bio": "Royalty",
+      "description": "One of the Geltic rebels",
+      "image": "https://media.kitsu.app/characters/images/71365/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535107594124001310/waifu-4573567935cb9a45d41ff6ab.png?ex=6a768fdb&is=6a753e5b&hm=91d1e474b6e9a665ac0443a97ada78e77f4060ebc262ef941f78128c0ba71610&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535180876843847710/waifu-e3e3d509873647ba24298283.png?ex=6a76d41b&is=6a75829b&hm=3bdb608897219888db783398fe5d4d16d9263558ae5b240e93f95cdba31f06bd&"
   }
 }
