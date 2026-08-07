@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nobara Kugisaki:Jujutsu Kaisen",
-  "lastName": "Nobara Kugisaki",
-  "index": 123,
+  "lastId": "db:Princess Zelda:The Legend of Zelda",
+  "lastName": "Princess Zelda",
+  "index": 265,
   "recent": [
+    "db:Princess Zelda:The Legend of Zelda",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Jeanne:Bayonetta",
     "db:Sasha Blouse:Attack on Titan",
@@ -36,36 +37,35 @@
     "db:Shirahoshi:One Piece",
     "db:Android 18:Dragon Ball Z",
     "db:Samus Aran:Metroid",
-    "db:Neliel Tu Odelschwanck:Bleach",
-    "db:Jill Valentine:Resident Evil"
+    "db:Neliel Tu Odelschwanck:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-06T23:50:40.148Z",
+  "updatedAt": "2026-08-07T02:09:31.631Z",
   "cached": {
     "character": {
-      "name": "Nobara Kugisaki",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Princess Zelda",
+      "source": "The Legend of Zelda",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nobara Kugisaki:Jujutsu Kaisen",
-      "nextIndex": 123
+      "globalId": "db:Princess Zelda:The Legend of Zelda",
+      "nextIndex": 265
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 536735,
-      "vibe": "DEADLY",
-      "rating": "LEGENDARY",
-      "age": "16",
+      "source": "The Legend of Zelda",
+      "fanbase": 241705,
+      "vibe": "ROYAL",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Sorcerer",
-      "description": "Tokyo Jujutsu High student",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
+      "bio": "Captain",
+      "description": "Zelda/Zeruda is Claymore No",
+      "image": "https://media.kitsu.app/characters/images/43274/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535072649015992400/waifu-aae6665e51f71aca81693a34.png?ex=6a766f4f&is=6a751dcf&hm=c5c0e6760e034f7c8355091557081fa725e3911db7e6683b532a7b0d477357ad&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535107594124001310/waifu-4573567935cb9a45d41ff6ab.png?ex=6a768fdb&is=6a753e5b&hm=91d1e474b6e9a665ac0443a97ada78e77f4060ebc262ef941f78128c0ba71610&"
   }
 }
