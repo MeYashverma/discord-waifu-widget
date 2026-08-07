@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lara Croft:Tomb Raider",
-  "lastName": "Lara Croft",
-  "index": 266,
+  "lastId": "db:Cammy White:Street Fighter",
+  "lastName": "Cammy White",
+  "index": 244,
   "recent": [
+    "db:Cammy White:Street Fighter",
     "db:Lara Croft:Tomb Raider",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
@@ -36,15 +37,14 @@
     "db:Shenhe:Genshin Impact",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Shirahoshi:One Piece",
-    "db:Android 18:Dragon Ball Z",
-    "db:Samus Aran:Metroid"
+    "db:Android 18:Dragon Ball Z"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-07T07:00:44.092Z",
+  "updatedAt": "2026-08-07T12:41:27.211Z",
   "cached": {
     "character": {
-      "name": "Lara Croft",
-      "source": "Tomb Raider",
+      "name": "Cammy White",
+      "source": "Street Fighter",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lara Croft:Tomb Raider",
-      "nextIndex": 266
+      "globalId": "db:Cammy White:Street Fighter",
+      "nextIndex": 244
     },
     "meta": {
-      "source": "Tomb Raider",
-      "fanbase": 216300,
-      "vibe": "INTENSE",
-      "rating": "POPULAR",
+      "source": "Street Fighter",
+      "fanbase": 247153,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "One of the Geltic rebels",
-      "image": "https://media.kitsu.app/characters/images/71365/original.jpg"
+      "bio": "Soldier",
+      "description": "Shadaloo Cammy's early history is unknown; her first appearance in the Street F…",
+      "image": "https://media.kitsu.app/characters/images/11132/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535180876843847710/waifu-e3e3d509873647ba24298283.png?ex=6a76d41b&is=6a75829b&hm=3bdb608897219888db783398fe5d4d16d9263558ae5b240e93f95cdba31f06bd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535266623685005362/waifu-e6c74f359b675e308a465623.png?ex=6a7723f6&is=6a75d276&hm=ebe0004573f01cffef8689d0c877e335dac1e7c93c6b363b4acdb48d380c3b46&"
   }
 }
