@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Power:Chainsaw Man",
-  "lastName": "Power",
-  "index": 74,
+  "lastId": "db:Keqing:Genshin Impact",
+  "lastName": "Keqing",
+  "index": 9,
   "recent": [
+    "db:Keqing:Genshin Impact",
     "db:Power:Chainsaw Man",
     "db:Ichigo:Darling in the Franxx",
     "db:Misa Amane:Death Note",
@@ -36,36 +37,35 @@
     "db:Ram:Re:Zero",
     "db:Boa Hancock:One Piece",
     "db:Hange Zoë:Attack on Titan",
-    "db:Camellya:Wuthering Waves",
-    "db:Yamato:One Piece"
+    "db:Camellya:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-08T12:27:56.332Z",
+  "updatedAt": "2026-08-08T18:23:14.885Z",
   "cached": {
     "character": {
-      "name": "Power",
-      "source": "Chainsaw Man",
-      "universe": "ANIME",
+      "name": "Keqing",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Power:Chainsaw Man",
-      "nextIndex": 74
+      "globalId": "db:Keqing:Genshin Impact",
+      "nextIndex": 9
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 506394,
-      "vibe": "DOMINANT",
+      "source": "Genshin Impact",
+      "fanbase": 505354,
+      "vibe": "ELEGANT",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Fiend",
-      "description": "Blood Devil fiend",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
+      "bio": "Character",
+      "description": "Vision: Electro Constellation: Trulla Cementarii The Yuheng of the Liyue Qixing",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233896-8J1SVpVQulVY.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535625610175582308/waifu-7415189131d248384180934c.png?ex=6a78724c&is=6a7720cc&hm=fd481572a9085376abb3048d2a9a2d21b0d87cc88f2cc145ca283af9efe01afa&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535715025732239570/waifu-6be5bf795f54074047c67de0.png?ex=6a78c592&is=6a777412&hm=9ee6b1e80e65494e6dd069a01b4f5957536fca00b37c9d7af4e71f77a21d5b3f&"
   }
 }
