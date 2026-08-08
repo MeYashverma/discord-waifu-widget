@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Misa Amane:Death Note",
-  "lastName": "Misa Amane",
-  "index": 295,
+  "lastId": "db:Ichigo:Darling in the Franxx",
+  "lastName": "Ichigo",
+  "index": 144,
   "recent": [
+    "db:Ichigo:Darling in the Franxx",
     "db:Misa Amane:Death Note",
     "db:Violet Evergarden:Violet Evergarden",
     "db:Cammy White:Street Fighter",
@@ -36,15 +37,14 @@
     "db:Hange Zoë:Attack on Titan",
     "db:Camellya:Wuthering Waves",
     "db:Yamato:One Piece",
-    "db:Shenhe:Genshin Impact",
-    "db:Matoi Ryuko:Kill la Kill"
+    "db:Shenhe:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-08T00:56:52.309Z",
+  "updatedAt": "2026-08-08T06:35:14.517Z",
   "cached": {
     "character": {
-      "name": "Misa Amane",
-      "source": "Death Note",
+      "name": "Ichigo",
+      "source": "Darling in the Franxx",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Misa Amane:Death Note",
-      "nextIndex": 295
+      "globalId": "db:Ichigo:Darling in the Franxx",
+      "nextIndex": 144
     },
     "meta": {
-      "source": "Death Note",
-      "fanbase": 225453,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "AB",
-      "bio": "Idol",
-      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
+      "source": "Darling in the Franxx",
+      "fanbase": 216554,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
+      "age": "14-17",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "cm Ichigo is a former Parasite with the codename \"015\" of the Thirteenth Planta…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535451697001009325/waifu-5f7bc451f018b2f82cb25fda.png?ex=6a77d053&is=6a767ed3&hm=56b868fdfbd28dd0bedb97a41905a22d3fb6f2d3a5b28d5ed352341e5b2837e3&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535536850540957746/waifu-6a5b161bcb70f8a59b09b606.png?ex=6a781fa2&is=6a76ce22&hm=e464ffa8cb99e1819d2a4d44e9e55a7a35ef8902d1fc9e0da449430f301eb525&"
   }
 }
