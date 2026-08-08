@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Violet Evergarden:Violet Evergarden",
-  "lastName": "Violet Evergarden",
-  "index": 274,
+  "lastId": "db:Misa Amane:Death Note",
+  "lastName": "Misa Amane",
+  "index": 295,
   "recent": [
+    "db:Misa Amane:Death Note",
     "db:Violet Evergarden:Violet Evergarden",
     "db:Cammy White:Street Fighter",
     "db:Lara Croft:Tomb Raider",
@@ -36,15 +37,14 @@
     "db:Camellya:Wuthering Waves",
     "db:Yamato:One Piece",
     "db:Shenhe:Genshin Impact",
-    "db:Matoi Ryuko:Kill la Kill",
-    "db:Shirahoshi:One Piece"
+    "db:Matoi Ryuko:Kill la Kill"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-07T18:41:07.669Z",
+  "updatedAt": "2026-08-08T00:56:52.309Z",
   "cached": {
     "character": {
-      "name": "Violet Evergarden",
-      "source": "Violet Evergarden",
+      "name": "Misa Amane",
+      "source": "Death Note",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Violet Evergarden:Violet Evergarden",
-      "nextIndex": 274
+      "globalId": "db:Misa Amane:Death Note",
+      "nextIndex": 295
     },
     "meta": {
-      "source": "Violet Evergarden",
-      "fanbase": 189425,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "Death Note",
+      "fanbase": 225453,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
       "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Doll",
-      "description": "Auto Memory Doll",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
+      "blood": "AB",
+      "bio": "Idol",
+      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535357138564808794/waifu-d21c7a684ec20c1bf6571875.png?ex=6a777843&is=6a7626c3&hm=aa52cf4417b7e1ad715edf067b4e60cd87fe223968f8e7c755215363361f50b4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535451697001009325/waifu-5f7bc451f018b2f82cb25fda.png?ex=6a77d053&is=6a767ed3&hm=56b868fdfbd28dd0bedb97a41905a22d3fb6f2d3a5b28d5ed352341e5b2837e3&"
   }
 }
