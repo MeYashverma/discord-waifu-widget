@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ichigo:Darling in the Franxx",
-  "lastName": "Ichigo",
-  "index": 144,
+  "lastId": "db:Power:Chainsaw Man",
+  "lastName": "Power",
+  "index": 74,
   "recent": [
+    "db:Power:Chainsaw Man",
     "db:Ichigo:Darling in the Franxx",
     "db:Misa Amane:Death Note",
     "db:Violet Evergarden:Violet Evergarden",
@@ -36,15 +37,14 @@
     "db:Boa Hancock:One Piece",
     "db:Hange Zoë:Attack on Titan",
     "db:Camellya:Wuthering Waves",
-    "db:Yamato:One Piece",
-    "db:Shenhe:Genshin Impact"
+    "db:Yamato:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-08T06:35:14.517Z",
+  "updatedAt": "2026-08-08T12:27:56.332Z",
   "cached": {
     "character": {
-      "name": "Ichigo",
-      "source": "Darling in the Franxx",
+      "name": "Power",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ichigo:Darling in the Franxx",
-      "nextIndex": 144
+      "globalId": "db:Power:Chainsaw Man",
+      "nextIndex": 74
     },
     "meta": {
-      "source": "Darling in the Franxx",
-      "fanbase": 216554,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
-      "age": "14-17",
+      "source": "Chainsaw Man",
+      "fanbase": 506394,
+      "vibe": "DOMINANT",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Ichigo is a former Parasite with the codename \"015\" of the Thirteenth Planta…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+      "bio": "Fiend",
+      "description": "Blood Devil fiend",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535536850540957746/waifu-6a5b161bcb70f8a59b09b606.png?ex=6a781fa2&is=6a76ce22&hm=e464ffa8cb99e1819d2a4d44e9e55a7a35ef8902d1fc9e0da449430f301eb525&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535625610175582308/waifu-7415189131d248384180934c.png?ex=6a78724c&is=6a7720cc&hm=fd481572a9085376abb3048d2a9a2d21b0d87cc88f2cc145ca283af9efe01afa&"
   }
 }
