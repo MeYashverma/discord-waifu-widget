@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mukuro Hoshimiya:Date A Live",
-  "lastName": "Mukuro Hoshimiya",
-  "index": 102,
+  "lastId": "db:Rei Ayanami:Neon Genesis Evangelion",
+  "lastName": "Rei Ayanami",
+  "index": 149,
   "recent": [
+    "db:Rei Ayanami:Neon Genesis Evangelion",
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Keqing:Genshin Impact",
     "db:Power:Chainsaw Man",
@@ -36,15 +37,14 @@
     "db:Encore:Wuthering Waves",
     "db:Alice:Nikke",
     "db:Ram:Re:Zero",
-    "db:Boa Hancock:One Piece",
-    "db:Hange Zoë:Attack on Titan"
+    "db:Boa Hancock:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-09T01:00:08.116Z",
+  "updatedAt": "2026-08-09T12:30:25.782Z",
   "cached": {
     "character": {
-      "name": "Mukuro Hoshimiya",
-      "source": "Date A Live",
+      "name": "Rei Ayanami",
+      "source": "Neon Genesis Evangelion",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mukuro Hoshimiya:Date A Live",
-      "nextIndex": 102
+      "globalId": "db:Rei Ayanami:Neon Genesis Evangelion",
+      "nextIndex": 149
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 225524,
-      "vibe": "YANDERE",
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 230495,
+      "vibe": "LOYAL",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "14",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Angel: Michael She is the tenth spirit to appear in the series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157109-Mmgdhq6XYCKT.png"
+      "description": "cm Source of genetic material: Yui Ikari and Lilith, the Second Angel",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535814906090102885/waifu-60cab5c1be62ac24464a36b8.png?ex=6a792297&is=6a77d117&hm=4a266911d2569e7605d73912b402d354144a1612cbcee164df33fbe446469c87&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535988624011558942/waifu-ca514b248db93a7799804a3c.png?ex=6a79c461&is=6a7872e1&hm=0e4931dffac55fa1c5b5b5c403300a11bcf5c4d690b3e9104bf062428235e27d&"
   }
 }
