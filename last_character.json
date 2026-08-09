@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rei Ayanami:Neon Genesis Evangelion",
-  "lastName": "Rei Ayanami",
-  "index": 149,
+  "lastId": "db:Yoru:Chainsaw Man",
+  "lastName": "Yoru",
+  "index": 80,
   "recent": [
+    "db:Yoru:Chainsaw Man",
     "db:Rei Ayanami:Neon Genesis Evangelion",
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Keqing:Genshin Impact",
@@ -36,15 +37,14 @@
     "db:Jinx:League of Legends",
     "db:Encore:Wuthering Waves",
     "db:Alice:Nikke",
-    "db:Ram:Re:Zero",
-    "db:Boa Hancock:One Piece"
+    "db:Ram:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-09T12:30:25.782Z",
+  "updatedAt": "2026-08-09T18:25:45.976Z",
   "cached": {
     "character": {
-      "name": "Rei Ayanami",
-      "source": "Neon Genesis Evangelion",
+      "name": "Yoru",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rei Ayanami:Neon Genesis Evangelion",
-      "nextIndex": 149
+      "globalId": "db:Yoru:Chainsaw Man",
+      "nextIndex": 80
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 230495,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
-      "age": "14",
+      "source": "Chainsaw Man",
+      "fanbase": 459972,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Source of genetic material: Yui Ikari and Lilith, the Second Angel",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+      "description": "Species: Human cm , Rank: Irregular Position: Wave Controller Born: Floor of De…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1535988624011558942/waifu-ca514b248db93a7799804a3c.png?ex=6a79c461&is=6a7872e1&hm=0e4931dffac55fa1c5b5b5c403300a11bcf5c4d690b3e9104bf062428235e27d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536078048196042833/waifu-7d5ee681d6cd4e76e394d793.png?ex=6a7a17a9&is=6a78c629&hm=5945feffdbb3caf820453448d3b5ad10d6641c40f9937b2302779e1396cd31a8&"
   }
 }
