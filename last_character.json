@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
-  "lastName": "Neliel Tu Odelschwanck",
-  "index": 184,
+  "lastId": "db:Rem:Re:Zero",
+  "lastName": "Rem",
+  "index": 81,
   "recent": [
+    "db:Rem:Re:Zero",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Yoru:Chainsaw Man",
     "db:Rei Ayanami:Neon Genesis Evangelion",
@@ -36,15 +37,14 @@
     "db:Liv:Punishing Gray Raven",
     "db:New Jersey:Azur Lane",
     "db:Jinx:League of Legends",
-    "db:Encore:Wuthering Waves",
-    "db:Alice:Nikke"
+    "db:Encore:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-10T01:01:59.444Z",
+  "updatedAt": "2026-08-10T07:12:12.770Z",
   "cached": {
     "character": {
-      "name": "Neliel Tu Odelschwanck",
-      "source": "Bleach",
+      "name": "Rem",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
-      "nextIndex": 184
+      "globalId": "db:Rem:Re:Zero",
+      "nextIndex": 81
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 502692,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
+      "source": "Re:Zero",
+      "fanbase": 217150,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
-      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
+      "bio": "Maid",
+      "description": "Oni maid of Roswaal mansion",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536177761025007817/waifu-83365ab8caedee1172cb4616.png?ex=6a7a7487&is=6a792307&hm=b20b3172e64c3fdea12e18239aaaecb4f1ba2ca06e2ccd888e006ace298d109d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536270930593185813/waifu-664eea4d2cdf971601100088.png?ex=6a7acb4c&is=6a7979cc&hm=66b90acbfc1fce584b52962cc191af10e3410729260689fe26274c875fc0f232&"
   }
 }
