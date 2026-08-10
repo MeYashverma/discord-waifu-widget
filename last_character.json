@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yoru:Chainsaw Man",
-  "lastName": "Yoru",
-  "index": 80,
+  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
+  "lastName": "Neliel Tu Odelschwanck",
+  "index": 184,
   "recent": [
+    "db:Neliel Tu Odelschwanck:Bleach",
     "db:Yoru:Chainsaw Man",
     "db:Rei Ayanami:Neon Genesis Evangelion",
     "db:Mukuro Hoshimiya:Date A Live",
@@ -36,15 +37,14 @@
     "db:New Jersey:Azur Lane",
     "db:Jinx:League of Legends",
     "db:Encore:Wuthering Waves",
-    "db:Alice:Nikke",
-    "db:Ram:Re:Zero"
+    "db:Alice:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-09T18:25:45.976Z",
+  "updatedAt": "2026-08-10T01:01:59.444Z",
   "cached": {
     "character": {
-      "name": "Yoru",
-      "source": "Chainsaw Man",
+      "name": "Neliel Tu Odelschwanck",
+      "source": "Bleach",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yoru:Chainsaw Man",
-      "nextIndex": 80
+      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
+      "nextIndex": 184
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 459972,
-      "vibe": "ELEGANT",
-      "rating": "ELITE",
+      "source": "Bleach",
+      "fanbase": 502692,
+      "vibe": "MYSTERIOUS",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Species: Human cm , Rank: Irregular Position: Wave Controller Born: Floor of De…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
+      "bio": "Knight",
+      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
+      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536078048196042833/waifu-7d5ee681d6cd4e76e394d793.png?ex=6a7a17a9&is=6a78c629&hm=5945feffdbb3caf820453448d3b5ad10d6641c40f9937b2302779e1396cd31a8&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536177761025007817/waifu-83365ab8caedee1172cb4616.png?ex=6a7a7487&is=6a792307&hm=b20b3172e64c3fdea12e18239aaaecb4f1ba2ca06e2ccd888e006ace298d109d&"
   }
 }
