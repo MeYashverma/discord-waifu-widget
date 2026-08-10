@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kurumi Tokisaki:Date A Live",
-  "lastName": "Kurumi Tokisaki",
-  "index": 97,
+  "lastId": "db:Rapi:Nikke",
+  "lastName": "Rapi",
+  "index": 51,
   "recent": [
+    "db:Rapi:Nikke",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Rem:Re:Zero",
     "db:Neliel Tu Odelschwanck:Bleach",
@@ -36,36 +37,35 @@
     "db:Rangiku Matsumoto:Bleach",
     "db:Dehya:Genshin Impact",
     "db:Liv:Punishing Gray Raven",
-    "db:New Jersey:Azur Lane",
-    "db:Jinx:League of Legends"
+    "db:New Jersey:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-10T12:46:15.530Z",
+  "updatedAt": "2026-08-10T18:42:56.454Z",
   "cached": {
     "character": {
-      "name": "Kurumi Tokisaki",
-      "source": "Date A Live",
-      "universe": "ANIME",
+      "name": "Rapi",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kurumi Tokisaki:Date A Live",
-      "nextIndex": 97
+      "globalId": "db:Rapi:Nikke",
+      "nextIndex": 51
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 200654,
-      "vibe": "YANDERE",
+      "source": "Nikke",
+      "fanbase": 215267,
+      "vibe": "SEDUCTIVE",
       "rating": "POPULAR",
-      "age": "17 (physically)",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Kurumi is the third spirit who appeared after and",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg"
+      "age": "17-",
+      "blood": "AB",
+      "bio": "Hunter",
+      "description": "cm Kurapika is a member of the Kurta tribe who were massacred by the Phantom Tr…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536354996260577392/waifu-44231879409d3a7b6d679658.png?ex=6a7b1997&is=6a79c817&hm=4ed9d04ed06e7c6951281870d6957b512207f2afb9c92ae55c1473625fd569e1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536444757398659192/waifu-1cf86f4b421cc4332400e155.png?ex=6a7b6d2f&is=6a7a1baf&hm=24c6753753dc92d5a25dfd5a41c9f22c7b72f372cf8110012327b6355c5800cd&"
   }
 }
