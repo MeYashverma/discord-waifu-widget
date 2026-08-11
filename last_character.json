@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Anya Forger:Spy x Family",
-  "lastName": "Anya Forger",
-  "index": 139,
+  "lastId": "db:Liv:Punishing Gray Raven",
+  "lastName": "Liv",
+  "index": 291,
   "recent": [
+    "db:Liv:Punishing Gray Raven",
     "db:Anya Forger:Spy x Family",
     "db:Mordred:Fate Series",
     "db:Rapi:Nikke",
@@ -36,36 +37,35 @@
     "db:Anis:Nikke",
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Wendy Marvell:Fairy Tail",
-    "db:Rangiku Matsumoto:Bleach",
-    "db:Dehya:Genshin Impact"
+    "db:Rangiku Matsumoto:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-11T06:50:41.203Z",
+  "updatedAt": "2026-08-11T12:42:34.742Z",
   "cached": {
     "character": {
-      "name": "Anya Forger",
-      "source": "Spy x Family",
-      "universe": "ANIME",
+      "name": "Liv",
+      "source": "Punishing Gray Raven",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Anya Forger:Spy x Family",
-      "nextIndex": 139
+      "globalId": "db:Liv:Punishing Gray Raven",
+      "nextIndex": 291
     },
     "meta": {
-      "source": "Spy x Family",
-      "fanbase": 190909,
-      "vibe": "TSUNDERE",
-      "rating": "POPULAR",
-      "age": "6 (self asserted)",
+      "source": "Punishing Gray Raven",
+      "fanbase": 251794,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
+      "age": "37",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "cm Occupation: First-Grade Student, Test Subject Affiliation: Eden Academy, Unk…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png"
+      "bio": "Soldier",
+      "description": "Species: Human Occupation: Military Officer, Briggs General Weapon: A family he…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536627901439410246/waifu-9f9c0f83297dd10c58f05849.png?ex=6a7c17c0&is=6a7ac640&hm=7ddf4fc876a049791d2d2daa42be4e0dc5d7a5fdf043f2e8d27928388aafc1ba&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536716458191749138/waifu-14797bd54240c481ce7b1fa6.png?ex=6a7c6a3a&is=6a7b18ba&hm=afe706eae16f64a188d9c0e4a2a4568ba2ec839261b75485c7f79c0ca7c33e4b&"
   }
 }
