@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mordred:Fate Series",
-  "lastName": "Mordred",
-  "index": 209,
+  "lastId": "db:Anya Forger:Spy x Family",
+  "lastName": "Anya Forger",
+  "index": 139,
   "recent": [
+    "db:Anya Forger:Spy x Family",
     "db:Mordred:Fate Series",
     "db:Rapi:Nikke",
     "db:Kurumi Tokisaki:Date A Live",
@@ -36,15 +37,14 @@
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Wendy Marvell:Fairy Tail",
     "db:Rangiku Matsumoto:Bleach",
-    "db:Dehya:Genshin Impact",
-    "db:Liv:Punishing Gray Raven"
+    "db:Dehya:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-11T01:01:21.444Z",
+  "updatedAt": "2026-08-11T06:50:41.203Z",
   "cached": {
     "character": {
-      "name": "Mordred",
-      "source": "Fate Series",
+      "name": "Anya Forger",
+      "source": "Spy x Family",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mordred:Fate Series",
-      "nextIndex": 209
+      "globalId": "db:Anya Forger:Spy x Family",
+      "nextIndex": 139
     },
     "meta": {
-      "source": "Fate Series",
-      "fanbase": 238339,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Spy x Family",
+      "fanbase": 190909,
+      "vibe": "TSUNDERE",
+      "rating": "POPULAR",
+      "age": "6 (self asserted)",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Mordred is the \"son\" of though, in reality, she is a woman",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55977-wqiEfiJUuEFw.png"
+      "bio": "Student",
+      "description": "cm Occupation: First-Grade Student, Test Subject Affiliation: Eden Academy, Unk…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536539990014566400/waifu-3492f43d02df330be76c4d79.png?ex=6a7bc5e1&is=6a7a7461&hm=62e4512c79ace768c6c869e62b1df4bf8a3ddab4737a49a34892fb32b942d257&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536627901439410246/waifu-9f9c0f83297dd10c58f05849.png?ex=6a7c17c0&is=6a7ac640&hm=7ddf4fc876a049791d2d2daa42be4e0dc5d7a5fdf043f2e8d27928388aafc1ba&"
   }
 }
