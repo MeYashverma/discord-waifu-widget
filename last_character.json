@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Claire Redfield:Resident Evil",
-  "lastName": "Claire Redfield",
-  "index": 231,
+  "lastId": "db:Nia Honjo:Date A Live",
+  "lastName": "Nia Honjo",
+  "index": 103,
   "recent": [
+    "db:Nia Honjo:Date A Live",
     "db:Claire Redfield:Resident Evil",
     "db:Clorinde:Genshin Impact",
     "db:Asuka Kazama:Tekken",
@@ -36,36 +37,35 @@
     "db:Makima:Chainsaw Man",
     "db:Peach:Super Mario",
     "db:Yui Ikari:Neon Genesis Evangelion",
-    "db:Shiroko:Blue Archive",
-    "db:Anis:Nikke"
+    "db:Shiroko:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-12T07:09:44.957Z",
+  "updatedAt": "2026-08-12T12:45:57.126Z",
   "cached": {
     "character": {
-      "name": "Claire Redfield",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Nia Honjo",
+      "source": "Date A Live",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Claire Redfield:Resident Evil",
-      "nextIndex": 231
+      "globalId": "db:Nia Honjo:Date A Live",
+      "nextIndex": 103
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 242618,
-      "vibe": "CONFIDENT",
+      "source": "Date A Live",
+      "fanbase": 261684,
+      "vibe": "DOMINANT",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "18-19",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Claire Redfield is a character from the Resident Evil series of video games, in…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15802-bgayDXDYT9kP.jpg"
+      "bio": "Character",
+      "description": "cm Angel: Rasiel She is the ninth Spirit to appear in the series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140724-ScgftsvFdCVZ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536995086334689321/waifu-35aa39e7559d935d4cbb7148.png?ex=6a7d6db8&is=6a7c1c38&hm=62e38e2fc5f4303db726f4f022647412c070ff94a32b375f4387483ec710ffc3&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537079694837686312/waifu-e052f68a56082cc3cad72cb1.png?ex=6a7dbc84&is=6a7c6b04&hm=40694826088310620117dcde6bb6714ae0ea79f33d5aad09de14e17d25a760e0&"
   }
 }
