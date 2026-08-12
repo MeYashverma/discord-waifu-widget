@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asuka Kazama:Tekken",
-  "lastName": "Asuka Kazama",
-  "index": 248,
+  "lastId": "db:Clorinde:Genshin Impact",
+  "lastName": "Clorinde",
+  "index": 13,
   "recent": [
+    "db:Clorinde:Genshin Impact",
     "db:Asuka Kazama:Tekken",
     "db:Liv:Punishing Gray Raven",
     "db:Anya Forger:Spy x Family",
@@ -36,36 +37,35 @@
     "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Shiroko:Blue Archive",
     "db:Anis:Nikke",
-    "db:Zhu Yuan:Zenless Zone Zero",
-    "db:Wendy Marvell:Fairy Tail"
+    "db:Zhu Yuan:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-11T18:48:18.034Z",
+  "updatedAt": "2026-08-12T01:08:29.051Z",
   "cached": {
     "character": {
-      "name": "Asuka Kazama",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Clorinde",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asuka Kazama:Tekken",
-      "nextIndex": 248
+      "globalId": "db:Clorinde:Genshin Impact",
+      "nextIndex": 13
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 184861,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "Genshin Impact",
+      "fanbase": 512279,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Asuka Kazama is introduced in Tekken 5 and she has returned for Tekken 5: Dark …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/50951.jpg"
+      "bio": "Character",
+      "description": "Novel Debut: Volume 14",
+      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536808494630572082/waifu-ecb5ff679c8a017ffde71748.png?ex=6a7cbff1&is=6a7b6e71&hm=b143f4cbe8e0fa1b9e66668cd753d4d329a1af61663d5a2803528440f46f9010&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1536904170685075486/waifu-6422de0ae7c66a0e9f3a82dc.png?ex=6a7d190c&is=6a7bc78c&hm=ce1043bfd2c7e27bcea1217f62986774f21c4277ed6647cf287d76518649768f&"
   }
 }
