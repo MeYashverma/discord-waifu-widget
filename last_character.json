@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nia Honjo:Date A Live",
-  "lastName": "Nia Honjo",
-  "index": 103,
+  "lastId": "db:Sheva Alomar:Resident Evil",
+  "lastName": "Sheva Alomar",
+  "index": 233,
   "recent": [
+    "db:Sheva Alomar:Resident Evil",
     "db:Nia Honjo:Date A Live",
     "db:Claire Redfield:Resident Evil",
     "db:Clorinde:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Felt:Re:Zero",
     "db:Makima:Chainsaw Man",
     "db:Peach:Super Mario",
-    "db:Yui Ikari:Neon Genesis Evangelion",
-    "db:Shiroko:Blue Archive"
+    "db:Yui Ikari:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-12T12:45:57.126Z",
+  "updatedAt": "2026-08-12T18:49:15.512Z",
   "cached": {
     "character": {
-      "name": "Nia Honjo",
-      "source": "Date A Live",
-      "universe": "ANIME",
+      "name": "Sheva Alomar",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nia Honjo:Date A Live",
-      "nextIndex": 103
+      "globalId": "db:Sheva Alomar:Resident Evil",
+      "nextIndex": 233
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 261684,
-      "vibe": "DOMINANT",
-      "rating": "ICONIC",
-      "age": "18-19",
+      "source": "Resident Evil",
+      "fanbase": 211350,
+      "vibe": "INTENSE",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Angel: Rasiel She is the ninth Spirit to appear in the series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140724-ScgftsvFdCVZ.png"
+      "description": "A spy for Judas and Luca",
+      "image": "https://media.kitsu.app/characters/images/12518/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537079694837686312/waifu-e052f68a56082cc3cad72cb1.png?ex=6a7dbc84&is=6a7c6b04&hm=40694826088310620117dcde6bb6714ae0ea79f33d5aad09de14e17d25a760e0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537171123932889139/waifu-ec0c0d0f0106f4c29a22bcdd.png?ex=6a7e11ab&is=6a7cc02b&hm=80b574566f0203d689f1556da9dd3dfbc81331c9f6855d49e6a026127eb8695d&"
   }
 }
