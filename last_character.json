@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sheva Alomar:Resident Evil",
-  "lastName": "Sheva Alomar",
-  "index": 233,
+  "lastId": "db:Mikasa Ackerman:Attack on Titan",
+  "lastName": "Mikasa Ackerman",
+  "index": 131,
   "recent": [
+    "db:Mikasa Ackerman:Attack on Titan",
     "db:Sheva Alomar:Resident Evil",
     "db:Nia Honjo:Date A Live",
     "db:Claire Redfield:Resident Evil",
@@ -36,36 +37,35 @@
     "db:Devola:NieR Automata",
     "db:Felt:Re:Zero",
     "db:Makima:Chainsaw Man",
-    "db:Peach:Super Mario",
-    "db:Yui Ikari:Neon Genesis Evangelion"
+    "db:Peach:Super Mario"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-12T18:49:15.512Z",
+  "updatedAt": "2026-08-13T01:10:29.968Z",
   "cached": {
     "character": {
-      "name": "Sheva Alomar",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Mikasa Ackerman",
+      "source": "Attack on Titan",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sheva Alomar:Resident Evil",
-      "nextIndex": 233
+      "globalId": "db:Mikasa Ackerman:Attack on Titan",
+      "nextIndex": 131
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 211350,
-      "vibe": "INTENSE",
-      "rating": "POPULAR",
+      "source": "Attack on Titan",
+      "fanbase": 607878,
+      "vibe": "ELEGANT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A spy for Judas and Luca",
-      "image": "https://media.kitsu.app/characters/images/12518/original.jpg"
+      "bio": "Soldier",
+      "description": "Survey Corps elite soldier",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537171123932889139/waifu-ec0c0d0f0106f4c29a22bcdd.png?ex=6a7e11ab&is=6a7cc02b&hm=80b574566f0203d689f1556da9dd3dfbc81331c9f6855d49e6a026127eb8695d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537267065654878218/waifu-2339a4446a0ade62b0531d98.png?ex=6a7e6b05&is=6a7d1985&hm=d1431f626afff7b0267a81f93ea481b081a74f623fd70d77f2c24fb7d2d4f65a&"
   }
 }
