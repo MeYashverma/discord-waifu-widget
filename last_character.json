@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mikasa Ackerman:Attack on Titan",
-  "lastName": "Mikasa Ackerman",
-  "index": 131,
+  "lastId": "db:Echidna:Re:Zero",
+  "lastName": "Echidna",
+  "index": 84,
   "recent": [
+    "db:Echidna:Re:Zero",
     "db:Mikasa Ackerman:Attack on Titan",
     "db:Sheva Alomar:Resident Evil",
     "db:Nia Honjo:Date A Live",
@@ -36,15 +37,14 @@
     "db:Marisa:Street Fighter 6",
     "db:Devola:NieR Automata",
     "db:Felt:Re:Zero",
-    "db:Makima:Chainsaw Man",
-    "db:Peach:Super Mario"
+    "db:Makima:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-13T01:10:29.968Z",
+  "updatedAt": "2026-08-13T07:14:00.708Z",
   "cached": {
     "character": {
-      "name": "Mikasa Ackerman",
-      "source": "Attack on Titan",
+      "name": "Echidna",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mikasa Ackerman:Attack on Titan",
-      "nextIndex": 131
+      "globalId": "db:Echidna:Re:Zero",
+      "nextIndex": 84
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 607878,
-      "vibe": "ELEGANT",
-      "rating": "LEGENDARY",
+      "source": "Re:Zero",
+      "fanbase": 235410,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Survey Corps elite soldier",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+      "bio": "Witch",
+      "description": "Echidna is one of the Witches of Sin, being the Witch of Greed",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537267065654878218/waifu-2339a4446a0ade62b0531d98.png?ex=6a7e6b05&is=6a7d1985&hm=d1431f626afff7b0267a81f93ea481b081a74f623fd70d77f2c24fb7d2d4f65a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537358544821559366/waifu-65d2c4edacc381c1bb2e4367.png?ex=6a7ec037&is=6a7d6eb7&hm=6a747817c52da325bcc64b7fdcac3c5959086a459060d166c0a7aefda34c4c99&"
   }
 }
