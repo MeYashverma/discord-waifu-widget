@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Echidna:Re:Zero",
-  "lastName": "Echidna",
-  "index": 84,
+  "lastId": "db:Roccia:Wuthering Waves",
+  "lastName": "Roccia",
+  "index": 49,
   "recent": [
+    "db:Roccia:Wuthering Waves",
     "db:Echidna:Re:Zero",
     "db:Mikasa Ackerman:Attack on Titan",
     "db:Sheva Alomar:Resident Evil",
@@ -36,36 +37,35 @@
     "db:Skadi:Arknights",
     "db:Marisa:Street Fighter 6",
     "db:Devola:NieR Automata",
-    "db:Felt:Re:Zero",
-    "db:Makima:Chainsaw Man"
+    "db:Felt:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-13T07:14:00.708Z",
+  "updatedAt": "2026-08-13T12:47:31.023Z",
   "cached": {
     "character": {
-      "name": "Echidna",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Roccia",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Echidna:Re:Zero",
-      "nextIndex": 84
+      "globalId": "db:Roccia:Wuthering Waves",
+      "nextIndex": 49
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 235410,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
+      "source": "Wuthering Waves",
+      "fanbase": 182103,
+      "vibe": "DEADLY",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Witch",
-      "description": "Echidna is one of the Witches of Sin, being the Witch of Greed",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
+      "bio": "Character",
+      "description": "Marco Rocca is Jet's buddy in orphanage and a close friend of Robert",
+      "image": "https://media.kitsu.app/characters/images/20717/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537358544821559366/waifu-65d2c4edacc381c1bb2e4367.png?ex=6a7ec037&is=6a7d6eb7&hm=6a747817c52da325bcc64b7fdcac3c5959086a459060d166c0a7aefda34c4c99&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537442476389040138/waifu-271b89153863371d7278ac30.png?ex=6a7f0e62&is=6a7dbce2&hm=a564f32bf92782750953b5561d617f97a8748765516f2b76b004252815ab92bb&"
   }
 }
