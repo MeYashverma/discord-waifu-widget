@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Furina:Genshin Impact",
-  "lastName": "Furina",
-  "index": 5,
+  "lastId": "db:Levy McGarden:Fairy Tail",
+  "lastName": "Levy McGarden",
+  "index": 110,
   "recent": [
+    "db:Levy McGarden:Fairy Tail",
     "db:Furina:Genshin Impact",
     "db:Roccia:Wuthering Waves",
     "db:Echidna:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Yoruichi Shihouin:Bleach",
     "db:Xenovia Quarta:High School DxD",
     "db:Skadi:Arknights",
-    "db:Marisa:Street Fighter 6",
-    "db:Devola:NieR Automata"
+    "db:Marisa:Street Fighter 6"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-13T18:49:57.920Z",
+  "updatedAt": "2026-08-14T01:08:38.673Z",
   "cached": {
     "character": {
-      "name": "Furina",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Levy McGarden",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Furina:Genshin Impact",
-      "nextIndex": 5
+      "globalId": "db:Levy McGarden:Fairy Tail",
+      "nextIndex": 110
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 506810,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Archon",
-      "description": "Hydro celebrity of Fontaine",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386545-72C5jbAvXjCT.png"
+      "source": "Fairy Tail",
+      "fanbase": 235291,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
+      "age": "17",
+      "blood": "A",
+      "bio": "Mage",
+      "description": "cm Magic: Solid Script Mage Levy is a member of the Fairy Tail Guild's team Sha…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29493-XcqFX69oipzX.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537533689120948325/waifu-bce8269fc4c29fb77286eab5.png?ex=6a7f6355&is=6a7e11d5&hm=4aa3544973ae57043f9536c1a0157d7290b4a71261667a5c1daef9ee40215304&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537628986694434877/waifu-b2995312616db772e01df4e2.png?ex=6a7fbc16&is=6a7e6a96&hm=24886224943ce65a86b2262b549716b2d332ac6382ad0efdac6ab0ec7f288b53&"
   }
 }
