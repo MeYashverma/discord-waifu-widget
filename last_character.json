@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Dorothy:Nikke",
-  "lastName": "Dorothy",
-  "index": 55,
+  "lastId": "db:Utahime Iori:Jujutsu Kaisen",
+  "lastName": "Utahime Iori",
+  "index": 128,
   "recent": [
+    "db:Utahime Iori:Jujutsu Kaisen",
     "db:Dorothy:Nikke",
     "db:Irelia:League of Legends",
     "db:Levy McGarden:Fairy Tail",
@@ -36,36 +37,35 @@
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Jeanne:Bayonetta",
     "db:Sasha Blouse:Attack on Titan",
-    "db:Yoruichi Shihouin:Bleach",
-    "db:Xenovia Quarta:High School DxD"
+    "db:Yoruichi Shihouin:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-14T12:43:00.566Z",
+  "updatedAt": "2026-08-14T18:41:02.159Z",
   "cached": {
     "character": {
-      "name": "Dorothy",
-      "source": "Nikke",
-      "universe": "GACHA",
+      "name": "Utahime Iori",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Dorothy:Nikke",
-      "nextIndex": 55
+      "globalId": "db:Utahime Iori:Jujutsu Kaisen",
+      "nextIndex": 128
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 245530,
-      "vibe": "YANDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 530308,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
+      "age": "31",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "An undercover student",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n122803-x4DHc1yqhIbF.jpg"
+      "bio": "Mage",
+      "description": "A first grade sorcerer and a teacher at Kyoto Jujutsu Technical High School",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537803730005528637/waifu-23e56ec8a182f70e3071b4d1.png?ex=6a805ed4&is=6a7f0d54&hm=3913731e44b76a02dff5ee57fde443ee59dcc00579977105b9fa1dd220ccde80&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537893829422751835/waifu-3a15dcb437087ef9c24dbf7d.png?ex=6a80b2bd&is=6a7f613d&hm=3b3398808935546b410e03b9f584cd7597ef898f8cfff4552bbbdbe5b388ef94&"
   }
 }
