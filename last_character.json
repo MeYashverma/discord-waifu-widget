@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Levy McGarden:Fairy Tail",
-  "lastName": "Levy McGarden",
-  "index": 110,
+  "lastId": "db:Irelia:League of Legends",
+  "lastName": "Irelia",
+  "index": 242,
   "recent": [
+    "db:Irelia:League of Legends",
     "db:Levy McGarden:Fairy Tail",
     "db:Furina:Genshin Impact",
     "db:Roccia:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Sasha Blouse:Attack on Titan",
     "db:Yoruichi Shihouin:Bleach",
     "db:Xenovia Quarta:High School DxD",
-    "db:Skadi:Arknights",
-    "db:Marisa:Street Fighter 6"
+    "db:Skadi:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-14T01:08:38.673Z",
+  "updatedAt": "2026-08-14T07:10:23.971Z",
   "cached": {
     "character": {
-      "name": "Levy McGarden",
-      "source": "Fairy Tail",
-      "universe": "ANIME",
+      "name": "Irelia",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Levy McGarden:Fairy Tail",
-      "nextIndex": 110
+      "globalId": "db:Irelia:League of Legends",
+      "nextIndex": 242
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 235291,
+      "source": "League of Legends",
+      "fanbase": 216539,
       "vibe": "PLAYFUL",
-      "rating": "ICONIC",
-      "age": "17",
-      "blood": "A",
-      "bio": "Mage",
-      "description": "cm Magic: Solid Script Mage Levy is a member of the Fairy Tail Guild's team Sha…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29493-XcqFX69oipzX.jpg"
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Hunter",
+      "description": "Iria hails from the Batabitajira region of the planet Myce and is employed by G…",
+      "image": "https://media.kitsu.app/characters/images/7273/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537628986694434877/waifu-b2995312616db772e01df4e2.png?ex=6a7fbc16&is=6a7e6a96&hm=24886224943ce65a86b2262b549716b2d332ac6382ad0efdac6ab0ec7f288b53&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537720025597616178/waifu-8a5305acf7c1527a2e87d835.png?ex=6a8010df&is=6a7ebf5f&hm=21cad22070b2b9405fe7e74828feba9a90c645dee96056a444a7ffdab41398e5&"
   }
 }
