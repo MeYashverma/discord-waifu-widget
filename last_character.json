@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Irelia:League of Legends",
-  "lastName": "Irelia",
-  "index": 242,
+  "lastId": "db:Dorothy:Nikke",
+  "lastName": "Dorothy",
+  "index": 55,
   "recent": [
+    "db:Dorothy:Nikke",
     "db:Irelia:League of Legends",
     "db:Levy McGarden:Fairy Tail",
     "db:Furina:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Jeanne:Bayonetta",
     "db:Sasha Blouse:Attack on Titan",
     "db:Yoruichi Shihouin:Bleach",
-    "db:Xenovia Quarta:High School DxD",
-    "db:Skadi:Arknights"
+    "db:Xenovia Quarta:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-14T07:10:23.971Z",
+  "updatedAt": "2026-08-14T12:43:00.566Z",
   "cached": {
     "character": {
-      "name": "Irelia",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Dorothy",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Irelia:League of Legends",
-      "nextIndex": 242
+      "globalId": "db:Dorothy:Nikke",
+      "nextIndex": 55
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 216539,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
+      "source": "Nikke",
+      "fanbase": 245530,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Iria hails from the Batabitajira region of the planet Myce and is employed by G…",
-      "image": "https://media.kitsu.app/characters/images/7273/original.jpg"
+      "bio": "Student",
+      "description": "An undercover student",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n122803-x4DHc1yqhIbF.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537720025597616178/waifu-8a5305acf7c1527a2e87d835.png?ex=6a8010df&is=6a7ebf5f&hm=21cad22070b2b9405fe7e74828feba9a90c645dee96056a444a7ffdab41398e5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537803730005528637/waifu-23e56ec8a182f70e3071b4d1.png?ex=6a805ed4&is=6a7f0d54&hm=3913731e44b76a02dff5ee57fde443ee59dcc00579977105b9fa1dd220ccde80&"
   }
 }
