@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Utahime Iori:Jujutsu Kaisen",
-  "lastName": "Utahime Iori",
-  "index": 128,
+  "lastId": "db:Fran:Final Fantasy XII",
+  "lastName": "Fran",
+  "index": 217,
   "recent": [
+    "db:Fran:Final Fantasy XII",
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Dorothy:Nikke",
     "db:Irelia:League of Legends",
@@ -36,36 +37,35 @@
     "db:Princess Zelda:The Legend of Zelda",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Jeanne:Bayonetta",
-    "db:Sasha Blouse:Attack on Titan",
-    "db:Yoruichi Shihouin:Bleach"
+    "db:Sasha Blouse:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-14T18:41:02.159Z",
+  "updatedAt": "2026-08-15T00:41:45.728Z",
   "cached": {
     "character": {
-      "name": "Utahime Iori",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Fran",
+      "source": "Final Fantasy XII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Utahime Iori:Jujutsu Kaisen",
-      "nextIndex": 128
+      "globalId": "db:Fran:Final Fantasy XII",
+      "nextIndex": 217
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 530308,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
-      "age": "31",
+      "source": "Final Fantasy XII",
+      "fanbase": 218440,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "19-23, (30's in Another Monster)",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "A first grade sorcerer and a teacher at Kyoto Jujutsu Technical High School",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg"
+      "bio": "Devil",
+      "description": "Johan Liebert is the older twin son of the Lieberts, whose father Michael was a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537893829422751835/waifu-3a15dcb437087ef9c24dbf7d.png?ex=6a80b2bd&is=6a7f613d&hm=3b3398808935546b410e03b9f584cd7597ef898f8cfff4552bbbdbe5b388ef94&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537984610364030986/waifu-31973d2a60c6e7d2f1a7aecf.png?ex=6a810749&is=6a7fb5c9&hm=e4c04407f11502169bd881f95e16e6ff42090b8dbf319e46d206f59f4185fced&"
   }
 }
