@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mudrock:Arknights",
-  "lastName": "Mudrock",
-  "index": 288,
+  "lastId": "db:Encore:Wuthering Waves",
+  "lastName": "Encore",
+  "index": 41,
   "recent": [
+    "db:Encore:Wuthering Waves",
     "db:Mudrock:Arknights",
     "db:Kal'tsit:Arknights",
     "db:Fran:Final Fantasy XII",
@@ -36,15 +37,14 @@
     "db:Violet Evergarden:Violet Evergarden",
     "db:Cammy White:Street Fighter",
     "db:Lara Croft:Tomb Raider",
-    "db:Princess Zelda:The Legend of Zelda",
-    "db:Nobara Kugisaki:Jujutsu Kaisen"
+    "db:Princess Zelda:The Legend of Zelda"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-15T12:18:49.477Z",
+  "updatedAt": "2026-08-15T18:15:18.396Z",
   "cached": {
     "character": {
-      "name": "Mudrock",
-      "source": "Arknights",
+      "name": "Encore",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mudrock:Arknights",
-      "nextIndex": 288
+      "globalId": "db:Encore:Wuthering Waves",
+      "nextIndex": 41
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 206469,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "source": "Wuthering Waves",
+      "fanbase": 242756,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Place of Birth: Kazdel Race: Sarkaz cm Sarkaz mercenary Mudrock, formerly a par…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300461-yt3CCUGn0i1V.jpg"
+      "description": "Encore from Wuthering Waves",
+      "image": "https://media.kitsu.app/characters/images/63379/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538160031462195241/waifu-64dce192bef458c6ac9b96f9.png?ex=6a81aaa9&is=6a805929&hm=dd40232161f245880921b5e230d81d0070ff32e28451986d0f70e678cb76e5a3&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538249742792794252/waifu-e2059362ff67a55b96d67004.png?ex=6a81fe35&is=6a80acb5&hm=355b713a0daa85951b2fd5f5fb8e1c06b9ead68e0e4807cfc9472040a77035fb&"
   }
 }
