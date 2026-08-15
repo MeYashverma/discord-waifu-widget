@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fran:Final Fantasy XII",
-  "lastName": "Fran",
-  "index": 217,
+  "lastId": "db:Kal'tsit:Arknights",
+  "lastName": "Kal'tsit",
+  "index": 286,
   "recent": [
+    "db:Kal'tsit:Arknights",
     "db:Fran:Final Fantasy XII",
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Dorothy:Nikke",
@@ -36,36 +37,35 @@
     "db:Lara Croft:Tomb Raider",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
-    "db:Jeanne:Bayonetta",
-    "db:Sasha Blouse:Attack on Titan"
+    "db:Jeanne:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-15T00:41:45.728Z",
+  "updatedAt": "2026-08-15T06:21:17.666Z",
   "cached": {
     "character": {
-      "name": "Fran",
-      "source": "Final Fantasy XII",
-      "universe": "JRPG",
+      "name": "Kal'tsit",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fran:Final Fantasy XII",
-      "nextIndex": 217
+      "globalId": "db:Kal'tsit:Arknights",
+      "nextIndex": 286
     },
     "meta": {
-      "source": "Final Fantasy XII",
-      "fanbase": 218440,
-      "vibe": "DOMINANT",
+      "source": "Arknights",
+      "fanbase": 209789,
+      "vibe": "SEDUCTIVE",
       "rating": "POPULAR",
-      "age": "19-23, (30's in Another Monster)",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Johan Liebert is the older twin son of the Lieberts, whose father Michael was a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
+      "bio": "Character",
+      "description": "Undisclosed Place of Birth: Rhodes Island Race: Feline cm Kal'tsit, one of Rhod…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1537984610364030986/waifu-31973d2a60c6e7d2f1a7aecf.png?ex=6a810749&is=6a7fb5c9&hm=e4c04407f11502169bd881f95e16e6ff42090b8dbf319e46d206f59f4185fced&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538070055907233833/waifu-41862c5a519ca98ec6c1bbdb.png?ex=6a8156dd&is=6a80055d&hm=02fef3ce7fc7d9ab68ad7e6c821165683f4d3e2fc6e94628fe43526fc47f4746&"
   }
 }
