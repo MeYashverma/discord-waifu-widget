@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kal'tsit:Arknights",
-  "lastName": "Kal'tsit",
-  "index": 286,
+  "lastId": "db:Mudrock:Arknights",
+  "lastName": "Mudrock",
+  "index": 288,
   "recent": [
+    "db:Mudrock:Arknights",
     "db:Kal'tsit:Arknights",
     "db:Fran:Final Fantasy XII",
     "db:Utahime Iori:Jujutsu Kaisen",
@@ -36,14 +37,13 @@
     "db:Cammy White:Street Fighter",
     "db:Lara Croft:Tomb Raider",
     "db:Princess Zelda:The Legend of Zelda",
-    "db:Nobara Kugisaki:Jujutsu Kaisen",
-    "db:Jeanne:Bayonetta"
+    "db:Nobara Kugisaki:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-15T06:21:17.666Z",
+  "updatedAt": "2026-08-15T12:18:49.477Z",
   "cached": {
     "character": {
-      "name": "Kal'tsit",
+      "name": "Mudrock",
       "source": "Arknights",
       "universe": "GACHA",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kal'tsit:Arknights",
-      "nextIndex": 286
+      "globalId": "db:Mudrock:Arknights",
+      "nextIndex": 288
     },
     "meta": {
       "source": "Arknights",
-      "fanbase": 209789,
-      "vibe": "SEDUCTIVE",
+      "fanbase": 206469,
+      "vibe": "LOYAL",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Undisclosed Place of Birth: Rhodes Island Race: Feline cm Kal'tsit, one of Rhod…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg"
+      "description": "Place of Birth: Kazdel Race: Sarkaz cm Sarkaz mercenary Mudrock, formerly a par…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300461-yt3CCUGn0i1V.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538070055907233833/waifu-41862c5a519ca98ec6c1bbdb.png?ex=6a8156dd&is=6a80055d&hm=02fef3ce7fc7d9ab68ad7e6c821165683f4d3e2fc6e94628fe43526fc47f4746&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538160031462195241/waifu-64dce192bef458c6ac9b96f9.png?ex=6a81aaa9&is=6a805929&hm=dd40232161f245880921b5e230d81d0070ff32e28451986d0f70e678cb76e5a3&"
   }
 }
