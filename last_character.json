@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Futaba Sakura:Persona 5",
-  "lastName": "Futaba Sakura",
-  "index": 225,
+  "lastId": "db:Shalltear Bloodfallen:Overlord",
+  "lastName": "Shalltear Bloodfallen",
+  "index": 198,
   "recent": [
+    "db:Shalltear Bloodfallen:Overlord",
     "db:Futaba Sakura:Persona 5",
     "db:Yamato:One Piece",
     "db:Encore:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Power:Chainsaw Man",
     "db:Ichigo:Darling in the Franxx",
     "db:Misa Amane:Death Note",
-    "db:Violet Evergarden:Violet Evergarden",
-    "db:Cammy White:Street Fighter"
+    "db:Violet Evergarden:Violet Evergarden"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-16T06:23:21.898Z",
+  "updatedAt": "2026-08-16T12:20:06.019Z",
   "cached": {
     "character": {
-      "name": "Futaba Sakura",
-      "source": "Persona 5",
-      "universe": "JRPG",
+      "name": "Shalltear Bloodfallen",
+      "source": "Overlord",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Futaba Sakura:Persona 5",
-      "nextIndex": 225
+      "globalId": "db:Shalltear Bloodfallen:Overlord",
+      "nextIndex": 198
     },
     "meta": {
-      "source": "Persona 5",
-      "fanbase": 407378,
-      "vibe": "MYSTERIOUS",
-      "rating": "ELITE",
-      "age": "15 - 16",
-      "blood": "AB-",
+      "source": "Overlord",
+      "fanbase": 218838,
+      "vibe": "CONFIDENT",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "Birth Name: Futaba Isshiki cm Arcana: Hermit Initial Persona: Necronomicon Tran…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121635-x3rT0I5xKaDu.png"
+      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538432965024153610/waifu-508b2e67657a8441042b4dd6.png?ex=6a82a8d9&is=6a815759&hm=ec59d1d53573bd16610c4db4d48a1db9e8158482f23c1fe9bca3bbd6f429bf56&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538522740120616960/waifu-0016b31d14801cbd5d24151b.png?ex=6a82fc75&is=6a81aaf5&hm=25eda480fe706a4b8e949038cd6cc31c754ef7d98bc26e485eb3ecc30c7df09e&"
   }
 }
