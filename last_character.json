@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shalltear Bloodfallen:Overlord",
-  "lastName": "Shalltear Bloodfallen",
-  "index": 198,
+  "lastId": "db:Popola:NieR Automata",
+  "lastName": "Popola",
+  "index": 222,
   "recent": [
+    "db:Popola:NieR Automata",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Futaba Sakura:Persona 5",
     "db:Yamato:One Piece",
@@ -36,36 +37,35 @@
     "db:Keqing:Genshin Impact",
     "db:Power:Chainsaw Man",
     "db:Ichigo:Darling in the Franxx",
-    "db:Misa Amane:Death Note",
-    "db:Violet Evergarden:Violet Evergarden"
+    "db:Misa Amane:Death Note"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-16T12:20:06.019Z",
+  "updatedAt": "2026-08-16T18:15:12.956Z",
   "cached": {
     "character": {
-      "name": "Shalltear Bloodfallen",
-      "source": "Overlord",
-      "universe": "ANIME",
+      "name": "Popola",
+      "source": "NieR Automata",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shalltear Bloodfallen:Overlord",
-      "nextIndex": 198
+      "globalId": "db:Popola:NieR Automata",
+      "nextIndex": 222
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 218838,
-      "vibe": "CONFIDENT",
-      "rating": "POPULAR",
+      "source": "NieR Automata",
+      "fanbase": 412124,
+      "vibe": "INTENSE",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+      "bio": "Android",
+      "description": "Popola is the younger twin sister of , they are the overseers of 's village",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138304-uTWPIOJRjVJO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538522740120616960/waifu-0016b31d14801cbd5d24151b.png?ex=6a82fc75&is=6a81aaf5&hm=25eda480fe706a4b8e949038cd6cc31c754ef7d98bc26e485eb3ecc30c7df09e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538612108269322300/waifu-edb7e0c1773ecd6af2b80109.png?ex=6a834fb0&is=6a81fe30&hm=30936322639286718e88aea3e11314c7b8c2eec2b368ec0b74c210d78734d3f7&"
   }
 }
