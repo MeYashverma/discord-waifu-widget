@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Encore:Wuthering Waves",
-  "lastName": "Encore",
-  "index": 41,
+  "lastId": "db:Yamato:One Piece",
+  "lastName": "Yamato",
+  "index": 167,
   "recent": [
+    "db:Yamato:One Piece",
     "db:Encore:Wuthering Waves",
     "db:Mudrock:Arknights",
     "db:Kal'tsit:Arknights",
@@ -36,36 +37,35 @@
     "db:Misa Amane:Death Note",
     "db:Violet Evergarden:Violet Evergarden",
     "db:Cammy White:Street Fighter",
-    "db:Lara Croft:Tomb Raider",
-    "db:Princess Zelda:The Legend of Zelda"
+    "db:Lara Croft:Tomb Raider"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-15T18:15:18.396Z",
+  "updatedAt": "2026-08-16T00:43:27.378Z",
   "cached": {
     "character": {
-      "name": "Encore",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Yamato",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Encore:Wuthering Waves",
-      "nextIndex": 41
+      "globalId": "db:Yamato:One Piece",
+      "nextIndex": 167
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 242756,
+      "source": "One Piece",
+      "fanbase": 552968,
       "vibe": "ELEGANT",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "rating": "LEGENDARY",
+      "age": "28",
+      "blood": "F",
       "bio": "Character",
-      "description": "Encore from Wuthering Waves",
-      "image": "https://media.kitsu.app/characters/images/63379/original.jpg"
+      "description": "cm Affiliations: Beast Pirates Ninja-Pirate-Mink-Samurai Alliance Wano Country …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176840-8KRqXXLJeLOg.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538249742792794252/waifu-e2059362ff67a55b96d67004.png?ex=6a81fe35&is=6a80acb5&hm=355b713a0daa85951b2fd5f5fb8e1c06b9ead68e0e4807cfc9472040a77035fb&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538347424160948244/waifu-6cca65a19ccab3c6f6875ab3.png?ex=6a82592f&is=6a8107af&hm=348633ba46f0fe50c9273ee766d688f97d3f914d8fa1e44c8aa227618529f2ac&"
   }
 }
