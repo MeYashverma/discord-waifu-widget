@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Crusch Karsten:Re:Zero",
-  "lastName": "Crusch Karsten",
-  "index": 85,
+  "lastId": "db:Winry Rockbell:Fullmetal Alchemist",
+  "lastName": "Winry Rockbell",
+  "index": 0,
   "recent": [
+    "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Crusch Karsten:Re:Zero",
     "db:Temari:Naruto",
     "db:Nina Williams:Tekken",
@@ -36,15 +37,14 @@
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Yoru:Chainsaw Man",
     "db:Rei Ayanami:Neon Genesis Evangelion",
-    "db:Mukuro Hoshimiya:Date A Live",
-    "db:Keqing:Genshin Impact"
+    "db:Mukuro Hoshimiya:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-17T12:23:30.657Z",
+  "updatedAt": "2026-08-17T18:24:31.189Z",
   "cached": {
     "character": {
-      "name": "Crusch Karsten",
-      "source": "Re:Zero",
+      "name": "Winry Rockbell",
+      "source": "Fullmetal Alchemist",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Crusch Karsten:Re:Zero",
-      "nextIndex": 85
+      "globalId": "db:Winry Rockbell:Fullmetal Alchemist",
+      "nextIndex": 0
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 250412,
-      "vibe": "INTENSE",
+      "source": "Fullmetal Alchemist",
+      "fanbase": 258454,
+      "vibe": "YANDERE",
       "rating": "ICONIC",
-      "age": "20",
+      "age": "15-16",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
+      "bio": "Character",
+      "description": "Birthplace: Resembool Occupation: Automail Mechanic Family: , Urey Rockbell , S…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538885986837070015/waifu-cabbe95ce713429f4c7d1406.png?ex=6a844ec2&is=6a82fd42&hm=6699080a8a013957c62fb656f0eb57ef9b793c7d17ec5bbdf58827b02cd37dc8&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538976837353340959/waifu-a3a1060a27d1b55960f98955.png?ex=6a84a35e&is=6a8351de&hm=6af4b597e8bd22e0fa5b918cf99daa691561072278b643bcadf61f08ff904112&"
   }
 }
