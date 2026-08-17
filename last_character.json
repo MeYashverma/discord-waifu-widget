@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nina Williams:Tekken",
-  "lastName": "Nina Williams",
-  "index": 249,
+  "lastId": "db:Temari:Naruto",
+  "lastName": "Temari",
+  "index": 176,
   "recent": [
+    "db:Temari:Naruto",
     "db:Nina Williams:Tekken",
     "db:Popola:NieR Automata",
     "db:Shalltear Bloodfallen:Overlord",
@@ -36,36 +37,35 @@
     "db:Rei Ayanami:Neon Genesis Evangelion",
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Keqing:Genshin Impact",
-    "db:Power:Chainsaw Man",
-    "db:Ichigo:Darling in the Franxx"
+    "db:Power:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-17T00:41:59.084Z",
+  "updatedAt": "2026-08-17T06:34:48.606Z",
   "cached": {
     "character": {
-      "name": "Nina Williams",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Temari",
+      "source": "Naruto",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nina Williams:Tekken",
-      "nextIndex": 249
+      "globalId": "db:Temari:Naruto",
+      "nextIndex": 176
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 234827,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Nina Williams is a character from the Tekken game series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
+      "source": "Naruto",
+      "fanbase": 565668,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "15 (I), 19 (II)",
+      "blood": "O",
+      "bio": "Character",
+      "description": "cm Rank: Genin ; Jonin Temari is the oldest child of the Fourth Kazekage, makin…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538709441854308402/waifu-2b144ef5becf884fc2c3db6e.png?ex=6a83aa56&is=6a8258d6&hm=2d2eca65572ab0caf0378c4ca7409da9b1ab983c3bde539149b8bfe33726961f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538798233327767633/waifu-98f1ef167bfec9803da524b4.png?ex=6a83fd08&is=6a82ab88&hm=a01e5c3f273fcd03b2d651c30ce1efa9e8ea206ff09321b27e345e5b76d7b349&"
   }
 }
