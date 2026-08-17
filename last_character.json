@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Temari:Naruto",
-  "lastName": "Temari",
-  "index": 176,
+  "lastId": "db:Crusch Karsten:Re:Zero",
+  "lastName": "Crusch Karsten",
+  "index": 85,
   "recent": [
+    "db:Crusch Karsten:Re:Zero",
     "db:Temari:Naruto",
     "db:Nina Williams:Tekken",
     "db:Popola:NieR Automata",
@@ -36,15 +37,14 @@
     "db:Yoru:Chainsaw Man",
     "db:Rei Ayanami:Neon Genesis Evangelion",
     "db:Mukuro Hoshimiya:Date A Live",
-    "db:Keqing:Genshin Impact",
-    "db:Power:Chainsaw Man"
+    "db:Keqing:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-17T06:34:48.606Z",
+  "updatedAt": "2026-08-17T12:23:30.657Z",
   "cached": {
     "character": {
-      "name": "Temari",
-      "source": "Naruto",
+      "name": "Crusch Karsten",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Temari:Naruto",
-      "nextIndex": 176
+      "globalId": "db:Crusch Karsten:Re:Zero",
+      "nextIndex": 85
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 565668,
-      "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "15 (I), 19 (II)",
-      "blood": "O",
-      "bio": "Character",
-      "description": "cm Rank: Genin ; Jonin Temari is the oldest child of the Fourth Kazekage, makin…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png"
+      "source": "Re:Zero",
+      "fanbase": 250412,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
+      "age": "20",
+      "blood": "Unknown",
+      "bio": "Soldier",
+      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538798233327767633/waifu-98f1ef167bfec9803da524b4.png?ex=6a83fd08&is=6a82ab88&hm=a01e5c3f273fcd03b2d651c30ce1efa9e8ea206ff09321b27e345e5b76d7b349&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538885986837070015/waifu-cabbe95ce713429f4c7d1406.png?ex=6a844ec2&is=6a82fd42&hm=6699080a8a013957c62fb656f0eb57ef9b793c7d17ec5bbdf58827b02cd37dc8&"
   }
 }
