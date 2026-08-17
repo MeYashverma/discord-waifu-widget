@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Popola:NieR Automata",
-  "lastName": "Popola",
-  "index": 222,
+  "lastId": "db:Nina Williams:Tekken",
+  "lastName": "Nina Williams",
+  "index": 249,
   "recent": [
+    "db:Nina Williams:Tekken",
     "db:Popola:NieR Automata",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Futaba Sakura:Persona 5",
@@ -36,36 +37,35 @@
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Keqing:Genshin Impact",
     "db:Power:Chainsaw Man",
-    "db:Ichigo:Darling in the Franxx",
-    "db:Misa Amane:Death Note"
+    "db:Ichigo:Darling in the Franxx"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-16T18:15:12.956Z",
+  "updatedAt": "2026-08-17T00:41:59.084Z",
   "cached": {
     "character": {
-      "name": "Popola",
-      "source": "NieR Automata",
-      "universe": "JRPG",
+      "name": "Nina Williams",
+      "source": "Tekken",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Popola:NieR Automata",
-      "nextIndex": 222
+      "globalId": "db:Nina Williams:Tekken",
+      "nextIndex": 249
     },
     "meta": {
-      "source": "NieR Automata",
-      "fanbase": 412124,
-      "vibe": "INTENSE",
-      "rating": "ELITE",
+      "source": "Tekken",
+      "fanbase": 234827,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "Popola is the younger twin sister of , they are the overseers of 's village",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138304-uTWPIOJRjVJO.png"
+      "bio": "Assassin",
+      "description": "Nina Williams is a character from the Tekken game series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538612108269322300/waifu-edb7e0c1773ecd6af2b80109.png?ex=6a834fb0&is=6a81fe30&hm=30936322639286718e88aea3e11314c7b8c2eec2b368ec0b74c210d78734d3f7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538709441854308402/waifu-2b144ef5becf884fc2c3db6e.png?ex=6a83aa56&is=6a8258d6&hm=2d2eca65572ab0caf0378c4ca7409da9b1ab983c3bde539149b8bfe33726961f&"
   }
 }
