@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shirley Fenette:Code Geass",
-  "lastName": "Shirley Fenette",
-  "index": 189,
+  "lastId": "db:Bayonetta:Bayonetta",
+  "lastName": "Bayonetta",
+  "index": 259,
   "recent": [
+    "db:Bayonetta:Bayonetta",
     "db:Shirley Fenette:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Kai'Sa:League of Legends",
@@ -36,36 +37,35 @@
     "db:Mordred:Fate Series",
     "db:Rapi:Nikke",
     "db:Kurumi Tokisaki:Date A Live",
-    "db:Rem:Re:Zero",
-    "db:Neliel Tu Odelschwanck:Bleach"
+    "db:Rem:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-18T12:25:56.105Z",
+  "updatedAt": "2026-08-18T18:23:09.506Z",
   "cached": {
     "character": {
-      "name": "Shirley Fenette",
-      "source": "Code Geass",
-      "universe": "ANIME",
+      "name": "Bayonetta",
+      "source": "Bayonetta",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shirley Fenette:Code Geass",
-      "nextIndex": 189
+      "globalId": "db:Bayonetta:Bayonetta",
+      "nextIndex": 259
     },
     "meta": {
-      "source": "Code Geass",
-      "fanbase": 259484,
-      "vibe": "DOMINANT",
-      "rating": "ICONIC",
-      "age": "17-18",
-      "blood": "A",
-      "bio": "Character",
-      "description": "cm Shirley Fenette is a typical, all-around nice girl who is exceptionally frie…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+      "source": "Bayonetta",
+      "fanbase": 193245,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Witch",
+      "description": "Umbra Witch",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87496-pBhFLnxrCi7y.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539248984789360651/waifu-16d24213e3342598b4d6b5c4.png?ex=6a85a0d3&is=6a844f53&hm=ede2e6264f6f909f67e0f5ada73406da4d6f1fbe2a16b4cd489b06f632bfc326&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539338882347438181/waifu-899e22adcb30eb6578ce95dd.png?ex=6a85f48d&is=6a84a30d&hm=990a7e3bb52cb154a04318a0765f6a5ddacfa7e8d67b70d3be7072ea331130c1&"
   }
 }
