@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kai'Sa:League of Legends",
-  "lastName": "Kai'Sa",
-  "index": 239,
+  "lastId": "db:Mitsuru Kirijo:Persona 3",
+  "lastName": "Mitsuru Kirijo",
+  "index": 227,
   "recent": [
+    "db:Mitsuru Kirijo:Persona 3",
     "db:Kai'Sa:League of Legends",
     "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Crusch Karsten:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Kurumi Tokisaki:Date A Live",
     "db:Rem:Re:Zero",
     "db:Neliel Tu Odelschwanck:Bleach",
-    "db:Yoru:Chainsaw Man",
-    "db:Rei Ayanami:Neon Genesis Evangelion"
+    "db:Yoru:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-18T00:41:10.269Z",
+  "updatedAt": "2026-08-18T06:26:35.049Z",
   "cached": {
     "character": {
-      "name": "Kai'Sa",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Mitsuru Kirijo",
+      "source": "Persona 3",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kai'Sa:League of Legends",
-      "nextIndex": 239
+      "globalId": "db:Mitsuru Kirijo:Persona 3",
+      "nextIndex": 227
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 180399,
+      "source": "Persona 3",
+      "fanbase": 246761,
       "vibe": "CHAOTIC",
-      "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "rating": "ICONIC",
+      "age": "17-18 (P3), 20 (P4A)",
+      "blood": "O",
       "bio": "Student",
-      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
-      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
+      "description": "cm Initial Persona: Penthesilea Ultimate Persona: Artemisia Mitsuru is the only…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6206-f9Q2688rcIv7.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539071624953860176/waifu-56af0a92d4b1922188a77f6f.png?ex=6a84fba5&is=6a83aa25&hm=d3b4ef908cde1a6862f5a042eea88d8ffcf6d21c061cdb16d0a2f2a85aac4b1c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539158550746497024/waifu-f607d4cece8ca7085eadd7f1.png?ex=6a854c9a&is=6a83fb1a&hm=9ac4f915cd517cd2614efe30d7a2ae311f9a026570a7e23e174025969f8e0e93&"
   }
 }
