@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Winry Rockbell:Fullmetal Alchemist",
-  "lastName": "Winry Rockbell",
-  "index": 0,
+  "lastId": "db:Kai'Sa:League of Legends",
+  "lastName": "Kai'Sa",
+  "index": 239,
   "recent": [
+    "db:Kai'Sa:League of Legends",
     "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Crusch Karsten:Re:Zero",
     "db:Temari:Naruto",
@@ -36,36 +37,35 @@
     "db:Rem:Re:Zero",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Yoru:Chainsaw Man",
-    "db:Rei Ayanami:Neon Genesis Evangelion",
-    "db:Mukuro Hoshimiya:Date A Live"
+    "db:Rei Ayanami:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-17T18:24:31.189Z",
+  "updatedAt": "2026-08-18T00:41:10.269Z",
   "cached": {
     "character": {
-      "name": "Winry Rockbell",
-      "source": "Fullmetal Alchemist",
-      "universe": "ANIME",
+      "name": "Kai'Sa",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Winry Rockbell:Fullmetal Alchemist",
-      "nextIndex": 0
+      "globalId": "db:Kai'Sa:League of Legends",
+      "nextIndex": 239
     },
     "meta": {
-      "source": "Fullmetal Alchemist",
-      "fanbase": 258454,
-      "vibe": "YANDERE",
-      "rating": "ICONIC",
-      "age": "15-16",
+      "source": "League of Legends",
+      "fanbase": 180399,
+      "vibe": "CHAOTIC",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Birthplace: Resembool Occupation: Automail Mechanic Family: , Urey Rockbell , S…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
+      "bio": "Student",
+      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
+      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1538976837353340959/waifu-a3a1060a27d1b55960f98955.png?ex=6a84a35e&is=6a8351de&hm=6af4b597e8bd22e0fa5b918cf99daa691561072278b643bcadf61f08ff904112&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539071624953860176/waifu-56af0a92d4b1922188a77f6f.png?ex=6a84fba5&is=6a83aa25&hm=d3b4ef908cde1a6862f5a042eea88d8ffcf6d21c061cdb16d0a2f2a85aac4b1c&"
   }
 }
