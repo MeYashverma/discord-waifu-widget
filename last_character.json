@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bayonetta:Bayonetta",
-  "lastName": "Bayonetta",
-  "index": 259,
+  "lastId": "db:Vinsmoke Reiju:One Piece",
+  "lastName": "Vinsmoke Reiju",
+  "index": 168,
   "recent": [
+    "db:Vinsmoke Reiju:One Piece",
     "db:Bayonetta:Bayonetta",
     "db:Shirley Fenette:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
@@ -36,36 +37,35 @@
     "db:Anya Forger:Spy x Family",
     "db:Mordred:Fate Series",
     "db:Rapi:Nikke",
-    "db:Kurumi Tokisaki:Date A Live",
-    "db:Rem:Re:Zero"
+    "db:Kurumi Tokisaki:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-18T18:23:09.506Z",
+  "updatedAt": "2026-08-19T00:41:22.674Z",
   "cached": {
     "character": {
-      "name": "Bayonetta",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Vinsmoke Reiju",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bayonetta:Bayonetta",
-      "nextIndex": 259
+      "globalId": "db:Vinsmoke Reiju:One Piece",
+      "nextIndex": 168
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 193245,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Witch",
-      "description": "Umbra Witch",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87496-pBhFLnxrCi7y.jpg"
+      "source": "One Piece",
+      "fanbase": 568634,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "24",
+      "blood": "F",
+      "bio": "Royalty",
+      "description": "cm Vinsmoke Reiju also known as \"Poison Pink\", is the eldest child and only dau…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127891-FSRMoIQeDyV8.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539338882347438181/waifu-899e22adcb30eb6578ce95dd.png?ex=6a85f48d&is=6a84a30d&hm=990a7e3bb52cb154a04318a0765f6a5ddacfa7e8d67b70d3be7072ea331130c1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539434064128376832/waifu-1284dac3bd1d209ab0393de9.png?ex=6a864d32&is=6a84fbb2&hm=b6b4052025c564f1a050650bd7efdaef06b89d8efde53e84de2a03531d901e1c&"
   }
 }
