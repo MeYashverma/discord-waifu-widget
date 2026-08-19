@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shorekeeper:Wuthering Waves",
-  "lastName": "Shorekeeper",
-  "index": 39,
+  "lastId": "db:Yunyun:Konosuba",
+  "lastName": "Yunyun",
+  "index": 196,
   "recent": [
+    "db:Yunyun:Konosuba",
     "db:Shorekeeper:Wuthering Waves",
     "db:Vinsmoke Reiju:One Piece",
     "db:Bayonetta:Bayonetta",
@@ -36,36 +37,35 @@
     "db:Asuka Kazama:Tekken",
     "db:Liv:Punishing Gray Raven",
     "db:Anya Forger:Spy x Family",
-    "db:Mordred:Fate Series",
-    "db:Rapi:Nikke"
+    "db:Mordred:Fate Series"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-19T06:27:07.966Z",
+  "updatedAt": "2026-08-19T12:25:29.985Z",
   "cached": {
     "character": {
-      "name": "Shorekeeper",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Yunyun",
+      "source": "Konosuba",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shorekeeper:Wuthering Waves",
-      "nextIndex": 39
+      "globalId": "db:Yunyun:Konosuba",
+      "nextIndex": 196
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 269537,
-      "vibe": "DEADLY",
+      "source": "Konosuba",
+      "fanbase": 237977,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "age": "16-18",
+      "blood": "A",
       "bio": "Character",
-      "description": "The shopkeeper of crystals",
-      "image": "https://media.kitsu.app/characters/images/70242/original.jpg"
+      "description": "cm / 5'7\" Zodiac Animal: Rat Known as \"The Prince\" or \"Prince Yuki\" at school, …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208-5TmAqqh82wNe.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539521077003296768/waifu-765361dc963adaeb58479979.png?ex=6a869e3b&is=6a854cbb&hm=997cc9d1c580789dbfb9f89bcf84cf2216f1038c4a4070c82c7a15b4b384cc62&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539611262571520061/waifu-f60c51e5ccb2a440a90013ea.png?ex=6a86f239&is=6a85a0b9&hm=7dea64927c5c9dde303c2afc2bc55c12da5a67f57be702a8c6afdedb6aaf2934&"
   }
 }
