@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Vinsmoke Reiju:One Piece",
-  "lastName": "Vinsmoke Reiju",
-  "index": 168,
+  "lastId": "db:Shorekeeper:Wuthering Waves",
+  "lastName": "Shorekeeper",
+  "index": 39,
   "recent": [
+    "db:Shorekeeper:Wuthering Waves",
     "db:Vinsmoke Reiju:One Piece",
     "db:Bayonetta:Bayonetta",
     "db:Shirley Fenette:Code Geass",
@@ -36,36 +37,35 @@
     "db:Liv:Punishing Gray Raven",
     "db:Anya Forger:Spy x Family",
     "db:Mordred:Fate Series",
-    "db:Rapi:Nikke",
-    "db:Kurumi Tokisaki:Date A Live"
+    "db:Rapi:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-19T00:41:22.674Z",
+  "updatedAt": "2026-08-19T06:27:07.966Z",
   "cached": {
     "character": {
-      "name": "Vinsmoke Reiju",
-      "source": "One Piece",
-      "universe": "ANIME",
+      "name": "Shorekeeper",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Vinsmoke Reiju:One Piece",
-      "nextIndex": 168
+      "globalId": "db:Shorekeeper:Wuthering Waves",
+      "nextIndex": 39
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 568634,
-      "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "24",
-      "blood": "F",
-      "bio": "Royalty",
-      "description": "cm Vinsmoke Reiju also known as \"Poison Pink\", is the eldest child and only dau…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127891-FSRMoIQeDyV8.png"
+      "source": "Wuthering Waves",
+      "fanbase": 269537,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "The shopkeeper of crystals",
+      "image": "https://media.kitsu.app/characters/images/70242/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539434064128376832/waifu-1284dac3bd1d209ab0393de9.png?ex=6a864d32&is=6a84fbb2&hm=b6b4052025c564f1a050650bd7efdaef06b89d8efde53e84de2a03531d901e1c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539521077003296768/waifu-765361dc963adaeb58479979.png?ex=6a869e3b&is=6a854cbb&hm=997cc9d1c580789dbfb9f89bcf84cf2216f1038c4a4070c82c7a15b4b384cc62&"
   }
 }
