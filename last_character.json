@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yunyun:Konosuba",
-  "lastName": "Yunyun",
-  "index": 196,
+  "lastId": "db:Miyabi:Zenless Zone Zero",
+  "lastName": "Miyabi",
+  "index": 33,
   "recent": [
+    "db:Miyabi:Zenless Zone Zero",
     "db:Yunyun:Konosuba",
     "db:Shorekeeper:Wuthering Waves",
     "db:Vinsmoke Reiju:One Piece",
@@ -36,36 +37,35 @@
     "db:Clorinde:Genshin Impact",
     "db:Asuka Kazama:Tekken",
     "db:Liv:Punishing Gray Raven",
-    "db:Anya Forger:Spy x Family",
-    "db:Mordred:Fate Series"
+    "db:Anya Forger:Spy x Family"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-19T12:25:29.985Z",
+  "updatedAt": "2026-08-19T18:19:46.240Z",
   "cached": {
     "character": {
-      "name": "Yunyun",
-      "source": "Konosuba",
-      "universe": "ANIME",
+      "name": "Miyabi",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yunyun:Konosuba",
-      "nextIndex": 196
+      "globalId": "db:Miyabi:Zenless Zone Zero",
+      "nextIndex": 33
     },
     "meta": {
-      "source": "Konosuba",
-      "fanbase": 237977,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "16-18",
-      "blood": "A",
+      "source": "Zenless Zone Zero",
+      "fanbase": 216366,
+      "vibe": "MYSTERIOUS",
+      "rating": "POPULAR",
+      "age": "17",
+      "blood": "B",
       "bio": "Character",
-      "description": "cm / 5'7\" Zodiac Animal: Rat Known as \"The Prince\" or \"Prince Yuki\" at school, …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208-5TmAqqh82wNe.png"
+      "description": "cm Class: 2-C Affiliation: Supernatural Studies Club Miyabi Itou is a girl that…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62437-32tse1zFMino.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539611262571520061/waifu-f60c51e5ccb2a440a90013ea.png?ex=6a86f239&is=6a85a0b9&hm=7dea64927c5c9dde303c2afc2bc55c12da5a67f57be702a8c6afdedb6aaf2934&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539700418253164634/waifu-cc2f0b70b0b6a9b3a34cd7d1.png?ex=6a874541&is=6a85f3c1&hm=a312473cb40241500950f23f8ba67f004ee1ef37d93c7298ef8dda67da10078b&"
   }
 }
