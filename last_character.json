@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Saber:Fate/stay night",
-  "lastName": "Saber",
-  "index": 202,
+  "lastId": "db:Shoko Ieiri:Jujutsu Kaisen",
+  "lastName": "Shoko Ieiri",
+  "index": 127,
   "recent": [
+    "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Saber:Fate/stay night",
     "db:Xenovia Quarta:High School DxD",
     "db:Miyabi:Zenless Zone Zero",
@@ -36,15 +37,14 @@
     "db:Sheva Alomar:Resident Evil",
     "db:Nia Honjo:Date A Live",
     "db:Claire Redfield:Resident Evil",
-    "db:Clorinde:Genshin Impact",
-    "db:Asuka Kazama:Tekken"
+    "db:Clorinde:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-20T06:29:27.108Z",
+  "updatedAt": "2026-08-20T12:27:55.831Z",
   "cached": {
     "character": {
-      "name": "Saber",
-      "source": "Fate/stay night",
+      "name": "Shoko Ieiri",
+      "source": "Jujutsu Kaisen",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Saber:Fate/stay night",
-      "nextIndex": 202
+      "globalId": "db:Shoko Ieiri:Jujutsu Kaisen",
+      "nextIndex": 127
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 230184,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
-      "age": "35 (chronologically), 15 (physically)",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 548814,
+      "vibe": "YANDERE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+      "bio": "Character",
+      "description": "Shoko Ieiri from Jujutsu Kaisen",
+      "image": "https://media.kitsu.app/characters/images/83375/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539884047927607446/waifu-037c5c336a16aeca995a47f9.png?ex=6a87f046&is=6a869ec6&hm=b717417c8a76d5606f60452c7465627bb75c3cce59b4acf586c3c7bc5b24c615&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539974262524350484/waifu-491777155586fd331c4aab24.png?ex=6a88444b&is=6a86f2cb&hm=09a500fdc4cda7560c6dd68c8af404cb838328e415c9483bc81c3a0b1536cdd4&"
   }
 }
