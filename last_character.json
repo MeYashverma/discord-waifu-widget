@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Xenovia Quarta:High School DxD",
-  "lastName": "Xenovia Quarta",
-  "index": 93,
+  "lastId": "db:Saber:Fate/stay night",
+  "lastName": "Saber",
+  "index": 202,
   "recent": [
+    "db:Saber:Fate/stay night",
     "db:Xenovia Quarta:High School DxD",
     "db:Miyabi:Zenless Zone Zero",
     "db:Yunyun:Konosuba",
@@ -36,15 +37,14 @@
     "db:Nia Honjo:Date A Live",
     "db:Claire Redfield:Resident Evil",
     "db:Clorinde:Genshin Impact",
-    "db:Asuka Kazama:Tekken",
-    "db:Liv:Punishing Gray Raven"
+    "db:Asuka Kazama:Tekken"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-20T00:41:30.501Z",
+  "updatedAt": "2026-08-20T06:29:27.108Z",
   "cached": {
     "character": {
-      "name": "Xenovia Quarta",
-      "source": "High School DxD",
+      "name": "Saber",
+      "source": "Fate/stay night",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Xenovia Quarta:High School DxD",
-      "nextIndex": 93
+      "globalId": "db:Saber:Fate/stay night",
+      "nextIndex": 202
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 198837,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Fate/stay night",
+      "fanbase": 230184,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
+      "age": "35 (chronologically), 15 (physically)",
       "blood": "Unknown",
       "bio": "Knight",
-      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
+      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539796485451816980/waifu-5d6ea2b2e9ddf59a58edab0d.png?ex=6a879eba&is=6a864d3a&hm=132fda404346b06c8aabeed148e1c1f2746467fabc512ddd3b553c6785b7a555&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539884047927607446/waifu-037c5c336a16aeca995a47f9.png?ex=6a87f046&is=6a869ec6&hm=b717417c8a76d5606f60452c7465627bb75c3cce59b4acf586c3c7bc5b24c615&"
   }
 }
