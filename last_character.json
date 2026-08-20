@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shoko Ieiri:Jujutsu Kaisen",
-  "lastName": "Shoko Ieiri",
-  "index": 127,
+  "lastId": "db:Eula:Genshin Impact",
+  "lastName": "Eula",
+  "index": 4,
   "recent": [
+    "db:Eula:Genshin Impact",
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Saber:Fate/stay night",
     "db:Xenovia Quarta:High School DxD",
@@ -36,36 +37,35 @@
     "db:Mikasa Ackerman:Attack on Titan",
     "db:Sheva Alomar:Resident Evil",
     "db:Nia Honjo:Date A Live",
-    "db:Claire Redfield:Resident Evil",
-    "db:Clorinde:Genshin Impact"
+    "db:Claire Redfield:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-20T12:27:55.831Z",
+  "updatedAt": "2026-08-20T18:24:10.388Z",
   "cached": {
     "character": {
-      "name": "Shoko Ieiri",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Eula",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shoko Ieiri:Jujutsu Kaisen",
-      "nextIndex": 127
+      "globalId": "db:Eula:Genshin Impact",
+      "nextIndex": 4
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 548814,
-      "vibe": "YANDERE",
+      "source": "Genshin Impact",
+      "fanbase": 543254,
+      "vibe": "ELEGANT",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Shoko Ieiri from Jujutsu Kaisen",
-      "image": "https://media.kitsu.app/characters/images/83375/original.jpg"
+      "bio": "Knight",
+      "description": "Spindrift Knight",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359531-beb89fDCTeA3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539974262524350484/waifu-491777155586fd331c4aab24.png?ex=6a88444b&is=6a86f2cb&hm=09a500fdc4cda7560c6dd68c8af404cb838328e415c9483bc81c3a0b1536cdd4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540063913599828029/waifu-899d5c5c8cf02ab7f60604a5.png?ex=6a8897ca&is=6a87464a&hm=4e529387eda23e71ae67190540e163b085961f6f2bfd09279ef61d008099c366&"
   }
 }
