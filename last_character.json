@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Miyabi:Zenless Zone Zero",
-  "lastName": "Miyabi",
-  "index": 33,
+  "lastId": "db:Xenovia Quarta:High School DxD",
+  "lastName": "Xenovia Quarta",
+  "index": 93,
   "recent": [
+    "db:Xenovia Quarta:High School DxD",
     "db:Miyabi:Zenless Zone Zero",
     "db:Yunyun:Konosuba",
     "db:Shorekeeper:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Claire Redfield:Resident Evil",
     "db:Clorinde:Genshin Impact",
     "db:Asuka Kazama:Tekken",
-    "db:Liv:Punishing Gray Raven",
-    "db:Anya Forger:Spy x Family"
+    "db:Liv:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-19T18:19:46.240Z",
+  "updatedAt": "2026-08-20T00:41:30.501Z",
   "cached": {
     "character": {
-      "name": "Miyabi",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Xenovia Quarta",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Miyabi:Zenless Zone Zero",
-      "nextIndex": 33
+      "globalId": "db:Xenovia Quarta:High School DxD",
+      "nextIndex": 93
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 216366,
-      "vibe": "MYSTERIOUS",
+      "source": "High School DxD",
+      "fanbase": 198837,
+      "vibe": "LOYAL",
       "rating": "POPULAR",
-      "age": "17",
-      "blood": "B",
-      "bio": "Character",
-      "description": "cm Class: 2-C Affiliation: Supernatural Studies Club Miyabi Itou is a girl that…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62437-32tse1zFMino.png"
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Knight",
+      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539700418253164634/waifu-cc2f0b70b0b6a9b3a34cd7d1.png?ex=6a874541&is=6a85f3c1&hm=a312473cb40241500950f23f8ba67f004ee1ef37d93c7298ef8dda67da10078b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1539796485451816980/waifu-5d6ea2b2e9ddf59a58edab0d.png?ex=6a879eba&is=6a864d3a&hm=132fda404346b06c8aabeed148e1c1f2746467fabc512ddd3b553c6785b7a555&"
   }
 }
