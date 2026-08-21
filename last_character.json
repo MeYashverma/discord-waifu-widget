@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Momo Nishimiya:Jujutsu Kaisen",
-  "lastName": "Momo Nishimiya",
-  "index": 130,
+  "lastId": "db:Nami:One Piece",
+  "lastName": "Nami",
+  "index": 164,
   "recent": [
+    "db:Nami:One Piece",
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
@@ -36,15 +37,14 @@
     "db:Levy McGarden:Fairy Tail",
     "db:Furina:Genshin Impact",
     "db:Roccia:Wuthering Waves",
-    "db:Echidna:Re:Zero",
-    "db:Mikasa Ackerman:Attack on Titan"
+    "db:Echidna:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-21T12:27:15.359Z",
+  "updatedAt": "2026-08-21T18:22:56.917Z",
   "cached": {
     "character": {
-      "name": "Momo Nishimiya",
-      "source": "Jujutsu Kaisen",
+      "name": "Nami",
+      "source": "One Piece",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Momo Nishimiya:Jujutsu Kaisen",
-      "nextIndex": 130
+      "globalId": "db:Nami:One Piece",
+      "nextIndex": 164
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 520921,
-      "vibe": "LOYAL",
+      "source": "One Piece",
+      "fanbase": 631198,
+      "vibe": "YANDERE",
       "rating": "LEGENDARY",
-      "age": "18",
-      "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Species: Human Occupation: Jujutsu Sorcerer Affiliation: Kyoto Magic Technical …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png"
+      "age": "18-",
+      "blood": "X",
+      "bio": "Character",
+      "description": "cm Affiliation: Straw Hat Pirates Position: Navigator Bounty: 366,000,000 Nami …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540336480319443036/waifu-18a4af4654718cefe1238180.png?ex=6a8995a2&is=6a884422&hm=9683d184c3e9a20ca2344862b75824f337e6e817f0016b0a63c426cae4756b58&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540425993850716181/waifu-be7ef75e4341a34d5c8396c1.png?ex=6a89e900&is=6a889780&hm=196c2a9ec2c299d1a2356e3b72c677345331a5af376e9f44789550fadcab2dc1&"
   }
 }
