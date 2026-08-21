@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ellen Joe:Zenless Zone Zero",
-  "lastName": "Ellen Joe",
-  "index": 35,
+  "lastId": "db:Momo Nishimiya:Jujutsu Kaisen",
+  "lastName": "Momo Nishimiya",
+  "index": 130,
   "recent": [
+    "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
     "db:Eula:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Furina:Genshin Impact",
     "db:Roccia:Wuthering Waves",
     "db:Echidna:Re:Zero",
-    "db:Mikasa Ackerman:Attack on Titan",
-    "db:Sheva Alomar:Resident Evil"
+    "db:Mikasa Ackerman:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-21T06:29:54.182Z",
+  "updatedAt": "2026-08-21T12:27:15.359Z",
   "cached": {
     "character": {
-      "name": "Ellen Joe",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Momo Nishimiya",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ellen Joe:Zenless Zone Zero",
-      "nextIndex": 35
+      "globalId": "db:Momo Nishimiya:Jujutsu Kaisen",
+      "nextIndex": 130
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 242831,
-      "vibe": "ROYAL",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 520921,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Born November 8, 2142 Planet Aramis, The Canis Major Zone - Joe is the headstro…",
-      "image": "https://media.kitsu.app/characters/images/22030/original.jpg"
+      "bio": "Mage",
+      "description": "Species: Human Occupation: Jujutsu Sorcerer Affiliation: Kyoto Magic Technical …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540246549316108319/waifu-fcaaf5c99f8625e858b70fcb.png?ex=6a8941e1&is=6a87f061&hm=4c4db2b8e38b0e96605ca5f3067c5886cf989c4e81501494e7cd8ab9077862d0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540336480319443036/waifu-18a4af4654718cefe1238180.png?ex=6a8995a2&is=6a884422&hm=9683d184c3e9a20ca2344862b75824f337e6e817f0016b0a63c426cae4756b58&"
   }
 }
