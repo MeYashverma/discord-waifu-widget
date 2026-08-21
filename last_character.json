@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Chun-Li:Street Fighter",
-  "lastName": "Chun-Li",
-  "index": 243,
+  "lastId": "db:Ellen Joe:Zenless Zone Zero",
+  "lastName": "Ellen Joe",
+  "index": 35,
   "recent": [
+    "db:Ellen Joe:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
     "db:Eula:Genshin Impact",
     "db:Shoko Ieiri:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Roccia:Wuthering Waves",
     "db:Echidna:Re:Zero",
     "db:Mikasa Ackerman:Attack on Titan",
-    "db:Sheva Alomar:Resident Evil",
-    "db:Nia Honjo:Date A Live"
+    "db:Sheva Alomar:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-21T00:44:24.898Z",
+  "updatedAt": "2026-08-21T06:29:54.182Z",
   "cached": {
     "character": {
-      "name": "Chun-Li",
-      "source": "Street Fighter",
-      "universe": "GAME",
+      "name": "Ellen Joe",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Chun-Li:Street Fighter",
-      "nextIndex": 243
+      "globalId": "db:Ellen Joe:Zenless Zone Zero",
+      "nextIndex": 35
     },
     "meta": {
-      "source": "Street Fighter",
-      "fanbase": 227393,
-      "vibe": "CHAOTIC",
+      "source": "Zenless Zone Zero",
+      "fanbase": 242831,
+      "vibe": "ROYAL",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Chun-Li is a video game character created by Capcom",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png"
+      "description": "Born November 8, 2142 Planet Aramis, The Canis Major Zone - Joe is the headstro…",
+      "image": "https://media.kitsu.app/characters/images/22030/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540159604602966067/waifu-9ce2d8bd420a4b06168479ea.png?ex=6a88f0e8&is=6a879f68&hm=5ea2f1a17c1237c43a0c5c1b431678bc1c01562bc5105e30fb15e437c2b85de7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540246549316108319/waifu-fcaaf5c99f8625e858b70fcb.png?ex=6a8941e1&is=6a87f061&hm=4c4db2b8e38b0e96605ca5f3067c5886cf989c4e81501494e7cd8ab9077862d0&"
   }
 }
