@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Eula:Genshin Impact",
-  "lastName": "Eula",
-  "index": 4,
+  "lastId": "db:Chun-Li:Street Fighter",
+  "lastName": "Chun-Li",
+  "index": 243,
   "recent": [
+    "db:Chun-Li:Street Fighter",
     "db:Eula:Genshin Impact",
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Saber:Fate/stay night",
@@ -36,36 +37,35 @@
     "db:Echidna:Re:Zero",
     "db:Mikasa Ackerman:Attack on Titan",
     "db:Sheva Alomar:Resident Evil",
-    "db:Nia Honjo:Date A Live",
-    "db:Claire Redfield:Resident Evil"
+    "db:Nia Honjo:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-20T18:24:10.388Z",
+  "updatedAt": "2026-08-21T00:44:24.898Z",
   "cached": {
     "character": {
-      "name": "Eula",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Chun-Li",
+      "source": "Street Fighter",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Eula:Genshin Impact",
-      "nextIndex": 4
+      "globalId": "db:Chun-Li:Street Fighter",
+      "nextIndex": 243
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 543254,
-      "vibe": "ELEGANT",
-      "rating": "LEGENDARY",
+      "source": "Street Fighter",
+      "fanbase": 227393,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Spindrift Knight",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359531-beb89fDCTeA3.png"
+      "bio": "Character",
+      "description": "Chun-Li is a video game character created by Capcom",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540063913599828029/waifu-899d5c5c8cf02ab7f60604a5.png?ex=6a8897ca&is=6a87464a&hm=4e529387eda23e71ae67190540e163b085961f6f2bfd09279ef61d008099c366&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540159604602966067/waifu-9ce2d8bd420a4b06168479ea.png?ex=6a88f0e8&is=6a879f68&hm=5ea2f1a17c1237c43a0c5c1b431678bc1c01562bc5105e30fb15e437c2b85de7&"
   }
 }
