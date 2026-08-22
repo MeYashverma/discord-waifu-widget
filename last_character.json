@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fami:Chainsaw Man",
-  "lastName": "Fami",
-  "index": 79,
+  "lastId": "db:Manon:Street Fighter 6",
+  "lastName": "Manon",
+  "index": 246,
   "recent": [
+    "db:Manon:Street Fighter 6",
     "db:Fami:Chainsaw Man",
     "db:Karin Kakudate:Blue Archive",
     "db:Enterprise:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Fran:Final Fantasy XII",
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Dorothy:Nikke",
-    "db:Irelia:League of Legends",
-    "db:Levy McGarden:Fairy Tail"
+    "db:Irelia:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-22T12:20:04.249Z",
+  "updatedAt": "2026-08-22T18:15:41.913Z",
   "cached": {
     "character": {
-      "name": "Fami",
-      "source": "Chainsaw Man",
-      "universe": "ANIME",
+      "name": "Manon",
+      "source": "Street Fighter 6",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fami:Chainsaw Man",
-      "nextIndex": 79
+      "globalId": "db:Manon:Street Fighter 6",
+      "nextIndex": 246
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 488286,
-      "vibe": "DOMINANT",
-      "rating": "ELITE",
+      "source": "Street Fighter 6",
+      "fanbase": 246968,
+      "vibe": "WHOLESOME",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "The Famine Devil is one of the four horseman devils",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294475-3DOVtMBudU9f.jpg"
+      "bio": "Character",
+      "description": "A new Trainer just starting her journey",
+      "image": "https://media.kitsu.app/characters/images/92193/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540697059449901107/waifu-9474bc77da4290c49ee1d4e6.png?ex=6a8ae573&is=6a8993f3&hm=552eceb0bb532f9a6add2c52df86c748dadae47d1b52c21d172a6735db16cfdb&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540786556841754654/waifu-4f4133d4091fd7ede11f98db.png?ex=6a8b38cd&is=6a89e74d&hm=2c80bbcb433026d1a10111d3de55350425e5939ba655abbb873e7e9bd52f22f0&"
   }
 }
