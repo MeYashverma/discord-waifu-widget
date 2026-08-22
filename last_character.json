@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Karin Kakudate:Blue Archive",
-  "lastName": "Karin Kakudate",
-  "index": 66,
+  "lastId": "db:Fami:Chainsaw Man",
+  "lastName": "Fami",
+  "index": 79,
   "recent": [
+    "db:Fami:Chainsaw Man",
     "db:Karin Kakudate:Blue Archive",
     "db:Enterprise:Azur Lane",
     "db:Nami:One Piece",
@@ -36,36 +37,35 @@
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Dorothy:Nikke",
     "db:Irelia:League of Legends",
-    "db:Levy McGarden:Fairy Tail",
-    "db:Furina:Genshin Impact"
+    "db:Levy McGarden:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-22T06:23:07.476Z",
+  "updatedAt": "2026-08-22T12:20:04.249Z",
   "cached": {
     "character": {
-      "name": "Karin Kakudate",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Fami",
+      "source": "Chainsaw Man",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Karin Kakudate:Blue Archive",
-      "nextIndex": 66
+      "globalId": "db:Fami:Chainsaw Man",
+      "nextIndex": 79
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 246678,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
+      "source": "Chainsaw Man",
+      "fanbase": 488286,
+      "vibe": "DOMINANT",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Academy: Millennium Science School Year: 2nd Year",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264238-y0g6BRd0o7iK.png"
+      "bio": "Hunter",
+      "description": "The Famine Devil is one of the four horseman devils",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294475-3DOVtMBudU9f.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540607231429705808/waifu-754aba1cc8ed0fb487bd233b.png?ex=6a8a91cb&is=6a89404b&hm=2135e2d95ce7185ddd769eeedf35f88b69a1e4ab80fc47d59e45d5da062d09a1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540697059449901107/waifu-9474bc77da4290c49ee1d4e6.png?ex=6a8ae573&is=6a8993f3&hm=552eceb0bb532f9a6add2c52df86c748dadae47d1b52c21d172a6735db16cfdb&"
   }
 }
