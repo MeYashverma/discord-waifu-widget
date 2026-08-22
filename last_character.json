@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nami:One Piece",
-  "lastName": "Nami",
-  "index": 164,
+  "lastId": "db:Enterprise:Azur Lane",
+  "lastName": "Enterprise",
+  "index": 275,
   "recent": [
+    "db:Enterprise:Azur Lane",
     "db:Nami:One Piece",
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Ellen Joe:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Irelia:League of Legends",
     "db:Levy McGarden:Fairy Tail",
     "db:Furina:Genshin Impact",
-    "db:Roccia:Wuthering Waves",
-    "db:Echidna:Re:Zero"
+    "db:Roccia:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-21T18:22:56.917Z",
+  "updatedAt": "2026-08-22T00:41:31.603Z",
   "cached": {
     "character": {
-      "name": "Nami",
-      "source": "One Piece",
-      "universe": "ANIME",
+      "name": "Enterprise",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nami:One Piece",
-      "nextIndex": 164
+      "globalId": "db:Enterprise:Azur Lane",
+      "nextIndex": 275
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 631198,
-      "vibe": "YANDERE",
-      "rating": "LEGENDARY",
-      "age": "18-",
-      "blood": "X",
+      "source": "Azur Lane",
+      "fanbase": 206370,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Affiliation: Straw Hat Pirates Position: Navigator Bounty: 366,000,000 Nami …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+      "description": "Faction: Eagle Union Class: Yorktown Legendary Yorktown-class aircraft carrier …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130082-WiDwPynLeBXD.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540425993850716181/waifu-be7ef75e4341a34d5c8396c1.png?ex=6a89e900&is=6a889780&hm=196c2a9ec2c299d1a2356e3b72c677345331a5af376e9f44789550fadcab2dc1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540521264945565836/waifu-547bb1f43d1f32157b103dc3.png?ex=6a8a41bb&is=6a88f03b&hm=dfe5fc95d47bf9e2eeacd5d3ec25ee6512275be5d449ed340695a0f71c91f3b5&"
   }
 }
