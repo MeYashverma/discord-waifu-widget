@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Enterprise:Azur Lane",
-  "lastName": "Enterprise",
-  "index": 275,
+  "lastId": "db:Karin Kakudate:Blue Archive",
+  "lastName": "Karin Kakudate",
+  "index": 66,
   "recent": [
+    "db:Karin Kakudate:Blue Archive",
     "db:Enterprise:Azur Lane",
     "db:Nami:One Piece",
     "db:Momo Nishimiya:Jujutsu Kaisen",
@@ -36,15 +37,14 @@
     "db:Dorothy:Nikke",
     "db:Irelia:League of Legends",
     "db:Levy McGarden:Fairy Tail",
-    "db:Furina:Genshin Impact",
-    "db:Roccia:Wuthering Waves"
+    "db:Furina:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-22T00:41:31.603Z",
+  "updatedAt": "2026-08-22T06:23:07.476Z",
   "cached": {
     "character": {
-      "name": "Enterprise",
-      "source": "Azur Lane",
+      "name": "Karin Kakudate",
+      "source": "Blue Archive",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Enterprise:Azur Lane",
-      "nextIndex": 275
+      "globalId": "db:Karin Kakudate:Blue Archive",
+      "nextIndex": 66
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 206370,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
+      "source": "Blue Archive",
+      "fanbase": 246678,
+      "vibe": "CONFIDENT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Faction: Eagle Union Class: Yorktown Legendary Yorktown-class aircraft carrier …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130082-WiDwPynLeBXD.jpg"
+      "bio": "Student",
+      "description": "Academy: Millennium Science School Year: 2nd Year",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264238-y0g6BRd0o7iK.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540521264945565836/waifu-547bb1f43d1f32157b103dc3.png?ex=6a8a41bb&is=6a88f03b&hm=dfe5fc95d47bf9e2eeacd5d3ec25ee6512275be5d449ed340695a0f71c91f3b5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540607231429705808/waifu-754aba1cc8ed0fb487bd233b.png?ex=6a8a91cb&is=6a89404b&hm=2135e2d95ce7185ddd769eeedf35f88b69a1e4ab80fc47d59e45d5da062d09a1&"
   }
 }
