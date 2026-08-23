@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Misa Amane:Death Note",
-  "lastName": "Misa Amane",
-  "index": 295,
+  "lastId": "db:Sanhua:Wuthering Waves",
+  "lastName": "Sanhua",
+  "index": 43,
   "recent": [
+    "db:Sanhua:Wuthering Waves",
     "db:Misa Amane:Death Note",
     "db:Ryuko Matoi:Kill la Kill",
     "db:Manon:Street Fighter 6",
@@ -36,36 +37,35 @@
     "db:Encore:Wuthering Waves",
     "db:Mudrock:Arknights",
     "db:Kal'tsit:Arknights",
-    "db:Fran:Final Fantasy XII",
-    "db:Utahime Iori:Jujutsu Kaisen"
+    "db:Fran:Final Fantasy XII"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-23T06:24:50.374Z",
+  "updatedAt": "2026-08-23T12:20:46.706Z",
   "cached": {
     "character": {
-      "name": "Misa Amane",
-      "source": "Death Note",
-      "universe": "ANIME",
+      "name": "Sanhua",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Misa Amane:Death Note",
-      "nextIndex": 295
+      "globalId": "db:Sanhua:Wuthering Waves",
+      "nextIndex": 43
     },
     "meta": {
-      "source": "Death Note",
-      "fanbase": 225453,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
+      "source": "Wuthering Waves",
+      "fanbase": 182492,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
       "age": "Unknown",
-      "blood": "AB",
-      "bio": "Idol",
-      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Sanhua from Wuthering Waves",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540970049592889354/waifu-5f7bc451f018b2f82cb25fda.png?ex=6a8be3b1&is=6a8a9231&hm=ee30901908704ecb4dfd26bdf7b7d87e7cac4fd4cad5a29e6e1d8d9cdf2b1781&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541059625594658886/waifu-ccfc30fe72114ca6bb57aed7.png?ex=6a8c371e&is=6a8ae59e&hm=e2b0303e8313a1da79cac3527a97badc7a4f4148b52068d45617112fbb8495ac&"
   }
 }
