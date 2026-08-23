@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ryuko Matoi:Kill la Kill",
-  "lastName": "Ryuko Matoi",
-  "index": 300,
+  "lastId": "db:Misa Amane:Death Note",
+  "lastName": "Misa Amane",
+  "index": 295,
   "recent": [
+    "db:Misa Amane:Death Note",
     "db:Ryuko Matoi:Kill la Kill",
     "db:Manon:Street Fighter 6",
     "db:Fami:Chainsaw Man",
@@ -36,15 +37,14 @@
     "db:Mudrock:Arknights",
     "db:Kal'tsit:Arknights",
     "db:Fran:Final Fantasy XII",
-    "db:Utahime Iori:Jujutsu Kaisen",
-    "db:Dorothy:Nikke"
+    "db:Utahime Iori:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-23T00:44:47.426Z",
+  "updatedAt": "2026-08-23T06:24:50.374Z",
   "cached": {
     "character": {
-      "name": "Ryuko Matoi",
-      "source": "Kill la Kill",
+      "name": "Misa Amane",
+      "source": "Death Note",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ryuko Matoi:Kill la Kill",
-      "nextIndex": 300
+      "globalId": "db:Misa Amane:Death Note",
+      "nextIndex": 295
     },
     "meta": {
-      "source": "Kill la Kill",
-      "fanbase": 253358,
-      "vibe": "YANDERE",
+      "source": "Death Note",
+      "fanbase": 225453,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
-      "age": "17",
-      "blood": "Unknown",
-      "bio": "Student",
-      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+      "age": "Unknown",
+      "blood": "AB",
+      "bio": "Idol",
+      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540884474760273950/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6a8b93ff&is=6a8a427f&hm=72866b924a68e6c5d601c14b452b766b4d875733198202d216405c4803d14e45&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540970049592889354/waifu-5f7bc451f018b2f82cb25fda.png?ex=6a8be3b1&is=6a8a9231&hm=ee30901908704ecb4dfd26bdf7b7d87e7cac4fd4cad5a29e6e1d8d9cdf2b1781&"
   }
 }
