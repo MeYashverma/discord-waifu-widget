@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sanhua:Wuthering Waves",
-  "lastName": "Sanhua",
-  "index": 43,
+  "lastId": "db:Himeno:Chainsaw Man",
+  "lastName": "Himeno",
+  "index": 75,
   "recent": [
+    "db:Himeno:Chainsaw Man",
     "db:Sanhua:Wuthering Waves",
     "db:Misa Amane:Death Note",
     "db:Ryuko Matoi:Kill la Kill",
@@ -36,36 +37,35 @@
     "db:Yamato:One Piece",
     "db:Encore:Wuthering Waves",
     "db:Mudrock:Arknights",
-    "db:Kal'tsit:Arknights",
-    "db:Fran:Final Fantasy XII"
+    "db:Kal'tsit:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-23T12:20:46.706Z",
+  "updatedAt": "2026-08-23T18:15:55.177Z",
   "cached": {
     "character": {
-      "name": "Sanhua",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Himeno",
+      "source": "Chainsaw Man",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sanhua:Wuthering Waves",
-      "nextIndex": 43
+      "globalId": "db:Himeno:Chainsaw Man",
+      "nextIndex": 75
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 182492,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
+      "source": "Chainsaw Man",
+      "fanbase": 474621,
+      "vibe": "ROYAL",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Sanhua from Wuthering Waves",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+      "bio": "Student",
+      "description": "Aided by a scholarship, Himeno is the only female student who has transferred t…",
+      "image": "https://media.kitsu.app/characters/images/80189/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541059625594658886/waifu-ccfc30fe72114ca6bb57aed7.png?ex=6a8c371e&is=6a8ae59e&hm=e2b0303e8313a1da79cac3527a97badc7a4f4148b52068d45617112fbb8495ac&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541149000068239360/waifu-37b6864fff25e35f35953930.png?ex=6a8c8a5a&is=6a8b38da&hm=8155e9ecab626efc6c4368ca4bdd9b5bc995ecc289177a0fe2b1dfb1ff2c12ec&"
   }
 }
