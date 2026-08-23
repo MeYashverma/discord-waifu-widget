@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Manon:Street Fighter 6",
-  "lastName": "Manon",
-  "index": 246,
+  "lastId": "db:Ryuko Matoi:Kill la Kill",
+  "lastName": "Ryuko Matoi",
+  "index": 300,
   "recent": [
+    "db:Ryuko Matoi:Kill la Kill",
     "db:Manon:Street Fighter 6",
     "db:Fami:Chainsaw Man",
     "db:Karin Kakudate:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Kal'tsit:Arknights",
     "db:Fran:Final Fantasy XII",
     "db:Utahime Iori:Jujutsu Kaisen",
-    "db:Dorothy:Nikke",
-    "db:Irelia:League of Legends"
+    "db:Dorothy:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-22T18:15:41.913Z",
+  "updatedAt": "2026-08-23T00:44:47.426Z",
   "cached": {
     "character": {
-      "name": "Manon",
-      "source": "Street Fighter 6",
-      "universe": "GAME",
+      "name": "Ryuko Matoi",
+      "source": "Kill la Kill",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Manon:Street Fighter 6",
-      "nextIndex": 246
+      "globalId": "db:Ryuko Matoi:Kill la Kill",
+      "nextIndex": 300
     },
     "meta": {
-      "source": "Street Fighter 6",
-      "fanbase": 246968,
-      "vibe": "WHOLESOME",
+      "source": "Kill la Kill",
+      "fanbase": 253358,
+      "vibe": "YANDERE",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A new Trainer just starting her journey",
-      "image": "https://media.kitsu.app/characters/images/92193/original.jpg"
+      "bio": "Student",
+      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540786556841754654/waifu-4f4133d4091fd7ede11f98db.png?ex=6a8b38cd&is=6a89e74d&hm=2c80bbcb433026d1a10111d3de55350425e5939ba655abbb873e7e9bd52f22f0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1540884474760273950/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6a8b93ff&is=6a8a427f&hm=72866b924a68e6c5d601c14b452b766b4d875733198202d216405c4803d14e45&"
   }
 }
