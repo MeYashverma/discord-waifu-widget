@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Hinatsuru:Demon Slayer",
-  "lastName": "Hinatsuru",
-  "index": 122,
+  "lastId": "db:Kal'tsit:Arknights",
+  "lastName": "Kal'tsit",
+  "index": 286,
   "recent": [
+    "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
     "db:Satsuki Kiryuin:Kill la Kill",
     "db:Himeno:Chainsaw Man",
@@ -36,36 +37,35 @@
     "db:Popola:NieR Automata",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Futaba Sakura:Persona 5",
-    "db:Yamato:One Piece",
-    "db:Encore:Wuthering Waves"
+    "db:Yamato:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-24T12:28:47.200Z",
+  "updatedAt": "2026-08-24T18:26:18.250Z",
   "cached": {
     "character": {
-      "name": "Hinatsuru",
-      "source": "Demon Slayer",
-      "universe": "ANIME",
+      "name": "Kal'tsit",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Hinatsuru:Demon Slayer",
-      "nextIndex": 122
+      "globalId": "db:Kal'tsit:Arknights",
+      "nextIndex": 286
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 527245,
-      "vibe": "ROYAL",
-      "rating": "LEGENDARY",
-      "age": "21",
+      "source": "Arknights",
+      "fanbase": 209789,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Hinatsuru is a kunoichi and one of Tengen Uzui's wives",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250556-tZ6egykZTk4Y.jpg"
+      "description": "Undisclosed Place of Birth: Rhodes Island Race: Feline cm Kal'tsit, one of Rhod…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541424029641089085/waifu-527fa8ba70e915e305e888db.png?ex=6a8d8a7e&is=6a8c38fe&hm=c88efd4fb0717df8de7b8383703601e3e78cd6a0a38bebcdcc053ec52475e5b1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541514001039626380/waifu-41862c5a519ca98ec6c1bbdb.png?ex=6a8dde49&is=6a8c8cc9&hm=e54eac04a00f8c3cab4918abd465025e2c0ed4279be82ba3562368a3e2b10152&"
   }
 }
