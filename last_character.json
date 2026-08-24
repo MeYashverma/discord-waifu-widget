@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Himeno:Chainsaw Man",
-  "lastName": "Himeno",
-  "index": 75,
+  "lastId": "db:Satsuki Kiryuin:Kill la Kill",
+  "lastName": "Satsuki Kiryuin",
+  "index": 273,
   "recent": [
+    "db:Satsuki Kiryuin:Kill la Kill",
     "db:Himeno:Chainsaw Man",
     "db:Sanhua:Wuthering Waves",
     "db:Misa Amane:Death Note",
@@ -36,15 +37,14 @@
     "db:Futaba Sakura:Persona 5",
     "db:Yamato:One Piece",
     "db:Encore:Wuthering Waves",
-    "db:Mudrock:Arknights",
-    "db:Kal'tsit:Arknights"
+    "db:Mudrock:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-23T18:15:55.177Z",
+  "updatedAt": "2026-08-24T06:37:32.391Z",
   "cached": {
     "character": {
-      "name": "Himeno",
-      "source": "Chainsaw Man",
+      "name": "Satsuki Kiryuin",
+      "source": "Kill la Kill",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Himeno:Chainsaw Man",
-      "nextIndex": 75
+      "globalId": "db:Satsuki Kiryuin:Kill la Kill",
+      "nextIndex": 273
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 474621,
-      "vibe": "ROYAL",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Kill la Kill",
+      "fanbase": 221591,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
+      "age": "18",
       "blood": "Unknown",
       "bio": "Student",
-      "description": "Aided by a scholarship, Himeno is the only female student who has transferred t…",
-      "image": "https://media.kitsu.app/characters/images/80189/original.jpg"
+      "description": "Satsuki Kiryuin is another main heroine of the anime, \"Kill La Kill",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541149000068239360/waifu-37b6864fff25e35f35953930.png?ex=6a8c8a5a&is=6a8b38da&hm=8155e9ecab626efc6c4368ca4bdd9b5bc995ecc289177a0fe2b1dfb1ff2c12ec&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541335635019825203/waifu-7ef9eadfed01856cdd500a2d.png?ex=6a8d382c&is=6a8be6ac&hm=c8e6581658f54127b4720def1a4f85bc92cc363cf23ec8eed95f9323c4fe2d76&"
   }
 }
