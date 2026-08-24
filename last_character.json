@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Satsuki Kiryuin:Kill la Kill",
-  "lastName": "Satsuki Kiryuin",
-  "index": 273,
+  "lastId": "db:Hinatsuru:Demon Slayer",
+  "lastName": "Hinatsuru",
+  "index": 122,
   "recent": [
+    "db:Hinatsuru:Demon Slayer",
     "db:Satsuki Kiryuin:Kill la Kill",
     "db:Himeno:Chainsaw Man",
     "db:Sanhua:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Shalltear Bloodfallen:Overlord",
     "db:Futaba Sakura:Persona 5",
     "db:Yamato:One Piece",
-    "db:Encore:Wuthering Waves",
-    "db:Mudrock:Arknights"
+    "db:Encore:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-24T06:37:32.391Z",
+  "updatedAt": "2026-08-24T12:28:47.200Z",
   "cached": {
     "character": {
-      "name": "Satsuki Kiryuin",
-      "source": "Kill la Kill",
+      "name": "Hinatsuru",
+      "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Satsuki Kiryuin:Kill la Kill",
-      "nextIndex": 273
+      "globalId": "db:Hinatsuru:Demon Slayer",
+      "nextIndex": 122
     },
     "meta": {
-      "source": "Kill la Kill",
-      "fanbase": 221591,
-      "vibe": "DEADLY",
-      "rating": "ICONIC",
-      "age": "18",
+      "source": "Demon Slayer",
+      "fanbase": 527245,
+      "vibe": "ROYAL",
+      "rating": "LEGENDARY",
+      "age": "21",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Satsuki Kiryuin is another main heroine of the anime, \"Kill La Kill",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
+      "bio": "Character",
+      "description": "Hinatsuru is a kunoichi and one of Tengen Uzui's wives",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250556-tZ6egykZTk4Y.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541335635019825203/waifu-7ef9eadfed01856cdd500a2d.png?ex=6a8d382c&is=6a8be6ac&hm=c8e6581658f54127b4720def1a4f85bc92cc363cf23ec8eed95f9323c4fe2d76&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541424029641089085/waifu-527fa8ba70e915e305e888db.png?ex=6a8d8a7e&is=6a8c38fe&hm=c88efd4fb0717df8de7b8383703601e3e78cd6a0a38bebcdcc053ec52475e5b1&"
   }
 }
