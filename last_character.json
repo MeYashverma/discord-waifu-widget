@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Verina:Wuthering Waves",
-  "lastName": "Verina",
-  "index": 40,
+  "lastId": "db:Artoria Pendragon:Fate/stay night",
+  "lastName": "Artoria Pendragon",
+  "index": 205,
   "recent": [
+    "db:Artoria Pendragon:Fate/stay night",
     "db:Verina:Wuthering Waves",
     "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Temari:Naruto",
     "db:Nina Williams:Tekken",
     "db:Popola:NieR Automata",
-    "db:Shalltear Bloodfallen:Overlord",
-    "db:Futaba Sakura:Persona 5"
+    "db:Shalltear Bloodfallen:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-25T00:42:35.901Z",
+  "updatedAt": "2026-08-25T06:30:02.267Z",
   "cached": {
     "character": {
-      "name": "Verina",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Artoria Pendragon",
+      "source": "Fate/stay night",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Verina:Wuthering Waves",
-      "nextIndex": 40
+      "globalId": "db:Artoria Pendragon:Fate/stay night",
+      "nextIndex": 205
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 233801,
-      "vibe": "TSUNDERE",
+      "source": "Fate/stay night",
+      "fanbase": 233187,
+      "vibe": "SEDUCTIVE",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "35 (chronologically), 15 (physically)",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "No biography written",
-      "image": "https://media.kitsu.app/characters/images/5529/original.jpg"
+      "bio": "Knight",
+      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541608698726846554/waifu-73ffc040bedb84f812daa716.png?ex=6a8e367b&is=6a8ce4fb&hm=2c4d6c274fbf85e12853933dd8ae210b3d939e5a8c98cc728c2d7c21da7e70ba&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541696135159222393/waifu-037c5c336a16aeca995a47f9.png?ex=6a8e87e9&is=6a8d3669&hm=454bb292d74c7b9df9765b7d71fc9b8a814d08384d29a438117227885eeaa477&"
   }
 }
