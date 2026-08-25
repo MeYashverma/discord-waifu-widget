@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Artoria Pendragon:Fate/stay night",
-  "lastName": "Artoria Pendragon",
-  "index": 205,
+  "lastId": "db:Satella:Re:Zero",
+  "lastName": "Satella",
+  "index": 88,
   "recent": [
+    "db:Satella:Re:Zero",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Verina:Wuthering Waves",
     "db:Kal'tsit:Arknights",
@@ -36,15 +37,14 @@
     "db:Crusch Karsten:Re:Zero",
     "db:Temari:Naruto",
     "db:Nina Williams:Tekken",
-    "db:Popola:NieR Automata",
-    "db:Shalltear Bloodfallen:Overlord"
+    "db:Popola:NieR Automata"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-25T06:30:02.267Z",
+  "updatedAt": "2026-08-25T12:29:08.392Z",
   "cached": {
     "character": {
-      "name": "Artoria Pendragon",
-      "source": "Fate/stay night",
+      "name": "Satella",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Artoria Pendragon:Fate/stay night",
-      "nextIndex": 205
+      "globalId": "db:Satella:Re:Zero",
+      "nextIndex": 88
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 233187,
-      "vibe": "SEDUCTIVE",
+      "source": "Re:Zero",
+      "fanbase": 224644,
+      "vibe": "CONFIDENT",
       "rating": "ICONIC",
-      "age": "35 (chronologically), 15 (physically)",
+      "age": "14-19",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+      "bio": "Royalty",
+      "description": "cm She is a silver-haired half-elf girl who is one of the candidates to become …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541696135159222393/waifu-037c5c336a16aeca995a47f9.png?ex=6a8e87e9&is=6a8d3669&hm=454bb292d74c7b9df9765b7d71fc9b8a814d08384d29a438117227885eeaa477&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541786506035859456/waifu-3b16754d536665f2a24d36ff.png?ex=6a8edc14&is=6a8d8a94&hm=7b53bf060b6626c03694f8bebbe7aca6d34e4150ab3b92b91373c47af0373775&"
   }
 }
