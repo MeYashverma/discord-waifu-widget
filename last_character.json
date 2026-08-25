@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Satella:Re:Zero",
-  "lastName": "Satella",
-  "index": 88,
+  "lastId": "db:Kanae Kocho:Demon Slayer",
+  "lastName": "Kanae Kocho",
+  "index": 118,
   "recent": [
+    "db:Kanae Kocho:Demon Slayer",
     "db:Satella:Re:Zero",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Verina:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Crusch Karsten:Re:Zero",
     "db:Temari:Naruto",
-    "db:Nina Williams:Tekken",
-    "db:Popola:NieR Automata"
+    "db:Nina Williams:Tekken"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-25T12:29:08.392Z",
+  "updatedAt": "2026-08-25T18:25:10.812Z",
   "cached": {
     "character": {
-      "name": "Satella",
-      "source": "Re:Zero",
+      "name": "Kanae Kocho",
+      "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Satella:Re:Zero",
-      "nextIndex": 88
+      "globalId": "db:Kanae Kocho:Demon Slayer",
+      "nextIndex": 118
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 224644,
+      "source": "Demon Slayer",
+      "fanbase": 597658,
       "vibe": "CONFIDENT",
-      "rating": "ICONIC",
-      "age": "14-19",
+      "rating": "LEGENDARY",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "cm She is a silver-haired half-elf girl who is one of the candidates to become …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+      "bio": "Character",
+      "description": "Kanae Kocho was a Demon Slayer and the late Flower Hashira",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139039-YmIZQzx1HdvY.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541786506035859456/waifu-3b16754d536665f2a24d36ff.png?ex=6a8edc14&is=6a8d8a94&hm=7b53bf060b6626c03694f8bebbe7aca6d34e4150ab3b92b91373c47af0373775&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541876106766979092/waifu-bce7cb190abad01b7fede7b4.png?ex=6a8f2f86&is=6a8dde06&hm=7f8c254bfbd3222334a320ce4a6e4761b0a05ec6c383cf0eaa71c99981787a9a&"
   }
 }
