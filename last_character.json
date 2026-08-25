@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kal'tsit:Arknights",
-  "lastName": "Kal'tsit",
-  "index": 286,
+  "lastId": "db:Verina:Wuthering Waves",
+  "lastName": "Verina",
+  "index": 40,
   "recent": [
+    "db:Verina:Wuthering Waves",
     "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
     "db:Satsuki Kiryuin:Kill la Kill",
@@ -36,15 +37,14 @@
     "db:Nina Williams:Tekken",
     "db:Popola:NieR Automata",
     "db:Shalltear Bloodfallen:Overlord",
-    "db:Futaba Sakura:Persona 5",
-    "db:Yamato:One Piece"
+    "db:Futaba Sakura:Persona 5"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-24T18:26:18.250Z",
+  "updatedAt": "2026-08-25T00:42:35.901Z",
   "cached": {
     "character": {
-      "name": "Kal'tsit",
-      "source": "Arknights",
+      "name": "Verina",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kal'tsit:Arknights",
-      "nextIndex": 286
+      "globalId": "db:Verina:Wuthering Waves",
+      "nextIndex": 40
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 209789,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "Wuthering Waves",
+      "fanbase": 233801,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Undisclosed Place of Birth: Rhodes Island Race: Feline cm Kal'tsit, one of Rhod…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg"
+      "description": "No biography written",
+      "image": "https://media.kitsu.app/characters/images/5529/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541514001039626380/waifu-41862c5a519ca98ec6c1bbdb.png?ex=6a8dde49&is=6a8c8cc9&hm=e54eac04a00f8c3cab4918abd465025e2c0ed4279be82ba3562368a3e2b10152&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541608698726846554/waifu-73ffc040bedb84f812daa716.png?ex=6a8e367b&is=6a8ce4fb&hm=2c4d6c274fbf85e12853933dd8ae210b3d939e5a8c98cc728c2d7c21da7e70ba&"
   }
 }
