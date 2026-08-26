@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shenhe:Genshin Impact",
-  "lastName": "Shenhe",
-  "index": 3,
+  "lastId": "db:Rossweisse:High School DxD",
+  "lastName": "Rossweisse",
+  "index": 95,
   "recent": [
+    "db:Rossweisse:High School DxD",
     "db:Shenhe:Genshin Impact",
     "db:Rias Gremory:High School DxD",
     "db:Black Swan:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Bayonetta:Bayonetta",
     "db:Shirley Fenette:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
-    "db:Kai'Sa:League of Legends",
-    "db:Winry Rockbell:Fullmetal Alchemist"
+    "db:Kai'Sa:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-26T12:32:18.249Z",
+  "updatedAt": "2026-08-26T19:38:44.727Z",
   "cached": {
     "character": {
-      "name": "Shenhe",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Rossweisse",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shenhe:Genshin Impact",
-      "nextIndex": 3
+      "globalId": "db:Rossweisse:High School DxD",
+      "nextIndex": 95
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 504624,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
+      "source": "High School DxD",
+      "fanbase": 211366,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "An adepti disciple with a most unusual air about her",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
+      "bio": "Student",
+      "description": "Rank: Low-class Devil Role: Rook Species: Reincarnated Devil Power: Norse Magic…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51341-HCHqmcrlZ8M8.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542149689485299802/waifu-18f2972feb3f928906683dcf.png?ex=6a902e51&is=6a8edcd1&hm=d32e19e73a0a6e0b4e31c8ed057d37c73633029356e034ecaeebf062423fae21&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542257007325741206/waifu-d45b350bb09018d2b670c4a7.png?ex=6a909244&is=6a8f40c4&hm=325d430d4ef9222dce9faf8e9c9587cce77de5611a4cea72154b3941fbfc54a2&"
   }
 }
