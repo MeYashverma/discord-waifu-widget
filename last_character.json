@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Black Swan:Honkai Star Rail",
-  "lastName": "Black Swan",
-  "index": 22,
+  "lastId": "db:Rias Gremory:High School DxD",
+  "lastName": "Rias Gremory",
+  "index": 89,
   "recent": [
+    "db:Rias Gremory:High School DxD",
     "db:Black Swan:Honkai Star Rail",
     "db:Kanae Kocho:Demon Slayer",
     "db:Satella:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Mitsuru Kirijo:Persona 3",
     "db:Kai'Sa:League of Legends",
     "db:Winry Rockbell:Fullmetal Alchemist",
-    "db:Crusch Karsten:Re:Zero",
-    "db:Temari:Naruto"
+    "db:Crusch Karsten:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-26T00:43:30.390Z",
+  "updatedAt": "2026-08-26T06:31:53.161Z",
   "cached": {
     "character": {
-      "name": "Black Swan",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Rias Gremory",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Black Swan:Honkai Star Rail",
-      "nextIndex": 22
+      "globalId": "db:Rias Gremory:High School DxD",
+      "nextIndex": 89
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 499513,
-      "vibe": "SEDUCTIVE",
-      "rating": "ELITE",
+      "source": "High School DxD",
+      "fanbase": 229879,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A Memokeeper of the Garden of Recollection",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338163-qPEtar2vlX4a.png"
+      "bio": "Devil",
+      "description": "Gremory clan heiress",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50389-gIhJkyk8xj1P.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541971307393065080/waifu-c20638f212ae57bad8f897f8.png?ex=6a8f8830&is=6a8e36b0&hm=fbd248c6aa671b4460f31f9f15d36ce61bc0d111867d8aa8d93382d33667bf11&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542058987674140742/waifu-0ca8fdeffd2bdd609379dbd7.png?ex=6a8fd9d8&is=6a8e8858&hm=52dff46986d4bb2904c924634c63abf5dbc71d81f6f983d12cb21ea04a469f49&"
   }
 }
