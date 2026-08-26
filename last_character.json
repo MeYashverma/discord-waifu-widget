@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kanae Kocho:Demon Slayer",
-  "lastName": "Kanae Kocho",
-  "index": 118,
+  "lastId": "db:Black Swan:Honkai Star Rail",
+  "lastName": "Black Swan",
+  "index": 22,
   "recent": [
+    "db:Black Swan:Honkai Star Rail",
     "db:Kanae Kocho:Demon Slayer",
     "db:Satella:Re:Zero",
     "db:Artoria Pendragon:Fate/stay night",
@@ -36,36 +37,35 @@
     "db:Kai'Sa:League of Legends",
     "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Crusch Karsten:Re:Zero",
-    "db:Temari:Naruto",
-    "db:Nina Williams:Tekken"
+    "db:Temari:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-25T18:25:10.812Z",
+  "updatedAt": "2026-08-26T00:43:30.390Z",
   "cached": {
     "character": {
-      "name": "Kanae Kocho",
-      "source": "Demon Slayer",
-      "universe": "ANIME",
+      "name": "Black Swan",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kanae Kocho:Demon Slayer",
-      "nextIndex": 118
+      "globalId": "db:Black Swan:Honkai Star Rail",
+      "nextIndex": 22
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 597658,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
-      "age": "17",
+      "source": "Honkai Star Rail",
+      "fanbase": 499513,
+      "vibe": "SEDUCTIVE",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Kanae Kocho was a Demon Slayer and the late Flower Hashira",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139039-YmIZQzx1HdvY.png"
+      "description": "A Memokeeper of the Garden of Recollection",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338163-qPEtar2vlX4a.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541876106766979092/waifu-bce7cb190abad01b7fede7b4.png?ex=6a8f2f86&is=6a8dde06&hm=7f8c254bfbd3222334a320ce4a6e4761b0a05ec6c383cf0eaa71c99981787a9a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1541971307393065080/waifu-c20638f212ae57bad8f897f8.png?ex=6a8f8830&is=6a8e36b0&hm=fbd248c6aa671b4460f31f9f15d36ce61bc0d111867d8aa8d93382d33667bf11&"
   }
 }
