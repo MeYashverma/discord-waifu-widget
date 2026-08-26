@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rias Gremory:High School DxD",
-  "lastName": "Rias Gremory",
-  "index": 89,
+  "lastId": "db:Shenhe:Genshin Impact",
+  "lastName": "Shenhe",
+  "index": 3,
   "recent": [
+    "db:Shenhe:Genshin Impact",
     "db:Rias Gremory:High School DxD",
     "db:Black Swan:Honkai Star Rail",
     "db:Kanae Kocho:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Shirley Fenette:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Kai'Sa:League of Legends",
-    "db:Winry Rockbell:Fullmetal Alchemist",
-    "db:Crusch Karsten:Re:Zero"
+    "db:Winry Rockbell:Fullmetal Alchemist"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-26T06:31:53.161Z",
+  "updatedAt": "2026-08-26T12:32:18.249Z",
   "cached": {
     "character": {
-      "name": "Rias Gremory",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Shenhe",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rias Gremory:High School DxD",
-      "nextIndex": 89
+      "globalId": "db:Shenhe:Genshin Impact",
+      "nextIndex": 3
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 229879,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
+      "source": "Genshin Impact",
+      "fanbase": 504624,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Gremory clan heiress",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50389-gIhJkyk8xj1P.png"
+      "bio": "Character",
+      "description": "An adepti disciple with a most unusual air about her",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542058987674140742/waifu-0ca8fdeffd2bdd609379dbd7.png?ex=6a8fd9d8&is=6a8e8858&hm=52dff46986d4bb2904c924634c63abf5dbc71d81f6f983d12cb21ea04a469f49&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542149689485299802/waifu-18f2972feb3f928906683dcf.png?ex=6a902e51&is=6a8edcd1&hm=d32e19e73a0a6e0b4e31c8ed057d37c73633029356e034ecaeebf062423fae21&"
   }
 }
