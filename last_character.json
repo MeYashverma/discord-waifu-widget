@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rossweisse:High School DxD",
-  "lastName": "Rossweisse",
-  "index": 95,
+  "lastId": "db:Irelia:League of Legends",
+  "lastName": "Irelia",
+  "index": 242,
   "recent": [
+    "db:Irelia:League of Legends",
     "db:Rossweisse:High School DxD",
     "db:Shenhe:Genshin Impact",
     "db:Rias Gremory:High School DxD",
@@ -36,36 +37,35 @@
     "db:Vinsmoke Reiju:One Piece",
     "db:Bayonetta:Bayonetta",
     "db:Shirley Fenette:Code Geass",
-    "db:Mitsuru Kirijo:Persona 3",
-    "db:Kai'Sa:League of Legends"
+    "db:Mitsuru Kirijo:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-26T19:38:44.727Z",
+  "updatedAt": "2026-08-27T05:51:53.646Z",
   "cached": {
     "character": {
-      "name": "Rossweisse",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Irelia",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rossweisse:High School DxD",
-      "nextIndex": 95
+      "globalId": "db:Irelia:League of Legends",
+      "nextIndex": 242
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 211366,
-      "vibe": "YANDERE",
+      "source": "League of Legends",
+      "fanbase": 216539,
+      "vibe": "PLAYFUL",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Rank: Low-class Devil Role: Rook Species: Reincarnated Devil Power: Norse Magic…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51341-HCHqmcrlZ8M8.png"
+      "bio": "Hunter",
+      "description": "Iria hails from the Batabitajira region of the planet Myce and is employed by G…",
+      "image": "https://media.kitsu.app/characters/images/7273/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542257007325741206/waifu-d45b350bb09018d2b670c4a7.png?ex=6a909244&is=6a8f40c4&hm=325d430d4ef9222dce9faf8e9c9587cce77de5611a4cea72154b3941fbfc54a2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542411311516880936/waifu-8a5305acf7c1527a2e87d835.png?ex=6a9121f9&is=6a8fd079&hm=5341a65067e483d2ef7bafc9e0f86631b8589c8d75bc76f251113a6976a501e0&"
   }
 }
