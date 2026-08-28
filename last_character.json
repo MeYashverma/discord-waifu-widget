@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Zhu Yuan:Zenless Zone Zero",
-  "lastName": "Zhu Yuan",
-  "index": 30,
+  "lastId": "db:Lightning Farron:Final Fantasy XIII",
+  "lastName": "Lightning Farron",
+  "index": 213,
   "recent": [
+    "db:Lightning Farron:Final Fantasy XIII",
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Raiden Shogun:Genshin Impact",
     "db:Irelia:League of Legends",
@@ -36,36 +37,35 @@
     "db:Miyabi:Zenless Zone Zero",
     "db:Yunyun:Konosuba",
     "db:Shorekeeper:Wuthering Waves",
-    "db:Vinsmoke Reiju:One Piece",
-    "db:Bayonetta:Bayonetta"
+    "db:Vinsmoke Reiju:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-28T01:55:28.200Z",
+  "updatedAt": "2026-08-28T17:54:43.298Z",
   "cached": {
     "character": {
-      "name": "Zhu Yuan",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Lightning Farron",
+      "source": "Final Fantasy XIII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Zhu Yuan:Zenless Zone Zero",
-      "nextIndex": 30
+      "globalId": "db:Lightning Farron:Final Fantasy XIII",
+      "nextIndex": 213
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 245073,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
+      "source": "Final Fantasy XIII",
+      "fanbase": 186316,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled indivi…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383125-TbQDyftLbMJG.jpg"
+      "bio": "Knight",
+      "description": "Lightning, her original name being Claire Farron , is the main protagonist of F…",
+      "image": "https://media.kitsu.app/characters/images/59906/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542714199611023422/waifu-ff4d54271acd0e710201cd96.png?ex=6a923c0f&is=6a90ea8f&hm=b7392590631b6b9c2d08d1af5fc809ac38ea202907a1356c34474d2dbe56d82a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542955598134509578/waifu-9880bb4a61252d6f572cc1ff.png?ex=6a931ce1&is=6a91cb61&hm=666bc14c0824f85a8420542f4d28b22f5ca43adf849b1c83e155ccc439e14b5b&"
   }
 }
