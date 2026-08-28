@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Raiden Shogun:Genshin Impact",
-  "lastName": "Raiden Shogun",
-  "index": 1,
+  "lastId": "db:Zhu Yuan:Zenless Zone Zero",
+  "lastName": "Zhu Yuan",
+  "index": 30,
   "recent": [
+    "db:Zhu Yuan:Zenless Zone Zero",
     "db:Raiden Shogun:Genshin Impact",
     "db:Irelia:League of Legends",
     "db:Rossweisse:High School DxD",
@@ -36,15 +37,14 @@
     "db:Yunyun:Konosuba",
     "db:Shorekeeper:Wuthering Waves",
     "db:Vinsmoke Reiju:One Piece",
-    "db:Bayonetta:Bayonetta",
-    "db:Shirley Fenette:Code Geass"
+    "db:Bayonetta:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-27T17:07:29.518Z",
+  "updatedAt": "2026-08-28T01:55:28.200Z",
   "cached": {
     "character": {
-      "name": "Raiden Shogun",
-      "source": "Genshin Impact",
+      "name": "Zhu Yuan",
+      "source": "Zenless Zone Zero",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Raiden Shogun:Genshin Impact",
-      "nextIndex": 1
+      "globalId": "db:Zhu Yuan:Zenless Zone Zero",
+      "nextIndex": 30
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 512118,
-      "vibe": "DOMINANT",
-      "rating": "LEGENDARY",
+      "source": "Zenless Zone Zero",
+      "fanbase": 245073,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Archon",
-      "description": "Electro Archon of Inazuma",
-      "image": "https://media.kitsu.app/characters/images/65020/original.jpg"
+      "bio": "Character",
+      "description": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled indivi…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383125-TbQDyftLbMJG.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542581330636832778/waifu-9cb4afa59a848b420bec987d.png?ex=6a91c050&is=6a906ed0&hm=7ed1056ae988ca9499ae4b5cbb76d7a394f6078d7a058725a837ec047e3131c0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542714199611023422/waifu-ff4d54271acd0e710201cd96.png?ex=6a923c0f&is=6a90ea8f&hm=b7392590631b6b9c2d08d1af5fc809ac38ea202907a1356c34474d2dbe56d82a&"
   }
 }
