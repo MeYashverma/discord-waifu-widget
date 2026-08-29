@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mine:Akame ga Kill!",
-  "lastName": "Mine",
-  "index": 161,
+  "lastId": "db:Furina:Genshin Impact",
+  "lastName": "Furina",
+  "index": 5,
   "recent": [
+    "db:Furina:Genshin Impact",
     "db:Mine:Akame ga Kill!",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Zhu Yuan:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Saber:Fate/stay night",
     "db:Xenovia Quarta:High School DxD",
     "db:Miyabi:Zenless Zone Zero",
-    "db:Yunyun:Konosuba",
-    "db:Shorekeeper:Wuthering Waves"
+    "db:Yunyun:Konosuba"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-29T01:19:51.502Z",
+  "updatedAt": "2026-08-29T11:59:04.156Z",
   "cached": {
     "character": {
-      "name": "Mine",
-      "source": "Akame ga Kill!",
-      "universe": "ANIME",
+      "name": "Furina",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mine:Akame ga Kill!",
-      "nextIndex": 161
+      "globalId": "db:Furina:Genshin Impact",
+      "nextIndex": 5
     },
     "meta": {
-      "source": "Akame ga Kill!",
-      "fanbase": 267000,
-      "vibe": "YANDERE",
-      "rating": "ICONIC",
+      "source": "Genshin Impact",
+      "fanbase": 506810,
+      "vibe": "CONFIDENT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "cm Mine is a self-proclaimed \"Genius Sniper\", as well as being a sharp-tongued …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+      "bio": "Archon",
+      "description": "Hydro celebrity of Fontaine",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386545-72C5jbAvXjCT.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543067627142914149/waifu-8cb543120cd21a78dbe04943.png?ex=6a938537&is=6a9233b7&hm=3fdbc439b497f1acb5ecb4df3de036ef8f7afa6ebe3e5e27b37e4f3c928549da&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543228489275019334/waifu-bce8269fc4c29fb77286eab5.png?ex=6a941b07&is=6a92c987&hm=e7c8eb2065cee7bb110609101339bf39467775cdde2b8599e80a79d0f45530df&"
   }
 }
