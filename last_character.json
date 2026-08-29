@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Furina:Genshin Impact",
-  "lastName": "Furina",
-  "index": 5,
+  "lastId": "db:Hinata Hyuga:Naruto",
+  "lastName": "Hinata Hyuga",
+  "index": 172,
   "recent": [
+    "db:Hinata Hyuga:Naruto",
     "db:Furina:Genshin Impact",
     "db:Mine:Akame ga Kill!",
     "db:Lightning Farron:Final Fantasy XIII",
@@ -36,36 +37,35 @@
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Saber:Fate/stay night",
     "db:Xenovia Quarta:High School DxD",
-    "db:Miyabi:Zenless Zone Zero",
-    "db:Yunyun:Konosuba"
+    "db:Miyabi:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-29T11:59:04.156Z",
+  "updatedAt": "2026-08-29T16:21:11.645Z",
   "cached": {
     "character": {
-      "name": "Furina",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Hinata Hyuga",
+      "source": "Naruto",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Furina:Genshin Impact",
-      "nextIndex": 5
+      "globalId": "db:Hinata Hyuga:Naruto",
+      "nextIndex": 172
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 506810,
-      "vibe": "CONFIDENT",
+      "source": "Naruto",
+      "fanbase": 550917,
+      "vibe": "DEADLY",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Archon",
-      "description": "Hydro celebrity of Fontaine",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386545-72C5jbAvXjCT.png"
+      "bio": "Mage",
+      "description": "December -148",
+      "image": "https://media.kitsu.app/characters/images/350/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543228489275019334/waifu-bce8269fc4c29fb77286eab5.png?ex=6a941b07&is=6a92c987&hm=e7c8eb2065cee7bb110609101339bf39467775cdde2b8599e80a79d0f45530df&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543294454167896144/waifu-0181b32ce3df50b0ebe4d14f.png?ex=6a945876&is=6a9306f6&hm=b97e3f0b30a4f798c12d67231ef5eb88b2243bf0defff0afceb5356b79b31123&"
   }
 }
