@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lightning Farron:Final Fantasy XIII",
-  "lastName": "Lightning Farron",
-  "index": 213,
+  "lastId": "db:Mine:Akame ga Kill!",
+  "lastName": "Mine",
+  "index": 161,
   "recent": [
+    "db:Mine:Akame ga Kill!",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Raiden Shogun:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Xenovia Quarta:High School DxD",
     "db:Miyabi:Zenless Zone Zero",
     "db:Yunyun:Konosuba",
-    "db:Shorekeeper:Wuthering Waves",
-    "db:Vinsmoke Reiju:One Piece"
+    "db:Shorekeeper:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-28T17:54:43.298Z",
+  "updatedAt": "2026-08-29T01:19:51.502Z",
   "cached": {
     "character": {
-      "name": "Lightning Farron",
-      "source": "Final Fantasy XIII",
-      "universe": "JRPG",
+      "name": "Mine",
+      "source": "Akame ga Kill!",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lightning Farron:Final Fantasy XIII",
-      "nextIndex": 213
+      "globalId": "db:Mine:Akame ga Kill!",
+      "nextIndex": 161
     },
     "meta": {
-      "source": "Final Fantasy XIII",
-      "fanbase": 186316,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
+      "source": "Akame ga Kill!",
+      "fanbase": 267000,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Lightning, her original name being Claire Farron , is the main protagonist of F…",
-      "image": "https://media.kitsu.app/characters/images/59906/original.jpg"
+      "bio": "Assassin",
+      "description": "cm Mine is a self-proclaimed \"Genius Sniper\", as well as being a sharp-tongued …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1542955598134509578/waifu-9880bb4a61252d6f572cc1ff.png?ex=6a931ce1&is=6a91cb61&hm=666bc14c0824f85a8420542f4d28b22f5ca43adf849b1c83e155ccc439e14b5b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543067627142914149/waifu-8cb543120cd21a78dbe04943.png?ex=6a938537&is=6a9233b7&hm=3fdbc439b497f1acb5ecb4df3de036ef8f7afa6ebe3e5e27b37e4f3c928549da&"
   }
 }
