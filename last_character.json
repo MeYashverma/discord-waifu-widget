@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Hinata Hyuga:Naruto",
-  "lastName": "Hinata Hyuga",
-  "index": 172,
+  "lastId": "db:Jinhsi:Wuthering Waves",
+  "lastName": "Jinhsi",
+  "index": 44,
   "recent": [
+    "db:Jinhsi:Wuthering Waves",
     "db:Hinata Hyuga:Naruto",
     "db:Furina:Genshin Impact",
     "db:Mine:Akame ga Kill!",
@@ -36,36 +37,35 @@
     "db:Eula:Genshin Impact",
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Saber:Fate/stay night",
-    "db:Xenovia Quarta:High School DxD",
-    "db:Miyabi:Zenless Zone Zero"
+    "db:Xenovia Quarta:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-29T16:21:11.645Z",
+  "updatedAt": "2026-08-29T20:11:36.602Z",
   "cached": {
     "character": {
-      "name": "Hinata Hyuga",
-      "source": "Naruto",
-      "universe": "ANIME",
+      "name": "Jinhsi",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Hinata Hyuga:Naruto",
-      "nextIndex": 172
+      "globalId": "db:Jinhsi:Wuthering Waves",
+      "nextIndex": 44
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 550917,
+      "source": "Wuthering Waves",
+      "fanbase": 240363,
       "vibe": "DEADLY",
-      "rating": "LEGENDARY",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "December -148",
-      "image": "https://media.kitsu.app/characters/images/350/original.jpg"
+      "bio": "Character",
+      "description": "No biography written",
+      "image": "https://media.kitsu.app/characters/images/15836/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543294454167896144/waifu-0181b32ce3df50b0ebe4d14f.png?ex=6a945876&is=6a9306f6&hm=b97e3f0b30a4f798c12d67231ef5eb88b2243bf0defff0afceb5356b79b31123&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543352441804951733/waifu-4b07a7a4bad9f23a801fd788.png?ex=6a948e78&is=6a933cf8&hm=f248fe22ef4299f9920c3a07ffa9a47b82d85dafcd22330eafd0efba4d87f1b6&"
   }
 }
