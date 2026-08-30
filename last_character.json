@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Tamayo:Demon Slayer",
-  "lastName": "Tamayo",
-  "index": 119,
+  "lastId": "db:Irene Belserion:Fairy Tail",
+  "lastName": "Irene Belserion",
+  "index": 113,
   "recent": [
+    "db:Irene Belserion:Fairy Tail",
     "db:Tamayo:Demon Slayer",
     "db:Mordred:Fate Series",
     "db:Jinhsi:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
-    "db:Eula:Genshin Impact",
-    "db:Shoko Ieiri:Jujutsu Kaisen"
+    "db:Eula:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-30T10:56:03.296Z",
+  "updatedAt": "2026-08-30T15:44:35.799Z",
   "cached": {
     "character": {
-      "name": "Tamayo",
-      "source": "Demon Slayer",
+      "name": "Irene Belserion",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Tamayo:Demon Slayer",
-      "nextIndex": 119
+      "globalId": "db:Irene Belserion:Fairy Tail",
+      "nextIndex": 113
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 534805,
-      "vibe": "TSUNDERE",
-      "rating": "LEGENDARY",
+      "source": "Fairy Tail",
+      "fanbase": 228826,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Tamayo is a doctor and close ally of",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138847-rOwIPLKaR5Ux.jpg"
+      "description": "Claymore number two of the 77th generation before Priscilla claimed her spot",
+      "image": "https://media.kitsu.app/characters/images/18311/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543575019232432218/waifu-d8c722346207ee28b0198ed2.png?ex=6a955dc2&is=6a940c42&hm=4490ed62c957e9d0b6732207d1082118e8a99ea0f9825169294b4744c14699d2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543647632302284800/waifu-463b67b1b31b62682d8416c7.png?ex=6a95a163&is=6a944fe3&hm=4c6c8d5a44ccb07812ed95d5470d29286bc2a3585451f29534e9e15680c0b3a6&"
   }
 }
