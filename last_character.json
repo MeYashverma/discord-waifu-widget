@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jinhsi:Wuthering Waves",
-  "lastName": "Jinhsi",
-  "index": 44,
+  "lastId": "db:Mordred:Fate Series",
+  "lastName": "Mordred",
+  "index": 209,
   "recent": [
+    "db:Mordred:Fate Series",
     "db:Jinhsi:Wuthering Waves",
     "db:Hinata Hyuga:Naruto",
     "db:Furina:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Chun-Li:Street Fighter",
     "db:Eula:Genshin Impact",
     "db:Shoko Ieiri:Jujutsu Kaisen",
-    "db:Saber:Fate/stay night",
-    "db:Xenovia Quarta:High School DxD"
+    "db:Saber:Fate/stay night"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-29T20:11:36.602Z",
+  "updatedAt": "2026-08-30T02:33:17.079Z",
   "cached": {
     "character": {
-      "name": "Jinhsi",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Mordred",
+      "source": "Fate Series",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jinhsi:Wuthering Waves",
-      "nextIndex": 44
+      "globalId": "db:Mordred:Fate Series",
+      "nextIndex": 209
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 240363,
-      "vibe": "DEADLY",
+      "source": "Fate Series",
+      "fanbase": 238339,
+      "vibe": "PLAYFUL",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "No biography written",
-      "image": "https://media.kitsu.app/characters/images/15836/original.jpg"
+      "bio": "Knight",
+      "description": "Mordred is the \"son\" of though, in reality, she is a woman",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55977-wqiEfiJUuEFw.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543352441804951733/waifu-4b07a7a4bad9f23a801fd788.png?ex=6a948e78&is=6a933cf8&hm=f248fe22ef4299f9920c3a07ffa9a47b82d85dafcd22330eafd0efba4d87f1b6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543448492096102472/waifu-3492f43d02df330be76c4d79.png?ex=6a94e7ec&is=6a93966c&hm=2654e5feb58564a97b8f02489c23d4400327532683fd022d10b827b769515228&"
   }
 }
