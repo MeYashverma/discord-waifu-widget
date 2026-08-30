@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mordred:Fate Series",
-  "lastName": "Mordred",
-  "index": 209,
+  "lastId": "db:Tamayo:Demon Slayer",
+  "lastName": "Tamayo",
+  "index": 119,
   "recent": [
+    "db:Tamayo:Demon Slayer",
     "db:Mordred:Fate Series",
     "db:Jinhsi:Wuthering Waves",
     "db:Hinata Hyuga:Naruto",
@@ -36,15 +37,14 @@
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
     "db:Eula:Genshin Impact",
-    "db:Shoko Ieiri:Jujutsu Kaisen",
-    "db:Saber:Fate/stay night"
+    "db:Shoko Ieiri:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-30T02:33:17.079Z",
+  "updatedAt": "2026-08-30T10:56:03.296Z",
   "cached": {
     "character": {
-      "name": "Mordred",
-      "source": "Fate Series",
+      "name": "Tamayo",
+      "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mordred:Fate Series",
-      "nextIndex": 209
+      "globalId": "db:Tamayo:Demon Slayer",
+      "nextIndex": 119
     },
     "meta": {
-      "source": "Fate Series",
-      "fanbase": 238339,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
+      "source": "Demon Slayer",
+      "fanbase": 534805,
+      "vibe": "TSUNDERE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Mordred is the \"son\" of though, in reality, she is a woman",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55977-wqiEfiJUuEFw.png"
+      "bio": "Character",
+      "description": "cm Tamayo is a doctor and close ally of",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138847-rOwIPLKaR5Ux.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543448492096102472/waifu-3492f43d02df330be76c4d79.png?ex=6a94e7ec&is=6a93966c&hm=2654e5feb58564a97b8f02489c23d4400327532683fd022d10b827b769515228&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543575019232432218/waifu-d8c722346207ee28b0198ed2.png?ex=6a955dc2&is=6a940c42&hm=4490ed62c957e9d0b6732207d1082118e8a99ea0f9825169294b4744c14699d2&"
   }
 }
