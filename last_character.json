@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Becky Blackbell:Spy x Family",
-  "lastName": "Becky Blackbell",
-  "index": 142,
+  "lastId": "db:Megumin:Konosuba",
+  "lastName": "Megumin",
+  "index": 193,
   "recent": [
+    "db:Megumin:Konosuba",
     "db:Becky Blackbell:Spy x Family",
     "db:Sakura Haruno:Naruto",
     "db:Irene Belserion:Fairy Tail",
@@ -36,15 +37,14 @@
     "db:Karin Kakudate:Blue Archive",
     "db:Enterprise:Azur Lane",
     "db:Nami:One Piece",
-    "db:Momo Nishimiya:Jujutsu Kaisen",
-    "db:Ellen Joe:Zenless Zone Zero"
+    "db:Momo Nishimiya:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-31T02:27:47.207Z",
+  "updatedAt": "2026-08-31T12:12:15.132Z",
   "cached": {
     "character": {
-      "name": "Becky Blackbell",
-      "source": "Spy x Family",
+      "name": "Megumin",
+      "source": "Konosuba",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Becky Blackbell:Spy x Family",
-      "nextIndex": 142
+      "globalId": "db:Megumin:Konosuba",
+      "nextIndex": 193
     },
     "meta": {
-      "source": "Spy x Family",
-      "fanbase": 241941,
-      "vibe": "ROYAL",
+      "source": "Konosuba",
+      "fanbase": 259337,
+      "vibe": "SEDUCTIVE",
       "rating": "ICONIC",
-      "age": "6",
+      "age": "13-17",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Affiliation: Blackbell Family, Blackbell Heavy Industries, Eden Academy, Cecile…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg"
+      "bio": "Mage",
+      "description": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543809495866671164/waifu-dd268a0f5f12564ee0d36370.png?ex=6a963822&is=6a94e6a2&hm=4ad33775267c7ce38bf0737ffdfe17600e0ed38579abf2b84027155b38fbdf39&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543956583388549210/waifu-a1b90ae95ac74778d110e519.png?ex=6a96c11e&is=6a956f9e&hm=f7f73fdc4bed510af75c8d3e51913f7673712fb8b4e949ba06a0990a75d8093c&"
   }
 }
