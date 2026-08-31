@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sakura Haruno:Naruto",
-  "lastName": "Sakura Haruno",
-  "index": 174,
+  "lastId": "db:Becky Blackbell:Spy x Family",
+  "lastName": "Becky Blackbell",
+  "index": 142,
   "recent": [
+    "db:Becky Blackbell:Spy x Family",
     "db:Sakura Haruno:Naruto",
     "db:Irene Belserion:Fairy Tail",
     "db:Tamayo:Demon Slayer",
@@ -36,15 +37,14 @@
     "db:Enterprise:Azur Lane",
     "db:Nami:One Piece",
     "db:Momo Nishimiya:Jujutsu Kaisen",
-    "db:Ellen Joe:Zenless Zone Zero",
-    "db:Chun-Li:Street Fighter"
+    "db:Ellen Joe:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-30T20:18:31.307Z",
+  "updatedAt": "2026-08-31T02:27:47.207Z",
   "cached": {
     "character": {
-      "name": "Sakura Haruno",
-      "source": "Naruto",
+      "name": "Becky Blackbell",
+      "source": "Spy x Family",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sakura Haruno:Naruto",
-      "nextIndex": 174
+      "globalId": "db:Becky Blackbell:Spy x Family",
+      "nextIndex": 142
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 531612,
-      "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "12-17",
-      "blood": "O",
+      "source": "Spy x Family",
+      "fanbase": 241941,
+      "vibe": "ROYAL",
+      "rating": "ICONIC",
+      "age": "6",
+      "blood": "Unknown",
       "bio": "Student",
-      "description": "cm- Sakura is the only female ninja of Team 7",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
+      "description": "Affiliation: Blackbell Family, Blackbell Heavy Industries, Eden Academy, Cecile…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543716568859680788/waifu-dd9be0306ac93dce9155085d.png?ex=6a95e196&is=6a949016&hm=b151d7b839dec2f9861fcbed591a2cde6cc595b6fca413d6c2ed95d968ff17d4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1543809495866671164/waifu-dd268a0f5f12564ee0d36370.png?ex=6a963822&is=6a94e6a2&hm=4ad33775267c7ce38bf0737ffdfe17600e0ed38579abf2b84027155b38fbdf39&"
   }
 }
