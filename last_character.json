@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
-  "lastName": "Neliel Tu Odelschwanck",
-  "index": 184,
+  "lastId": "db:Skadi:Arknights",
+  "lastName": "Skadi",
+  "index": 285,
   "recent": [
+    "db:Skadi:Arknights",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Asuna Ichinose:Blue Archive",
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
@@ -36,36 +37,35 @@
     "db:Misa Amane:Death Note",
     "db:Ryuko Matoi:Kill la Kill",
     "db:Manon:Street Fighter 6",
-    "db:Fami:Chainsaw Man",
-    "db:Karin Kakudate:Blue Archive"
+    "db:Fami:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-01T10:48:35.473Z",
+  "updatedAt": "2026-09-01T15:47:04.030Z",
   "cached": {
     "character": {
-      "name": "Neliel Tu Odelschwanck",
-      "source": "Bleach",
-      "universe": "ANIME",
+      "name": "Skadi",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
-      "nextIndex": 184
+      "globalId": "db:Skadi:Arknights",
+      "nextIndex": 285
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 502692,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
+      "source": "Arknights",
+      "fanbase": 263472,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
-      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
+      "bio": "Mage",
+      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544297915969708092/waifu-83365ab8caedee1172cb4616.png?ex=6a97ff02&is=6a96ad82&hm=e1d57a6b05ceb8378e588d56845d4331377f981a9ee1372f509a166a905cd558&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544373030757597279/waifu-0457d2f9d23735099c470103.png?ex=6a9844f7&is=6a96f377&hm=0ee8298a4d0367ca5455e7f3aca69376873fc189d68adb34756c814daf02eb14&"
   }
 }
