@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asuka Langley Soryu:Neon Genesis Evangelion",
-  "lastName": "Asuka Langley Soryu",
-  "index": 148,
+  "lastId": "db:Asuna Ichinose:Blue Archive",
+  "lastName": "Asuna Ichinose",
+  "index": 65,
   "recent": [
+    "db:Asuna Ichinose:Blue Archive",
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
     "db:Megumin:Konosuba",
     "db:Becky Blackbell:Spy x Family",
@@ -36,36 +37,35 @@
     "db:Manon:Street Fighter 6",
     "db:Fami:Chainsaw Man",
     "db:Karin Kakudate:Blue Archive",
-    "db:Enterprise:Azur Lane",
-    "db:Nami:One Piece"
+    "db:Enterprise:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-08-31T22:12:13.529Z",
+  "updatedAt": "2026-09-01T02:43:06.704Z",
   "cached": {
     "character": {
-      "name": "Asuka Langley Soryu",
-      "source": "Neon Genesis Evangelion",
-      "universe": "ANIME",
+      "name": "Asuna Ichinose",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asuka Langley Soryu:Neon Genesis Evangelion",
-      "nextIndex": 148
+      "globalId": "db:Asuna Ichinose:Blue Archive",
+      "nextIndex": 65
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 241058,
-      "vibe": "YANDERE",
+      "source": "Blue Archive",
+      "fanbase": 224281,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "17",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "28 mentally Birthdate: December 4, 2001 Zodiac sign: Sagittarius A Origin: Wilh…",
-      "image": "https://media.kitsu.app/characters/images/1155/original.jpg"
+      "description": "cm An agent of the Millennium's secret organization, Cleaning&Clearing",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269726-e73jfn7SpGfI.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544107567100338276/waifu-64911668ce4f2ddfaa156532.png?ex=6a974dbc&is=6a95fc3c&hm=46631863a933645a1047bdf27277a24c17e0fdf5f70d17909fa527211046815f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544175742345154631/waifu-6e3ea861871213040fb05842.png?ex=6a978d3a&is=6a963bba&hm=9082526c3ff3585b45f74333205664bdf0dd5d545ef823bb11cc866deb6741c0&"
   }
 }
