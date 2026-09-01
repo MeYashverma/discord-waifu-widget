@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asuna Ichinose:Blue Archive",
-  "lastName": "Asuna Ichinose",
-  "index": 65,
+  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
+  "lastName": "Neliel Tu Odelschwanck",
+  "index": 184,
   "recent": [
+    "db:Neliel Tu Odelschwanck:Bleach",
     "db:Asuna Ichinose:Blue Archive",
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
     "db:Megumin:Konosuba",
@@ -36,36 +37,35 @@
     "db:Ryuko Matoi:Kill la Kill",
     "db:Manon:Street Fighter 6",
     "db:Fami:Chainsaw Man",
-    "db:Karin Kakudate:Blue Archive",
-    "db:Enterprise:Azur Lane"
+    "db:Karin Kakudate:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-01T02:43:06.704Z",
+  "updatedAt": "2026-09-01T10:48:35.473Z",
   "cached": {
     "character": {
-      "name": "Asuna Ichinose",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Neliel Tu Odelschwanck",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asuna Ichinose:Blue Archive",
-      "nextIndex": 65
+      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
+      "nextIndex": 184
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 224281,
-      "vibe": "DEADLY",
-      "rating": "ICONIC",
-      "age": "17",
+      "source": "Bleach",
+      "fanbase": 502692,
+      "vibe": "MYSTERIOUS",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm An agent of the Millennium's secret organization, Cleaning&Clearing",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269726-e73jfn7SpGfI.png"
+      "bio": "Knight",
+      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
+      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544175742345154631/waifu-6e3ea861871213040fb05842.png?ex=6a978d3a&is=6a963bba&hm=9082526c3ff3585b45f74333205664bdf0dd5d545ef823bb11cc866deb6741c0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544297915969708092/waifu-83365ab8caedee1172cb4616.png?ex=6a97ff02&is=6a96ad82&hm=e1d57a6b05ceb8378e588d56845d4331377f981a9ee1372f509a166a905cd558&"
   }
 }
