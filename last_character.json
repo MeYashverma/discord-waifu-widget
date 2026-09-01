@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Skadi:Arknights",
-  "lastName": "Skadi",
-  "index": 285,
+  "lastId": "db:Shoko Ieiri:Jujutsu Kaisen",
+  "lastName": "Shoko Ieiri",
+  "index": 127,
   "recent": [
+    "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Skadi:Arknights",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Asuna Ichinose:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Sanhua:Wuthering Waves",
     "db:Misa Amane:Death Note",
     "db:Ryuko Matoi:Kill la Kill",
-    "db:Manon:Street Fighter 6",
-    "db:Fami:Chainsaw Man"
+    "db:Manon:Street Fighter 6"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-01T15:47:04.030Z",
+  "updatedAt": "2026-09-01T20:19:20.666Z",
   "cached": {
     "character": {
-      "name": "Skadi",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Shoko Ieiri",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Skadi:Arknights",
-      "nextIndex": 285
+      "globalId": "db:Shoko Ieiri:Jujutsu Kaisen",
+      "nextIndex": 127
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 263472,
-      "vibe": "ELEGANT",
-      "rating": "ICONIC",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 548814,
+      "vibe": "YANDERE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
+      "bio": "Character",
+      "description": "Shoko Ieiri from Jujutsu Kaisen",
+      "image": "https://media.kitsu.app/characters/images/83375/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544373030757597279/waifu-0457d2f9d23735099c470103.png?ex=6a9844f7&is=6a96f377&hm=0ee8298a4d0367ca5455e7f3aca69376873fc189d68adb34756c814daf02eb14&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544441551520923778/waifu-491777155586fd331c4aab24.png?ex=6a9884c8&is=6a973348&hm=f28648d332b4386b25a057dec19d84d4f98d5ec2ae20d0e4150224ee7407a4e0&"
   }
 }
