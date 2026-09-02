@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mavuika:Genshin Impact",
-  "lastName": "Mavuika",
-  "index": 19,
+  "lastId": "db:Aigis:Persona 3",
+  "lastName": "Aigis",
+  "index": 271,
   "recent": [
+    "db:Aigis:Persona 3",
     "db:Mavuika:Genshin Impact",
     "db:Surtr:Arknights",
     "db:Shoko Ieiri:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Hinatsuru:Demon Slayer",
     "db:Satsuki Kiryuin:Kill la Kill",
     "db:Himeno:Chainsaw Man",
-    "db:Sanhua:Wuthering Waves",
-    "db:Misa Amane:Death Note"
+    "db:Sanhua:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-02T10:13:05.233Z",
+  "updatedAt": "2026-09-02T15:39:34.048Z",
   "cached": {
     "character": {
-      "name": "Mavuika",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Aigis",
+      "source": "Persona 3",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mavuika:Genshin Impact",
-      "nextIndex": 19
+      "globalId": "db:Aigis:Persona 3",
+      "nextIndex": 271
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 547165,
+      "source": "Persona 3",
+      "fanbase": 254915,
       "vibe": "CHAOTIC",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "rating": "ICONIC",
+      "age": "8-9 (P3), 9 (TA), 11 (P4A)",
       "blood": "Unknown",
-      "bio": "Archon",
-      "description": "Natlan's Archon and leader, the everlasting flame of hope for all living beings…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357406-ZkMD1awdGvF9.png"
+      "bio": "Android",
+      "description": "Date of Activation: September 10, / 5'3\" Initial Persona: Palladion Ultimate Pe…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6207-NXtbN975KoQh.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544651369145831515/waifu-504e914ad6ab0fdc7d259aee.png?ex=6a994830&is=6a97f6b0&hm=a935bcadfc7439ceaa205a82e55eab6bc73804ea1e290f4ab98ad7cfeefb8b40&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544733530687410246/waifu-a95a96f8c7e293c7ff22611e.png?ex=6a9994b5&is=6a984335&hm=5de41e06c7ed8fc6067bf37daca7bb780315f39f5b27692206cd83333d6f7ba0&"
   }
 }
