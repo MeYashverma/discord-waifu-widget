@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Surtr:Arknights",
-  "lastName": "Surtr",
-  "index": 287,
+  "lastId": "db:Mavuika:Genshin Impact",
+  "lastName": "Mavuika",
+  "index": 19,
   "recent": [
+    "db:Mavuika:Genshin Impact",
     "db:Surtr:Arknights",
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Skadi:Arknights",
@@ -36,15 +37,14 @@
     "db:Satsuki Kiryuin:Kill la Kill",
     "db:Himeno:Chainsaw Man",
     "db:Sanhua:Wuthering Waves",
-    "db:Misa Amane:Death Note",
-    "db:Ryuko Matoi:Kill la Kill"
+    "db:Misa Amane:Death Note"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-02T02:03:52.315Z",
+  "updatedAt": "2026-09-02T10:13:05.233Z",
   "cached": {
     "character": {
-      "name": "Surtr",
-      "source": "Arknights",
+      "name": "Mavuika",
+      "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Surtr:Arknights",
-      "nextIndex": 287
+      "globalId": "db:Mavuika:Genshin Impact",
+      "nextIndex": 19
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 230062,
-      "vibe": "ELEGANT",
-      "rating": "ICONIC",
+      "source": "Genshin Impact",
+      "fanbase": 547165,
+      "vibe": "CHAOTIC",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A mysterious Sarkaz girl",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214615-yLxVhLg5jJCU.png"
+      "bio": "Archon",
+      "description": "Natlan's Archon and leader, the everlasting flame of hope for all living beings…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357406-ZkMD1awdGvF9.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544528254705209374/waifu-2925b9a65db90b45c3f25787.png?ex=6a98d587&is=6a978407&hm=bf93f9ac05511a6a94891dfaa1420c2c4137c29b9b9530ef571a44df524e0a72&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544651369145831515/waifu-504e914ad6ab0fdc7d259aee.png?ex=6a994830&is=6a97f6b0&hm=a935bcadfc7439ceaa205a82e55eab6bc73804ea1e290f4ab98ad7cfeefb8b40&"
   }
 }
