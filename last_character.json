@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Aigis:Persona 3",
-  "lastName": "Aigis",
-  "index": 271,
+  "lastId": "db:Perona:One Piece",
+  "lastName": "Perona",
+  "index": 170,
   "recent": [
+    "db:Perona:One Piece",
     "db:Aigis:Persona 3",
     "db:Mavuika:Genshin Impact",
     "db:Surtr:Arknights",
@@ -36,36 +37,35 @@
     "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
     "db:Satsuki Kiryuin:Kill la Kill",
-    "db:Himeno:Chainsaw Man",
-    "db:Sanhua:Wuthering Waves"
+    "db:Himeno:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-02T15:39:34.048Z",
+  "updatedAt": "2026-09-02T20:18:28.191Z",
   "cached": {
     "character": {
-      "name": "Aigis",
-      "source": "Persona 3",
-      "universe": "JRPG",
+      "name": "Perona",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aigis:Persona 3",
-      "nextIndex": 271
+      "globalId": "db:Perona:One Piece",
+      "nextIndex": 170
     },
     "meta": {
-      "source": "Persona 3",
-      "fanbase": 254915,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "8-9 (P3), 9 (TA), 11 (P4A)",
+      "source": "One Piece",
+      "fanbase": 566824,
+      "vibe": "CONFIDENT",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "Date of Activation: September 10, / 5'3\" Initial Persona: Palladion Ultimate Pe…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6207-NXtbN975KoQh.jpg"
+      "bio": "Royalty",
+      "description": "Nicknamed the \"Ghost Princess\", Perona is a girl dressed in Gothic Lolita style…",
+      "image": "https://media.kitsu.app/characters/images/461/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544733530687410246/waifu-a95a96f8c7e293c7ff22611e.png?ex=6a9994b5&is=6a984335&hm=5de41e06c7ed8fc6067bf37daca7bb780315f39f5b27692206cd83333d6f7ba0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544803718644629636/waifu-0e6f05dde94c4b20a8bcd113.png?ex=6a99d613&is=6a988493&hm=33913ee569b793b6453ab27bcae1bbb965611bad4a72485608915581d151c219&"
   }
 }
