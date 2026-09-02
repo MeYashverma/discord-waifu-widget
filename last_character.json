@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shoko Ieiri:Jujutsu Kaisen",
-  "lastName": "Shoko Ieiri",
-  "index": 127,
+  "lastId": "db:Surtr:Arknights",
+  "lastName": "Surtr",
+  "index": 287,
   "recent": [
+    "db:Surtr:Arknights",
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Skadi:Arknights",
     "db:Neliel Tu Odelschwanck:Bleach",
@@ -36,36 +37,35 @@
     "db:Himeno:Chainsaw Man",
     "db:Sanhua:Wuthering Waves",
     "db:Misa Amane:Death Note",
-    "db:Ryuko Matoi:Kill la Kill",
-    "db:Manon:Street Fighter 6"
+    "db:Ryuko Matoi:Kill la Kill"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-01T20:19:20.666Z",
+  "updatedAt": "2026-09-02T02:03:52.315Z",
   "cached": {
     "character": {
-      "name": "Shoko Ieiri",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Surtr",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shoko Ieiri:Jujutsu Kaisen",
-      "nextIndex": 127
+      "globalId": "db:Surtr:Arknights",
+      "nextIndex": 287
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 548814,
-      "vibe": "YANDERE",
-      "rating": "LEGENDARY",
+      "source": "Arknights",
+      "fanbase": 230062,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Shoko Ieiri from Jujutsu Kaisen",
-      "image": "https://media.kitsu.app/characters/images/83375/original.jpg"
+      "description": "A mysterious Sarkaz girl",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214615-yLxVhLg5jJCU.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544441551520923778/waifu-491777155586fd331c4aab24.png?ex=6a9884c8&is=6a973348&hm=f28648d332b4386b25a057dec19d84d4f98d5ec2ae20d0e4150224ee7407a4e0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544528254705209374/waifu-2925b9a65db90b45c3f25787.png?ex=6a98d587&is=6a978407&hm=bf93f9ac05511a6a94891dfaa1420c2c4137c29b9b9530ef571a44df524e0a72&"
   }
 }
