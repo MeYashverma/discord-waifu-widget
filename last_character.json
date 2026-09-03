@@ -1,8 +1,9 @@
 {
-  "lastId": "db:2B:NieR Automata",
-  "lastName": "2B",
-  "index": 218,
+  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
+  "lastName": "Sajuna Inui",
+  "index": 155,
   "recent": [
+    "db:Sajuna Inui:My Dress-Up Darling",
     "db:2B:NieR Automata",
     "db:Jill Valentine:Resident Evil",
     "db:Perona:One Piece",
@@ -36,36 +37,35 @@
     "db:Satella:Re:Zero",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Verina:Wuthering Waves",
-    "db:Kal'tsit:Arknights",
-    "db:Hinatsuru:Demon Slayer"
+    "db:Kal'tsit:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-03T10:24:47.533Z",
+  "updatedAt": "2026-09-03T15:30:02.171Z",
   "cached": {
     "character": {
-      "name": "2B",
-      "source": "NieR Automata",
-      "universe": "JRPG",
+      "name": "Sajuna Inui",
+      "source": "My Dress-Up Darling",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:2B:NieR Automata",
-      "nextIndex": 218
+      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
+      "nextIndex": 155
     },
     "meta": {
-      "source": "NieR Automata",
-      "fanbase": 428423,
-      "vibe": "TSUNDERE",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "My Dress-Up Darling",
+      "fanbase": 207074,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "YoRHa battle android",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132494-R05zeZPjDG3l.jpg"
+      "bio": "Character",
+      "description": "A famous cosplayer that looks up to",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545016703887347763/waifu-4c8ddbd4958ced4ba453cd89.png?ex=6a9a9c6f&is=6a994aef&hm=698566d1a726c42f2ec330492ca73a73988cf5510d8ef77dd90f613190a9b82c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545093520254312618/waifu-b95cb77b2891a829327af9ef.png?ex=6a9ae3f9&is=6a999279&hm=48802e91ba6c07580f2a1d72b3805a5a5befbc7947c504df9acad32e3896a798&"
   }
 }
