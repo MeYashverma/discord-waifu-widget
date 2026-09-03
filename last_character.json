@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jill Valentine:Resident Evil",
-  "lastName": "Jill Valentine",
-  "index": 230,
+  "lastId": "db:2B:NieR Automata",
+  "lastName": "2B",
+  "index": 218,
   "recent": [
+    "db:2B:NieR Automata",
     "db:Jill Valentine:Resident Evil",
     "db:Perona:One Piece",
     "db:Aigis:Persona 3",
@@ -36,36 +37,35 @@
     "db:Artoria Pendragon:Fate/stay night",
     "db:Verina:Wuthering Waves",
     "db:Kal'tsit:Arknights",
-    "db:Hinatsuru:Demon Slayer",
-    "db:Satsuki Kiryuin:Kill la Kill"
+    "db:Hinatsuru:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-03T02:09:09.850Z",
+  "updatedAt": "2026-09-03T10:24:47.533Z",
   "cached": {
     "character": {
-      "name": "Jill Valentine",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "2B",
+      "source": "NieR Automata",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jill Valentine:Resident Evil",
-      "nextIndex": 230
+      "globalId": "db:2B:NieR Automata",
+      "nextIndex": 218
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 233330,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
+      "source": "NieR Automata",
+      "fanbase": 428423,
+      "vibe": "TSUNDERE",
+      "rating": "ELITE",
       "age": "Unknown",
-      "blood": "B",
-      "bio": "Captain",
-      "description": "A member of S",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12664-eVuO8OpCf1EO.png"
+      "blood": "Unknown",
+      "bio": "Android",
+      "description": "YoRHa battle android",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132494-R05zeZPjDG3l.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544891974203482273/waifu-d45bed1c61e9f38c11ae1778.png?ex=6a9a2845&is=6a98d6c5&hm=9a12b4a18bd194a88361a9724edfdc83b2f36d5399c0112fa7760c1534efbf08&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545016703887347763/waifu-4c8ddbd4958ced4ba453cd89.png?ex=6a9a9c6f&is=6a994aef&hm=698566d1a726c42f2ec330492ca73a73988cf5510d8ef77dd90f613190a9b82c&"
   }
 }
