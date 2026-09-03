@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Perona:One Piece",
-  "lastName": "Perona",
-  "index": 170,
+  "lastId": "db:Jill Valentine:Resident Evil",
+  "lastName": "Jill Valentine",
+  "index": 230,
   "recent": [
+    "db:Jill Valentine:Resident Evil",
     "db:Perona:One Piece",
     "db:Aigis:Persona 3",
     "db:Mavuika:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Verina:Wuthering Waves",
     "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
-    "db:Satsuki Kiryuin:Kill la Kill",
-    "db:Himeno:Chainsaw Man"
+    "db:Satsuki Kiryuin:Kill la Kill"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-02T20:18:28.191Z",
+  "updatedAt": "2026-09-03T02:09:09.850Z",
   "cached": {
     "character": {
-      "name": "Perona",
-      "source": "One Piece",
-      "universe": "ANIME",
+      "name": "Jill Valentine",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Perona:One Piece",
-      "nextIndex": 170
+      "globalId": "db:Jill Valentine:Resident Evil",
+      "nextIndex": 230
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 566824,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
+      "source": "Resident Evil",
+      "fanbase": 233330,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
       "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Nicknamed the \"Ghost Princess\", Perona is a girl dressed in Gothic Lolita style…",
-      "image": "https://media.kitsu.app/characters/images/461/original.jpg"
+      "blood": "B",
+      "bio": "Captain",
+      "description": "A member of S",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12664-eVuO8OpCf1EO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544803718644629636/waifu-0e6f05dde94c4b20a8bcd113.png?ex=6a99d613&is=6a988493&hm=33913ee569b793b6453ab27bcae1bbb965611bad4a72485608915581d151c219&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1544891974203482273/waifu-d45bed1c61e9f38c11ae1778.png?ex=6a9a2845&is=6a98d6c5&hm=9a12b4a18bd194a88361a9724edfdc83b2f36d5399c0112fa7760c1534efbf08&"
   }
 }
