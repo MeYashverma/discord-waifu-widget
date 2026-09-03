@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
-  "lastName": "Sajuna Inui",
-  "index": 155,
+  "lastId": "db:Nowa Sugaya:My Dress-Up Darling",
+  "lastName": "Nowa Sugaya",
+  "index": 157,
   "recent": [
+    "db:Nowa Sugaya:My Dress-Up Darling",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:2B:NieR Automata",
     "db:Jill Valentine:Resident Evil",
@@ -36,14 +37,13 @@
     "db:Kanae Kocho:Demon Slayer",
     "db:Satella:Re:Zero",
     "db:Artoria Pendragon:Fate/stay night",
-    "db:Verina:Wuthering Waves",
-    "db:Kal'tsit:Arknights"
+    "db:Verina:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-03T15:30:02.171Z",
+  "updatedAt": "2026-09-03T20:18:18.992Z",
   "cached": {
     "character": {
-      "name": "Sajuna Inui",
+      "name": "Nowa Sugaya",
       "source": "My Dress-Up Darling",
       "universe": "ANIME",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
-      "nextIndex": 155
+      "globalId": "db:Nowa Sugaya:My Dress-Up Darling",
+      "nextIndex": 157
     },
     "meta": {
       "source": "My Dress-Up Darling",
-      "fanbase": 207074,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "17",
+      "fanbase": 248404,
+      "vibe": "WHOLESOME",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "A famous cosplayer that looks up to",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+      "description": "Described as the \"Guardian of the Forest,\" the half elf Nowa and her monkey com…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260977-p19usD5bb8Ue.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545093520254312618/waifu-b95cb77b2891a829327af9ef.png?ex=6a9ae3f9&is=6a999279&hm=48802e91ba6c07580f2a1d72b3805a5a5befbc7947c504df9acad32e3896a798&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545166069017088142/waifu-bb884fd3369bc1fd849b7f70.png?ex=6a9b278a&is=6a99d60a&hm=f91b3ff08c3adeb46314ad44e682c65ee0b6a9d568ada22a9cbafe15490e5b8c&"
   }
 }
