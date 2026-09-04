@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuuka Hayase:Blue Archive",
-  "lastName": "Yuuka Hayase",
-  "index": 69,
+  "lastId": "db:Mitsuru Kirijo:Persona 3",
+  "lastName": "Mitsuru Kirijo",
+  "index": 227,
   "recent": [
+    "db:Mitsuru Kirijo:Persona 3",
     "db:Yuuka Hayase:Blue Archive",
     "db:Nowa Sugaya:My Dress-Up Darling",
     "db:Sajuna Inui:My Dress-Up Darling",
@@ -36,36 +37,35 @@
     "db:Rias Gremory:High School DxD",
     "db:Black Swan:Honkai Star Rail",
     "db:Kanae Kocho:Demon Slayer",
-    "db:Satella:Re:Zero",
-    "db:Artoria Pendragon:Fate/stay night"
+    "db:Satella:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-04T02:08:05.277Z",
+  "updatedAt": "2026-09-04T10:18:36.917Z",
   "cached": {
     "character": {
-      "name": "Yuuka Hayase",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Mitsuru Kirijo",
+      "source": "Persona 3",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuuka Hayase:Blue Archive",
-      "nextIndex": 69
+      "globalId": "db:Mitsuru Kirijo:Persona 3",
+      "nextIndex": 227
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 269309,
-      "vibe": "TSUNDERE",
+      "source": "Persona 3",
+      "fanbase": 246761,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "16",
-      "blood": "Unknown",
+      "age": "17-18 (P3), 20 (P4A)",
+      "blood": "O",
       "bio": "Student",
-      "description": "Academy: Millennium Science School Year: 2nd Year The treasurer of Seminar, the…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264237-sAM1foeXoY8M.png"
+      "description": "cm Initial Persona: Penthesilea Ultimate Persona: Artemisia Mitsuru is the only…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6206-f9Q2688rcIv7.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545254089770930196/waifu-4e901aec413efc59a579a22e.png?ex=6a9b7984&is=6a9a2804&hm=37b734fa871107b161682f2852ccba3ecde57595b4fc0dfef371457fc5eb4773&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545377537150943272/waifu-f607d4cece8ca7085eadd7f1.png?ex=6a9bec7c&is=6a9a9afc&hm=dd6fb40e82cfcf951231e2854a3ceb5745fcf6389fd20c8b25a78b456b739489&"
   }
 }
