@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bambietta Basterbine:Bleach",
-  "lastName": "Bambietta Basterbine",
-  "index": 186,
+  "lastId": "db:Crusch Karsten:Re:Zero",
+  "lastName": "Crusch Karsten",
+  "index": 85,
   "recent": [
+    "db:Crusch Karsten:Re:Zero",
     "db:Bambietta Basterbine:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Yuuka Hayase:Blue Archive",
@@ -36,15 +37,14 @@
     "db:Rossweisse:High School DxD",
     "db:Shenhe:Genshin Impact",
     "db:Rias Gremory:High School DxD",
-    "db:Black Swan:Honkai Star Rail",
-    "db:Kanae Kocho:Demon Slayer"
+    "db:Black Swan:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-04T15:28:02.885Z",
+  "updatedAt": "2026-09-04T20:03:19.441Z",
   "cached": {
     "character": {
-      "name": "Bambietta Basterbine",
-      "source": "Bleach",
+      "name": "Crusch Karsten",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bambietta Basterbine:Bleach",
-      "nextIndex": 186
+      "globalId": "db:Crusch Karsten:Re:Zero",
+      "nextIndex": 85
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 453494,
-      "vibe": "WHOLESOME",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Re:Zero",
+      "fanbase": 250412,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
+      "age": "20",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Race: Quincy Affiliation: Vandenreich Occupation: Stern Ritter \"E\" Team: Vanden…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64511-zr1ivnK8qPF2.jpg"
+      "bio": "Soldier",
+      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545455408347615312/waifu-372e2e16e49da517fe8ed3f5.png?ex=6a9c3502&is=6a9ae382&hm=e6c9ddff9dde2972a524d60733eed6f99e9532c958e980c3131bdc9117afc134&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545524682906935296/waifu-cabbe95ce713429f4c7d1406.png?ex=6a9c7586&is=6a9b2406&hm=01cefbb9ad56e6395e339bb35c011431848374e3f51fda4ee9f6cd540f72fb29&"
   }
 }
