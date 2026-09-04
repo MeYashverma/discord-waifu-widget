@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nowa Sugaya:My Dress-Up Darling",
-  "lastName": "Nowa Sugaya",
-  "index": 157,
+  "lastId": "db:Yuuka Hayase:Blue Archive",
+  "lastName": "Yuuka Hayase",
+  "index": 69,
   "recent": [
+    "db:Yuuka Hayase:Blue Archive",
     "db:Nowa Sugaya:My Dress-Up Darling",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:2B:NieR Automata",
@@ -36,36 +37,35 @@
     "db:Black Swan:Honkai Star Rail",
     "db:Kanae Kocho:Demon Slayer",
     "db:Satella:Re:Zero",
-    "db:Artoria Pendragon:Fate/stay night",
-    "db:Verina:Wuthering Waves"
+    "db:Artoria Pendragon:Fate/stay night"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-03T20:18:18.992Z",
+  "updatedAt": "2026-09-04T02:08:05.277Z",
   "cached": {
     "character": {
-      "name": "Nowa Sugaya",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Yuuka Hayase",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nowa Sugaya:My Dress-Up Darling",
-      "nextIndex": 157
+      "globalId": "db:Yuuka Hayase:Blue Archive",
+      "nextIndex": 69
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 248404,
-      "vibe": "WHOLESOME",
+      "source": "Blue Archive",
+      "fanbase": 269309,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "16",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Described as the \"Guardian of the Forest,\" the half elf Nowa and her monkey com…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260977-p19usD5bb8Ue.png"
+      "bio": "Student",
+      "description": "Academy: Millennium Science School Year: 2nd Year The treasurer of Seminar, the…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264237-sAM1foeXoY8M.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545166069017088142/waifu-bb884fd3369bc1fd849b7f70.png?ex=6a9b278a&is=6a99d60a&hm=f91b3ff08c3adeb46314ad44e682c65ee0b6a9d568ada22a9cbafe15490e5b8c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545254089770930196/waifu-4e901aec413efc59a579a22e.png?ex=6a9b7984&is=6a9a2804&hm=37b734fa871107b161682f2852ccba3ecde57595b4fc0dfef371457fc5eb4773&"
   }
 }
