@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mitsuru Kirijo:Persona 3",
-  "lastName": "Mitsuru Kirijo",
-  "index": 227,
+  "lastId": "db:Bambietta Basterbine:Bleach",
+  "lastName": "Bambietta Basterbine",
+  "index": 186,
   "recent": [
+    "db:Bambietta Basterbine:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Yuuka Hayase:Blue Archive",
     "db:Nowa Sugaya:My Dress-Up Darling",
@@ -36,36 +37,35 @@
     "db:Shenhe:Genshin Impact",
     "db:Rias Gremory:High School DxD",
     "db:Black Swan:Honkai Star Rail",
-    "db:Kanae Kocho:Demon Slayer",
-    "db:Satella:Re:Zero"
+    "db:Kanae Kocho:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-04T10:18:36.917Z",
+  "updatedAt": "2026-09-04T15:28:02.885Z",
   "cached": {
     "character": {
-      "name": "Mitsuru Kirijo",
-      "source": "Persona 3",
-      "universe": "JRPG",
+      "name": "Bambietta Basterbine",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mitsuru Kirijo:Persona 3",
-      "nextIndex": 227
+      "globalId": "db:Bambietta Basterbine:Bleach",
+      "nextIndex": 186
     },
     "meta": {
-      "source": "Persona 3",
-      "fanbase": 246761,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "17-18 (P3), 20 (P4A)",
-      "blood": "O",
-      "bio": "Student",
-      "description": "cm Initial Persona: Penthesilea Ultimate Persona: Artemisia Mitsuru is the only…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6206-f9Q2688rcIv7.png"
+      "source": "Bleach",
+      "fanbase": 453494,
+      "vibe": "WHOLESOME",
+      "rating": "ELITE",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Race: Quincy Affiliation: Vandenreich Occupation: Stern Ritter \"E\" Team: Vanden…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64511-zr1ivnK8qPF2.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545377537150943272/waifu-f607d4cece8ca7085eadd7f1.png?ex=6a9bec7c&is=6a9a9afc&hm=dd6fb40e82cfcf951231e2854a3ceb5745fcf6389fd20c8b25a78b456b739489&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545455408347615312/waifu-372e2e16e49da517fe8ed3f5.png?ex=6a9c3502&is=6a9ae382&hm=e6c9ddff9dde2972a524d60733eed6f99e9532c958e980c3131bdc9117afc134&"
   }
 }
