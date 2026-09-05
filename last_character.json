@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Akali:League of Legends",
-  "lastName": "Akali",
-  "index": 241,
+  "lastId": "db:Yuffie Kisaragi:Final Fantasy VII",
+  "lastName": "Yuffie Kisaragi",
+  "index": 212,
   "recent": [
+    "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Akali:League of Legends",
     "db:Ashley Graham:Resident Evil 4",
     "db:Crusch Karsten:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Raiden Shogun:Genshin Impact",
     "db:Irelia:League of Legends",
-    "db:Rossweisse:High School DxD",
-    "db:Shenhe:Genshin Impact"
+    "db:Rossweisse:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-05T09:40:42.822Z",
+  "updatedAt": "2026-09-05T14:16:04.520Z",
   "cached": {
     "character": {
-      "name": "Akali",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Yuffie Kisaragi",
+      "source": "Final Fantasy VII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Akali:League of Legends",
-      "nextIndex": 241
+      "globalId": "db:Yuffie Kisaragi:Final Fantasy VII",
+      "nextIndex": 212
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 216117,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "Final Fantasy VII",
+      "fanbase": 481666,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "July 24 A Akari is a polite red-haired girl who is supposedly the main protagon…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124932-laDqVLCjcmC6.jpg"
+      "description": "Birthplace: Wutai Date of Birth: November 20, 1991 Sign: Scorpio cm A She is a …",
+      "image": "https://media.kitsu.app/characters/images/22770/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545730384715849748/waifu-3d443d6c580f8f1f61638581.png?ex=6a9d3519&is=6a9be399&hm=50ad2c4a89f15fee41afbfec6e5c37a29b8fa9ba70912b785da82a1ce2e44172&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545799683778019498/waifu-b4a6bf74b58c3f4b1bbe33ab.png?ex=6a9d75a4&is=6a9c2424&hm=ab1507a7c0848b5c62a50986d39b6b60f26ce74f675cc94f36351a4dd4a8df28&"
   }
 }
