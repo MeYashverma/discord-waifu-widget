@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Crusch Karsten:Re:Zero",
-  "lastName": "Crusch Karsten",
-  "index": 85,
+  "lastId": "db:Ashley Graham:Resident Evil 4",
+  "lastName": "Ashley Graham",
+  "index": 234,
   "recent": [
+    "db:Ashley Graham:Resident Evil 4",
     "db:Crusch Karsten:Re:Zero",
     "db:Bambietta Basterbine:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
@@ -36,36 +37,35 @@
     "db:Irelia:League of Legends",
     "db:Rossweisse:High School DxD",
     "db:Shenhe:Genshin Impact",
-    "db:Rias Gremory:High School DxD",
-    "db:Black Swan:Honkai Star Rail"
+    "db:Rias Gremory:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-04T20:03:19.441Z",
+  "updatedAt": "2026-09-05T02:06:01.428Z",
   "cached": {
     "character": {
-      "name": "Crusch Karsten",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Ashley Graham",
+      "source": "Resident Evil 4",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Crusch Karsten:Re:Zero",
-      "nextIndex": 85
+      "globalId": "db:Ashley Graham:Resident Evil 4",
+      "nextIndex": 234
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 250412,
-      "vibe": "INTENSE",
+      "source": "Resident Evil 4",
+      "fanbase": 261743,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
-      "age": "20",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
+      "bio": "Character",
+      "description": "Ashley is the daughter of former US President Graham",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146257-7kTBSqPrmggV.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545524682906935296/waifu-cabbe95ce713429f4c7d1406.png?ex=6a9c7586&is=6a9b2406&hm=01cefbb9ad56e6395e339bb35c011431848374e3f51fda4ee9f6cd540f72fb29&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545615959438663760/waifu-79602d54d5ba40f56566b81f.png?ex=6a9cca88&is=6a9b7908&hm=c26a429a38ce748e25513850bc22b569aee8f4c05e124c1043fc445a868d074b&"
   }
 }
