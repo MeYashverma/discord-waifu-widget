@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuffie Kisaragi:Final Fantasy VII",
-  "lastName": "Yuffie Kisaragi",
-  "index": 212,
+  "lastId": "db:Miss Fortune:League of Legends",
+  "lastName": "Miss Fortune",
+  "index": 240,
   "recent": [
+    "db:Miss Fortune:League of Legends",
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Akali:League of Legends",
     "db:Ashley Graham:Resident Evil 4",
@@ -36,36 +37,35 @@
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Raiden Shogun:Genshin Impact",
-    "db:Irelia:League of Legends",
-    "db:Rossweisse:High School DxD"
+    "db:Irelia:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-05T14:16:04.520Z",
+  "updatedAt": "2026-09-05T19:43:37.086Z",
   "cached": {
     "character": {
-      "name": "Yuffie Kisaragi",
-      "source": "Final Fantasy VII",
-      "universe": "JRPG",
+      "name": "Miss Fortune",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuffie Kisaragi:Final Fantasy VII",
-      "nextIndex": 212
+      "globalId": "db:Miss Fortune:League of Legends",
+      "nextIndex": 240
     },
     "meta": {
-      "source": "Final Fantasy VII",
-      "fanbase": 481666,
-      "vibe": "ELEGANT",
-      "rating": "ELITE",
+      "source": "League of Legends",
+      "fanbase": 244806,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Birthplace: Wutai Date of Birth: November 20, 1991 Sign: Scorpio cm A She is a …",
-      "image": "https://media.kitsu.app/characters/images/22770/original.jpg"
+      "bio": "Idol",
+      "description": "She is an idol who lives in a white-techno castle with her robotic friend, Ru-c…",
+      "image": "https://media.kitsu.app/characters/images/58278/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545799683778019498/waifu-b4a6bf74b58c3f4b1bbe33ab.png?ex=6a9d75a4&is=6a9c2424&hm=ab1507a7c0848b5c62a50986d39b6b60f26ce74f675cc94f36351a4dd4a8df28&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545882109007372460/waifu-e6e0c358b5886e6f21535368.png?ex=6a9dc267&is=6a9c70e7&hm=5912576402057da76710a2a8e6519f20c6c9e403926891aba35c17c258e1ee7e&"
   }
 }
