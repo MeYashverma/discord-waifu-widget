@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ashley Graham:Resident Evil 4",
-  "lastName": "Ashley Graham",
-  "index": 234,
+  "lastId": "db:Akali:League of Legends",
+  "lastName": "Akali",
+  "index": 241,
   "recent": [
+    "db:Akali:League of Legends",
     "db:Ashley Graham:Resident Evil 4",
     "db:Crusch Karsten:Re:Zero",
     "db:Bambietta Basterbine:Bleach",
@@ -36,15 +37,14 @@
     "db:Raiden Shogun:Genshin Impact",
     "db:Irelia:League of Legends",
     "db:Rossweisse:High School DxD",
-    "db:Shenhe:Genshin Impact",
-    "db:Rias Gremory:High School DxD"
+    "db:Shenhe:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-05T02:06:01.428Z",
+  "updatedAt": "2026-09-05T09:40:42.822Z",
   "cached": {
     "character": {
-      "name": "Ashley Graham",
-      "source": "Resident Evil 4",
+      "name": "Akali",
+      "source": "League of Legends",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ashley Graham:Resident Evil 4",
-      "nextIndex": 234
+      "globalId": "db:Akali:League of Legends",
+      "nextIndex": 241
     },
     "meta": {
-      "source": "Resident Evil 4",
-      "fanbase": 261743,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "League of Legends",
+      "fanbase": 216117,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Ashley is the daughter of former US President Graham",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146257-7kTBSqPrmggV.png"
+      "description": "July 24 A Akari is a polite red-haired girl who is supposedly the main protagon…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124932-laDqVLCjcmC6.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545615959438663760/waifu-79602d54d5ba40f56566b81f.png?ex=6a9cca88&is=6a9b7908&hm=c26a429a38ce748e25513850bc22b569aee8f4c05e124c1043fc445a868d074b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545730384715849748/waifu-3d443d6c580f8f1f61638581.png?ex=6a9d3519&is=6a9be399&hm=50ad2c4a89f15fee41afbfec6e5c37a29b8fa9ba70912b785da82a1ce2e44172&"
   }
 }
