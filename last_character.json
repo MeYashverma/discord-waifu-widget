@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shionne Imeris:Tales of Arise",
-  "lastName": "Shionne Imeris",
-  "index": 270,
+  "lastId": "db:Rin Tohsaka:Fate/stay night",
+  "lastName": "Rin Tohsaka",
+  "index": 203,
   "recent": [
+    "db:Rin Tohsaka:Fate/stay night",
     "db:Shionne Imeris:Tales of Arise",
     "db:Scarlet:Nikke",
     "db:Nami:One Piece",
@@ -36,36 +37,35 @@
     "db:Jinhsi:Wuthering Waves",
     "db:Hinata Hyuga:Naruto",
     "db:Furina:Genshin Impact",
-    "db:Mine:Akame ga Kill!",
-    "db:Lightning Farron:Final Fantasy XIII"
+    "db:Mine:Akame ga Kill!"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-06T14:39:31.133Z",
+  "updatedAt": "2026-09-06T19:47:03.374Z",
   "cached": {
     "character": {
-      "name": "Shionne Imeris",
-      "source": "Tales of Arise",
-      "universe": "JRPG",
+      "name": "Rin Tohsaka",
+      "source": "Fate/stay night",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shionne Imeris:Tales of Arise",
-      "nextIndex": 270
+      "globalId": "db:Rin Tohsaka:Fate/stay night",
+      "nextIndex": 203
     },
     "meta": {
-      "source": "Tales of Arise",
-      "fanbase": 266296,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
+      "source": "Fate/stay night",
+      "fanbase": 218647,
+      "vibe": "DEADLY",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "One of the twin sister's, Inukami contracted to Kaoru",
-      "image": "https://media.kitsu.app/characters/images/11852/original.jpg"
+      "bio": "Mage",
+      "description": "February 3 Classification: Human, Mage cm , Weight: , BWH: 77-57-80 O Servant: …",
+      "image": "https://media.kitsu.app/characters/images/6556/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546167971087384618/waifu-6e28701f04a3b096d5e43159.png?ex=6a9ecca2&is=6a9d7b22&hm=4595ba88226425474f4aecac47e43934cfe6f11c19072a2cc9676b897d0b7680&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546245364162629682/waifu-bddfa555a7c4dfeecaf7381c.png?ex=6a9f14b6&is=6a9dc336&hm=d50c54fb5d9de1f856caeb51e9cc072db8822f83fc49046266c36ff5a6c7b098&"
   }
 }
