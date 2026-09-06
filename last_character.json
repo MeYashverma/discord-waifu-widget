@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Miss Fortune:League of Legends",
-  "lastName": "Miss Fortune",
-  "index": 240,
+  "lastId": "db:Nami:One Piece",
+  "lastName": "Nami",
+  "index": 164,
   "recent": [
+    "db:Nami:One Piece",
     "db:Miss Fortune:League of Legends",
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Akali:League of Legends",
@@ -36,36 +37,35 @@
     "db:Mine:Akame ga Kill!",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Zhu Yuan:Zenless Zone Zero",
-    "db:Raiden Shogun:Genshin Impact",
-    "db:Irelia:League of Legends"
+    "db:Raiden Shogun:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-05T19:43:37.086Z",
+  "updatedAt": "2026-09-06T02:01:01.402Z",
   "cached": {
     "character": {
-      "name": "Miss Fortune",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Nami",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Miss Fortune:League of Legends",
-      "nextIndex": 240
+      "globalId": "db:Nami:One Piece",
+      "nextIndex": 164
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 244806,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Idol",
-      "description": "She is an idol who lives in a white-techno castle with her robotic friend, Ru-c…",
-      "image": "https://media.kitsu.app/characters/images/58278/original.jpg"
+      "source": "One Piece",
+      "fanbase": 631198,
+      "vibe": "YANDERE",
+      "rating": "LEGENDARY",
+      "age": "18-",
+      "blood": "X",
+      "bio": "Character",
+      "description": "cm Affiliation: Straw Hat Pirates Position: Navigator Bounty: 366,000,000 Nami …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545882109007372460/waifu-e6e0c358b5886e6f21535368.png?ex=6a9dc267&is=6a9c70e7&hm=5912576402057da76710a2a8e6519f20c6c9e403926891aba35c17c258e1ee7e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545977088882909325/waifu-be7ef75e4341a34d5c8396c1.png?ex=6a9e1adc&is=6a9cc95c&hm=735dfa0cc91f548953dbbb1744d9ac8051491febff790a2498943bec12e31888&"
   }
 }
