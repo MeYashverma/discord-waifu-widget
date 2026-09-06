@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Scarlet:Nikke",
-  "lastName": "Scarlet",
-  "index": 54,
+  "lastId": "db:Shionne Imeris:Tales of Arise",
+  "lastName": "Shionne Imeris",
+  "index": 270,
   "recent": [
+    "db:Shionne Imeris:Tales of Arise",
     "db:Scarlet:Nikke",
     "db:Nami:One Piece",
     "db:Miss Fortune:League of Legends",
@@ -36,36 +37,35 @@
     "db:Hinata Hyuga:Naruto",
     "db:Furina:Genshin Impact",
     "db:Mine:Akame ga Kill!",
-    "db:Lightning Farron:Final Fantasy XIII",
-    "db:Zhu Yuan:Zenless Zone Zero"
+    "db:Lightning Farron:Final Fantasy XIII"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-06T09:55:52.179Z",
+  "updatedAt": "2026-09-06T14:39:31.133Z",
   "cached": {
     "character": {
-      "name": "Scarlet",
-      "source": "Nikke",
-      "universe": "GACHA",
+      "name": "Shionne Imeris",
+      "source": "Tales of Arise",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Scarlet:Nikke",
-      "nextIndex": 54
+      "globalId": "db:Shionne Imeris:Tales of Arise",
+      "nextIndex": 270
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 197117,
-      "vibe": "TSUNDERE",
-      "rating": "POPULAR",
-      "age": "19-21",
+      "source": "Tales of Arise",
+      "fanbase": 266296,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "An S-class mage from the Fairy Tail Guild who uses requip magic, which allows h…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+      "bio": "Character",
+      "description": "One of the twin sister's, Inukami contracted to Kaoru",
+      "image": "https://media.kitsu.app/characters/images/11852/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546096588756095027/waifu-5b452ccac618736f35291e65.png?ex=6a9e8a27&is=6a9d38a7&hm=6ae2fbfc0f1390109125f9678de2a47cc0f15772d9c25a68ebeb898de2a49378&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546167971087384618/waifu-6e28701f04a3b096d5e43159.png?ex=6a9ecca2&is=6a9d7b22&hm=4595ba88226425474f4aecac47e43934cfe6f11c19072a2cc9676b897d0b7680&"
   }
 }
