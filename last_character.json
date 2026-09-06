@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nami:One Piece",
-  "lastName": "Nami",
-  "index": 164,
+  "lastId": "db:Scarlet:Nikke",
+  "lastName": "Scarlet",
+  "index": 54,
   "recent": [
+    "db:Scarlet:Nikke",
     "db:Nami:One Piece",
     "db:Miss Fortune:League of Legends",
     "db:Yuffie Kisaragi:Final Fantasy VII",
@@ -36,36 +37,35 @@
     "db:Furina:Genshin Impact",
     "db:Mine:Akame ga Kill!",
     "db:Lightning Farron:Final Fantasy XIII",
-    "db:Zhu Yuan:Zenless Zone Zero",
-    "db:Raiden Shogun:Genshin Impact"
+    "db:Zhu Yuan:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-06T02:01:01.402Z",
+  "updatedAt": "2026-09-06T09:55:52.179Z",
   "cached": {
     "character": {
-      "name": "Nami",
-      "source": "One Piece",
-      "universe": "ANIME",
+      "name": "Scarlet",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nami:One Piece",
-      "nextIndex": 164
+      "globalId": "db:Scarlet:Nikke",
+      "nextIndex": 54
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 631198,
-      "vibe": "YANDERE",
-      "rating": "LEGENDARY",
-      "age": "18-",
-      "blood": "X",
-      "bio": "Character",
-      "description": "cm Affiliation: Straw Hat Pirates Position: Navigator Bounty: 366,000,000 Nami …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+      "source": "Nikke",
+      "fanbase": 197117,
+      "vibe": "TSUNDERE",
+      "rating": "POPULAR",
+      "age": "19-21",
+      "blood": "Unknown",
+      "bio": "Mage",
+      "description": "An S-class mage from the Fairy Tail Guild who uses requip magic, which allows h…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1545977088882909325/waifu-be7ef75e4341a34d5c8396c1.png?ex=6a9e1adc&is=6a9cc95c&hm=735dfa0cc91f548953dbbb1744d9ac8051491febff790a2498943bec12e31888&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546096588756095027/waifu-5b452ccac618736f35291e65.png?ex=6a9e8a27&is=6a9d38a7&hm=6ae2fbfc0f1390109125f9678de2a47cc0f15772d9c25a68ebeb898de2a49378&"
   }
 }
