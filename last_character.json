@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rogue Amendiares:Cyberpunk 2077",
-  "lastName": "Rogue Amendiares",
-  "index": 258,
+  "lastId": "db:Miyabi:Zenless Zone Zero",
+  "lastName": "Miyabi",
+  "index": 33,
   "recent": [
+    "db:Miyabi:Zenless Zone Zero",
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Rin Tohsaka:Fate/stay night",
     "db:Shionne Imeris:Tales of Arise",
@@ -36,36 +37,35 @@
     "db:Tamayo:Demon Slayer",
     "db:Mordred:Fate Series",
     "db:Jinhsi:Wuthering Waves",
-    "db:Hinata Hyuga:Naruto",
-    "db:Furina:Genshin Impact"
+    "db:Hinata Hyuga:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-07T01:58:44.950Z",
+  "updatedAt": "2026-09-07T11:04:56.442Z",
   "cached": {
     "character": {
-      "name": "Rogue Amendiares",
-      "source": "Cyberpunk 2077",
-      "universe": "GAME",
+      "name": "Miyabi",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rogue Amendiares:Cyberpunk 2077",
-      "nextIndex": 258
+      "globalId": "db:Miyabi:Zenless Zone Zero",
+      "nextIndex": 33
     },
     "meta": {
-      "source": "Cyberpunk 2077",
-      "fanbase": 230335,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
+      "source": "Zenless Zone Zero",
+      "fanbase": 216366,
+      "vibe": "MYSTERIOUS",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Rogue Amendiares from Cyberpunk 2077",
-      "image": "https://media.kitsu.app/characters/images/17685/original.jpg"
+      "description": "A character from one of Kirino's eroge",
+      "image": "https://media.kitsu.app/characters/images/31966/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546338905110880296/waifu-8ca7b2b70fd490722b7cf130.png?ex=6a9f6bd4&is=6a9e1a54&hm=2bb611a7fc95930b76bfd0597220007e4a85b2fa6d524ae4ace420a536a7660b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546476358744539267/waifu-02f6cf9b13e3adbb273fab99.png?ex=6a9febd8&is=6a9e9a58&hm=41a27d587b456961671920868f0db23bdb8355438a31bf49780fadad6915b7a3&"
   }
 }
