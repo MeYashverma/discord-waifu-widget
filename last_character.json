@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Miyabi:Zenless Zone Zero",
-  "lastName": "Miyabi",
-  "index": 33,
+  "lastId": "db:Fami:Chainsaw Man",
+  "lastName": "Fami",
+  "index": 79,
   "recent": [
+    "db:Fami:Chainsaw Man",
     "db:Miyabi:Zenless Zone Zero",
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Rin Tohsaka:Fate/stay night",
@@ -36,36 +37,35 @@
     "db:Irene Belserion:Fairy Tail",
     "db:Tamayo:Demon Slayer",
     "db:Mordred:Fate Series",
-    "db:Jinhsi:Wuthering Waves",
-    "db:Hinata Hyuga:Naruto"
+    "db:Jinhsi:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-07T11:04:56.442Z",
+  "updatedAt": "2026-09-07T16:52:55.016Z",
   "cached": {
     "character": {
-      "name": "Miyabi",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Fami",
+      "source": "Chainsaw Man",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Miyabi:Zenless Zone Zero",
-      "nextIndex": 33
+      "globalId": "db:Fami:Chainsaw Man",
+      "nextIndex": 79
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 216366,
-      "vibe": "MYSTERIOUS",
-      "rating": "POPULAR",
+      "source": "Chainsaw Man",
+      "fanbase": 488286,
+      "vibe": "DOMINANT",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A character from one of Kirino's eroge",
-      "image": "https://media.kitsu.app/characters/images/31966/original.jpg"
+      "bio": "Witch",
+      "description": "Doremi's future granddaughter and the future pink witch",
+      "image": "https://media.kitsu.app/characters/images/14516/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546476358744539267/waifu-02f6cf9b13e3adbb273fab99.png?ex=6a9febd8&is=6a9e9a58&hm=41a27d587b456961671920868f0db23bdb8355438a31bf49780fadad6915b7a3&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546563928296005703/waifu-a92dccc3ba665198321d79bf.png?ex=6aa03d66&is=6a9eebe6&hm=f865ed2eb89a073e5453eab93f0f02ac14a1a16828b9119606ae83a3097f9ffd&"
   }
 }
