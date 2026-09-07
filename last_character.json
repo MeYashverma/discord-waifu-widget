@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rin Tohsaka:Fate/stay night",
-  "lastName": "Rin Tohsaka",
-  "index": 203,
+  "lastId": "db:Rogue Amendiares:Cyberpunk 2077",
+  "lastName": "Rogue Amendiares",
+  "index": 258,
   "recent": [
+    "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Rin Tohsaka:Fate/stay night",
     "db:Shionne Imeris:Tales of Arise",
     "db:Scarlet:Nikke",
@@ -36,36 +37,35 @@
     "db:Mordred:Fate Series",
     "db:Jinhsi:Wuthering Waves",
     "db:Hinata Hyuga:Naruto",
-    "db:Furina:Genshin Impact",
-    "db:Mine:Akame ga Kill!"
+    "db:Furina:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-06T19:47:03.374Z",
+  "updatedAt": "2026-09-07T01:58:44.950Z",
   "cached": {
     "character": {
-      "name": "Rin Tohsaka",
-      "source": "Fate/stay night",
-      "universe": "ANIME",
+      "name": "Rogue Amendiares",
+      "source": "Cyberpunk 2077",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rin Tohsaka:Fate/stay night",
-      "nextIndex": 203
+      "globalId": "db:Rogue Amendiares:Cyberpunk 2077",
+      "nextIndex": 258
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 218647,
-      "vibe": "DEADLY",
-      "rating": "POPULAR",
+      "source": "Cyberpunk 2077",
+      "fanbase": 230335,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "February 3 Classification: Human, Mage cm , Weight: , BWH: 77-57-80 O Servant: …",
-      "image": "https://media.kitsu.app/characters/images/6556/original.jpg"
+      "bio": "Character",
+      "description": "Rogue Amendiares from Cyberpunk 2077",
+      "image": "https://media.kitsu.app/characters/images/17685/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546245364162629682/waifu-bddfa555a7c4dfeecaf7381c.png?ex=6a9f14b6&is=6a9dc336&hm=d50c54fb5d9de1f856caeb51e9cc072db8822f83fc49046266c36ff5a6c7b098&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546338905110880296/waifu-8ca7b2b70fd490722b7cf130.png?ex=6a9f6bd4&is=6a9e1a54&hm=2bb611a7fc95930b76bfd0597220007e4a85b2fa6d524ae4ace420a536a7660b&"
   }
 }
