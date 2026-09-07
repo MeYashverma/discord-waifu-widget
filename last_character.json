@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fami:Chainsaw Man",
-  "lastName": "Fami",
-  "index": 79,
+  "lastId": "db:Rossweisse:High School DxD",
+  "lastName": "Rossweisse",
+  "index": 95,
   "recent": [
+    "db:Rossweisse:High School DxD",
     "db:Fami:Chainsaw Man",
     "db:Miyabi:Zenless Zone Zero",
     "db:Rogue Amendiares:Cyberpunk 2077",
@@ -36,15 +37,14 @@
     "db:Sakura Haruno:Naruto",
     "db:Irene Belserion:Fairy Tail",
     "db:Tamayo:Demon Slayer",
-    "db:Mordred:Fate Series",
-    "db:Jinhsi:Wuthering Waves"
+    "db:Mordred:Fate Series"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-07T16:52:55.016Z",
+  "updatedAt": "2026-09-07T20:55:28.179Z",
   "cached": {
     "character": {
-      "name": "Fami",
-      "source": "Chainsaw Man",
+      "name": "Rossweisse",
+      "source": "High School DxD",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fami:Chainsaw Man",
-      "nextIndex": 79
+      "globalId": "db:Rossweisse:High School DxD",
+      "nextIndex": 95
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 488286,
-      "vibe": "DOMINANT",
-      "rating": "ELITE",
+      "source": "High School DxD",
+      "fanbase": 211366,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Witch",
-      "description": "Doremi's future granddaughter and the future pink witch",
-      "image": "https://media.kitsu.app/characters/images/14516/original.jpg"
+      "bio": "Mage",
+      "description": "August 8th cm BWH: 96/61/89 Rank: Low-class Devil Role: Rook Race: Reincarnated…",
+      "image": "https://media.kitsu.app/characters/images/54224/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546563928296005703/waifu-a92dccc3ba665198321d79bf.png?ex=6aa03d66&is=6a9eebe6&hm=f865ed2eb89a073e5453eab93f0f02ac14a1a16828b9119606ae83a3097f9ffd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546624968811479050/waifu-b0579945cd2a3850331ccb77.png?ex=6aa0763f&is=6a9f24bf&hm=f21d53193e1b514a8ffcdf876cae5256a4b696ef6148753cd0da33ecebbdcbdd&"
   }
 }
