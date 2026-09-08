@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rossweisse:High School DxD",
-  "lastName": "Rossweisse",
-  "index": 95,
+  "lastId": "db:Ymir:Attack on Titan",
+  "lastName": "Ymir",
+  "index": 136,
   "recent": [
+    "db:Ymir:Attack on Titan",
     "db:Rossweisse:High School DxD",
     "db:Fami:Chainsaw Man",
     "db:Miyabi:Zenless Zone Zero",
@@ -36,15 +37,14 @@
     "db:Becky Blackbell:Spy x Family",
     "db:Sakura Haruno:Naruto",
     "db:Irene Belserion:Fairy Tail",
-    "db:Tamayo:Demon Slayer",
-    "db:Mordred:Fate Series"
+    "db:Tamayo:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-07T20:55:28.179Z",
+  "updatedAt": "2026-09-08T02:10:00.662Z",
   "cached": {
     "character": {
-      "name": "Rossweisse",
-      "source": "High School DxD",
+      "name": "Ymir",
+      "source": "Attack on Titan",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rossweisse:High School DxD",
-      "nextIndex": 95
+      "globalId": "db:Ymir:Attack on Titan",
+      "nextIndex": 136
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 211366,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
+      "source": "Attack on Titan",
+      "fanbase": 685373,
+      "vibe": "ROYAL",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "August 8th cm BWH: 96/61/89 Rank: Low-class Devil Role: Rook Race: Reincarnated…",
-      "image": "https://media.kitsu.app/characters/images/54224/original.jpg"
+      "bio": "Royalty",
+      "description": "Dwarf Princess of Steel Mountain",
+      "image": "https://media.kitsu.app/characters/images/29567/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546624968811479050/waifu-b0579945cd2a3850331ccb77.png?ex=6aa0763f&is=6a9f24bf&hm=f21d53193e1b514a8ffcdf876cae5256a4b696ef6148753cd0da33ecebbdcbdd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546704125142507571/waifu-712516cdd63a7aaa18c2d93e.png?ex=6aa0bff7&is=6a9f6e77&hm=b51d4fd6544d14e02879ff2d341452fe357a3cf0e9a18b956aa08f54bf71e828&"
   }
 }
