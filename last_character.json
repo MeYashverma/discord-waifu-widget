@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ymir:Attack on Titan",
-  "lastName": "Ymir",
-  "index": 136,
+  "lastId": "db:Winry Rockbell:Fullmetal Alchemist",
+  "lastName": "Winry Rockbell",
+  "index": 0,
   "recent": [
+    "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Ymir:Attack on Titan",
     "db:Rossweisse:High School DxD",
     "db:Fami:Chainsaw Man",
@@ -36,15 +37,14 @@
     "db:Megumin:Konosuba",
     "db:Becky Blackbell:Spy x Family",
     "db:Sakura Haruno:Naruto",
-    "db:Irene Belserion:Fairy Tail",
-    "db:Tamayo:Demon Slayer"
+    "db:Irene Belserion:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-08T02:10:00.662Z",
+  "updatedAt": "2026-09-08T10:18:54.071Z",
   "cached": {
     "character": {
-      "name": "Ymir",
-      "source": "Attack on Titan",
+      "name": "Winry Rockbell",
+      "source": "Fullmetal Alchemist",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ymir:Attack on Titan",
-      "nextIndex": 136
+      "globalId": "db:Winry Rockbell:Fullmetal Alchemist",
+      "nextIndex": 0
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 685373,
-      "vibe": "ROYAL",
-      "rating": "LEGENDARY",
+      "source": "Fullmetal Alchemist",
+      "fanbase": 258454,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Dwarf Princess of Steel Mountain",
-      "image": "https://media.kitsu.app/characters/images/29567/original.jpg"
+      "bio": "Character",
+      "description": "Birthplace: Resembool Date of Birth: June 9th 1899 Family: Pinako Rockbell Urey…",
+      "image": "https://media.kitsu.app/character/2600/image/8314506fd48e2aef3687d65972d4a09e.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546704125142507571/waifu-712516cdd63a7aaa18c2d93e.png?ex=6aa0bff7&is=6a9f6e77&hm=b51d4fd6544d14e02879ff2d341452fe357a3cf0e9a18b956aa08f54bf71e828&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546827158461354095/waifu-09dcdc3fea6bf4721f86a70c.png?ex=6aa1328d&is=6a9fe10d&hm=0a483dd26a7a96a0bf85354cab4b1c67ba18c06188f12adbf2f03db3007ab687&"
   }
 }
