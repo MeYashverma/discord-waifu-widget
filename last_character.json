@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Irelia:League of Legends",
-  "lastName": "Irelia",
-  "index": 242,
+  "lastId": "db:Yinlin:Wuthering Waves",
+  "lastName": "Yinlin",
+  "index": 38,
   "recent": [
+    "db:Yinlin:Wuthering Waves",
     "db:Irelia:League of Legends",
     "db:Manon:Street Fighter 6",
     "db:Carlotta:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Skadi:Arknights",
     "db:Neliel Tu Odelschwanck:Bleach",
-    "db:Asuna Ichinose:Blue Archive",
-    "db:Asuka Langley Soryu:Neon Genesis Evangelion"
+    "db:Asuna Ichinose:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-09T10:25:54.086Z",
+  "updatedAt": "2026-09-09T15:35:47.648Z",
   "cached": {
     "character": {
-      "name": "Irelia",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Yinlin",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Irelia:League of Legends",
-      "nextIndex": 242
+      "globalId": "db:Yinlin:Wuthering Waves",
+      "nextIndex": 38
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 216539,
-      "vibe": "PLAYFUL",
+      "source": "Wuthering Waves",
+      "fanbase": 203395,
+      "vibe": "LOYAL",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Iria hails from the Batabitajira region of the planet Myce and is employed by G…",
-      "image": "https://media.kitsu.app/characters/images/7273/original.jpg"
+      "bio": "Character",
+      "description": "Yinlin from Wuthering Waves",
+      "image": "https://media.kitsu.app/characters/images/30099/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547191309087932477/waifu-8a5305acf7c1527a2e87d835.png?ex=6aa285b1&is=6aa13431&hm=1ed7360a452d46d13f10de039f892b46a5c8e79bc86522bfa7da526ee90ea73b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547269296881672292/waifu-b5f9aae043243877f788b685.png?ex=6aa2ce53&is=6aa17cd3&hm=e76e18b55c6313b610aceadae9d01b77842c926d30056a4eed2f6b00585055c0&"
   }
 }
