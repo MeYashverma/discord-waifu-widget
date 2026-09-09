@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Manon:Street Fighter 6",
-  "lastName": "Manon",
-  "index": 246,
+  "lastId": "db:Irelia:League of Legends",
+  "lastName": "Irelia",
+  "index": 242,
   "recent": [
+    "db:Irelia:League of Legends",
     "db:Manon:Street Fighter 6",
     "db:Carlotta:Wuthering Waves",
     "db:Nia Honjo:Date A Live",
@@ -36,15 +37,14 @@
     "db:Skadi:Arknights",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Asuna Ichinose:Blue Archive",
-    "db:Asuka Langley Soryu:Neon Genesis Evangelion",
-    "db:Megumin:Konosuba"
+    "db:Asuka Langley Soryu:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-09T02:14:06.376Z",
+  "updatedAt": "2026-09-09T10:25:54.086Z",
   "cached": {
     "character": {
-      "name": "Manon",
-      "source": "Street Fighter 6",
+      "name": "Irelia",
+      "source": "League of Legends",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Manon:Street Fighter 6",
-      "nextIndex": 246
+      "globalId": "db:Irelia:League of Legends",
+      "nextIndex": 242
     },
     "meta": {
-      "source": "Street Fighter 6",
-      "fanbase": 246968,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
+      "source": "League of Legends",
+      "fanbase": 216539,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A new Trainer just starting her journey",
-      "image": "https://media.kitsu.app/characters/images/92193/original.jpg"
+      "bio": "Hunter",
+      "description": "Iria hails from the Batabitajira region of the planet Myce and is employed by G…",
+      "image": "https://media.kitsu.app/characters/images/7273/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547067545079775323/waifu-4f4133d4091fd7ede11f98db.png?ex=6aa2126d&is=6aa0c0ed&hm=831e9597622285a55a624a699779aecb3a7ed9b37cc00bc3fd5eca076672a77f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547191309087932477/waifu-8a5305acf7c1527a2e87d835.png?ex=6aa285b1&is=6aa13431&hm=1ed7360a452d46d13f10de039f892b46a5c8e79bc86522bfa7da526ee90ea73b&"
   }
 }
