@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yinlin:Wuthering Waves",
-  "lastName": "Yinlin",
-  "index": 38,
+  "lastId": "db:Kotori Itsuka:Date A Live",
+  "lastName": "Kotori Itsuka",
+  "index": 100,
   "recent": [
+    "db:Kotori Itsuka:Date A Live",
     "db:Yinlin:Wuthering Waves",
     "db:Irelia:League of Legends",
     "db:Manon:Street Fighter 6",
@@ -36,36 +37,35 @@
     "db:Surtr:Arknights",
     "db:Shoko Ieiri:Jujutsu Kaisen",
     "db:Skadi:Arknights",
-    "db:Neliel Tu Odelschwanck:Bleach",
-    "db:Asuna Ichinose:Blue Archive"
+    "db:Neliel Tu Odelschwanck:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-09T15:35:47.648Z",
+  "updatedAt": "2026-09-09T20:12:44.800Z",
   "cached": {
     "character": {
-      "name": "Yinlin",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Kotori Itsuka",
+      "source": "Date A Live",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yinlin:Wuthering Waves",
-      "nextIndex": 38
+      "globalId": "db:Kotori Itsuka:Date A Live",
+      "nextIndex": 100
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 203395,
-      "vibe": "LOYAL",
+      "source": "Date A Live",
+      "fanbase": 211653,
+      "vibe": "SEDUCTIVE",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Yinlin from Wuthering Waves",
-      "image": "https://media.kitsu.app/characters/images/30099/original.jpg"
+      "bio": "Mage",
+      "description": "August 3 Zodiac: Leo cm AB BWH: 72-53-74 Favorite candy: Lollipop Likes: Bath b…",
+      "image": "https://media.kitsu.app/characters/images/38192/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547269296881672292/waifu-b5f9aae043243877f788b685.png?ex=6aa2ce53&is=6aa17cd3&hm=e76e18b55c6313b610aceadae9d01b77842c926d30056a4eed2f6b00585055c0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547338993979498606/waifu-a6a88ac2b8712bd1cc574166.png?ex=6aa30f3c&is=6aa1bdbc&hm=a5edbfc24c057ba6bf85a29b17349ec96836cd22c129388a6c332805fe6b074b&"
   }
 }
