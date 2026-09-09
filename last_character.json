@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Carlotta:Wuthering Waves",
-  "lastName": "Carlotta",
-  "index": 48,
+  "lastId": "db:Manon:Street Fighter 6",
+  "lastName": "Manon",
+  "index": 246,
   "recent": [
+    "db:Manon:Street Fighter 6",
     "db:Carlotta:Wuthering Waves",
     "db:Nia Honjo:Date A Live",
     "db:Winry Rockbell:Fullmetal Alchemist",
@@ -36,36 +37,35 @@
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Asuna Ichinose:Blue Archive",
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
-    "db:Megumin:Konosuba",
-    "db:Becky Blackbell:Spy x Family"
+    "db:Megumin:Konosuba"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-08T20:30:12.199Z",
+  "updatedAt": "2026-09-09T02:14:06.376Z",
   "cached": {
     "character": {
-      "name": "Carlotta",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Manon",
+      "source": "Street Fighter 6",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Carlotta:Wuthering Waves",
-      "nextIndex": 48
+      "globalId": "db:Manon:Street Fighter 6",
+      "nextIndex": 246
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 205594,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
+      "source": "Street Fighter 6",
+      "fanbase": 246968,
+      "vibe": "WHOLESOME",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "An Auxiliary that aids Peavey in her mission",
-      "image": "https://media.kitsu.app/characters/images/34759/original.jpg"
+      "description": "A new Trainer just starting her journey",
+      "image": "https://media.kitsu.app/characters/images/92193/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1546980999601332234/waifu-51655a819f27bd37004d5474.png?ex=6aa1c1d3&is=6aa07053&hm=221f231844fabf288a232b7c50f5c9ef3a2f4abc0e01b4235e0464d0575d8a47&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547067545079775323/waifu-4f4133d4091fd7ede11f98db.png?ex=6aa2126d&is=6aa0c0ed&hm=831e9597622285a55a624a699779aecb3a7ed9b37cc00bc3fd5eca076672a77f&"
   }
 }
