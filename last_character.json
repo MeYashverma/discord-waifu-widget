@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kotori Itsuka:Date A Live",
-  "lastName": "Kotori Itsuka",
-  "index": 100,
+  "lastId": "db:New Jersey:Azur Lane",
+  "lastName": "New Jersey",
+  "index": 279,
   "recent": [
+    "db:New Jersey:Azur Lane",
     "db:Kotori Itsuka:Date A Live",
     "db:Yinlin:Wuthering Waves",
     "db:Irelia:League of Legends",
@@ -36,36 +37,35 @@
     "db:Mavuika:Genshin Impact",
     "db:Surtr:Arknights",
     "db:Shoko Ieiri:Jujutsu Kaisen",
-    "db:Skadi:Arknights",
-    "db:Neliel Tu Odelschwanck:Bleach"
+    "db:Skadi:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-09T20:12:44.800Z",
+  "updatedAt": "2026-09-10T02:12:06.613Z",
   "cached": {
     "character": {
-      "name": "Kotori Itsuka",
-      "source": "Date A Live",
-      "universe": "ANIME",
+      "name": "New Jersey",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kotori Itsuka:Date A Live",
-      "nextIndex": 100
+      "globalId": "db:New Jersey:Azur Lane",
+      "nextIndex": 279
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 211653,
+      "source": "Azur Lane",
+      "fanbase": 223439,
       "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "August 3 Zodiac: Leo cm AB BWH: 72-53-74 Favorite candy: Lollipop Likes: Bath b…",
-      "image": "https://media.kitsu.app/characters/images/38192/original.jpg"
+      "bio": "Character",
+      "description": "Co-owner of the game shop \"Fantasy\"",
+      "image": "https://media.kitsu.app/characters/images/45465/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547338993979498606/waifu-a6a88ac2b8712bd1cc574166.png?ex=6aa30f3c&is=6aa1bdbc&hm=a5edbfc24c057ba6bf85a29b17349ec96836cd22c129388a6c332805fe6b074b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547429431029797015/waifu-edea1b1923f274c6cc3ed351.png?ex=6aa36376&is=6aa211f6&hm=d6c9febb002f8808fda1cd74f4b418caac27111768272cffece323373b03c89a&"
   }
 }
