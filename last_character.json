@@ -1,8 +1,9 @@
 {
-  "lastId": "db:New Jersey:Azur Lane",
-  "lastName": "New Jersey",
-  "index": 279,
+  "lastId": "db:Jingliu:Honkai Star Rail",
+  "lastName": "Jingliu",
+  "index": 26,
   "recent": [
+    "db:Jingliu:Honkai Star Rail",
     "db:New Jersey:Azur Lane",
     "db:Kotori Itsuka:Date A Live",
     "db:Yinlin:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Aigis:Persona 3",
     "db:Mavuika:Genshin Impact",
     "db:Surtr:Arknights",
-    "db:Shoko Ieiri:Jujutsu Kaisen",
-    "db:Skadi:Arknights"
+    "db:Shoko Ieiri:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-10T02:12:06.613Z",
+  "updatedAt": "2026-09-10T10:17:04.169Z",
   "cached": {
     "character": {
-      "name": "New Jersey",
-      "source": "Azur Lane",
+      "name": "Jingliu",
+      "source": "Honkai Star Rail",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:New Jersey:Azur Lane",
-      "nextIndex": 279
+      "globalId": "db:Jingliu:Honkai Star Rail",
+      "nextIndex": 26
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 223439,
+      "source": "Honkai Star Rail",
+      "fanbase": 480715,
       "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Co-owner of the game shop \"Fantasy\"",
-      "image": "https://media.kitsu.app/characters/images/45465/original.jpg"
+      "description": "Jingle Is a wandering poet who travels with Herbert the Pig",
+      "image": "https://media.kitsu.app/characters/images/8048/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547429431029797015/waifu-edea1b1923f274c6cc3ed351.png?ex=6aa36376&is=6aa211f6&hm=d6c9febb002f8808fda1cd74f4b418caac27111768272cffece323373b03c89a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547551474719129610/waifu-3cd9fe0a0ab79c9900b20b5b.png?ex=6aa3d51f&is=6aa2839f&hm=bc24eec9d3268ec01075f4abe34f2c4d4663474b7807f6266daccb84b75e8266&"
   }
 }
