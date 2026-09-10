@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jingliu:Honkai Star Rail",
-  "lastName": "Jingliu",
-  "index": 26,
+  "lastId": "db:Atago:Azur Lane",
+  "lastName": "Atago",
+  "index": 277,
   "recent": [
+    "db:Atago:Azur Lane",
     "db:Jingliu:Honkai Star Rail",
     "db:New Jersey:Azur Lane",
     "db:Kotori Itsuka:Date A Live",
@@ -36,15 +37,14 @@
     "db:Perona:One Piece",
     "db:Aigis:Persona 3",
     "db:Mavuika:Genshin Impact",
-    "db:Surtr:Arknights",
-    "db:Shoko Ieiri:Jujutsu Kaisen"
+    "db:Surtr:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-10T10:17:04.169Z",
+  "updatedAt": "2026-09-10T15:31:24.513Z",
   "cached": {
     "character": {
-      "name": "Jingliu",
-      "source": "Honkai Star Rail",
+      "name": "Atago",
+      "source": "Azur Lane",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jingliu:Honkai Star Rail",
-      "nextIndex": 26
+      "globalId": "db:Atago:Azur Lane",
+      "nextIndex": 277
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 480715,
-      "vibe": "SEDUCTIVE",
-      "rating": "ELITE",
+      "source": "Azur Lane",
+      "fanbase": 196793,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Jingle Is a wandering poet who travels with Herbert the Pig",
-      "image": "https://media.kitsu.app/characters/images/8048/original.jpg"
+      "description": "\"2nd of the Takao-class, Atago",
+      "image": "https://media.kitsu.app/characters/images/88763/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547551474719129610/waifu-3cd9fe0a0ab79c9900b20b5b.png?ex=6aa3d51f&is=6aa2839f&hm=bc24eec9d3268ec01075f4abe34f2c4d4663474b7807f6266daccb84b75e8266&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547630580542214197/waifu-54c261881fb83798bbf58998.png?ex=6aa41ecb&is=6aa2cd4b&hm=b44ab39d9919d710f06f3d149396d17b866112aa99a61e2c71aa7b49a3b0aa0b&"
   }
 }
