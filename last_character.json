@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Atago:Azur Lane",
-  "lastName": "Atago",
-  "index": 277,
+  "lastId": "db:Esdeath:Akame ga Kill!",
+  "lastName": "Esdeath",
+  "index": 158,
   "recent": [
+    "db:Esdeath:Akame ga Kill!",
     "db:Atago:Azur Lane",
     "db:Jingliu:Honkai Star Rail",
     "db:New Jersey:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Jill Valentine:Resident Evil",
     "db:Perona:One Piece",
     "db:Aigis:Persona 3",
-    "db:Mavuika:Genshin Impact",
-    "db:Surtr:Arknights"
+    "db:Mavuika:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-10T15:31:24.513Z",
+  "updatedAt": "2026-09-10T20:14:30.360Z",
   "cached": {
     "character": {
-      "name": "Atago",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Esdeath",
+      "source": "Akame ga Kill!",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Atago:Azur Lane",
-      "nextIndex": 277
+      "globalId": "db:Esdeath:Akame ga Kill!",
+      "nextIndex": 158
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 196793,
+      "source": "Akame ga Kill!",
+      "fanbase": 196441,
       "vibe": "PLAYFUL",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "\"2nd of the Takao-class, Atago",
-      "image": "https://media.kitsu.app/characters/images/88763/original.jpg"
+      "description": "Esdeath is a high-ranking general of the Empire, and leader of the Jaegers",
+      "image": "https://media.kitsu.app/characters/images/40348/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547630580542214197/waifu-54c261881fb83798bbf58998.png?ex=6aa41ecb&is=6aa2cd4b&hm=b44ab39d9919d710f06f3d149396d17b866112aa99a61e2c71aa7b49a3b0aa0b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547701825023508580/waifu-f707bd287a12cb41e1f7dc2c.png?ex=6aa46125&is=6aa30fa5&hm=d1c4da8655f3137a9e6c997dc69d5c8521fd19314094cf62a6ddab7e1f0f1efc&"
   }
 }
