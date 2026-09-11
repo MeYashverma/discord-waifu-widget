@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Cana Alberona:Fairy Tail",
-  "lastName": "Cana Alberona",
-  "index": 109,
+  "lastId": "db:Android 18:Dragon Ball Z",
+  "lastName": "Android 18",
+  "index": 298,
   "recent": [
+    "db:Android 18:Dragon Ball Z",
     "db:Cana Alberona:Fairy Tail",
     "db:Yamato:One Piece",
     "db:W:Arknights",
@@ -36,15 +37,14 @@
     "db:Yuuka Hayase:Blue Archive",
     "db:Nowa Sugaya:My Dress-Up Darling",
     "db:Sajuna Inui:My Dress-Up Darling",
-    "db:2B:NieR Automata",
-    "db:Jill Valentine:Resident Evil"
+    "db:2B:NieR Automata"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-11T15:33:19.568Z",
+  "updatedAt": "2026-09-11T20:13:57.940Z",
   "cached": {
     "character": {
-      "name": "Cana Alberona",
-      "source": "Fairy Tail",
+      "name": "Android 18",
+      "source": "Dragon Ball Z",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Cana Alberona:Fairy Tail",
-      "nextIndex": 109
+      "globalId": "db:Android 18:Dragon Ball Z",
+      "nextIndex": 298
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 190809,
+      "source": "Dragon Ball Z",
+      "fanbase": 265065,
       "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Cana Alberona is a member of the Fairy Tail guild",
-      "image": "https://media.kitsu.app/characters/images/29782/original.jpg"
+      "description": "Darin's zombie-cyborg owl",
+      "image": "https://media.kitsu.app/characters/images/38559/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547993447867088936/waifu-73d6c79b4085edf5b3247786.png?ex=6aa570be&is=6aa41f3e&hm=aa727a4f91c6a00cd63d09f6229732d392d6a3461031fbd3d0bee12e415a1822&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548064076813303818/waifu-a042034d9db13f4d17ad213f.png?ex=6aa5b285&is=6aa46105&hm=45f423830d0c51b32232299e3ba92c636be7d9a4d2b402b836c1f77f2336da11&"
   }
 }
