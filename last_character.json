@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Esdeath:Akame ga Kill!",
-  "lastName": "Esdeath",
-  "index": 158,
+  "lastId": "db:W:Arknights",
+  "lastName": "W",
+  "index": 289,
   "recent": [
+    "db:W:Arknights",
     "db:Esdeath:Akame ga Kill!",
     "db:Atago:Azur Lane",
     "db:Jingliu:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:2B:NieR Automata",
     "db:Jill Valentine:Resident Evil",
     "db:Perona:One Piece",
-    "db:Aigis:Persona 3",
-    "db:Mavuika:Genshin Impact"
+    "db:Aigis:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-10T20:14:30.360Z",
+  "updatedAt": "2026-09-11T02:08:31.134Z",
   "cached": {
     "character": {
-      "name": "Esdeath",
-      "source": "Akame ga Kill!",
-      "universe": "ANIME",
+      "name": "W",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Esdeath:Akame ga Kill!",
-      "nextIndex": 158
+      "globalId": "db:W:Arknights",
+      "nextIndex": 289
     },
     "meta": {
-      "source": "Akame ga Kill!",
-      "fanbase": 196441,
+      "source": "Arknights",
+      "fanbase": 223099,
       "vibe": "PLAYFUL",
-      "rating": "POPULAR",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Esdeath is a high-ranking general of the Empire, and leader of the Jaegers",
-      "image": "https://media.kitsu.app/characters/images/40348/original.jpg"
+      "bio": "Assassin",
+      "description": "Race: Dwarf Class: Assassin Subclass: Alchemist Guild: Grandeur Affiliation: Ro…",
+      "image": "https://media.kitsu.app/characters/images/64785/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547701825023508580/waifu-f707bd287a12cb41e1f7dc2c.png?ex=6aa46125&is=6aa30fa5&hm=d1c4da8655f3137a9e6c997dc69d5c8521fd19314094cf62a6ddab7e1f0f1efc&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547790914670559282/waifu-b6034d5fd1ca909b49d32641.png?ex=6aa4b41e&is=6aa3629e&hm=89c3bd9a4bef8e212a89387f980f2354df5aa3162bd0c26cf97b990bfde67242&"
   }
 }
