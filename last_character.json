@@ -1,8 +1,9 @@
 {
-  "lastId": "db:W:Arknights",
-  "lastName": "W",
-  "index": 289,
+  "lastId": "db:Yamato:One Piece",
+  "lastName": "Yamato",
+  "index": 167,
   "recent": [
+    "db:Yamato:One Piece",
     "db:W:Arknights",
     "db:Esdeath:Akame ga Kill!",
     "db:Atago:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:2B:NieR Automata",
     "db:Jill Valentine:Resident Evil",
-    "db:Perona:One Piece",
-    "db:Aigis:Persona 3"
+    "db:Perona:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-11T02:08:31.134Z",
+  "updatedAt": "2026-09-11T10:15:35.914Z",
   "cached": {
     "character": {
-      "name": "W",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Yamato",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:W:Arknights",
-      "nextIndex": 289
+      "globalId": "db:Yamato:One Piece",
+      "nextIndex": 167
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 223099,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
+      "source": "One Piece",
+      "fanbase": 552968,
+      "vibe": "ELEGANT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Race: Dwarf Class: Assassin Subclass: Alchemist Guild: Grandeur Affiliation: Ro…",
-      "image": "https://media.kitsu.app/characters/images/64785/original.jpg"
+      "bio": "Character",
+      "description": "Yamato from One Piece",
+      "image": "https://media.kitsu.app/characters/images/74797/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547790914670559282/waifu-b6034d5fd1ca909b49d32641.png?ex=6aa4b41e&is=6aa3629e&hm=89c3bd9a4bef8e212a89387f980f2354df5aa3162bd0c26cf97b990bfde67242&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547913492655247470/waifu-1fdc9c672c43f7418c82b1b1.png?ex=6aa52647&is=6aa3d4c7&hm=10c23914e7543e1c7a2165a7ecced0f406b10f5650e8c9e9fa8ecc43fb91fb43&"
   }
 }
