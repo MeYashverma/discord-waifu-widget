@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yamato:One Piece",
-  "lastName": "Yamato",
-  "index": 167,
+  "lastId": "db:Cana Alberona:Fairy Tail",
+  "lastName": "Cana Alberona",
+  "index": 109,
   "recent": [
+    "db:Cana Alberona:Fairy Tail",
     "db:Yamato:One Piece",
     "db:W:Arknights",
     "db:Esdeath:Akame ga Kill!",
@@ -36,15 +37,14 @@
     "db:Nowa Sugaya:My Dress-Up Darling",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:2B:NieR Automata",
-    "db:Jill Valentine:Resident Evil",
-    "db:Perona:One Piece"
+    "db:Jill Valentine:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-11T10:15:35.914Z",
+  "updatedAt": "2026-09-11T15:33:19.568Z",
   "cached": {
     "character": {
-      "name": "Yamato",
-      "source": "One Piece",
+      "name": "Cana Alberona",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yamato:One Piece",
-      "nextIndex": 167
+      "globalId": "db:Cana Alberona:Fairy Tail",
+      "nextIndex": 109
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 552968,
-      "vibe": "ELEGANT",
-      "rating": "LEGENDARY",
+      "source": "Fairy Tail",
+      "fanbase": 190809,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Yamato from One Piece",
-      "image": "https://media.kitsu.app/characters/images/74797/original.jpg"
+      "description": "Cana Alberona is a member of the Fairy Tail guild",
+      "image": "https://media.kitsu.app/characters/images/29782/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547913492655247470/waifu-1fdc9c672c43f7418c82b1b1.png?ex=6aa52647&is=6aa3d4c7&hm=10c23914e7543e1c7a2165a7ecced0f406b10f5650e8c9e9fa8ecc43fb91fb43&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1547993447867088936/waifu-73d6c79b4085edf5b3247786.png?ex=6aa570be&is=6aa41f3e&hm=aa727a4f91c6a00cd63d09f6229732d392d6a3461031fbd3d0bee12e415a1822&"
   }
 }
