@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Belfast:Azur Lane",
-  "lastName": "Belfast",
-  "index": 276,
+  "lastId": "db:Jinhsi:Wuthering Waves",
+  "lastName": "Jinhsi",
+  "index": 44,
   "recent": [
+    "db:Jinhsi:Wuthering Waves",
     "db:Belfast:Azur Lane",
     "db:Kafka:Honkai Star Rail",
     "db:Aigis:Persona 3",
@@ -36,15 +37,14 @@
     "db:Ashley Graham:Resident Evil 4",
     "db:Crusch Karsten:Re:Zero",
     "db:Bambietta Basterbine:Bleach",
-    "db:Mitsuru Kirijo:Persona 3",
-    "db:Yuuka Hayase:Blue Archive"
+    "db:Mitsuru Kirijo:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-12T14:39:38.489Z",
+  "updatedAt": "2026-09-12T19:52:57.489Z",
   "cached": {
     "character": {
-      "name": "Belfast",
-      "source": "Azur Lane",
+      "name": "Jinhsi",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Belfast:Azur Lane",
-      "nextIndex": 276
+      "globalId": "db:Jinhsi:Wuthering Waves",
+      "nextIndex": 44
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 265362,
-      "vibe": "MYSTERIOUS",
+      "source": "Wuthering Waves",
+      "fanbase": 240363,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Edinburgh-Class Light Cruiser",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130070-aFSpprHYoWNn.jpg"
+      "bio": "Character",
+      "description": "No biography written",
+      "image": "https://media.kitsu.app/characters/images/15836/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548342328937418832/waifu-db4ba776c5aca8cecf5ef44c.png?ex=6aa6b5aa&is=6aa5642a&hm=39795d515b457b78aee93e1130eb7fb1d65b20b8ed2384480d3640089c9c2c65&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548421177930944572/waifu-4b07a7a4bad9f23a801fd788.png?ex=6aa6ff19&is=6aa5ad99&hm=45ceff4e6c913cae2d25bcce1a8a98aa8c7038e08ff8674d269d52c0c854aaab&"
   }
 }
