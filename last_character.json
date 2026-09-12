@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Aigis:Persona 3",
-  "lastName": "Aigis",
-  "index": 271,
+  "lastId": "db:Kafka:Honkai Star Rail",
+  "lastName": "Kafka",
+  "index": 21,
   "recent": [
+    "db:Kafka:Honkai Star Rail",
     "db:Aigis:Persona 3",
     "db:Android 18:Dragon Ball Z",
     "db:Cana Alberona:Fairy Tail",
@@ -36,36 +37,35 @@
     "db:Bambietta Basterbine:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Yuuka Hayase:Blue Archive",
-    "db:Nowa Sugaya:My Dress-Up Darling",
-    "db:Sajuna Inui:My Dress-Up Darling"
+    "db:Nowa Sugaya:My Dress-Up Darling"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-12T02:14:06.059Z",
+  "updatedAt": "2026-09-12T09:49:07.957Z",
   "cached": {
     "character": {
-      "name": "Aigis",
-      "source": "Persona 3",
-      "universe": "JRPG",
+      "name": "Kafka",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aigis:Persona 3",
-      "nextIndex": 271
+      "globalId": "db:Kafka:Honkai Star Rail",
+      "nextIndex": 21
     },
     "meta": {
-      "source": "Persona 3",
-      "fanbase": 254915,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
+      "source": "Honkai Star Rail",
+      "fanbase": 470737,
+      "vibe": "ROYAL",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Aisia came to Hatsunejima to study magic with \"Grandma\", and thought Jun'ichi w…",
-      "image": "https://media.kitsu.app/characters/images/5989/original.jpg"
+      "bio": "Stellaron Hunter",
+      "description": "Mysterious Stellaron Hunter",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548154705782513805/waifu-6df5445ee66bd7c6c5b911f6.png?ex=6aa606ed&is=6aa4b56d&hm=e8836d536195e2883a0952d3cf418ff9fc9b1e48263ad58c18294281f5aca934&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548269219429486632/waifu-a6d00a34fc9af0978d5317f6.png?ex=6aa67193&is=6aa52013&hm=9a29e2e3852ed7963d444904bc6afad86368fb6a745967e3b0e2fde76aecf1b5&"
   }
 }
