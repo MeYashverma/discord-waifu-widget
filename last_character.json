@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kafka:Honkai Star Rail",
-  "lastName": "Kafka",
-  "index": 21,
+  "lastId": "db:Belfast:Azur Lane",
+  "lastName": "Belfast",
+  "index": 276,
   "recent": [
+    "db:Belfast:Azur Lane",
     "db:Kafka:Honkai Star Rail",
     "db:Aigis:Persona 3",
     "db:Android 18:Dragon Ball Z",
@@ -36,15 +37,14 @@
     "db:Crusch Karsten:Re:Zero",
     "db:Bambietta Basterbine:Bleach",
     "db:Mitsuru Kirijo:Persona 3",
-    "db:Yuuka Hayase:Blue Archive",
-    "db:Nowa Sugaya:My Dress-Up Darling"
+    "db:Yuuka Hayase:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-12T09:49:07.957Z",
+  "updatedAt": "2026-09-12T14:39:38.489Z",
   "cached": {
     "character": {
-      "name": "Kafka",
-      "source": "Honkai Star Rail",
+      "name": "Belfast",
+      "source": "Azur Lane",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kafka:Honkai Star Rail",
-      "nextIndex": 21
+      "globalId": "db:Belfast:Azur Lane",
+      "nextIndex": 276
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 470737,
-      "vibe": "ROYAL",
-      "rating": "ELITE",
+      "source": "Azur Lane",
+      "fanbase": 265362,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Stellaron Hunter",
-      "description": "Mysterious Stellaron Hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png"
+      "bio": "Royalty",
+      "description": "Edinburgh-Class Light Cruiser",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130070-aFSpprHYoWNn.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548269219429486632/waifu-a6d00a34fc9af0978d5317f6.png?ex=6aa67193&is=6aa52013&hm=9a29e2e3852ed7963d444904bc6afad86368fb6a745967e3b0e2fde76aecf1b5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548342328937418832/waifu-db4ba776c5aca8cecf5ef44c.png?ex=6aa6b5aa&is=6aa5642a&hm=39795d515b457b78aee93e1130eb7fb1d65b20b8ed2384480d3640089c9c2c65&"
   }
 }
