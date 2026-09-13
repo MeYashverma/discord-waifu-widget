@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Origami Tobiichi:Date A Live",
-  "lastName": "Origami Tobiichi",
-  "index": 99,
+  "lastId": "db:Fran:Final Fantasy XII",
+  "lastName": "Fran",
+  "index": 217,
   "recent": [
+    "db:Fran:Final Fantasy XII",
     "db:Origami Tobiichi:Date A Live",
     "db:Daki:Demon Slayer",
     "db:Jinhsi:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Miss Fortune:League of Legends",
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Akali:League of Legends",
-    "db:Ashley Graham:Resident Evil 4",
-    "db:Crusch Karsten:Re:Zero"
+    "db:Ashley Graham:Resident Evil 4"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-13T10:49:14.297Z",
+  "updatedAt": "2026-09-13T15:19:46.824Z",
   "cached": {
     "character": {
-      "name": "Origami Tobiichi",
-      "source": "Date A Live",
-      "universe": "ANIME",
+      "name": "Fran",
+      "source": "Final Fantasy XII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Origami Tobiichi:Date A Live",
-      "nextIndex": 99
+      "globalId": "db:Fran:Final Fantasy XII",
+      "nextIndex": 217
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 241093,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "16-18",
-      "blood": "A",
-      "bio": "Student",
-      "description": "cm Origami Tobiichi is a student of Raizen High School, she is known for having…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65261-VebXn2wCS8K8.png"
+      "source": "Final Fantasy XII",
+      "fanbase": 218440,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "19-23, (30's in Another Monster)",
+      "blood": "Unknown",
+      "bio": "Devil",
+      "description": "Johan Liebert is the older twin son of the Lieberts, whose father Michael was a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548646734366900314/waifu-abc29f61b9e0a2af67969747.png?ex=6aa7d129&is=6aa67fa9&hm=baf3936954247ef38a7c2e54863261ca6c8b681bc9ef1d6580226494c1af3eb2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548714817877966908/waifu-31973d2a60c6e7d2f1a7aecf.png?ex=6aa81092&is=6aa6bf12&hm=436ef139c677888f16b98ed7c06650ba9afb8eb3e95824970edcb54fcf486f99&"
   }
 }
