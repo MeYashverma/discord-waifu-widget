@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Daki:Demon Slayer",
-  "lastName": "Daki",
-  "index": 120,
+  "lastId": "db:Origami Tobiichi:Date A Live",
+  "lastName": "Origami Tobiichi",
+  "index": 99,
   "recent": [
+    "db:Origami Tobiichi:Date A Live",
     "db:Daki:Demon Slayer",
     "db:Jinhsi:Wuthering Waves",
     "db:Belfast:Azur Lane",
@@ -36,15 +37,14 @@
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Akali:League of Legends",
     "db:Ashley Graham:Resident Evil 4",
-    "db:Crusch Karsten:Re:Zero",
-    "db:Bambietta Basterbine:Bleach"
+    "db:Crusch Karsten:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-13T02:11:15.677Z",
+  "updatedAt": "2026-09-13T10:49:14.297Z",
   "cached": {
     "character": {
-      "name": "Daki",
-      "source": "Demon Slayer",
+      "name": "Origami Tobiichi",
+      "source": "Date A Live",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Daki:Demon Slayer",
-      "nextIndex": 120
+      "globalId": "db:Origami Tobiichi:Date A Live",
+      "nextIndex": 99
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 572283,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "13-16",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Combat Style: Water Breathing & Sun Breathing Tanjirou is kind by nature and…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+      "source": "Date A Live",
+      "fanbase": 241093,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
+      "age": "16-18",
+      "blood": "A",
+      "bio": "Student",
+      "description": "cm Origami Tobiichi is a student of Raizen High School, she is known for having…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65261-VebXn2wCS8K8.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548516380947652739/waifu-29f37cb973852eebd6dbacb8.png?ex=6aa757c3&is=6aa60643&hm=673405f1273c95c0adec66f4fe7bf8a1ef6b3da1a121f3453e725f611c429f33&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548646734366900314/waifu-abc29f61b9e0a2af67969747.png?ex=6aa7d129&is=6aa67fa9&hm=baf3936954247ef38a7c2e54863261ca6c8b681bc9ef1d6580226494c1af3eb2&"
   }
 }
