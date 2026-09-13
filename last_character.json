@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fran:Final Fantasy XII",
-  "lastName": "Fran",
-  "index": 217,
+  "lastId": "db:Makima:Chainsaw Man",
+  "lastName": "Makima",
+  "index": 73,
   "recent": [
+    "db:Makima:Chainsaw Man",
     "db:Fran:Final Fantasy XII",
     "db:Origami Tobiichi:Date A Live",
     "db:Daki:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Nami:One Piece",
     "db:Miss Fortune:League of Legends",
     "db:Yuffie Kisaragi:Final Fantasy VII",
-    "db:Akali:League of Legends",
-    "db:Ashley Graham:Resident Evil 4"
+    "db:Akali:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-13T15:19:46.824Z",
+  "updatedAt": "2026-09-13T20:01:10.499Z",
   "cached": {
     "character": {
-      "name": "Fran",
-      "source": "Final Fantasy XII",
-      "universe": "JRPG",
+      "name": "Makima",
+      "source": "Chainsaw Man",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fran:Final Fantasy XII",
-      "nextIndex": 217
+      "globalId": "db:Makima:Chainsaw Man",
+      "nextIndex": 73
     },
     "meta": {
-      "source": "Final Fantasy XII",
-      "fanbase": 218440,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "19-23, (30's in Another Monster)",
+      "source": "Chainsaw Man",
+      "fanbase": 456163,
+      "vibe": "DEADLY",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Johan Liebert is the older twin son of the Lieberts, whose father Michael was a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
+      "bio": "Devil Hunter",
+      "description": "Tokyo Special Division 4",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548714817877966908/waifu-31973d2a60c6e7d2f1a7aecf.png?ex=6aa81092&is=6aa6bf12&hm=436ef139c677888f16b98ed7c06650ba9afb8eb3e95824970edcb54fcf486f99&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548785633214861483/waifu-d766273f50c8cfa7ec808f01.png?ex=6aa85286&is=6aa70106&hm=ea172d881d4c9c9d5ee5d1f2b35fafddb65f1bc6b9d11156ddfd80b345e055fc&"
   }
 }
