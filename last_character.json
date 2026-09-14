@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Misato Katsuragi:Neon Genesis Evangelion",
-  "lastName": "Misato Katsuragi",
-  "index": 150,
+  "lastId": "db:Mine:Akame ga Kill!",
+  "lastName": "Mine",
+  "index": 161,
   "recent": [
+    "db:Mine:Akame ga Kill!",
     "db:Misato Katsuragi:Neon Genesis Evangelion",
     "db:Makima:Chainsaw Man",
     "db:Fran:Final Fantasy XII",
@@ -36,15 +37,14 @@
     "db:Shionne Imeris:Tales of Arise",
     "db:Scarlet:Nikke",
     "db:Nami:One Piece",
-    "db:Miss Fortune:League of Legends",
-    "db:Yuffie Kisaragi:Final Fantasy VII"
+    "db:Miss Fortune:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-14T02:29:15.060Z",
+  "updatedAt": "2026-09-14T11:17:08.595Z",
   "cached": {
     "character": {
-      "name": "Misato Katsuragi",
-      "source": "Neon Genesis Evangelion",
+      "name": "Mine",
+      "source": "Akame ga Kill!",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Misato Katsuragi:Neon Genesis Evangelion",
-      "nextIndex": 150
+      "globalId": "db:Mine:Akame ga Kill!",
+      "nextIndex": 161
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 209117,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "29",
-      "blood": "A",
-      "bio": "Captain",
-      "description": "cm Misato Katsuragi is the chief operations officer at NERV, initially holding …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+      "source": "Akame ga Kill!",
+      "fanbase": 267000,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Assassin",
+      "description": "cm Mine is a self-proclaimed \"Genius Sniper\", as well as being a sharp-tongued …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1548883296170156092/waifu-a2afefd2904c6c6e1c5e63b3.png?ex=6aa8ad7a&is=6aa75bfa&hm=a431d09804d118f045a8b1c2d8d57eff6bc8e5ab2e2e1c5299efa558cddef698&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549016144424214578/waifu-8cb543120cd21a78dbe04943.png?ex=6aa92934&is=6aa7d7b4&hm=931d99dfcb7587f79555a7f89e4e2ba2de16ec5b24a55d38d2a85ac8be5e2a4d&"
   }
 }
