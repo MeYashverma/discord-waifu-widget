@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
-  "lastName": "Sajuna Inui",
-  "index": 155,
+  "lastId": "db:Yuuka Hayase:Blue Archive",
+  "lastName": "Yuuka Hayase",
+  "index": 69,
   "recent": [
+    "db:Yuuka Hayase:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Mine:Akame ga Kill!",
     "db:Misato Katsuragi:Neon Genesis Evangelion",
@@ -36,36 +37,35 @@
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Rin Tohsaka:Fate/stay night",
     "db:Shionne Imeris:Tales of Arise",
-    "db:Scarlet:Nikke",
-    "db:Nami:One Piece"
+    "db:Scarlet:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-14T17:16:21.153Z",
+  "updatedAt": "2026-09-14T21:11:35.830Z",
   "cached": {
     "character": {
-      "name": "Sajuna Inui",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Yuuka Hayase",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
-      "nextIndex": 155
+      "globalId": "db:Yuuka Hayase:Blue Archive",
+      "nextIndex": 69
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 207074,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "Blue Archive",
+      "fanbase": 269309,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
+      "age": "16",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A famous cosplayer that looks up to",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+      "bio": "Student",
+      "description": "Academy: Millennium Science School Year: 2nd Year The treasurer of Seminar, the…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264237-sAM1foeXoY8M.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549106542723203123/waifu-b95cb77b2891a829327af9ef.png?ex=6aa97d64&is=6aa82be4&hm=5f23208742f70cc012a08ee406d24563f8c5c409db86fb96866665bf4e06ee36&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549165743369752636/waifu-4e901aec413efc59a579a22e.png?ex=6aa9b487&is=6aa86307&hm=d0767c2cf6800b95697cacf2976a7af0a8927599a293aa42a190e707c4dbaa72&"
   }
 }
