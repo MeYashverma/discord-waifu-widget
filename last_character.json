@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mine:Akame ga Kill!",
-  "lastName": "Mine",
-  "index": 161,
+  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
+  "lastName": "Sajuna Inui",
+  "index": 155,
   "recent": [
+    "db:Sajuna Inui:My Dress-Up Darling",
     "db:Mine:Akame ga Kill!",
     "db:Misato Katsuragi:Neon Genesis Evangelion",
     "db:Makima:Chainsaw Man",
@@ -36,15 +37,14 @@
     "db:Rin Tohsaka:Fate/stay night",
     "db:Shionne Imeris:Tales of Arise",
     "db:Scarlet:Nikke",
-    "db:Nami:One Piece",
-    "db:Miss Fortune:League of Legends"
+    "db:Nami:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-14T11:17:08.595Z",
+  "updatedAt": "2026-09-14T17:16:21.153Z",
   "cached": {
     "character": {
-      "name": "Mine",
-      "source": "Akame ga Kill!",
+      "name": "Sajuna Inui",
+      "source": "My Dress-Up Darling",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mine:Akame ga Kill!",
-      "nextIndex": 161
+      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
+      "nextIndex": 155
     },
     "meta": {
-      "source": "Akame ga Kill!",
-      "fanbase": 267000,
+      "source": "My Dress-Up Darling",
+      "fanbase": 207074,
       "vibe": "YANDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "cm Mine is a self-proclaimed \"Genius Sniper\", as well as being a sharp-tongued …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+      "bio": "Character",
+      "description": "A famous cosplayer that looks up to",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549016144424214578/waifu-8cb543120cd21a78dbe04943.png?ex=6aa92934&is=6aa7d7b4&hm=931d99dfcb7587f79555a7f89e4e2ba2de16ec5b24a55d38d2a85ac8be5e2a4d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549106542723203123/waifu-b95cb77b2891a829327af9ef.png?ex=6aa97d64&is=6aa82be4&hm=5f23208742f70cc012a08ee406d24563f8c5c409db86fb96866665bf4e06ee36&"
   }
 }
