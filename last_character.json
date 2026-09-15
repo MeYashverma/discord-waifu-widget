@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ganyu:Genshin Impact",
-  "lastName": "Ganyu",
-  "index": 8,
+  "lastId": "db:Eula:Genshin Impact",
+  "lastName": "Eula",
+  "index": 4,
   "recent": [
+    "db:Eula:Genshin Impact",
     "db:Ganyu:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
@@ -36,14 +37,13 @@
     "db:Fami:Chainsaw Man",
     "db:Miyabi:Zenless Zone Zero",
     "db:Rogue Amendiares:Cyberpunk 2077",
-    "db:Rin Tohsaka:Fate/stay night",
-    "db:Shionne Imeris:Tales of Arise"
+    "db:Rin Tohsaka:Fate/stay night"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-15T02:33:29.310Z",
+  "updatedAt": "2026-09-15T10:42:56.012Z",
   "cached": {
     "character": {
-      "name": "Ganyu",
+      "name": "Eula",
       "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ganyu:Genshin Impact",
-      "nextIndex": 8
+      "globalId": "db:Eula:Genshin Impact",
+      "nextIndex": 4
     },
     "meta": {
       "source": "Genshin Impact",
-      "fanbase": 548423,
-      "vibe": "SEDUCTIVE",
+      "fanbase": 543254,
+      "vibe": "ELEGANT",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A half-adeptus emissary and secretary for the Liyue Qixing",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233410-ighPdb5x8tQK.png"
+      "bio": "Knight",
+      "description": "Spindrift Knight",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359531-beb89fDCTeA3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549246742808236112/waifu-595843821eb367ce57d61224.png?ex=6aa9fff7&is=6aa8ae77&hm=9e75471c9cfe04f6dd117fbb41e89859ca0aa6539c77e4cb0746a87c28b27973&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549369922961014834/waifu-899d5c5c8cf02ab7f60604a5.png?ex=6aaa72af&is=6aa9212f&hm=309c5643de71fcfcf2556f3a67464406c0170581bf04651ed5c4e98517110caf&"
   }
 }
