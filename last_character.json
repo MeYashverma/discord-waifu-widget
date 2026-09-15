@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Vinsmoke Reiju:One Piece",
-  "lastName": "Vinsmoke Reiju",
-  "index": 168,
+  "lastId": "db:Asuka Langley Soryu:Neon Genesis Evangelion",
+  "lastName": "Asuka Langley Soryu",
+  "index": 148,
   "recent": [
+    "db:Asuka Langley Soryu:Neon Genesis Evangelion",
     "db:Vinsmoke Reiju:One Piece",
     "db:Eula:Genshin Impact",
     "db:Ganyu:Genshin Impact",
@@ -36,15 +37,14 @@
     "db:Ymir:Attack on Titan",
     "db:Rossweisse:High School DxD",
     "db:Fami:Chainsaw Man",
-    "db:Miyabi:Zenless Zone Zero",
-    "db:Rogue Amendiares:Cyberpunk 2077"
+    "db:Miyabi:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-15T15:55:46.762Z",
+  "updatedAt": "2026-09-15T20:39:59.178Z",
   "cached": {
     "character": {
-      "name": "Vinsmoke Reiju",
-      "source": "One Piece",
+      "name": "Asuka Langley Soryu",
+      "source": "Neon Genesis Evangelion",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Vinsmoke Reiju:One Piece",
-      "nextIndex": 168
+      "globalId": "db:Asuka Langley Soryu:Neon Genesis Evangelion",
+      "nextIndex": 148
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 568634,
-      "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "24",
-      "blood": "F",
-      "bio": "Royalty",
-      "description": "cm Vinsmoke Reiju also known as \"Poison Pink\", is the eldest child and only dau…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127891-FSRMoIQeDyV8.png"
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 241058,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "28 mentally Birthdate: December 4, 2001 Zodiac sign: Sagittarius A Origin: Wilh…",
+      "image": "https://media.kitsu.app/characters/images/1155/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549448653360341002/waifu-1284dac3bd1d209ab0393de9.png?ex=6aaabc02&is=6aa96a82&hm=1a15fcf011e058c74364349860c5dc1cab69769e7d5351a7b1edcc387c023b17&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549520175546499112/waifu-64911668ce4f2ddfaa156532.png?ex=6aaafe9e&is=6aa9ad1e&hm=27e0034d1d06c55f462446453a707c49a25ce94849487d9b8c3a05fdd323c4a3&"
   }
 }
