@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuuka Hayase:Blue Archive",
-  "lastName": "Yuuka Hayase",
-  "index": 69,
+  "lastId": "db:Ganyu:Genshin Impact",
+  "lastName": "Ganyu",
+  "index": 8,
   "recent": [
+    "db:Ganyu:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Mine:Akame ga Kill!",
@@ -36,15 +37,14 @@
     "db:Miyabi:Zenless Zone Zero",
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Rin Tohsaka:Fate/stay night",
-    "db:Shionne Imeris:Tales of Arise",
-    "db:Scarlet:Nikke"
+    "db:Shionne Imeris:Tales of Arise"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-14T21:11:35.830Z",
+  "updatedAt": "2026-09-15T02:33:29.310Z",
   "cached": {
     "character": {
-      "name": "Yuuka Hayase",
-      "source": "Blue Archive",
+      "name": "Ganyu",
+      "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuuka Hayase:Blue Archive",
-      "nextIndex": 69
+      "globalId": "db:Ganyu:Genshin Impact",
+      "nextIndex": 8
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 269309,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "16",
+      "source": "Genshin Impact",
+      "fanbase": 548423,
+      "vibe": "SEDUCTIVE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Academy: Millennium Science School Year: 2nd Year The treasurer of Seminar, the…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264237-sAM1foeXoY8M.png"
+      "bio": "Character",
+      "description": "A half-adeptus emissary and secretary for the Liyue Qixing",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233410-ighPdb5x8tQK.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549165743369752636/waifu-4e901aec413efc59a579a22e.png?ex=6aa9b487&is=6aa86307&hm=d0767c2cf6800b95697cacf2976a7af0a8927599a293aa42a190e707c4dbaa72&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549246742808236112/waifu-595843821eb367ce57d61224.png?ex=6aa9fff7&is=6aa8ae77&hm=9e75471c9cfe04f6dd117fbb41e89859ca0aa6539c77e4cb0746a87c28b27973&"
   }
 }
