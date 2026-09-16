@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Utahime Iori:Jujutsu Kaisen",
-  "lastName": "Utahime Iori",
-  "index": 128,
+  "lastId": "db:Texas:Arknights",
+  "lastName": "Texas",
+  "index": 284,
   "recent": [
+    "db:Texas:Arknights",
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Baizhi:Wuthering Waves",
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
@@ -36,36 +37,35 @@
     "db:Carlotta:Wuthering Waves",
     "db:Nia Honjo:Date A Live",
     "db:Winry Rockbell:Fullmetal Alchemist",
-    "db:Ymir:Attack on Titan",
-    "db:Rossweisse:High School DxD"
+    "db:Ymir:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-16T10:30:47.184Z",
+  "updatedAt": "2026-09-16T15:48:10.805Z",
   "cached": {
     "character": {
-      "name": "Utahime Iori",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Texas",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Utahime Iori:Jujutsu Kaisen",
-      "nextIndex": 128
+      "globalId": "db:Texas:Arknights",
+      "nextIndex": 284
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 530308,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
-      "age": "31",
+      "source": "Arknights",
+      "fanbase": 218823,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "A first grade sorcerer and a teacher at Kyoto Jujutsu Technical High School",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg"
+      "bio": "Character",
+      "description": "Place of Birth: Columbia Race: Lupo cm Texas is a Penguin Logistics staff membe…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174796-2A6FqY7qBjXB.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549729254202282045/waifu-3a15dcb437087ef9c24dbf7d.png?ex=6aabc156&is=6aaa6fd6&hm=9fbcfcac344286446e68ffff44c9d48df4ca26a47d1f71e8a60c48ac1c1ff96d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549809128405205092/waifu-da1c69f4ec466d4461ce1548.png?ex=6aac0bba&is=6aaaba3a&hm=795c2c078d5fd541284f99b89dc3abb015ee94f36854c539a4cee38d47d5d204&"
   }
 }
