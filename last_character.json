@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Texas:Arknights",
-  "lastName": "Texas",
-  "index": 284,
+  "lastId": "db:Megumin:Konosuba",
+  "lastName": "Megumin",
+  "index": 193,
   "recent": [
+    "db:Megumin:Konosuba",
     "db:Texas:Arknights",
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Baizhi:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Manon:Street Fighter 6",
     "db:Carlotta:Wuthering Waves",
     "db:Nia Honjo:Date A Live",
-    "db:Winry Rockbell:Fullmetal Alchemist",
-    "db:Ymir:Attack on Titan"
+    "db:Winry Rockbell:Fullmetal Alchemist"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-16T15:48:10.805Z",
+  "updatedAt": "2026-09-16T20:40:07.280Z",
   "cached": {
     "character": {
-      "name": "Texas",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Megumin",
+      "source": "Konosuba",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Texas:Arknights",
-      "nextIndex": 284
+      "globalId": "db:Megumin:Konosuba",
+      "nextIndex": 193
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 218823,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Konosuba",
+      "fanbase": 259337,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
+      "age": "13-17",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Place of Birth: Columbia Race: Lupo cm Texas is a Penguin Logistics staff membe…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174796-2A6FqY7qBjXB.jpg"
+      "bio": "Mage",
+      "description": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549809128405205092/waifu-da1c69f4ec466d4461ce1548.png?ex=6aac0bba&is=6aaaba3a&hm=795c2c078d5fd541284f99b89dc3abb015ee94f36854c539a4cee38d47d5d204&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549882598128357547/waifu-a1b90ae95ac74778d110e519.png?ex=6aac5026&is=6aaafea6&hm=f808c81dfec247af5ffbec3410cabdc1fc211f9e9280b31838f45f7c29af4ca6&"
   }
 }
