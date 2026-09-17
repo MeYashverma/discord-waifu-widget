@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Cornelia li Britannia:Code Geass",
-  "lastName": "Cornelia li Britannia",
-  "index": 191,
+  "lastId": "db:Jeanne:Bayonetta",
+  "lastName": "Jeanne",
+  "index": 260,
   "recent": [
+    "db:Jeanne:Bayonetta",
     "db:Cornelia li Britannia:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Megumin:Konosuba",
@@ -36,36 +37,35 @@
     "db:Kotori Itsuka:Date A Live",
     "db:Yinlin:Wuthering Waves",
     "db:Irelia:League of Legends",
-    "db:Manon:Street Fighter 6",
-    "db:Carlotta:Wuthering Waves"
+    "db:Manon:Street Fighter 6"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-17T10:40:41.648Z",
+  "updatedAt": "2026-09-17T15:54:49.163Z",
   "cached": {
     "character": {
-      "name": "Cornelia li Britannia",
-      "source": "Code Geass",
-      "universe": "ANIME",
+      "name": "Jeanne",
+      "source": "Bayonetta",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Cornelia li Britannia:Code Geass",
-      "nextIndex": 191
+      "globalId": "db:Jeanne:Bayonetta",
+      "nextIndex": 260
     },
     "meta": {
-      "source": "Code Geass",
-      "fanbase": 184893,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "27-28",
-      "blood": "O",
-      "bio": "Royalty",
-      "description": "Cornelia is the second princess of the Britannia Imperial Family and, as such, …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg"
+      "source": "Bayonetta",
+      "fanbase": 231467,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550094133895630908/waifu-4842e5b1ab1a3d3d71ec4204.png?ex=6aad1528&is=6aabc3a8&hm=fee619f2d9b653d15e1d2c2e92f2ce0b13c084a405d7baacb21b4b93d8b7d48f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550173187906736148/waifu-e6045378a725917caf1d2dab.png?ex=6aad5ec8&is=6aac0d48&hm=c12472ee76cdd9a8a9cdecb37ecc4c529aa7c4bb1fc7e1b8b955c5ca0a6d3cf2&"
   }
 }
