@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jeanne:Bayonetta",
-  "lastName": "Jeanne",
-  "index": 260,
+  "lastId": "db:Ako:Blue Archive",
+  "lastName": "Ako",
+  "index": 67,
   "recent": [
+    "db:Ako:Blue Archive",
     "db:Jeanne:Bayonetta",
     "db:Cornelia li Britannia:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
@@ -36,36 +37,35 @@
     "db:New Jersey:Azur Lane",
     "db:Kotori Itsuka:Date A Live",
     "db:Yinlin:Wuthering Waves",
-    "db:Irelia:League of Legends",
-    "db:Manon:Street Fighter 6"
+    "db:Irelia:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-17T15:54:49.163Z",
+  "updatedAt": "2026-09-17T20:46:18.912Z",
   "cached": {
     "character": {
-      "name": "Jeanne",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Ako",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jeanne:Bayonetta",
-      "nextIndex": 260
+      "globalId": "db:Ako:Blue Archive",
+      "nextIndex": 67
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 231467,
-      "vibe": "CHAOTIC",
+      "source": "Blue Archive",
+      "fanbase": 248798,
+      "vibe": "CONFIDENT",
       "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
+      "age": "27",
+      "blood": "B",
+      "bio": "Devil",
+      "description": "cm A samurai living in an era where a samurai is no longer needed",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b672-cP5VPriN67xJ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550173187906736148/waifu-e6045378a725917caf1d2dab.png?ex=6aad5ec8&is=6aac0d48&hm=c12472ee76cdd9a8a9cdecb37ecc4c529aa7c4bb1fc7e1b8b955c5ca0a6d3cf2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550246544949641236/waifu-a39710a68b94fdde9fc5a99f.png?ex=6aada31a&is=6aac519a&hm=df809cf8210c7f28fc09b9e7080ea4dd17b168818628db139af6826731e3bd7b&"
   }
 }
