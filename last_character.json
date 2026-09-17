@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Megumin:Konosuba",
-  "lastName": "Megumin",
-  "index": 193,
+  "lastId": "db:Mitsuru Kirijo:Persona 3",
+  "lastName": "Mitsuru Kirijo",
+  "index": 227,
   "recent": [
+    "db:Mitsuru Kirijo:Persona 3",
     "db:Megumin:Konosuba",
     "db:Texas:Arknights",
     "db:Utahime Iori:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Irelia:League of Legends",
     "db:Manon:Street Fighter 6",
     "db:Carlotta:Wuthering Waves",
-    "db:Nia Honjo:Date A Live",
-    "db:Winry Rockbell:Fullmetal Alchemist"
+    "db:Nia Honjo:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-16T20:40:07.280Z",
+  "updatedAt": "2026-09-17T02:31:53.066Z",
   "cached": {
     "character": {
-      "name": "Megumin",
-      "source": "Konosuba",
-      "universe": "ANIME",
+      "name": "Mitsuru Kirijo",
+      "source": "Persona 3",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Megumin:Konosuba",
-      "nextIndex": 193
+      "globalId": "db:Mitsuru Kirijo:Persona 3",
+      "nextIndex": 227
     },
     "meta": {
-      "source": "Konosuba",
-      "fanbase": 259337,
-      "vibe": "SEDUCTIVE",
+      "source": "Persona 3",
+      "fanbase": 246761,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "13-17",
-      "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+      "age": "17-18 (P3), 20 (P4A)",
+      "blood": "O",
+      "bio": "Student",
+      "description": "cm Initial Persona: Penthesilea Ultimate Persona: Artemisia Mitsuru is the only…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6206-f9Q2688rcIv7.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549882598128357547/waifu-a1b90ae95ac74778d110e519.png?ex=6aac5026&is=6aaafea6&hm=f808c81dfec247af5ffbec3410cabdc1fc211f9e9280b31838f45f7c29af4ca6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549971122173382736/waifu-f607d4cece8ca7085eadd7f1.png?ex=6aaca298&is=6aab5118&hm=84e1ec52e1b5f14e82a6349b4ff05ab921d153d704834bd69dc78220272bef43&"
   }
 }
