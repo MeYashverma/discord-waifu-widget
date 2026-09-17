@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mitsuru Kirijo:Persona 3",
-  "lastName": "Mitsuru Kirijo",
-  "index": 227,
+  "lastId": "db:Cornelia li Britannia:Code Geass",
+  "lastName": "Cornelia li Britannia",
+  "index": 191,
   "recent": [
+    "db:Cornelia li Britannia:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Megumin:Konosuba",
     "db:Texas:Arknights",
@@ -36,36 +37,35 @@
     "db:Yinlin:Wuthering Waves",
     "db:Irelia:League of Legends",
     "db:Manon:Street Fighter 6",
-    "db:Carlotta:Wuthering Waves",
-    "db:Nia Honjo:Date A Live"
+    "db:Carlotta:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-17T02:31:53.066Z",
+  "updatedAt": "2026-09-17T10:40:41.648Z",
   "cached": {
     "character": {
-      "name": "Mitsuru Kirijo",
-      "source": "Persona 3",
-      "universe": "JRPG",
+      "name": "Cornelia li Britannia",
+      "source": "Code Geass",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mitsuru Kirijo:Persona 3",
-      "nextIndex": 227
+      "globalId": "db:Cornelia li Britannia:Code Geass",
+      "nextIndex": 191
     },
     "meta": {
-      "source": "Persona 3",
-      "fanbase": 246761,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "17-18 (P3), 20 (P4A)",
+      "source": "Code Geass",
+      "fanbase": 184893,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "27-28",
       "blood": "O",
-      "bio": "Student",
-      "description": "cm Initial Persona: Penthesilea Ultimate Persona: Artemisia Mitsuru is the only…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6206-f9Q2688rcIv7.png"
+      "bio": "Royalty",
+      "description": "Cornelia is the second princess of the Britannia Imperial Family and, as such, …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1549971122173382736/waifu-f607d4cece8ca7085eadd7f1.png?ex=6aaca298&is=6aab5118&hm=84e1ec52e1b5f14e82a6349b4ff05ab921d153d704834bd69dc78220272bef43&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550094133895630908/waifu-4842e5b1ab1a3d3d71ec4204.png?ex=6aad1528&is=6aabc3a8&hm=fee619f2d9b653d15e1d2c2e92f2ce0b13c084a405d7baacb21b4b93d8b7d48f&"
   }
 }
