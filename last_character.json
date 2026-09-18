@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ako:Blue Archive",
-  "lastName": "Ako",
-  "index": 67,
+  "lastId": "db:Tamayo:Demon Slayer",
+  "lastName": "Tamayo",
+  "index": 119,
   "recent": [
+    "db:Tamayo:Demon Slayer",
     "db:Ako:Blue Archive",
     "db:Jeanne:Bayonetta",
     "db:Cornelia li Britannia:Code Geass",
@@ -36,36 +37,35 @@
     "db:Jingliu:Honkai Star Rail",
     "db:New Jersey:Azur Lane",
     "db:Kotori Itsuka:Date A Live",
-    "db:Yinlin:Wuthering Waves",
-    "db:Irelia:League of Legends"
+    "db:Yinlin:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-17T20:46:18.912Z",
+  "updatedAt": "2026-09-18T02:17:28.327Z",
   "cached": {
     "character": {
-      "name": "Ako",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Tamayo",
+      "source": "Demon Slayer",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ako:Blue Archive",
-      "nextIndex": 67
+      "globalId": "db:Tamayo:Demon Slayer",
+      "nextIndex": 119
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 248798,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
-      "age": "27",
-      "blood": "B",
-      "bio": "Devil",
-      "description": "cm A samurai living in an era where a samurai is no longer needed",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b672-cP5VPriN67xJ.png"
+      "source": "Demon Slayer",
+      "fanbase": 534805,
+      "vibe": "TSUNDERE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "cm Tamayo is a doctor and close ally of",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138847-rOwIPLKaR5Ux.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550246544949641236/waifu-a39710a68b94fdde9fc5a99f.png?ex=6aada31a&is=6aac519a&hm=df809cf8210c7f28fc09b9e7080ea4dd17b168818628db139af6826731e3bd7b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550329883396276324/waifu-d8c722346207ee28b0198ed2.png?ex=6aadf0b7&is=6aac9f37&hm=3c04104dbd25067fcb446c440dcaefdd8af6ccc7e77731e7858a6e4557783438&"
   }
 }
