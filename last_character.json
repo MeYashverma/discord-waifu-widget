@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Tamayo:Demon Slayer",
-  "lastName": "Tamayo",
-  "index": 119,
+  "lastId": "db:Narberal Gamma:Overlord",
+  "lastName": "Narberal Gamma",
+  "index": 199,
   "recent": [
+    "db:Narberal Gamma:Overlord",
     "db:Tamayo:Demon Slayer",
     "db:Ako:Blue Archive",
     "db:Jeanne:Bayonetta",
@@ -36,15 +37,14 @@
     "db:Atago:Azur Lane",
     "db:Jingliu:Honkai Star Rail",
     "db:New Jersey:Azur Lane",
-    "db:Kotori Itsuka:Date A Live",
-    "db:Yinlin:Wuthering Waves"
+    "db:Kotori Itsuka:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-18T02:17:28.327Z",
+  "updatedAt": "2026-09-18T10:16:30.919Z",
   "cached": {
     "character": {
-      "name": "Tamayo",
-      "source": "Demon Slayer",
+      "name": "Narberal Gamma",
+      "source": "Overlord",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Tamayo:Demon Slayer",
-      "nextIndex": 119
+      "globalId": "db:Narberal Gamma:Overlord",
+      "nextIndex": 199
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 534805,
-      "vibe": "TSUNDERE",
-      "rating": "LEGENDARY",
+      "source": "Overlord",
+      "fanbase": 183038,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Tamayo is a doctor and close ally of",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138847-rOwIPLKaR5Ux.jpg"
+      "bio": "Maid",
+      "description": "One of the Pleiades, combat maids of the Tenth floor under",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550329883396276324/waifu-d8c722346207ee28b0198ed2.png?ex=6aadf0b7&is=6aac9f37&hm=3c04104dbd25067fcb446c440dcaefdd8af6ccc7e77731e7858a6e4557783438&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550450439110271108/waifu-5797255dee23bc8b573da77f.png?ex=6aae60fe&is=6aad0f7e&hm=e5f3729693de7a3cc300c46132579c7aa290b68d51a71f9eb233a61e03aaee46&"
   }
 }
