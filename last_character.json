@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuki Tsukumo:Jujutsu Kaisen",
-  "lastName": "Yuki Tsukumo",
-  "index": 125,
+  "lastId": "db:Furina:Genshin Impact",
+  "lastName": "Furina",
+  "index": 5,
   "recent": [
+    "db:Furina:Genshin Impact",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Narberal Gamma:Overlord",
     "db:Tamayo:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:W:Arknights",
     "db:Esdeath:Akame ga Kill!",
     "db:Atago:Azur Lane",
-    "db:Jingliu:Honkai Star Rail",
-    "db:New Jersey:Azur Lane"
+    "db:Jingliu:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-18T15:28:50.538Z",
+  "updatedAt": "2026-09-18T20:10:08.766Z",
   "cached": {
     "character": {
-      "name": "Yuki Tsukumo",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Furina",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuki Tsukumo:Jujutsu Kaisen",
-      "nextIndex": 125
+      "globalId": "db:Furina:Genshin Impact",
+      "nextIndex": 5
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 568184,
-      "vibe": "DOMINANT",
+      "source": "Genshin Impact",
+      "fanbase": 506810,
+      "vibe": "CONFIDENT",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "One of the four Special Grade Sorcerers",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png"
+      "bio": "Archon",
+      "description": "Hydro celebrity of Fontaine",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386545-72C5jbAvXjCT.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550529037665968128/waifu-741a262b31b049ef1a1c5682.png?ex=6aaeaa32&is=6aad58b2&hm=55e71a250e25094525d7dcbbb77c65a95438ce109064280802bba1460e9a15da&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550599826901569668/waifu-bce8269fc4c29fb77286eab5.png?ex=6aaeec1f&is=6aad9a9f&hm=928e61c575dddd53917878afbb73fb237a47863b1d79169d7bfba7545f5c44b7&"
   }
 }
