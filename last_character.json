@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Narberal Gamma:Overlord",
-  "lastName": "Narberal Gamma",
-  "index": 199,
+  "lastId": "db:Yuki Tsukumo:Jujutsu Kaisen",
+  "lastName": "Yuki Tsukumo",
+  "index": 125,
   "recent": [
+    "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Narberal Gamma:Overlord",
     "db:Tamayo:Demon Slayer",
     "db:Ako:Blue Archive",
@@ -36,15 +37,14 @@
     "db:Esdeath:Akame ga Kill!",
     "db:Atago:Azur Lane",
     "db:Jingliu:Honkai Star Rail",
-    "db:New Jersey:Azur Lane",
-    "db:Kotori Itsuka:Date A Live"
+    "db:New Jersey:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-18T10:16:30.919Z",
+  "updatedAt": "2026-09-18T15:28:50.538Z",
   "cached": {
     "character": {
-      "name": "Narberal Gamma",
-      "source": "Overlord",
+      "name": "Yuki Tsukumo",
+      "source": "Jujutsu Kaisen",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Narberal Gamma:Overlord",
-      "nextIndex": 199
+      "globalId": "db:Yuki Tsukumo:Jujutsu Kaisen",
+      "nextIndex": 125
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 183038,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 568184,
+      "vibe": "DOMINANT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "One of the Pleiades, combat maids of the Tenth floor under",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png"
+      "bio": "Mage",
+      "description": "One of the four Special Grade Sorcerers",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550450439110271108/waifu-5797255dee23bc8b573da77f.png?ex=6aae60fe&is=6aad0f7e&hm=e5f3729693de7a3cc300c46132579c7aa290b68d51a71f9eb233a61e03aaee46&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550529037665968128/waifu-741a262b31b049ef1a1c5682.png?ex=6aaeaa32&is=6aad58b2&hm=55e71a250e25094525d7dcbbb77c65a95438ce109064280802bba1460e9a15da&"
   }
 }
