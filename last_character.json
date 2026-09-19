@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Furina:Genshin Impact",
-  "lastName": "Furina",
-  "index": 5,
+  "lastId": "db:Peach:Super Mario",
+  "lastName": "Peach",
+  "index": 267,
   "recent": [
+    "db:Peach:Super Mario",
     "db:Furina:Genshin Impact",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Narberal Gamma:Overlord",
@@ -36,36 +37,35 @@
     "db:Yamato:One Piece",
     "db:W:Arknights",
     "db:Esdeath:Akame ga Kill!",
-    "db:Atago:Azur Lane",
-    "db:Jingliu:Honkai Star Rail"
+    "db:Atago:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-18T20:10:08.766Z",
+  "updatedAt": "2026-09-19T02:19:50.562Z",
   "cached": {
     "character": {
-      "name": "Furina",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Peach",
+      "source": "Super Mario",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Furina:Genshin Impact",
-      "nextIndex": 5
+      "globalId": "db:Peach:Super Mario",
+      "nextIndex": 267
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 506810,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
+      "source": "Super Mario",
+      "fanbase": 196379,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Archon",
-      "description": "Hydro celebrity of Fontaine",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386545-72C5jbAvXjCT.png"
+      "bio": "Character",
+      "description": "Bonchien is the prince of the Uralis Kingdom",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550599826901569668/waifu-bce8269fc4c29fb77286eab5.png?ex=6aaeec1f&is=6aad9a9f&hm=928e61c575dddd53917878afbb73fb237a47863b1d79169d7bfba7545f5c44b7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550692866207121428/waifu-633cfd713b0ebeaf021da25d.png?ex=6aaf42c5&is=6aadf145&hm=2d6f99bfff4a06ffa512268b8f39328eaf4080fa5ff00c1ccf732fc7ae3debf5&"
   }
 }
