@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mika:Blue Archive",
-  "lastName": "Mika",
-  "index": 68,
+  "lastId": "db:Satella:Re:Zero",
+  "lastName": "Satella",
+  "index": 88,
   "recent": [
+    "db:Satella:Re:Zero",
     "db:Mika:Blue Archive",
     "db:Navia:Genshin Impact",
     "db:Peach:Super Mario",
@@ -36,36 +37,35 @@
     "db:Aigis:Persona 3",
     "db:Android 18:Dragon Ball Z",
     "db:Cana Alberona:Fairy Tail",
-    "db:Yamato:One Piece",
-    "db:W:Arknights"
+    "db:Yamato:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-19T15:03:29.949Z",
+  "updatedAt": "2026-09-19T19:47:15.680Z",
   "cached": {
     "character": {
-      "name": "Mika",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Satella",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mika:Blue Archive",
-      "nextIndex": 68
+      "globalId": "db:Satella:Re:Zero",
+      "nextIndex": 88
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 189301,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "O",
-      "bio": "Character",
-      "description": "cm The deuteragonist of the Owari no Seraph series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87287-cBUVUJNbvfvT.png"
+      "source": "Re:Zero",
+      "fanbase": 224644,
+      "vibe": "CONFIDENT",
+      "rating": "ICONIC",
+      "age": "14-19",
+      "blood": "Unknown",
+      "bio": "Royalty",
+      "description": "cm She is a silver-haired half-elf girl who is one of the candidates to become …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550885048561963058/waifu-1fd1701ee74fda8c4a1c739a.png?ex=6aaff5c1&is=6aaea441&hm=2a3a6a3ba76fb4ef0c6e61db986987383781ec346ed6407061b23dc6120cf6c7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550956459473379449/waifu-3b16754d536665f2a24d36ff.png?ex=6ab03843&is=6aaee6c3&hm=30add6de54199d5653f29f478e5b7990aed9c62116ee20556084e8658639c403&"
   }
 }
