@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Navia:Genshin Impact",
-  "lastName": "Navia",
-  "index": 6,
+  "lastId": "db:Mika:Blue Archive",
+  "lastName": "Mika",
+  "index": 68,
   "recent": [
+    "db:Mika:Blue Archive",
     "db:Navia:Genshin Impact",
     "db:Peach:Super Mario",
     "db:Furina:Genshin Impact",
@@ -36,15 +37,14 @@
     "db:Android 18:Dragon Ball Z",
     "db:Cana Alberona:Fairy Tail",
     "db:Yamato:One Piece",
-    "db:W:Arknights",
-    "db:Esdeath:Akame ga Kill!"
+    "db:W:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-19T09:58:37.448Z",
+  "updatedAt": "2026-09-19T15:03:29.949Z",
   "cached": {
     "character": {
-      "name": "Navia",
-      "source": "Genshin Impact",
+      "name": "Mika",
+      "source": "Blue Archive",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Navia:Genshin Impact",
-      "nextIndex": 6
+      "globalId": "db:Mika:Blue Archive",
+      "nextIndex": 68
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 532878,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
+      "source": "Blue Archive",
+      "fanbase": 189301,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
       "age": "Unknown",
-      "blood": "Unknown",
+      "blood": "O",
       "bio": "Character",
-      "description": "An orphan adopted into the Agnus family to serve as a stand-in for the Duke's s…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263449-gi3v66ZrYzUx.jpg"
+      "description": "cm The deuteragonist of the Owari no Seraph series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87287-cBUVUJNbvfvT.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550808324017094676/waifu-cb8cb73951238a581e5c4cd0.png?ex=6aafae4d&is=6aae5ccd&hm=350653f13f921f88d7f26b71ba6a6822539f83d6ae6fd171e8b74924de98d4e5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550885048561963058/waifu-1fd1701ee74fda8c4a1c739a.png?ex=6aaff5c1&is=6aaea441&hm=2a3a6a3ba76fb4ef0c6e61db986987383781ec346ed6407061b23dc6120cf6c7&"
   }
 }
