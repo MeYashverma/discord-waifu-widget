@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Peach:Super Mario",
-  "lastName": "Peach",
-  "index": 267,
+  "lastId": "db:Navia:Genshin Impact",
+  "lastName": "Navia",
+  "index": 6,
   "recent": [
+    "db:Navia:Genshin Impact",
     "db:Peach:Super Mario",
     "db:Furina:Genshin Impact",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Cana Alberona:Fairy Tail",
     "db:Yamato:One Piece",
     "db:W:Arknights",
-    "db:Esdeath:Akame ga Kill!",
-    "db:Atago:Azur Lane"
+    "db:Esdeath:Akame ga Kill!"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-19T02:19:50.562Z",
+  "updatedAt": "2026-09-19T09:58:37.448Z",
   "cached": {
     "character": {
-      "name": "Peach",
-      "source": "Super Mario",
-      "universe": "GAME",
+      "name": "Navia",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Peach:Super Mario",
-      "nextIndex": 267
+      "globalId": "db:Navia:Genshin Impact",
+      "nextIndex": 6
     },
     "meta": {
-      "source": "Super Mario",
-      "fanbase": 196379,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
+      "source": "Genshin Impact",
+      "fanbase": 532878,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Bonchien is the prince of the Uralis Kingdom",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
+      "description": "An orphan adopted into the Agnus family to serve as a stand-in for the Duke's s…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263449-gi3v66ZrYzUx.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550692866207121428/waifu-633cfd713b0ebeaf021da25d.png?ex=6aaf42c5&is=6aadf145&hm=2d6f99bfff4a06ffa512268b8f39328eaf4080fa5ff00c1ccf732fc7ae3debf5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550808324017094676/waifu-cb8cb73951238a581e5c4cd0.png?ex=6aafae4d&is=6aae5ccd&hm=350653f13f921f88d7f26b71ba6a6822539f83d6ae6fd171e8b74924de98d4e5&"
   }
 }
