@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Satella:Re:Zero",
-  "lastName": "Satella",
-  "index": 88,
+  "lastId": "db:Brandish μ:Fairy Tail",
+  "lastName": "Brandish μ",
+  "index": 112,
   "recent": [
+    "db:Brandish μ:Fairy Tail",
     "db:Satella:Re:Zero",
     "db:Mika:Blue Archive",
     "db:Navia:Genshin Impact",
@@ -36,15 +37,14 @@
     "db:Kafka:Honkai Star Rail",
     "db:Aigis:Persona 3",
     "db:Android 18:Dragon Ball Z",
-    "db:Cana Alberona:Fairy Tail",
-    "db:Yamato:One Piece"
+    "db:Cana Alberona:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-19T19:47:15.680Z",
+  "updatedAt": "2026-09-20T02:29:00.861Z",
   "cached": {
     "character": {
-      "name": "Satella",
-      "source": "Re:Zero",
+      "name": "Brandish μ",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Satella:Re:Zero",
-      "nextIndex": 88
+      "globalId": "db:Brandish μ:Fairy Tail",
+      "nextIndex": 112
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 224644,
-      "vibe": "CONFIDENT",
+      "source": "Fairy Tail",
+      "fanbase": 234189,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "14-19",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "cm She is a silver-haired half-elf girl who is one of the candidates to become …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+      "bio": "Character",
+      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1550956459473379449/waifu-3b16754d536665f2a24d36ff.png?ex=6ab03843&is=6aaee6c3&hm=30add6de54199d5653f29f478e5b7990aed9c62116ee20556084e8658639c403&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551057564031123567/waifu-996720f0e1f19f63f4c07150.png?ex=6ab0966c&is=6aaf44ec&hm=b7fb3e57e7998f367d21dc3774f4784687e14a9f79f204ed020310a328a94297&"
   }
 }
