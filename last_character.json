@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Brandish μ:Fairy Tail",
-  "lastName": "Brandish μ",
-  "index": 112,
+  "lastId": "db:Kobeni Higashiyama:Chainsaw Man",
+  "lastName": "Kobeni Higashiyama",
+  "index": 76,
   "recent": [
+    "db:Kobeni Higashiyama:Chainsaw Man",
     "db:Brandish μ:Fairy Tail",
     "db:Satella:Re:Zero",
     "db:Mika:Blue Archive",
@@ -36,15 +37,14 @@
     "db:Belfast:Azur Lane",
     "db:Kafka:Honkai Star Rail",
     "db:Aigis:Persona 3",
-    "db:Android 18:Dragon Ball Z",
-    "db:Cana Alberona:Fairy Tail"
+    "db:Android 18:Dragon Ball Z"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-20T02:29:00.861Z",
+  "updatedAt": "2026-09-20T10:18:51.732Z",
   "cached": {
     "character": {
-      "name": "Brandish μ",
-      "source": "Fairy Tail",
+      "name": "Kobeni Higashiyama",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Brandish μ:Fairy Tail",
-      "nextIndex": 112
+      "globalId": "db:Kobeni Higashiyama:Chainsaw Man",
+      "nextIndex": 76
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 234189,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Chainsaw Man",
+      "fanbase": 494684,
+      "vibe": "INTENSE",
+      "rating": "ELITE",
+      "age": "20-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
+      "bio": "Hunter",
+      "description": "cm A Public Safety Devil Hunter, she is a new recruit working under as a member…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551057564031123567/waifu-996720f0e1f19f63f4c07150.png?ex=6ab0966c&is=6aaf44ec&hm=b7fb3e57e7998f367d21dc3774f4784687e14a9f79f204ed020310a328a94297&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551175804233187349/waifu-53fc755f4a9486fad62a8bab.png?ex=6ab1048b&is=6aafb30b&hm=abf8075933d85d5cd0ad037370cb425f8ed537498bb2ee6867ed382d69af7df7&"
   }
 }
