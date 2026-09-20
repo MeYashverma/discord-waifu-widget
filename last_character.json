@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Akali:League of Legends",
-  "lastName": "Akali",
-  "index": 241,
+  "lastId": "db:Princess Zelda:The Legend of Zelda",
+  "lastName": "Princess Zelda",
+  "index": 265,
   "recent": [
+    "db:Princess Zelda:The Legend of Zelda",
     "db:Akali:League of Legends",
     "db:Kobeni Higashiyama:Chainsaw Man",
     "db:Brandish μ:Fairy Tail",
@@ -36,15 +37,14 @@
     "db:Daki:Demon Slayer",
     "db:Jinhsi:Wuthering Waves",
     "db:Belfast:Azur Lane",
-    "db:Kafka:Honkai Star Rail",
-    "db:Aigis:Persona 3"
+    "db:Kafka:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-20T15:07:31.675Z",
+  "updatedAt": "2026-09-20T20:00:02.450Z",
   "cached": {
     "character": {
-      "name": "Akali",
-      "source": "League of Legends",
+      "name": "Princess Zelda",
+      "source": "The Legend of Zelda",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Akali:League of Legends",
-      "nextIndex": 241
+      "globalId": "db:Princess Zelda:The Legend of Zelda",
+      "nextIndex": 265
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 216117,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "The Legend of Zelda",
+      "fanbase": 241705,
+      "vibe": "ROYAL",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "July 24 A Akari is a polite red-haired girl who is supposedly the main protagon…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124932-laDqVLCjcmC6.jpg"
+      "bio": "Captain",
+      "description": "Zelda/Zeruda is Claymore No",
+      "image": "https://media.kitsu.app/characters/images/43274/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551248449918210088/waifu-3d443d6c580f8f1f61638581.png?ex=6ab14833&is=6aaff6b3&hm=32240bef18f8aee00f60b74ae8cdbd3b4273a2b70735bd688fe28238b4aab4e7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551322062998732870/waifu-4573567935cb9a45d41ff6ab.png?ex=6ab18cc1&is=6ab03b41&hm=ee4be55d03b34b35b75f6f87014a2a7f1a266106987b0ff61ee96551d2ca6b30&"
   }
 }
