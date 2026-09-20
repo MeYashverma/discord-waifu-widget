@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kobeni Higashiyama:Chainsaw Man",
-  "lastName": "Kobeni Higashiyama",
-  "index": 76,
+  "lastId": "db:Akali:League of Legends",
+  "lastName": "Akali",
+  "index": 241,
   "recent": [
+    "db:Akali:League of Legends",
     "db:Kobeni Higashiyama:Chainsaw Man",
     "db:Brandish μ:Fairy Tail",
     "db:Satella:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Jinhsi:Wuthering Waves",
     "db:Belfast:Azur Lane",
     "db:Kafka:Honkai Star Rail",
-    "db:Aigis:Persona 3",
-    "db:Android 18:Dragon Ball Z"
+    "db:Aigis:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-20T10:18:51.732Z",
+  "updatedAt": "2026-09-20T15:07:31.675Z",
   "cached": {
     "character": {
-      "name": "Kobeni Higashiyama",
-      "source": "Chainsaw Man",
-      "universe": "ANIME",
+      "name": "Akali",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kobeni Higashiyama:Chainsaw Man",
-      "nextIndex": 76
+      "globalId": "db:Akali:League of Legends",
+      "nextIndex": 241
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 494684,
-      "vibe": "INTENSE",
-      "rating": "ELITE",
-      "age": "20-",
+      "source": "League of Legends",
+      "fanbase": 216117,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "cm A Public Safety Devil Hunter, she is a new recruit working under as a member…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png"
+      "bio": "Character",
+      "description": "July 24 A Akari is a polite red-haired girl who is supposedly the main protagon…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124932-laDqVLCjcmC6.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551175804233187349/waifu-53fc755f4a9486fad62a8bab.png?ex=6ab1048b&is=6aafb30b&hm=abf8075933d85d5cd0ad037370cb425f8ed537498bb2ee6867ed382d69af7df7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551248449918210088/waifu-3d443d6c580f8f1f61638581.png?ex=6ab14833&is=6aaff6b3&hm=32240bef18f8aee00f60b74ae8cdbd3b4273a2b70735bd688fe28238b4aab4e7&"
   }
 }
