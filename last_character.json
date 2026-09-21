@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Princess Zelda:The Legend of Zelda",
-  "lastName": "Princess Zelda",
-  "index": 265,
+  "lastId": "db:Marin Kitagawa:My Dress-Up Darling",
+  "lastName": "Marin Kitagawa",
+  "index": 154,
   "recent": [
+    "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Akali:League of Legends",
     "db:Kobeni Higashiyama:Chainsaw Man",
@@ -36,36 +37,35 @@
     "db:Origami Tobiichi:Date A Live",
     "db:Daki:Demon Slayer",
     "db:Jinhsi:Wuthering Waves",
-    "db:Belfast:Azur Lane",
-    "db:Kafka:Honkai Star Rail"
+    "db:Belfast:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-20T20:00:02.450Z",
+  "updatedAt": "2026-09-21T02:27:07.142Z",
   "cached": {
     "character": {
-      "name": "Princess Zelda",
-      "source": "The Legend of Zelda",
-      "universe": "GAME",
+      "name": "Marin Kitagawa",
+      "source": "My Dress-Up Darling",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Princess Zelda:The Legend of Zelda",
-      "nextIndex": 265
+      "globalId": "db:Marin Kitagawa:My Dress-Up Darling",
+      "nextIndex": 154
     },
     "meta": {
-      "source": "The Legend of Zelda",
-      "fanbase": 241705,
-      "vibe": "ROYAL",
+      "source": "My Dress-Up Darling",
+      "fanbase": 224511,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Zelda/Zeruda is Claymore No",
-      "image": "https://media.kitsu.app/characters/images/43274/original.jpg"
+      "bio": "Cosplayer",
+      "description": "Fashionable cosplay enthusiast",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551322062998732870/waifu-4573567935cb9a45d41ff6ab.png?ex=6ab18cc1&is=6ab03b41&hm=ee4be55d03b34b35b75f6f87014a2a7f1a266106987b0ff61ee96551d2ca6b30&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551419474727665794/waifu-2a58a3d23ec5fdcf08eefd57.png?ex=6ab1e77a&is=6ab095fa&hm=0740e36d663c036985937dab4955f7770df1963a548bc3e5b9543e91e4dbfa2c&"
   }
 }
