@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Velvet Crowe:Tales of Berseria",
-  "lastName": "Velvet Crowe",
-  "index": 269,
+  "lastId": "db:Rogue Amendiares:Cyberpunk 2077",
+  "lastName": "Rogue Amendiares",
+  "index": 258,
   "recent": [
+    "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Princess Zelda:The Legend of Zelda",
@@ -36,36 +37,35 @@
     "db:Makima:Chainsaw Man",
     "db:Fran:Final Fantasy XII",
     "db:Origami Tobiichi:Date A Live",
-    "db:Daki:Demon Slayer",
-    "db:Jinhsi:Wuthering Waves"
+    "db:Daki:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-21T11:29:28.649Z",
+  "updatedAt": "2026-09-21T17:28:00.188Z",
   "cached": {
     "character": {
-      "name": "Velvet Crowe",
-      "source": "Tales of Berseria",
-      "universe": "JRPG",
+      "name": "Rogue Amendiares",
+      "source": "Cyberpunk 2077",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Velvet Crowe:Tales of Berseria",
-      "nextIndex": 269
+      "globalId": "db:Rogue Amendiares:Cyberpunk 2077",
+      "nextIndex": 258
     },
     "meta": {
-      "source": "Tales of Berseria",
-      "fanbase": 210774,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "19",
+      "source": "Cyberpunk 2077",
+      "fanbase": 230335,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
+      "age": "80+",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Velvet is a 19-year-old woman on a quest for vengeance",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121382-y5r3OoNZLHaZ.png"
+      "description": "Rogue Amendiares from Cyberpunk 2077",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290013-vpOI5TjibXM0.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551555963067306034/waifu-d241df7c30e7eaf2bc0371b3.png?ex=6ab26698&is=6ab11518&hm=96a6642c8210fbfc222a684391c3e960aa416b6f0e9ad31ee48e34fd59cfe9a4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551646189441785896/waifu-31e08f81f4e63c60005d7cc9.png?ex=6ab2ba9f&is=6ab1691f&hm=89755eceeab41e23c411d6709eb82fb7bf9d301aeeb5d0854fcb965bac876ef3&"
   }
 }
