@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Marin Kitagawa:My Dress-Up Darling",
-  "lastName": "Marin Kitagawa",
-  "index": 154,
+  "lastId": "db:Velvet Crowe:Tales of Berseria",
+  "lastName": "Velvet Crowe",
+  "index": 269,
   "recent": [
+    "db:Velvet Crowe:Tales of Berseria",
     "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Akali:League of Legends",
@@ -36,36 +37,35 @@
     "db:Fran:Final Fantasy XII",
     "db:Origami Tobiichi:Date A Live",
     "db:Daki:Demon Slayer",
-    "db:Jinhsi:Wuthering Waves",
-    "db:Belfast:Azur Lane"
+    "db:Jinhsi:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-21T02:27:07.142Z",
+  "updatedAt": "2026-09-21T11:29:28.649Z",
   "cached": {
     "character": {
-      "name": "Marin Kitagawa",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Velvet Crowe",
+      "source": "Tales of Berseria",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Marin Kitagawa:My Dress-Up Darling",
-      "nextIndex": 154
+      "globalId": "db:Velvet Crowe:Tales of Berseria",
+      "nextIndex": 269
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 224511,
-      "vibe": "DEADLY",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Tales of Berseria",
+      "fanbase": 210774,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Cosplayer",
-      "description": "Fashionable cosplay enthusiast",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+      "bio": "Character",
+      "description": "Velvet is a 19-year-old woman on a quest for vengeance",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121382-y5r3OoNZLHaZ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551419474727665794/waifu-2a58a3d23ec5fdcf08eefd57.png?ex=6ab1e77a&is=6ab095fa&hm=0740e36d663c036985937dab4955f7770df1963a548bc3e5b9543e91e4dbfa2c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551555963067306034/waifu-d241df7c30e7eaf2bc0371b3.png?ex=6ab26698&is=6ab11518&hm=96a6642c8210fbfc222a684391c3e960aa416b6f0e9ad31ee48e34fd59cfe9a4&"
   }
 }
