@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rogue Amendiares:Cyberpunk 2077",
-  "lastName": "Rogue Amendiares",
-  "index": 258,
+  "lastId": "db:Shenhe:Genshin Impact",
+  "lastName": "Shenhe",
+  "index": 3,
   "recent": [
+    "db:Shenhe:Genshin Impact",
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Marin Kitagawa:My Dress-Up Darling",
@@ -36,36 +37,35 @@
     "db:Misato Katsuragi:Neon Genesis Evangelion",
     "db:Makima:Chainsaw Man",
     "db:Fran:Final Fantasy XII",
-    "db:Origami Tobiichi:Date A Live",
-    "db:Daki:Demon Slayer"
+    "db:Origami Tobiichi:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-21T17:28:00.188Z",
+  "updatedAt": "2026-09-21T21:25:57.069Z",
   "cached": {
     "character": {
-      "name": "Rogue Amendiares",
-      "source": "Cyberpunk 2077",
-      "universe": "GAME",
+      "name": "Shenhe",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rogue Amendiares:Cyberpunk 2077",
-      "nextIndex": 258
+      "globalId": "db:Shenhe:Genshin Impact",
+      "nextIndex": 3
     },
     "meta": {
-      "source": "Cyberpunk 2077",
-      "fanbase": 230335,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
-      "age": "80+",
+      "source": "Genshin Impact",
+      "fanbase": 504624,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Rogue Amendiares from Cyberpunk 2077",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290013-vpOI5TjibXM0.jpg"
+      "description": "An adepti disciple with a most unusual air about her",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551646189441785896/waifu-31e08f81f4e63c60005d7cc9.png?ex=6ab2ba9f&is=6ab1691f&hm=89755eceeab41e23c411d6709eb82fb7bf9d301aeeb5d0854fcb965bac876ef3&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551706070211108864/waifu-18f2972feb3f928906683dcf.png?ex=6ab2f264&is=6ab1a0e4&hm=6e78cc03a9fbc66f6a160dabbc2135526ef5cffd1b06a7941398a715f9e164b7&"
   }
 }
