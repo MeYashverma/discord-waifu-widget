@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Koneko Toujou:High School DxD",
-  "lastName": "Koneko Toujou",
-  "index": 92,
+  "lastId": "db:Phoebe:Wuthering Waves",
+  "lastName": "Phoebe",
+  "index": 46,
   "recent": [
+    "db:Phoebe:Wuthering Waves",
     "db:Koneko Toujou:High School DxD",
     "db:Skadi:Arknights",
     "db:Ishtar:Fate Series",
@@ -36,36 +37,35 @@
     "db:Ganyu:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
-    "db:Mine:Akame ga Kill!",
-    "db:Misato Katsuragi:Neon Genesis Evangelion"
+    "db:Mine:Akame ga Kill!"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-22T15:58:03.053Z",
+  "updatedAt": "2026-09-22T20:40:04.911Z",
   "cached": {
     "character": {
-      "name": "Koneko Toujou",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Phoebe",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Koneko Toujou:High School DxD",
-      "nextIndex": 92
+      "globalId": "db:Phoebe:Wuthering Waves",
+      "nextIndex": 46
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 257408,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
+      "source": "Wuthering Waves",
+      "fanbase": 207657,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Rank: Low-class devil /Rook Power: Youjutsu A 10th grade student",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51343-pt1UDTRvAXfY.png"
+      "bio": "Hunter",
+      "description": "A Bounty Hunter",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129488-ayuWDn205dwn.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551985939935662172/waifu-80fb9df5b4170399098a75fd.png?ex=6ab3f70a&is=6ab2a58a&hm=91d6ea0d3d0de961bf3b153092d6b091b309929fbb4bb8892fc8983b750a795f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552056914836328511/waifu-6a633d71be9b8f3e1acc8759.png?ex=6ab43924&is=6ab2e7a4&hm=9289cfffd377041ee9a7cdee353554b4f78fc8c57987e6c8bec89af99d141ddb&"
   }
 }
