@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shenhe:Genshin Impact",
-  "lastName": "Shenhe",
-  "index": 3,
+  "lastId": "db:Ishtar:Fate Series",
+  "lastName": "Ishtar",
+  "index": 208,
   "recent": [
+    "db:Ishtar:Fate Series",
     "db:Shenhe:Genshin Impact",
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Velvet Crowe:Tales of Berseria",
@@ -36,36 +37,35 @@
     "db:Mine:Akame ga Kill!",
     "db:Misato Katsuragi:Neon Genesis Evangelion",
     "db:Makima:Chainsaw Man",
-    "db:Fran:Final Fantasy XII",
-    "db:Origami Tobiichi:Date A Live"
+    "db:Fran:Final Fantasy XII"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-21T21:25:57.069Z",
+  "updatedAt": "2026-09-22T02:30:14.991Z",
   "cached": {
     "character": {
-      "name": "Shenhe",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Ishtar",
+      "source": "Fate Series",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shenhe:Genshin Impact",
-      "nextIndex": 3
+      "globalId": "db:Ishtar:Fate Series",
+      "nextIndex": 208
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 504624,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
+      "source": "Fate Series",
+      "fanbase": 228599,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "An adepti disciple with a most unusual air about her",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
+      "bio": "Goddess",
+      "description": "cm Ishtar is the goddess of beauty, good harvests, war, lust, discord, and fert…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135743-K9rrQKqxWB5q.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551706070211108864/waifu-18f2972feb3f928906683dcf.png?ex=6ab2f264&is=6ab1a0e4&hm=6e78cc03a9fbc66f6a160dabbc2135526ef5cffd1b06a7941398a715f9e164b7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551782650115788801/waifu-141ac2da7684f17f1e7b79ab.png?ex=6ab339b6&is=6ab1e836&hm=31747d8b46b80756c5a4dc7b0da39420d2e69bad064e6662165e8a68d1a799dc&"
   }
 }
