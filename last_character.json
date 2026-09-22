@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Skadi:Arknights",
-  "lastName": "Skadi",
-  "index": 285,
+  "lastId": "db:Koneko Toujou:High School DxD",
+  "lastName": "Koneko Toujou",
+  "index": 92,
   "recent": [
+    "db:Koneko Toujou:High School DxD",
     "db:Skadi:Arknights",
     "db:Ishtar:Fate Series",
     "db:Shenhe:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Yuuka Hayase:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Mine:Akame ga Kill!",
-    "db:Misato Katsuragi:Neon Genesis Evangelion",
-    "db:Makima:Chainsaw Man"
+    "db:Misato Katsuragi:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-22T10:36:51.446Z",
+  "updatedAt": "2026-09-22T15:58:03.053Z",
   "cached": {
     "character": {
-      "name": "Skadi",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Koneko Toujou",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Skadi:Arknights",
-      "nextIndex": 285
+      "globalId": "db:Koneko Toujou:High School DxD",
+      "nextIndex": 92
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 263472,
-      "vibe": "ELEGANT",
+      "source": "High School DxD",
+      "fanbase": 257408,
+      "vibe": "WHOLESOME",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
+      "bio": "Student",
+      "description": "Rank: Low-class devil /Rook Power: Youjutsu A 10th grade student",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51343-pt1UDTRvAXfY.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551905109057740870/waifu-0457d2f9d23735099c470103.png?ex=6ab3abc3&is=6ab25a43&hm=977b543a43d0d1a8a864042061993ffb54ddb2fa6ea523c3e043a9ac3cd4ac69&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551985939935662172/waifu-80fb9df5b4170399098a75fd.png?ex=6ab3f70a&is=6ab2a58a&hm=91d6ea0d3d0de961bf3b153092d6b091b309929fbb4bb8892fc8983b750a795f&"
   }
 }
