@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ishtar:Fate Series",
-  "lastName": "Ishtar",
-  "index": 208,
+  "lastId": "db:Skadi:Arknights",
+  "lastName": "Skadi",
+  "index": 285,
   "recent": [
+    "db:Skadi:Arknights",
     "db:Ishtar:Fate Series",
     "db:Shenhe:Genshin Impact",
     "db:Rogue Amendiares:Cyberpunk 2077",
@@ -36,36 +37,35 @@
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Mine:Akame ga Kill!",
     "db:Misato Katsuragi:Neon Genesis Evangelion",
-    "db:Makima:Chainsaw Man",
-    "db:Fran:Final Fantasy XII"
+    "db:Makima:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-22T02:30:14.991Z",
+  "updatedAt": "2026-09-22T10:36:51.446Z",
   "cached": {
     "character": {
-      "name": "Ishtar",
-      "source": "Fate Series",
-      "universe": "ANIME",
+      "name": "Skadi",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ishtar:Fate Series",
-      "nextIndex": 208
+      "globalId": "db:Skadi:Arknights",
+      "nextIndex": 285
     },
     "meta": {
-      "source": "Fate Series",
-      "fanbase": 228599,
-      "vibe": "LOYAL",
+      "source": "Arknights",
+      "fanbase": 263472,
+      "vibe": "ELEGANT",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Goddess",
-      "description": "cm Ishtar is the goddess of beauty, good harvests, war, lust, discord, and fert…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135743-K9rrQKqxWB5q.jpg"
+      "bio": "Mage",
+      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551782650115788801/waifu-141ac2da7684f17f1e7b79ab.png?ex=6ab339b6&is=6ab1e836&hm=31747d8b46b80756c5a4dc7b0da39420d2e69bad064e6662165e8a68d1a799dc&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1551905109057740870/waifu-0457d2f9d23735099c470103.png?ex=6ab3abc3&is=6ab25a43&hm=977b543a43d0d1a8a864042061993ffb54ddb2fa6ea523c3e043a9ac3cd4ac69&"
   }
 }
