@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Temari:Naruto",
-  "lastName": "Temari",
-  "index": 176,
+  "lastId": "db:Nakime:Demon Slayer",
+  "lastName": "Nakime",
+  "index": 121,
   "recent": [
+    "db:Nakime:Demon Slayer",
     "db:Temari:Naruto",
     "db:Sylvia Sherwood:Spy x Family",
     "db:Hinata Hyuga:Naruto",
@@ -36,15 +37,14 @@
     "db:Baizhi:Wuthering Waves",
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
     "db:Vinsmoke Reiju:One Piece",
-    "db:Eula:Genshin Impact",
-    "db:Ganyu:Genshin Impact"
+    "db:Eula:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-23T15:48:29.158Z",
+  "updatedAt": "2026-09-23T20:52:26.447Z",
   "cached": {
     "character": {
-      "name": "Temari",
-      "source": "Naruto",
+      "name": "Nakime",
+      "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Temari:Naruto",
-      "nextIndex": 176
+      "globalId": "db:Nakime:Demon Slayer",
+      "nextIndex": 121
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 565668,
-      "vibe": "WHOLESOME",
+      "source": "Demon Slayer",
+      "fanbase": 521423,
+      "vibe": "DEADLY",
       "rating": "LEGENDARY",
-      "age": "15-19",
-      "blood": "O",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Rank: Genin ; Jonin Temari is the oldest child of the , making her the older…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png"
+      "description": "Nakime is a mysterious Biwa Demon that dwells in the Dimensional Infinity Fortr…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139736-CrfqAqlktDTP.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552345920576815144/waifu-98f1ef167bfec9803da524b4.png?ex=6ab5464c&is=6ab3f4cc&hm=1b48865353c8e72b8b79a39bc44adc988c5bcd4a4be1ff02287ce9de3c153bdd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552422412296134746/waifu-fb22538def754d8a052a3d11.png?ex=6ab58d89&is=6ab43c09&hm=2892755a629ba360542acf43618bf467d92cda7391ca64cacb60ab91d680cfe9&"
   }
 }
