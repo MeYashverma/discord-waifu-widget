@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Phoebe:Wuthering Waves",
-  "lastName": "Phoebe",
-  "index": 46,
+  "lastId": "db:Hinata Hyuga:Naruto",
+  "lastName": "Hinata Hyuga",
+  "index": 172,
   "recent": [
+    "db:Hinata Hyuga:Naruto",
     "db:Phoebe:Wuthering Waves",
     "db:Koneko Toujou:High School DxD",
     "db:Skadi:Arknights",
@@ -36,36 +37,35 @@
     "db:Eula:Genshin Impact",
     "db:Ganyu:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
-    "db:Sajuna Inui:My Dress-Up Darling",
-    "db:Mine:Akame ga Kill!"
+    "db:Sajuna Inui:My Dress-Up Darling"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-22T20:40:04.911Z",
+  "updatedAt": "2026-09-23T02:30:08.824Z",
   "cached": {
     "character": {
-      "name": "Phoebe",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Hinata Hyuga",
+      "source": "Naruto",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Phoebe:Wuthering Waves",
-      "nextIndex": 46
+      "globalId": "db:Hinata Hyuga:Naruto",
+      "nextIndex": 172
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 207657,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "Naruto",
+      "fanbase": 550917,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "A Bounty Hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129488-ayuWDn205dwn.png"
+      "bio": "Mage",
+      "description": "December -148",
+      "image": "https://media.kitsu.app/characters/images/350/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552056914836328511/waifu-6a633d71be9b8f3e1acc8759.png?ex=6ab43924&is=6ab2e7a4&hm=9289cfffd377041ee9a7cdee353554b4f78fc8c57987e6c8bec89af99d141ddb&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552145011695423659/waifu-0181b32ce3df50b0ebe4d14f.png?ex=6ab48b30&is=6ab339b0&hm=ae3c0ac90e0a671552b71c4523df9c848ccfb4d7c869bd24546d40c4d0648e6b&"
   }
 }
