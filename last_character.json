@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sylvia Sherwood:Spy x Family",
-  "lastName": "Sylvia Sherwood",
-  "index": 141,
+  "lastId": "db:Temari:Naruto",
+  "lastName": "Temari",
+  "index": 176,
   "recent": [
+    "db:Temari:Naruto",
     "db:Sylvia Sherwood:Spy x Family",
     "db:Hinata Hyuga:Naruto",
     "db:Phoebe:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
     "db:Vinsmoke Reiju:One Piece",
     "db:Eula:Genshin Impact",
-    "db:Ganyu:Genshin Impact",
-    "db:Yuuka Hayase:Blue Archive"
+    "db:Ganyu:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-23T10:29:30.999Z",
+  "updatedAt": "2026-09-23T15:48:29.158Z",
   "cached": {
     "character": {
-      "name": "Sylvia Sherwood",
-      "source": "Spy x Family",
+      "name": "Temari",
+      "source": "Naruto",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sylvia Sherwood:Spy x Family",
-      "nextIndex": 141
+      "globalId": "db:Temari:Naruto",
+      "nextIndex": 176
     },
     "meta": {
-      "source": "Spy x Family",
-      "fanbase": 191582,
-      "vibe": "MYSTERIOUS",
-      "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "source": "Naruto",
+      "fanbase": 565668,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "15-19",
+      "blood": "O",
       "bio": "Character",
-      "description": "cm She is 's main contact at WISE",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157887-P66pD0ilpmtZ.png"
+      "description": "cm Rank: Genin ; Jonin Temari is the oldest child of the , making her the older…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552265647856033862/waifu-5d498607434784ef8d3aacef.png?ex=6ab4fb8a&is=6ab3aa0a&hm=0607267b3ea0b8169d090dfce7591637912399d91004007a99e7656c1eea29df&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552345920576815144/waifu-98f1ef167bfec9803da524b4.png?ex=6ab5464c&is=6ab3f4cc&hm=1b48865353c8e72b8b79a39bc44adc988c5bcd4a4be1ff02287ce9de3c153bdd&"
   }
 }
