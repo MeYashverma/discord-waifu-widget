@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Hinata Hyuga:Naruto",
-  "lastName": "Hinata Hyuga",
-  "index": 172,
+  "lastId": "db:Sylvia Sherwood:Spy x Family",
+  "lastName": "Sylvia Sherwood",
+  "index": 141,
   "recent": [
+    "db:Sylvia Sherwood:Spy x Family",
     "db:Hinata Hyuga:Naruto",
     "db:Phoebe:Wuthering Waves",
     "db:Koneko Toujou:High School DxD",
@@ -36,15 +37,14 @@
     "db:Vinsmoke Reiju:One Piece",
     "db:Eula:Genshin Impact",
     "db:Ganyu:Genshin Impact",
-    "db:Yuuka Hayase:Blue Archive",
-    "db:Sajuna Inui:My Dress-Up Darling"
+    "db:Yuuka Hayase:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-23T02:30:08.824Z",
+  "updatedAt": "2026-09-23T10:29:30.999Z",
   "cached": {
     "character": {
-      "name": "Hinata Hyuga",
-      "source": "Naruto",
+      "name": "Sylvia Sherwood",
+      "source": "Spy x Family",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Hinata Hyuga:Naruto",
-      "nextIndex": 172
+      "globalId": "db:Sylvia Sherwood:Spy x Family",
+      "nextIndex": 141
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 550917,
-      "vibe": "DEADLY",
-      "rating": "LEGENDARY",
+      "source": "Spy x Family",
+      "fanbase": 191582,
+      "vibe": "MYSTERIOUS",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "December -148",
-      "image": "https://media.kitsu.app/characters/images/350/original.jpg"
+      "bio": "Character",
+      "description": "cm She is 's main contact at WISE",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157887-P66pD0ilpmtZ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552145011695423659/waifu-0181b32ce3df50b0ebe4d14f.png?ex=6ab48b30&is=6ab339b0&hm=ae3c0ac90e0a671552b71c4523df9c848ccfb4d7c869bd24546d40c4d0648e6b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552265647856033862/waifu-5d498607434784ef8d3aacef.png?ex=6ab4fb8a&is=6ab3aa0a&hm=0607267b3ea0b8169d090dfce7591637912399d91004007a99e7656c1eea29df&"
   }
 }
