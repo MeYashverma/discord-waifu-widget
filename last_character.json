@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kotori Itsuka:Date A Live",
-  "lastName": "Kotori Itsuka",
-  "index": 100,
+  "lastId": "db:Kasumi Miwa:Jujutsu Kaisen",
+  "lastName": "Kasumi Miwa",
+  "index": 129,
   "recent": [
+    "db:Kasumi Miwa:Jujutsu Kaisen",
     "db:Kotori Itsuka:Date A Live",
     "db:Ahri:League of Legends",
     "db:Mitsuri Kanroji:Demon Slayer",
@@ -36,15 +37,14 @@
     "db:Mitsuru Kirijo:Persona 3",
     "db:Megumin:Konosuba",
     "db:Texas:Arknights",
-    "db:Utahime Iori:Jujutsu Kaisen",
-    "db:Baizhi:Wuthering Waves"
+    "db:Utahime Iori:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-24T16:10:00.829Z",
+  "updatedAt": "2026-09-24T20:56:53.275Z",
   "cached": {
     "character": {
-      "name": "Kotori Itsuka",
-      "source": "Date A Live",
+      "name": "Kasumi Miwa",
+      "source": "Jujutsu Kaisen",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kotori Itsuka:Date A Live",
-      "nextIndex": 100
+      "globalId": "db:Kasumi Miwa:Jujutsu Kaisen",
+      "nextIndex": 129
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 211653,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "14",
-      "blood": "AB",
-      "bio": "Captain",
-      "description": "cm Kotori is foster sister",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65263-SsnYAtOtAiDK.png"
+      "source": "Jujutsu Kaisen",
+      "fanbase": 559316,
+      "vibe": "MYSTERIOUS",
+      "rating": "LEGENDARY",
+      "age": "17",
+      "blood": "Unknown",
+      "bio": "Mage",
+      "description": "Species: Human Occupation: Jujutsu Sorcerer, Student Affiliation: Kyoto Metropo…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552713724580601976/waifu-840d16b935057cfa161b0ade.png?ex=6ab69cd7&is=6ab54b57&hm=d6b9f4669fd401ee3bb8cea6974152b63b6b9733dde120d97de8aef58bbece1d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552785920548409424/waifu-615d667820195810cede46c5.png?ex=6ab6e014&is=6ab58e94&hm=49eedf02cdbcc92b9e1530742705899224b343613a75626368c93ddc2a1db5dc&"
   }
 }
