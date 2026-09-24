@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ahri:League of Legends",
-  "lastName": "Ahri",
-  "index": 235,
+  "lastId": "db:Kotori Itsuka:Date A Live",
+  "lastName": "Kotori Itsuka",
+  "index": 100,
   "recent": [
+    "db:Kotori Itsuka:Date A Live",
     "db:Ahri:League of Legends",
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Nakime:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Megumin:Konosuba",
     "db:Texas:Arknights",
     "db:Utahime Iori:Jujutsu Kaisen",
-    "db:Baizhi:Wuthering Waves",
-    "db:Asuka Langley Soryu:Neon Genesis Evangelion"
+    "db:Baizhi:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-24T10:46:13.208Z",
+  "updatedAt": "2026-09-24T16:10:00.829Z",
   "cached": {
     "character": {
-      "name": "Ahri",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Kotori Itsuka",
+      "source": "Date A Live",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ahri:League of Legends",
-      "nextIndex": 235
+      "globalId": "db:Kotori Itsuka:Date A Live",
+      "nextIndex": 100
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 182183,
-      "vibe": "PLAYFUL",
+      "source": "Date A Live",
+      "fanbase": 211653,
+      "vibe": "SEDUCTIVE",
       "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200021-z9ZtcHtm3SkD.png"
+      "age": "14",
+      "blood": "AB",
+      "bio": "Captain",
+      "description": "cm Kotori is foster sister",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65263-SsnYAtOtAiDK.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552632241165828116/waifu-80aec1d0169555b39225ad4a.png?ex=6ab650f4&is=6ab4ff74&hm=eba5bb5aaaec794fce3fa55394eb60f7fdf585e993ddcb28ab933ff96e57e1a0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552713724580601976/waifu-840d16b935057cfa161b0ade.png?ex=6ab69cd7&is=6ab54b57&hm=d6b9f4669fd401ee3bb8cea6974152b63b6b9733dde120d97de8aef58bbece1d&"
   }
 }
