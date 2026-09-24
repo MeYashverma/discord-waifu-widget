@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mitsuri Kanroji:Demon Slayer",
-  "lastName": "Mitsuri Kanroji",
-  "index": 116,
+  "lastId": "db:Ahri:League of Legends",
+  "lastName": "Ahri",
+  "index": 235,
   "recent": [
+    "db:Ahri:League of Legends",
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Nakime:Demon Slayer",
     "db:Temari:Naruto",
@@ -36,36 +37,35 @@
     "db:Texas:Arknights",
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Baizhi:Wuthering Waves",
-    "db:Asuka Langley Soryu:Neon Genesis Evangelion",
-    "db:Vinsmoke Reiju:One Piece"
+    "db:Asuka Langley Soryu:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-24T02:19:43.197Z",
+  "updatedAt": "2026-09-24T10:46:13.208Z",
   "cached": {
     "character": {
-      "name": "Mitsuri Kanroji",
-      "source": "Demon Slayer",
-      "universe": "ANIME",
+      "name": "Ahri",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mitsuri Kanroji:Demon Slayer",
-      "nextIndex": 116
+      "globalId": "db:Ahri:League of Legends",
+      "nextIndex": 235
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 561193,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "19",
+      "source": "League of Legends",
+      "fanbase": 182183,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hashira",
-      "description": "Love Hashira",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
+      "bio": "Character",
+      "description": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200021-z9ZtcHtm3SkD.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552504774866501732/waifu-c1ad98a9104b98a52ba12db1.png?ex=6ab5da3e&is=6ab488be&hm=e64b7fe8627a499c22daf64e491fcd177bb3d5ee22106317ed63c03b8155a2dd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552632241165828116/waifu-80aec1d0169555b39225ad4a.png?ex=6ab650f4&is=6ab4ff74&hm=eba5bb5aaaec794fce3fa55394eb60f7fdf585e993ddcb28ab933ff96e57e1a0&"
   }
 }
