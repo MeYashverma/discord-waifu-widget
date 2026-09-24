@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nakime:Demon Slayer",
-  "lastName": "Nakime",
-  "index": 121,
+  "lastId": "db:Mitsuri Kanroji:Demon Slayer",
+  "lastName": "Mitsuri Kanroji",
+  "index": 116,
   "recent": [
+    "db:Mitsuri Kanroji:Demon Slayer",
     "db:Nakime:Demon Slayer",
     "db:Temari:Naruto",
     "db:Sylvia Sherwood:Spy x Family",
@@ -36,14 +37,13 @@
     "db:Utahime Iori:Jujutsu Kaisen",
     "db:Baizhi:Wuthering Waves",
     "db:Asuka Langley Soryu:Neon Genesis Evangelion",
-    "db:Vinsmoke Reiju:One Piece",
-    "db:Eula:Genshin Impact"
+    "db:Vinsmoke Reiju:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-23T20:52:26.447Z",
+  "updatedAt": "2026-09-24T02:19:43.197Z",
   "cached": {
     "character": {
-      "name": "Nakime",
+      "name": "Mitsuri Kanroji",
       "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nakime:Demon Slayer",
-      "nextIndex": 121
+      "globalId": "db:Mitsuri Kanroji:Demon Slayer",
+      "nextIndex": 116
     },
     "meta": {
       "source": "Demon Slayer",
-      "fanbase": 521423,
-      "vibe": "DEADLY",
+      "fanbase": 561193,
+      "vibe": "LOYAL",
       "rating": "LEGENDARY",
-      "age": "Unknown",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Nakime is a mysterious Biwa Demon that dwells in the Dimensional Infinity Fortr…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139736-CrfqAqlktDTP.png"
+      "bio": "Hashira",
+      "description": "Love Hashira",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552422412296134746/waifu-fb22538def754d8a052a3d11.png?ex=6ab58d89&is=6ab43c09&hm=2892755a629ba360542acf43618bf467d92cda7391ca64cacb60ab91d680cfe9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552504774866501732/waifu-c1ad98a9104b98a52ba12db1.png?ex=6ab5da3e&is=6ab488be&hm=e64b7fe8627a499c22daf64e491fcd177bb3d5ee22106317ed63c03b8155a2dd&"
   }
 }
