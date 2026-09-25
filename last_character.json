@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ellen Joe:Zenless Zone Zero",
-  "lastName": "Ellen Joe",
-  "index": 35,
+  "lastId": "db:Juri Han:Street Fighter",
+  "lastName": "Juri Han",
+  "index": 245,
   "recent": [
+    "db:Juri Han:Street Fighter",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Sheva Alomar:Resident Evil",
@@ -36,36 +37,35 @@
     "db:Tamayo:Demon Slayer",
     "db:Ako:Blue Archive",
     "db:Jeanne:Bayonetta",
-    "db:Cornelia li Britannia:Code Geass",
-    "db:Mitsuru Kirijo:Persona 3"
+    "db:Cornelia li Britannia:Code Geass"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-25T16:10:21.248Z",
+  "updatedAt": "2026-09-25T20:52:45.757Z",
   "cached": {
     "character": {
-      "name": "Ellen Joe",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Juri Han",
+      "source": "Street Fighter",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ellen Joe:Zenless Zone Zero",
-      "nextIndex": 35
+      "globalId": "db:Juri Han:Street Fighter",
+      "nextIndex": 245
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 242831,
-      "vibe": "ROYAL",
-      "rating": "ICONIC",
+      "source": "Street Fighter",
+      "fanbase": 213198,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
       "age": "Unknown",
-      "blood": "Unknown",
+      "blood": "AB",
       "bio": "Character",
-      "description": "Born November 8, 2142 Planet Aramis, The Canis Major Zone - Joe is the headstro…",
-      "image": "https://media.kitsu.app/characters/images/22030/original.jpg"
+      "description": "Birthplace: South Korea cm Juri was a prominent practitioner of Taekwondo when …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/33384.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553076199666880592/waifu-fcaaf5c99f8625e858b70fcb.png?ex=6ab7ee6c&is=6ab69cec&hm=cd7ed8d06f9c1c9965ff64086288328ae71123040bdfea1b90a1dd71f9f9c858&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553147270139084809/waifu-d02ca64118869f51d480005f.png?ex=6ab8309d&is=6ab6df1d&hm=239a4f239d68a5dbe805aca93092f2dea14fe4cc1be4564621c61f806f157bad&"
   }
 }
