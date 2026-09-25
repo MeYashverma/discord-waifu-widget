@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kasumi Miwa:Jujutsu Kaisen",
-  "lastName": "Kasumi Miwa",
-  "index": 129,
+  "lastId": "db:Sheva Alomar:Resident Evil",
+  "lastName": "Sheva Alomar",
+  "index": 233,
   "recent": [
+    "db:Sheva Alomar:Resident Evil",
     "db:Kasumi Miwa:Jujutsu Kaisen",
     "db:Kotori Itsuka:Date A Live",
     "db:Ahri:League of Legends",
@@ -36,36 +37,35 @@
     "db:Cornelia li Britannia:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
     "db:Megumin:Konosuba",
-    "db:Texas:Arknights",
-    "db:Utahime Iori:Jujutsu Kaisen"
+    "db:Texas:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-24T20:56:53.275Z",
+  "updatedAt": "2026-09-25T02:35:57.401Z",
   "cached": {
     "character": {
-      "name": "Kasumi Miwa",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Sheva Alomar",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kasumi Miwa:Jujutsu Kaisen",
-      "nextIndex": 129
+      "globalId": "db:Sheva Alomar:Resident Evil",
+      "nextIndex": 233
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 559316,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
-      "age": "17",
+      "source": "Resident Evil",
+      "fanbase": 211350,
+      "vibe": "INTENSE",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Species: Human Occupation: Jujutsu Sorcerer, Student Affiliation: Kyoto Metropo…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png"
+      "bio": "Character",
+      "description": "A spy for Judas and Luca",
+      "image": "https://media.kitsu.app/characters/images/12518/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552785920548409424/waifu-615d667820195810cede46c5.png?ex=6ab6e014&is=6ab58e94&hm=49eedf02cdbcc92b9e1530742705899224b343613a75626368c93ddc2a1db5dc&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552871249451946024/waifu-ec0c0d0f0106f4c29a22bcdd.png?ex=6ab72f8c&is=6ab5de0c&hm=c503e07388d435ad4e9463603f21d0c4a520b2518adb3ca234865f903d387ed1&"
   }
 }
