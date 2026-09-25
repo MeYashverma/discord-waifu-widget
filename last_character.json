@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sheva Alomar:Resident Evil",
-  "lastName": "Sheva Alomar",
-  "index": 233,
+  "lastId": "db:Lightning Farron:Final Fantasy XIII",
+  "lastName": "Lightning Farron",
+  "index": 213,
   "recent": [
+    "db:Lightning Farron:Final Fantasy XIII",
     "db:Sheva Alomar:Resident Evil",
     "db:Kasumi Miwa:Jujutsu Kaisen",
     "db:Kotori Itsuka:Date A Live",
@@ -36,36 +37,35 @@
     "db:Jeanne:Bayonetta",
     "db:Cornelia li Britannia:Code Geass",
     "db:Mitsuru Kirijo:Persona 3",
-    "db:Megumin:Konosuba",
-    "db:Texas:Arknights"
+    "db:Megumin:Konosuba"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-25T02:35:57.401Z",
+  "updatedAt": "2026-09-25T10:51:17.856Z",
   "cached": {
     "character": {
-      "name": "Sheva Alomar",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Lightning Farron",
+      "source": "Final Fantasy XIII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sheva Alomar:Resident Evil",
-      "nextIndex": 233
+      "globalId": "db:Lightning Farron:Final Fantasy XIII",
+      "nextIndex": 213
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 211350,
-      "vibe": "INTENSE",
+      "source": "Final Fantasy XIII",
+      "fanbase": 186316,
+      "vibe": "DOMINANT",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A spy for Judas and Luca",
-      "image": "https://media.kitsu.app/characters/images/12518/original.jpg"
+      "bio": "Knight",
+      "description": "Lightning, her original name being Claire Farron , is the main protagonist of F…",
+      "image": "https://media.kitsu.app/characters/images/59906/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552871249451946024/waifu-ec0c0d0f0106f4c29a22bcdd.png?ex=6ab72f8c&is=6ab5de0c&hm=c503e07388d435ad4e9463603f21d0c4a520b2518adb3ca234865f903d387ed1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552995906083618916/waifu-9880bb4a61252d6f572cc1ff.png?ex=6ab7a3a5&is=6ab65225&hm=b1b1c4f230069506b0bbcaa754bceab4347d57da160f2490fce5eefdb187bf69&"
   }
 }
