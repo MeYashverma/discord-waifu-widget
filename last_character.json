@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lightning Farron:Final Fantasy XIII",
-  "lastName": "Lightning Farron",
-  "index": 213,
+  "lastId": "db:Ellen Joe:Zenless Zone Zero",
+  "lastName": "Ellen Joe",
+  "index": 35,
   "recent": [
+    "db:Ellen Joe:Zenless Zone Zero",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Sheva Alomar:Resident Evil",
     "db:Kasumi Miwa:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Ako:Blue Archive",
     "db:Jeanne:Bayonetta",
     "db:Cornelia li Britannia:Code Geass",
-    "db:Mitsuru Kirijo:Persona 3",
-    "db:Megumin:Konosuba"
+    "db:Mitsuru Kirijo:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-25T10:51:17.856Z",
+  "updatedAt": "2026-09-25T16:10:21.248Z",
   "cached": {
     "character": {
-      "name": "Lightning Farron",
-      "source": "Final Fantasy XIII",
-      "universe": "JRPG",
+      "name": "Ellen Joe",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lightning Farron:Final Fantasy XIII",
-      "nextIndex": 213
+      "globalId": "db:Ellen Joe:Zenless Zone Zero",
+      "nextIndex": 35
     },
     "meta": {
-      "source": "Final Fantasy XIII",
-      "fanbase": 186316,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
+      "source": "Zenless Zone Zero",
+      "fanbase": 242831,
+      "vibe": "ROYAL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Lightning, her original name being Claire Farron , is the main protagonist of F…",
-      "image": "https://media.kitsu.app/characters/images/59906/original.jpg"
+      "bio": "Character",
+      "description": "Born November 8, 2142 Planet Aramis, The Canis Major Zone - Joe is the headstro…",
+      "image": "https://media.kitsu.app/characters/images/22030/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1552995906083618916/waifu-9880bb4a61252d6f572cc1ff.png?ex=6ab7a3a5&is=6ab65225&hm=b1b1c4f230069506b0bbcaa754bceab4347d57da160f2490fce5eefdb187bf69&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553076199666880592/waifu-fcaaf5c99f8625e858b70fcb.png?ex=6ab7ee6c&is=6ab69cec&hm=cd7ed8d06f9c1c9965ff64086288328ae71123040bdfea1b90a1dd71f9f9c858&"
   }
 }
