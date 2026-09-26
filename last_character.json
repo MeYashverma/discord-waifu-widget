@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Echidna:Re:Zero",
-  "lastName": "Echidna",
-  "index": 84,
+  "lastId": "db:Lulu:Final Fantasy X",
+  "lastName": "Lulu",
+  "index": 216,
   "recent": [
+    "db:Lulu:Final Fantasy X",
     "db:Echidna:Re:Zero",
     "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Zhu Yuan:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Peach:Super Mario",
     "db:Furina:Genshin Impact",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
-    "db:Narberal Gamma:Overlord",
-    "db:Tamayo:Demon Slayer"
+    "db:Narberal Gamma:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-26T15:24:10.617Z",
+  "updatedAt": "2026-09-26T20:23:22.630Z",
   "cached": {
     "character": {
-      "name": "Echidna",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Lulu",
+      "source": "Final Fantasy X",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Echidna:Re:Zero",
-      "nextIndex": 84
+      "globalId": "db:Lulu:Final Fantasy X",
+      "nextIndex": 216
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 235410,
-      "vibe": "INTENSE",
+      "source": "Final Fantasy X",
+      "fanbase": 237885,
+      "vibe": "PLAYFUL",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "17-18",
       "blood": "Unknown",
-      "bio": "Witch",
-      "description": "Echidna is one of the Witches of Sin, being the Witch of Greed",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
+      "bio": "Maid",
+      "description": "Nationality: Britannian cm Relatives: Nunnally Lamperouge Allegiance: Order of …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553426967464906812/waifu-65d2c4edacc381c1bb2e4367.png?ex=6ab9351a&is=6ab7e39a&hm=764d0835a874e97de27fec3be96d1e44b209e77a3ae9e257e132c72f10712441&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553502262813524068/waifu-444faff8b4f1f68111d7eb6e.png?ex=6ab97b3a&is=6ab829ba&hm=13e1a32d0024354aa38262e157eb4b0390a0664babf4a508a8a06108a9afb48e&"
   }
 }
