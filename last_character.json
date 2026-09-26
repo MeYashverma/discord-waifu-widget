@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Zhu Yuan:Zenless Zone Zero",
-  "lastName": "Zhu Yuan",
-  "index": 30,
+  "lastId": "db:Yuffie Kisaragi:Final Fantasy VII",
+  "lastName": "Yuffie Kisaragi",
+  "index": 212,
   "recent": [
+    "db:Yuffie Kisaragi:Final Fantasy VII",
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Juri Han:Street Fighter",
     "db:Ellen Joe:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Narberal Gamma:Overlord",
     "db:Tamayo:Demon Slayer",
-    "db:Ako:Blue Archive",
-    "db:Jeanne:Bayonetta"
+    "db:Ako:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-26T02:38:17.757Z",
+  "updatedAt": "2026-09-26T10:31:42.432Z",
   "cached": {
     "character": {
-      "name": "Zhu Yuan",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Yuffie Kisaragi",
+      "source": "Final Fantasy VII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Zhu Yuan:Zenless Zone Zero",
-      "nextIndex": 30
+      "globalId": "db:Yuffie Kisaragi:Final Fantasy VII",
+      "nextIndex": 212
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 245073,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "source": "Final Fantasy VII",
+      "fanbase": 481666,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "9-15",
+      "blood": "A",
       "bio": "Character",
-      "description": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled indivi…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383125-DCtnCkBJlh8H.png"
+      "description": "Yuffle is a Ninja and a Thief, wielding a large shuriken",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/2911.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553234226122596424/waifu-0ad01dd54d8ddceeb4c051ca.png?ex=6ab88199&is=6ab73019&hm=1c60fd48569cbbd09814c0a76cd3749cecdc35550098cb14e018f862193ebe7e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553353364996100197/waifu-a49051fc514312688401ec31.png?ex=6ab8f08e&is=6ab79f0e&hm=64a674c2989fcc5e4c564b7f0dec20c5c8c1824e7eaacc3cb06e8f207ad61ea6&"
   }
 }
