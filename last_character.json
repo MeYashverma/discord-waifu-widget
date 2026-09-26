@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Juri Han:Street Fighter",
-  "lastName": "Juri Han",
-  "index": 245,
+  "lastId": "db:Zhu Yuan:Zenless Zone Zero",
+  "lastName": "Zhu Yuan",
+  "index": 30,
   "recent": [
+    "db:Zhu Yuan:Zenless Zone Zero",
     "db:Juri Han:Street Fighter",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Lightning Farron:Final Fantasy XIII",
@@ -36,36 +37,35 @@
     "db:Narberal Gamma:Overlord",
     "db:Tamayo:Demon Slayer",
     "db:Ako:Blue Archive",
-    "db:Jeanne:Bayonetta",
-    "db:Cornelia li Britannia:Code Geass"
+    "db:Jeanne:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-25T20:52:45.757Z",
+  "updatedAt": "2026-09-26T02:38:17.757Z",
   "cached": {
     "character": {
-      "name": "Juri Han",
-      "source": "Street Fighter",
-      "universe": "GAME",
+      "name": "Zhu Yuan",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Juri Han:Street Fighter",
-      "nextIndex": 245
+      "globalId": "db:Zhu Yuan:Zenless Zone Zero",
+      "nextIndex": 30
     },
     "meta": {
-      "source": "Street Fighter",
-      "fanbase": 213198,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
+      "source": "Zenless Zone Zero",
+      "fanbase": 245073,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
       "age": "Unknown",
-      "blood": "AB",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "Birthplace: South Korea cm Juri was a prominent practitioner of Taekwondo when …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/33384.jpg"
+      "description": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled indivi…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383125-DCtnCkBJlh8H.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553147270139084809/waifu-d02ca64118869f51d480005f.png?ex=6ab8309d&is=6ab6df1d&hm=239a4f239d68a5dbe805aca93092f2dea14fe4cc1be4564621c61f806f157bad&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553234226122596424/waifu-0ad01dd54d8ddceeb4c051ca.png?ex=6ab88199&is=6ab73019&hm=1c60fd48569cbbd09814c0a76cd3749cecdc35550098cb14e018f862193ebe7e&"
   }
 }
