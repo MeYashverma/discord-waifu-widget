@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lulu:Final Fantasy X",
-  "lastName": "Lulu",
-  "index": 216,
+  "lastId": "db:Bianca:Punishing Gray Raven",
+  "lastName": "Bianca",
+  "index": 293,
   "recent": [
+    "db:Bianca:Punishing Gray Raven",
     "db:Lulu:Final Fantasy X",
     "db:Echidna:Re:Zero",
     "db:Yuffie Kisaragi:Final Fantasy VII",
@@ -36,36 +37,35 @@
     "db:Navia:Genshin Impact",
     "db:Peach:Super Mario",
     "db:Furina:Genshin Impact",
-    "db:Yuki Tsukumo:Jujutsu Kaisen",
-    "db:Narberal Gamma:Overlord"
+    "db:Yuki Tsukumo:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-26T20:23:22.630Z",
+  "updatedAt": "2026-09-27T02:37:34.594Z",
   "cached": {
     "character": {
-      "name": "Lulu",
-      "source": "Final Fantasy X",
-      "universe": "JRPG",
+      "name": "Bianca",
+      "source": "Punishing Gray Raven",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lulu:Final Fantasy X",
-      "nextIndex": 216
+      "globalId": "db:Bianca:Punishing Gray Raven",
+      "nextIndex": 293
     },
     "meta": {
-      "source": "Final Fantasy X",
-      "fanbase": 237885,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
-      "age": "17-18",
+      "source": "Punishing Gray Raven",
+      "fanbase": 208671,
+      "vibe": "CHAOTIC",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "Nationality: Britannian cm Relatives: Nunnally Lamperouge Allegiance: Order of …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+      "bio": "Character",
+      "description": "Eleonore is a humanoid magic",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187852-j66BLk5r1tNr.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553502262813524068/waifu-444faff8b4f1f68111d7eb6e.png?ex=6ab97b3a&is=6ab829ba&hm=13e1a32d0024354aa38262e157eb4b0390a0664babf4a508a8a06108a9afb48e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553596433725128787/waifu-5f1b9bc6807140bcce268ae2.png?ex=6ab9d2ee&is=6ab8816e&hm=4c0c1fc81dca60300b9519871a1c8c327b0d46c0bee84a0c8be9ab3935ca2cb9&"
   }
 }
