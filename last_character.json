@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bianca:Punishing Gray Raven",
-  "lastName": "Bianca",
-  "index": 293,
+  "lastId": "db:Kokoro:Darling in the Franxx",
+  "lastName": "Kokoro",
+  "index": 145,
   "recent": [
+    "db:Kokoro:Darling in the Franxx",
     "db:Bianca:Punishing Gray Raven",
     "db:Lulu:Final Fantasy X",
     "db:Echidna:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Mika:Blue Archive",
     "db:Navia:Genshin Impact",
     "db:Peach:Super Mario",
-    "db:Furina:Genshin Impact",
-    "db:Yuki Tsukumo:Jujutsu Kaisen"
+    "db:Furina:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-27T02:37:34.594Z",
+  "updatedAt": "2026-09-27T11:03:31.442Z",
   "cached": {
     "character": {
-      "name": "Bianca",
-      "source": "Punishing Gray Raven",
-      "universe": "GACHA",
+      "name": "Kokoro",
+      "source": "Darling in the Franxx",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bianca:Punishing Gray Raven",
-      "nextIndex": 293
+      "globalId": "db:Kokoro:Darling in the Franxx",
+      "nextIndex": 145
     },
     "meta": {
-      "source": "Punishing Gray Raven",
-      "fanbase": 208671,
-      "vibe": "CHAOTIC",
+      "source": "Darling in the Franxx",
+      "fanbase": 186044,
+      "vibe": "WHOLESOME",
       "rating": "POPULAR",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "age": "14-15",
+      "blood": "O Rh+",
       "bio": "Character",
-      "description": "Eleonore is a humanoid magic",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187852-j66BLk5r1tNr.png"
+      "description": "cm Pilots the Franxx Genista with",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553596433725128787/waifu-5f1b9bc6807140bcce268ae2.png?ex=6ab9d2ee&is=6ab8816e&hm=4c0c1fc81dca60300b9519871a1c8c327b0d46c0bee84a0c8be9ab3935ca2cb9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553723759771517028/waifu-a3f3b136e26a6fcbc5b05395.png?ex=6aba4983&is=6ab8f803&hm=9b8af34cf9df432ee2b3bfb84fbbe0c01e9d84a07a5e4cefdfb192a8a0d0c910&"
   }
 }
