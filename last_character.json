@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kokoro:Darling in the Franxx",
-  "lastName": "Kokoro",
-  "index": 145,
+  "lastId": "db:Robin:Honkai Star Rail",
+  "lastName": "Robin",
+  "index": 27,
   "recent": [
+    "db:Robin:Honkai Star Rail",
     "db:Kokoro:Darling in the Franxx",
     "db:Bianca:Punishing Gray Raven",
     "db:Lulu:Final Fantasy X",
@@ -36,36 +37,35 @@
     "db:Satella:Re:Zero",
     "db:Mika:Blue Archive",
     "db:Navia:Genshin Impact",
-    "db:Peach:Super Mario",
-    "db:Furina:Genshin Impact"
+    "db:Peach:Super Mario"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-27T11:03:31.442Z",
+  "updatedAt": "2026-09-27T16:03:32.561Z",
   "cached": {
     "character": {
-      "name": "Kokoro",
-      "source": "Darling in the Franxx",
-      "universe": "ANIME",
+      "name": "Robin",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kokoro:Darling in the Franxx",
-      "nextIndex": 145
+      "globalId": "db:Robin:Honkai Star Rail",
+      "nextIndex": 27
     },
     "meta": {
-      "source": "Darling in the Franxx",
-      "fanbase": 186044,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
-      "age": "14-15",
-      "blood": "O Rh+",
-      "bio": "Character",
-      "description": "cm Pilots the Franxx Genista with",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
+      "source": "Honkai Star Rail",
+      "fanbase": 508395,
+      "vibe": "SEDUCTIVE",
+      "rating": "LEGENDARY",
+      "age": "28-",
+      "blood": "S",
+      "bio": "Mage",
+      "description": "cm Affiliation: Straw Hat Pirates ; Baltigo ; Alabasta ; Ohara Position: Archae…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553723759771517028/waifu-a3f3b136e26a6fcbc5b05395.png?ex=6aba4983&is=6ab8f803&hm=9b8af34cf9df432ee2b3bfb84fbbe0c01e9d84a07a5e4cefdfb192a8a0d0c910&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553799261228113970/waifu-7bfd6f98e9989b375ccbd6ba.png?ex=6aba8fd4&is=6ab93e54&hm=133bf924f103537085d80504e96283e4c739dd3e8a0cc2d3606e688fcd591b05&"
   }
 }
