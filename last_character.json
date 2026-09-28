@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Silver Wolf:Honkai Star Rail",
-  "lastName": "Silver Wolf",
-  "index": 25,
+  "lastId": "db:Claire Redfield:Resident Evil",
+  "lastName": "Claire Redfield",
+  "index": 231,
   "recent": [
+    "db:Claire Redfield:Resident Evil",
     "db:Silver Wolf:Honkai Star Rail",
     "db:Felt:Re:Zero",
     "db:Nana:Darling in the Franxx",
@@ -36,36 +37,35 @@
     "db:Princess Zelda:The Legend of Zelda",
     "db:Akali:League of Legends",
     "db:Kobeni Higashiyama:Chainsaw Man",
-    "db:Brandish μ:Fairy Tail",
-    "db:Satella:Re:Zero"
+    "db:Brandish μ:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-28T12:24:19.785Z",
+  "updatedAt": "2026-09-28T22:46:27.588Z",
   "cached": {
     "character": {
-      "name": "Silver Wolf",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Claire Redfield",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Silver Wolf:Honkai Star Rail",
-      "nextIndex": 25
+      "globalId": "db:Claire Redfield:Resident Evil",
+      "nextIndex": 231
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 475170,
-      "vibe": "DOMINANT",
-      "rating": "ELITE",
+      "source": "Resident Evil",
+      "fanbase": 242618,
+      "vibe": "CONFIDENT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hacker",
-      "description": "Genius hacker Stellaron Hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89196-E2tIf6nIPKnW.png"
+      "bio": "Student",
+      "description": "Claire Redfield is a character from the Resident Evil series of video games, in…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15802-bgayDXDYT9kP.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554106481949802566/waifu-93ded3a0c3e3f7101025aa1f.png?ex=6abbadf3&is=6aba5c73&hm=5b258afa02177decd4211ee9de79f0efc75ecc964ed7237f336211460829278d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554263046434590781/waifu-35aa39e7559d935d4cbb7148.png?ex=6abc3fc3&is=6abaee43&hm=d64df8d5b01f307e48db81bbdcdb01f3b8ed67626986f99a34a3c413cd674e9a&"
   }
 }
