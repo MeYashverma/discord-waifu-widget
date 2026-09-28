@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nana:Darling in the Franxx",
-  "lastName": "Nana",
-  "index": 147,
+  "lastId": "db:Felt:Re:Zero",
+  "lastName": "Felt",
+  "index": 87,
   "recent": [
+    "db:Felt:Re:Zero",
     "db:Nana:Darling in the Franxx",
     "db:Robin:Honkai Star Rail",
     "db:Kokoro:Darling in the Franxx",
@@ -36,15 +37,14 @@
     "db:Kobeni Higashiyama:Chainsaw Man",
     "db:Brandish μ:Fairy Tail",
     "db:Satella:Re:Zero",
-    "db:Mika:Blue Archive",
-    "db:Navia:Genshin Impact"
+    "db:Mika:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-27T20:37:58.356Z",
+  "updatedAt": "2026-09-28T02:40:35.714Z",
   "cached": {
     "character": {
-      "name": "Nana",
-      "source": "Darling in the Franxx",
+      "name": "Felt",
+      "source": "Re:Zero",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nana:Darling in the Franxx",
-      "nextIndex": 147
+      "globalId": "db:Felt:Re:Zero",
+      "nextIndex": 87
     },
     "meta": {
-      "source": "Darling in the Franxx",
-      "fanbase": 210271,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Re:Zero",
+      "fanbase": 248441,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
+      "age": "14-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm One of the two titular characters of the series, Oosaki Nana may look like a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b702-qqO3zbj5hp1l.png"
+      "bio": "Royalty",
+      "description": "cm A thief that lives in the slums",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553868324226474035/waifu-8a63bc3b15bbfb105ccdaff5.png?ex=6abad025&is=6ab97ea5&hm=4138530da8c364645178a560d15b08b9a75abe7bd944a15d88c1ef889bb8e2c2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1553959578104766564/waifu-df0440f6485e7d84b4e51bd0.png?ex=6abb2522&is=6ab9d3a2&hm=17ea81d48279cb99aa7ffcd7f45bca4de22d3974e2bc25beda3ea6591ce1f9f7&"
   }
 }
