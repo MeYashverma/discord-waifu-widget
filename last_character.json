@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Claire Redfield:Resident Evil",
-  "lastName": "Claire Redfield",
-  "index": 231,
+  "lastId": "db:Bronya:Honkai Star Rail",
+  "lastName": "Bronya",
+  "index": 28,
   "recent": [
+    "db:Bronya:Honkai Star Rail",
     "db:Claire Redfield:Resident Evil",
     "db:Silver Wolf:Honkai Star Rail",
     "db:Felt:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Akali:League of Legends",
-    "db:Kobeni Higashiyama:Chainsaw Man",
-    "db:Brandish μ:Fairy Tail"
+    "db:Kobeni Higashiyama:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-28T22:46:27.588Z",
+  "updatedAt": "2026-09-29T03:23:01.250Z",
   "cached": {
     "character": {
-      "name": "Claire Redfield",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Bronya",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Claire Redfield:Resident Evil",
-      "nextIndex": 231
+      "globalId": "db:Bronya:Honkai Star Rail",
+      "nextIndex": 28
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 242618,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Honkai Star Rail",
+      "fanbase": 423520,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "14-",
       "blood": "Unknown",
       "bio": "Student",
-      "description": "Claire Redfield is a character from the Resident Evil series of video games, in…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15802-bgayDXDYT9kP.jpg"
+      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554263046434590781/waifu-35aa39e7559d935d4cbb7148.png?ex=6abc3fc3&is=6abaee43&hm=d64df8d5b01f307e48db81bbdcdb01f3b8ed67626986f99a34a3c413cd674e9a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554332645931098112/waifu-89e0b2cd16b563ce39a7818e.png?ex=6abc8094&is=6abb2f14&hm=230f96ccbb2a288123d685d67d399d7b862c09fd4ac90910c9594c356d28f33d&"
   }
 }
