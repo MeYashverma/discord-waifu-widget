@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kafka:Honkai Star Rail",
-  "lastName": "Kafka",
-  "index": 21,
+  "lastId": "db:Yoruichi Shihouin:Bleach",
+  "lastName": "Yoruichi Shihouin",
+  "index": 181,
   "recent": [
+    "db:Yoruichi Shihouin:Bleach",
     "db:Kafka:Honkai Star Rail",
     "db:Bronya:Honkai Star Rail",
     "db:Claire Redfield:Resident Evil",
@@ -36,36 +37,35 @@
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Marin Kitagawa:My Dress-Up Darling",
-    "db:Princess Zelda:The Legend of Zelda",
-    "db:Akali:League of Legends"
+    "db:Princess Zelda:The Legend of Zelda"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-29T11:49:47.648Z",
+  "updatedAt": "2026-09-29T17:18:51.166Z",
   "cached": {
     "character": {
-      "name": "Kafka",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Yoruichi Shihouin",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kafka:Honkai Star Rail",
-      "nextIndex": 21
+      "globalId": "db:Yoruichi Shihouin:Bleach",
+      "nextIndex": 181
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 470737,
-      "vibe": "ROYAL",
-      "rating": "ELITE",
+      "source": "Bleach",
+      "fanbase": 512525,
+      "vibe": "SEDUCTIVE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Stellaron Hunter",
-      "description": "Mysterious Stellaron Hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png"
+      "bio": "Captain",
+      "description": "cm Previous Position: 22nd Head of Shihōin Clan, Captain of the 2nd Division, O…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554460179515449405/waifu-a6d00a34fc9af0978d5317f6.png?ex=6abcf75b&is=6abba5db&hm=353cebffe304a676776e782a92e06970fee2568a96ad7f1d76678fa7bf39b25b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554542988900704338/waifu-d0b70b658541131d94d79c7d.png?ex=6abd447a&is=6abbf2fa&hm=6e414c7660c16eee20fdd0709202b167a4a8ae26b01720aa61fcfc8fedcb3b8b&"
   }
 }
