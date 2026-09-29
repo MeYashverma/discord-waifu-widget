@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bronya:Honkai Star Rail",
-  "lastName": "Bronya",
-  "index": 28,
+  "lastId": "db:Kafka:Honkai Star Rail",
+  "lastName": "Kafka",
+  "index": 21,
   "recent": [
+    "db:Kafka:Honkai Star Rail",
     "db:Bronya:Honkai Star Rail",
     "db:Claire Redfield:Resident Evil",
     "db:Silver Wolf:Honkai Star Rail",
@@ -36,14 +37,13 @@
     "db:Velvet Crowe:Tales of Berseria",
     "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Princess Zelda:The Legend of Zelda",
-    "db:Akali:League of Legends",
-    "db:Kobeni Higashiyama:Chainsaw Man"
+    "db:Akali:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-29T03:23:01.250Z",
+  "updatedAt": "2026-09-29T11:49:47.648Z",
   "cached": {
     "character": {
-      "name": "Bronya",
+      "name": "Kafka",
       "source": "Honkai Star Rail",
       "universe": "GACHA",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bronya:Honkai Star Rail",
-      "nextIndex": 28
+      "globalId": "db:Kafka:Honkai Star Rail",
+      "nextIndex": 21
     },
     "meta": {
       "source": "Honkai Star Rail",
-      "fanbase": 423520,
-      "vibe": "ELEGANT",
+      "fanbase": 470737,
+      "vibe": "ROYAL",
       "rating": "ELITE",
-      "age": "14-",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
+      "bio": "Stellaron Hunter",
+      "description": "Mysterious Stellaron Hunter",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554332645931098112/waifu-89e0b2cd16b563ce39a7818e.png?ex=6abc8094&is=6abb2f14&hm=230f96ccbb2a288123d685d67d399d7b862c09fd4ac90910c9594c356d28f33d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554460179515449405/waifu-a6d00a34fc9af0978d5317f6.png?ex=6abcf75b&is=6abba5db&hm=353cebffe304a676776e782a92e06970fee2568a96ad7f1d76678fa7bf39b25b&"
   }
 }
