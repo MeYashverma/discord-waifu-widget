@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yoruichi Shihouin:Bleach",
-  "lastName": "Yoruichi Shihouin",
-  "index": 181,
+  "lastId": "db:Momo Nishimiya:Jujutsu Kaisen",
+  "lastName": "Momo Nishimiya",
+  "index": 130,
   "recent": [
+    "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Yoruichi Shihouin:Bleach",
     "db:Kafka:Honkai Star Rail",
     "db:Bronya:Honkai Star Rail",
@@ -36,15 +37,14 @@
     "db:Shenhe:Genshin Impact",
     "db:Rogue Amendiares:Cyberpunk 2077",
     "db:Velvet Crowe:Tales of Berseria",
-    "db:Marin Kitagawa:My Dress-Up Darling",
-    "db:Princess Zelda:The Legend of Zelda"
+    "db:Marin Kitagawa:My Dress-Up Darling"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-29T17:18:51.166Z",
+  "updatedAt": "2026-09-29T21:40:12.348Z",
   "cached": {
     "character": {
-      "name": "Yoruichi Shihouin",
-      "source": "Bleach",
+      "name": "Momo Nishimiya",
+      "source": "Jujutsu Kaisen",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yoruichi Shihouin:Bleach",
-      "nextIndex": 181
+      "globalId": "db:Momo Nishimiya:Jujutsu Kaisen",
+      "nextIndex": 130
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 512525,
-      "vibe": "SEDUCTIVE",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 520921,
+      "vibe": "LOYAL",
       "rating": "LEGENDARY",
-      "age": "Unknown",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "cm Previous Position: 22nd Head of Shihōin Clan, Captain of the 2nd Division, O…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+      "bio": "Mage",
+      "description": "Species: Human Occupation: Jujutsu Sorcerer Affiliation: Kyoto Magic Technical …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554542988900704338/waifu-d0b70b658541131d94d79c7d.png?ex=6abd447a&is=6abbf2fa&hm=6e414c7660c16eee20fdd0709202b167a4a8ae26b01720aa61fcfc8fedcb3b8b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554608757621657661/waifu-18a4af4654718cefe1238180.png?backend=b2&ex=6abd81bb&is=6abc303b&hm=aac8c8b5f5131ca7a7cc83a625d39cf5772decfaa5d6065fdea3ce71528313a0&"
   }
 }
