@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Momo Nishimiya:Jujutsu Kaisen",
-  "lastName": "Momo Nishimiya",
-  "index": 130,
+  "lastId": "db:Xenovia Quarta:High School DxD",
+  "lastName": "Xenovia Quarta",
+  "index": 93,
   "recent": [
+    "db:Xenovia Quarta:High School DxD",
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Yoruichi Shihouin:Bleach",
     "db:Kafka:Honkai Star Rail",
@@ -36,15 +37,14 @@
     "db:Ishtar:Fate Series",
     "db:Shenhe:Genshin Impact",
     "db:Rogue Amendiares:Cyberpunk 2077",
-    "db:Velvet Crowe:Tales of Berseria",
-    "db:Marin Kitagawa:My Dress-Up Darling"
+    "db:Velvet Crowe:Tales of Berseria"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-29T21:40:12.348Z",
+  "updatedAt": "2026-09-30T03:05:24.116Z",
   "cached": {
     "character": {
-      "name": "Momo Nishimiya",
-      "source": "Jujutsu Kaisen",
+      "name": "Xenovia Quarta",
+      "source": "High School DxD",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Momo Nishimiya:Jujutsu Kaisen",
-      "nextIndex": 130
+      "globalId": "db:Xenovia Quarta:High School DxD",
+      "nextIndex": 93
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 520921,
+      "source": "High School DxD",
+      "fanbase": 198837,
       "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "18",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Species: Human Occupation: Jujutsu Sorcerer Affiliation: Kyoto Magic Technical …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png"
+      "bio": "Knight",
+      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554608757621657661/waifu-18a4af4654718cefe1238180.png?backend=b2&ex=6abd81bb&is=6abc303b&hm=aac8c8b5f5131ca7a7cc83a625d39cf5772decfaa5d6065fdea3ce71528313a0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554690598735450192/waifu-5d6ea2b2e9ddf59a58edab0d.png?backend=b2&ex=6abdcdf3&is=6abc7c73&hm=fc2933a8f676838e45ab07d4b35f842dd2525f73450b322b5e90faee4eefb128&"
   }
 }
