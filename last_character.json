@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Clorinde:Genshin Impact",
-  "lastName": "Clorinde",
-  "index": 13,
+  "lastId": "db:Ram:Re:Zero",
+  "lastName": "Ram",
+  "index": 83,
   "recent": [
+    "db:Ram:Re:Zero",
     "db:Clorinde:Genshin Impact",
     "db:Xenovia Quarta:High School DxD",
     "db:Momo Nishimiya:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Koneko Toujou:High School DxD",
     "db:Skadi:Arknights",
     "db:Ishtar:Fate Series",
-    "db:Shenhe:Genshin Impact",
-    "db:Rogue Amendiares:Cyberpunk 2077"
+    "db:Shenhe:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-30T11:36:40.154Z",
+  "updatedAt": "2026-09-30T17:16:17.511Z",
   "cached": {
     "character": {
-      "name": "Clorinde",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Ram",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Clorinde:Genshin Impact",
-      "nextIndex": 13
+      "globalId": "db:Ram:Re:Zero",
+      "nextIndex": 83
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 512279,
-      "vibe": "DEADLY",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "source": "Re:Zero",
+      "fanbase": 222018,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
+      "age": "17-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Novel Debut: Volume 14",
-      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
+      "bio": "Maid",
+      "description": "cm Ram is one of the twin maids working for",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554819259622883328/waifu-6422de0ae7c66a0e9f3a82dc.png?backend=b2&ex=6abe45c6&is=6abcf446&hm=5628b3d6ddd0ec12ff150e21ad26d86c258b267f8126dfcee2ff37430aa5086e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554904732462481488/waifu-9da6a8c40cf85c9039c233d6.png?backend=b2&ex=6abe9560&is=6abd43e0&hm=a026d37ebf39eb752dfc6b04543475b8b63e387b8c327393036a793e4892f752&"
   }
 }
