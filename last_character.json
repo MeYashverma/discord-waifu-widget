@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Xenovia Quarta:High School DxD",
-  "lastName": "Xenovia Quarta",
-  "index": 93,
+  "lastId": "db:Clorinde:Genshin Impact",
+  "lastName": "Clorinde",
+  "index": 13,
   "recent": [
+    "db:Clorinde:Genshin Impact",
     "db:Xenovia Quarta:High School DxD",
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Yoruichi Shihouin:Bleach",
@@ -36,36 +37,35 @@
     "db:Skadi:Arknights",
     "db:Ishtar:Fate Series",
     "db:Shenhe:Genshin Impact",
-    "db:Rogue Amendiares:Cyberpunk 2077",
-    "db:Velvet Crowe:Tales of Berseria"
+    "db:Rogue Amendiares:Cyberpunk 2077"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-30T03:05:24.116Z",
+  "updatedAt": "2026-09-30T11:36:40.154Z",
   "cached": {
     "character": {
-      "name": "Xenovia Quarta",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Clorinde",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Xenovia Quarta:High School DxD",
-      "nextIndex": 93
+      "globalId": "db:Clorinde:Genshin Impact",
+      "nextIndex": 13
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 198837,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "source": "Genshin Impact",
+      "fanbase": 512279,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
+      "bio": "Character",
+      "description": "Novel Debut: Volume 14",
+      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554690598735450192/waifu-5d6ea2b2e9ddf59a58edab0d.png?backend=b2&ex=6abdcdf3&is=6abc7c73&hm=fc2933a8f676838e45ab07d4b35f842dd2525f73450b322b5e90faee4eefb128&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554819259622883328/waifu-6422de0ae7c66a0e9f3a82dc.png?backend=b2&ex=6abe45c6&is=6abcf446&hm=5628b3d6ddd0ec12ff150e21ad26d86c258b267f8126dfcee2ff37430aa5086e&"
   }
 }
