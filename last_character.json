@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ram:Re:Zero",
-  "lastName": "Ram",
-  "index": 83,
+  "lastId": "db:Tifa Lockhart:Final Fantasy VII",
+  "lastName": "Tifa Lockhart",
+  "index": 210,
   "recent": [
+    "db:Tifa Lockhart:Final Fantasy VII",
     "db:Ram:Re:Zero",
     "db:Clorinde:Genshin Impact",
     "db:Xenovia Quarta:High School DxD",
@@ -36,36 +37,35 @@
     "db:Phoebe:Wuthering Waves",
     "db:Koneko Toujou:High School DxD",
     "db:Skadi:Arknights",
-    "db:Ishtar:Fate Series",
-    "db:Shenhe:Genshin Impact"
+    "db:Ishtar:Fate Series"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-30T17:16:17.511Z",
+  "updatedAt": "2026-09-30T21:40:50.782Z",
   "cached": {
     "character": {
-      "name": "Ram",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Tifa Lockhart",
+      "source": "Final Fantasy VII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ram:Re:Zero",
-      "nextIndex": 83
+      "globalId": "db:Tifa Lockhart:Final Fantasy VII",
+      "nextIndex": 210
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 222018,
-      "vibe": "ELEGANT",
-      "rating": "ICONIC",
-      "age": "17-",
+      "source": "Final Fantasy VII",
+      "fanbase": 487971,
+      "vibe": "ROYAL",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "cm Ram is one of the twin maids working for",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
+      "bio": "Fighter",
+      "description": "Avalanche martial artist",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b758-3QZhbFVMajHC.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554904732462481488/waifu-9da6a8c40cf85c9039c233d6.png?backend=b2&ex=6abe9560&is=6abd43e0&hm=a026d37ebf39eb752dfc6b04543475b8b63e387b8c327393036a793e4892f752&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554971310226935959/waifu-5e80276745b8f762319c4bbe.png?backend=b2&ex=6abed362&is=6abd81e2&hm=ec5cf09f8e18c20e9f9d5cf012bfe0a73e2050a9c79319a760db38ac4b4d2f22&"
   }
 }
