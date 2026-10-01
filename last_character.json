@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jean:Genshin Impact",
-  "lastName": "Jean",
-  "index": 12,
+  "lastId": "db:Fran:Final Fantasy XII",
+  "lastName": "Fran",
+  "index": 217,
   "recent": [
+    "db:Fran:Final Fantasy XII",
     "db:Jean:Genshin Impact",
     "db:Tifa Lockhart:Final Fantasy VII",
     "db:Ram:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Sylvia Sherwood:Spy x Family",
     "db:Hinata Hyuga:Naruto",
     "db:Phoebe:Wuthering Waves",
-    "db:Koneko Toujou:High School DxD",
-    "db:Skadi:Arknights"
+    "db:Koneko Toujou:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-01T03:12:07.609Z",
+  "updatedAt": "2026-10-01T12:05:26.433Z",
   "cached": {
     "character": {
-      "name": "Jean",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Fran",
+      "source": "Final Fantasy XII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jean:Genshin Impact",
-      "nextIndex": 12
+      "globalId": "db:Fran:Final Fantasy XII",
+      "nextIndex": 217
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 565311,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "16-",
+      "source": "Final Fantasy XII",
+      "fanbase": 218440,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "19-23, (30's in Another Monster)",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "cm Relatives: Jean Kirschtein is a graduate of the 104th Cadet Corps, among who…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png"
+      "bio": "Devil",
+      "description": "Johan Liebert is the older twin son of the Lieberts, whose father Michael was a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555054669749821460/waifu-a304b16f4e6e061e583ab770.png?backend=b2&ex=6abf2104&is=6abdcf84&hm=859eb2c09ba395a68a2f4f67ba7bf1b3e98cec2a616a312d063b0801dd8afc76&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555188891517063208/waifu-31973d2a60c6e7d2f1a7aecf.png?backend=b2&ex=6abf9e05&is=6abe4c85&hm=b6d2773c54cba070c13b5f4994f7b19069a7c1e9ae37fdc4e2a47499d5fa4da7&"
   }
 }
