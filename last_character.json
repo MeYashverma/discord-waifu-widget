@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Tifa Lockhart:Final Fantasy VII",
-  "lastName": "Tifa Lockhart",
-  "index": 210,
+  "lastId": "db:Jean:Genshin Impact",
+  "lastName": "Jean",
+  "index": 12,
   "recent": [
+    "db:Jean:Genshin Impact",
     "db:Tifa Lockhart:Final Fantasy VII",
     "db:Ram:Re:Zero",
     "db:Clorinde:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Hinata Hyuga:Naruto",
     "db:Phoebe:Wuthering Waves",
     "db:Koneko Toujou:High School DxD",
-    "db:Skadi:Arknights",
-    "db:Ishtar:Fate Series"
+    "db:Skadi:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-09-30T21:40:50.782Z",
+  "updatedAt": "2026-10-01T03:12:07.609Z",
   "cached": {
     "character": {
-      "name": "Tifa Lockhart",
-      "source": "Final Fantasy VII",
-      "universe": "JRPG",
+      "name": "Jean",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Tifa Lockhart:Final Fantasy VII",
-      "nextIndex": 210
+      "globalId": "db:Jean:Genshin Impact",
+      "nextIndex": 12
     },
     "meta": {
-      "source": "Final Fantasy VII",
-      "fanbase": 487971,
-      "vibe": "ROYAL",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Genshin Impact",
+      "fanbase": 565311,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "16-",
       "blood": "Unknown",
-      "bio": "Fighter",
-      "description": "Avalanche martial artist",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b758-3QZhbFVMajHC.png"
+      "bio": "Soldier",
+      "description": "cm Relatives: Jean Kirschtein is a graduate of the 104th Cadet Corps, among who…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1554971310226935959/waifu-5e80276745b8f762319c4bbe.png?backend=b2&ex=6abed362&is=6abd81e2&hm=ec5cf09f8e18c20e9f9d5cf012bfe0a73e2050a9c79319a760db38ac4b4d2f22&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555054669749821460/waifu-a304b16f4e6e061e583ab770.png?backend=b2&ex=6abf2104&is=6abdcf84&hm=859eb2c09ba395a68a2f4f67ba7bf1b3e98cec2a616a312d063b0801dd8afc76&"
   }
 }
