@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fran:Final Fantasy XII",
-  "lastName": "Fran",
-  "index": 217,
+  "lastId": "db:Brandish μ:Fairy Tail",
+  "lastName": "Brandish μ",
+  "index": 112,
   "recent": [
+    "db:Brandish μ:Fairy Tail",
     "db:Fran:Final Fantasy XII",
     "db:Jean:Genshin Impact",
     "db:Tifa Lockhart:Final Fantasy VII",
@@ -36,36 +37,35 @@
     "db:Temari:Naruto",
     "db:Sylvia Sherwood:Spy x Family",
     "db:Hinata Hyuga:Naruto",
-    "db:Phoebe:Wuthering Waves",
-    "db:Koneko Toujou:High School DxD"
+    "db:Phoebe:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-01T12:05:26.433Z",
+  "updatedAt": "2026-10-01T22:08:26.159Z",
   "cached": {
     "character": {
-      "name": "Fran",
-      "source": "Final Fantasy XII",
-      "universe": "JRPG",
+      "name": "Brandish μ",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fran:Final Fantasy XII",
-      "nextIndex": 217
+      "globalId": "db:Brandish μ:Fairy Tail",
+      "nextIndex": 112
     },
     "meta": {
-      "source": "Final Fantasy XII",
-      "fanbase": 218440,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "19-23, (30's in Another Monster)",
+      "source": "Fairy Tail",
+      "fanbase": 234189,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Johan Liebert is the older twin son of the Lieberts, whose father Michael was a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
+      "bio": "Character",
+      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555188891517063208/waifu-31973d2a60c6e7d2f1a7aecf.png?backend=b2&ex=6abf9e05&is=6abe4c85&hm=b6d2773c54cba070c13b5f4994f7b19069a7c1e9ae37fdc4e2a47499d5fa4da7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555340640848580658/waifu-996720f0e1f19f63f4c07150.png?backend=b2&ex=6ac02b59&is=6abed9d9&hm=2529c60e6509fbfcd2f0abe448f78c3654a942c93f925a00eb950d6c815986d1&"
   }
 }
