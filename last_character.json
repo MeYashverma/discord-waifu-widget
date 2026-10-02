@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
-  "lastName": "Sajuna Inui",
-  "index": 155,
+  "lastId": "db:Asuna Ichinose:Blue Archive",
+  "lastName": "Asuna Ichinose",
+  "index": 65,
   "recent": [
+    "db:Asuna Ichinose:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Brandish μ:Fairy Tail",
     "db:Fran:Final Fantasy XII",
@@ -36,36 +37,35 @@
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Nakime:Demon Slayer",
     "db:Temari:Naruto",
-    "db:Sylvia Sherwood:Spy x Family",
-    "db:Hinata Hyuga:Naruto"
+    "db:Sylvia Sherwood:Spy x Family"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-02T03:13:31.520Z",
+  "updatedAt": "2026-10-02T11:36:28.449Z",
   "cached": {
     "character": {
-      "name": "Sajuna Inui",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Asuna Ichinose",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
-      "nextIndex": 155
+      "globalId": "db:Asuna Ichinose:Blue Archive",
+      "nextIndex": 65
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 207074,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
+      "source": "Blue Archive",
+      "fanbase": 224281,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
       "age": "17",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "A famous cosplayer that looks up to",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+      "description": "cm An agent of the Millennium's secret organization, Cleaning&Clearing",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269726-e73jfn7SpGfI.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555417419617402981/waifu-b95cb77b2891a829327af9ef.png?backend=b2&ex=6ac072db&is=6abf215b&hm=d31d1ef5ec6f80145c55aa92de632733c8e2fd20b4d029654a1671168c452438&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555543989883772970/waifu-6e3ea861871213040fb05842.png?backend=b2&ex=6ac0e8bb&is=6abf973b&hm=ccd44eea22c85d170b5364188c0dde157b7ba79c44d27a905530f29980288611&"
   }
 }
