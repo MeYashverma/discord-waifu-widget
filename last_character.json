@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Taihou:Azur Lane",
-  "lastName": "Taihou",
-  "index": 278,
+  "lastId": "db:Firefly:Honkai Star Rail",
+  "lastName": "Firefly",
+  "index": 23,
   "recent": [
+    "db:Firefly:Honkai Star Rail",
     "db:Taihou:Azur Lane",
     "db:Asuna Ichinose:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
@@ -36,15 +37,14 @@
     "db:Kotori Itsuka:Date A Live",
     "db:Ahri:League of Legends",
     "db:Mitsuri Kanroji:Demon Slayer",
-    "db:Nakime:Demon Slayer",
-    "db:Temari:Naruto"
+    "db:Nakime:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-02T17:04:16.199Z",
+  "updatedAt": "2026-10-02T21:36:18.170Z",
   "cached": {
     "character": {
-      "name": "Taihou",
-      "source": "Azur Lane",
+      "name": "Firefly",
+      "source": "Honkai Star Rail",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Taihou:Azur Lane",
-      "nextIndex": 278
+      "globalId": "db:Firefly:Honkai Star Rail",
+      "nextIndex": 23
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 260799,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
+      "source": "Honkai Star Rail",
+      "fanbase": 439840,
+      "vibe": "INTENSE",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Sakura Empire ship from the game and anime \"Azur Lane\"",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b193799-DlwdNnaahvcj.jpg"
+      "bio": "Hunter",
+      "description": "Claiming herself to be a new artist from the Iris Family",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349493-mkABJfIuqzAQ.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555626482699731055/waifu-20a74a43a977fbc1d1679220.png?backend=b2&ex=6ac1358f&is=6abfe40f&hm=a2d25a8133e9a540a7e77e1c6303ca38d553ac3e370542f687d1c8aba31234b4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555694942351786096/waifu-95f55378dbb428728e82d10d.png?backend=b2&ex=6ac17551&is=6ac023d1&hm=253599474ecc7a86312e40e543f56469601c5a94f3f9dcd4e76c256059f4d5a5&"
   }
 }
