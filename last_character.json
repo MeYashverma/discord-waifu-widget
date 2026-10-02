@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asuna Ichinose:Blue Archive",
-  "lastName": "Asuna Ichinose",
-  "index": 65,
+  "lastId": "db:Taihou:Azur Lane",
+  "lastName": "Taihou",
+  "index": 278,
   "recent": [
+    "db:Taihou:Azur Lane",
     "db:Asuna Ichinose:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Brandish μ:Fairy Tail",
@@ -36,15 +37,14 @@
     "db:Ahri:League of Legends",
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Nakime:Demon Slayer",
-    "db:Temari:Naruto",
-    "db:Sylvia Sherwood:Spy x Family"
+    "db:Temari:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-02T11:36:28.449Z",
+  "updatedAt": "2026-10-02T17:04:16.199Z",
   "cached": {
     "character": {
-      "name": "Asuna Ichinose",
-      "source": "Blue Archive",
+      "name": "Taihou",
+      "source": "Azur Lane",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asuna Ichinose:Blue Archive",
-      "nextIndex": 65
+      "globalId": "db:Taihou:Azur Lane",
+      "nextIndex": 278
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 224281,
-      "vibe": "DEADLY",
+      "source": "Azur Lane",
+      "fanbase": 260799,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "17",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm An agent of the Millennium's secret organization, Cleaning&Clearing",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269726-e73jfn7SpGfI.png"
+      "description": "Sakura Empire ship from the game and anime \"Azur Lane\"",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b193799-DlwdNnaahvcj.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555543989883772970/waifu-6e3ea861871213040fb05842.png?backend=b2&ex=6ac0e8bb&is=6abf973b&hm=ccd44eea22c85d170b5364188c0dde157b7ba79c44d27a905530f29980288611&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555626482699731055/waifu-20a74a43a977fbc1d1679220.png?backend=b2&ex=6ac1358f&is=6abfe40f&hm=a2d25a8133e9a540a7e77e1c6303ca38d553ac3e370542f687d1c8aba31234b4&"
   }
 }
