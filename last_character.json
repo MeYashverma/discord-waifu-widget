@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Brandish μ:Fairy Tail",
-  "lastName": "Brandish μ",
-  "index": 112,
+  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
+  "lastName": "Sajuna Inui",
+  "index": 155,
   "recent": [
+    "db:Sajuna Inui:My Dress-Up Darling",
     "db:Brandish μ:Fairy Tail",
     "db:Fran:Final Fantasy XII",
     "db:Jean:Genshin Impact",
@@ -36,15 +37,14 @@
     "db:Nakime:Demon Slayer",
     "db:Temari:Naruto",
     "db:Sylvia Sherwood:Spy x Family",
-    "db:Hinata Hyuga:Naruto",
-    "db:Phoebe:Wuthering Waves"
+    "db:Hinata Hyuga:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-01T22:08:26.159Z",
+  "updatedAt": "2026-10-02T03:13:31.520Z",
   "cached": {
     "character": {
-      "name": "Brandish μ",
-      "source": "Fairy Tail",
+      "name": "Sajuna Inui",
+      "source": "My Dress-Up Darling",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Brandish μ:Fairy Tail",
-      "nextIndex": 112
+      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
+      "nextIndex": 155
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 234189,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "My Dress-Up Darling",
+      "fanbase": 207074,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
+      "description": "A famous cosplayer that looks up to",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555340640848580658/waifu-996720f0e1f19f63f4c07150.png?backend=b2&ex=6ac02b59&is=6abed9d9&hm=2529c60e6509fbfcd2f0abe448f78c3654a942c93f925a00eb950d6c815986d1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555417419617402981/waifu-b95cb77b2891a829327af9ef.png?backend=b2&ex=6ac072db&is=6abf215b&hm=d31d1ef5ec6f80145c55aa92de632733c8e2fd20b4d029654a1671168c452438&"
   }
 }
