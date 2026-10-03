@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Marin Kitagawa:My Dress-Up Darling",
-  "lastName": "Marin Kitagawa",
-  "index": 154,
+  "lastId": "db:Jeanne:Bayonetta",
+  "lastName": "Jeanne",
+  "index": 260,
   "recent": [
+    "db:Jeanne:Bayonetta",
     "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Camellya:Wuthering Waves",
     "db:Firefly:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Sheva Alomar:Resident Evil",
     "db:Kasumi Miwa:Jujutsu Kaisen",
-    "db:Kotori Itsuka:Date A Live",
-    "db:Ahri:League of Legends"
+    "db:Kotori Itsuka:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-03T10:49:56.661Z",
+  "updatedAt": "2026-10-03T15:26:12.923Z",
   "cached": {
     "character": {
-      "name": "Marin Kitagawa",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Jeanne",
+      "source": "Bayonetta",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Marin Kitagawa:My Dress-Up Darling",
-      "nextIndex": 154
+      "globalId": "db:Jeanne:Bayonetta",
+      "nextIndex": 260
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 224511,
-      "vibe": "DEADLY",
+      "source": "Bayonetta",
+      "fanbase": 231467,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Cosplayer",
-      "description": "Fashionable cosplay enthusiast",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+      "bio": "Character",
+      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555894668447850577/waifu-2a58a3d23ec5fdcf08eefd57.png?backend=b2&ex=6ac22f54&is=6ac0ddd4&hm=811a3203aada2c8f8861f049c3122892d6b95689c5863ba28c8d84b52d3b7ce9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555964194988363948/waifu-e6045378a725917caf1d2dab.png?backend=b2&ex=6ac27014&is=6ac11e94&hm=ae98dab3e7648af348e4f2e637016d15526af5aeefc411254530c993071fd37b&"
   }
 }
