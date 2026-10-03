@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Firefly:Honkai Star Rail",
-  "lastName": "Firefly",
-  "index": 23,
+  "lastId": "db:Camellya:Wuthering Waves",
+  "lastName": "Camellya",
+  "index": 36,
   "recent": [
+    "db:Camellya:Wuthering Waves",
     "db:Firefly:Honkai Star Rail",
     "db:Taihou:Azur Lane",
     "db:Asuna Ichinose:Blue Archive",
@@ -36,15 +37,14 @@
     "db:Kasumi Miwa:Jujutsu Kaisen",
     "db:Kotori Itsuka:Date A Live",
     "db:Ahri:League of Legends",
-    "db:Mitsuri Kanroji:Demon Slayer",
-    "db:Nakime:Demon Slayer"
+    "db:Mitsuri Kanroji:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-02T21:36:18.170Z",
+  "updatedAt": "2026-10-03T02:59:22.792Z",
   "cached": {
     "character": {
-      "name": "Firefly",
-      "source": "Honkai Star Rail",
+      "name": "Camellya",
+      "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Firefly:Honkai Star Rail",
-      "nextIndex": 23
+      "globalId": "db:Camellya:Wuthering Waves",
+      "nextIndex": 36
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 439840,
-      "vibe": "INTENSE",
-      "rating": "ELITE",
+      "source": "Wuthering Waves",
+      "fanbase": 266092,
+      "vibe": "CONFIDENT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Claiming herself to be a new artist from the Iris Family",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349493-mkABJfIuqzAQ.jpg"
+      "bio": "Character",
+      "description": "A mysterious girl who attacked Masaki in her apartment",
+      "image": "https://media.kitsu.app/characters/images/47683/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555694942351786096/waifu-95f55378dbb428728e82d10d.png?backend=b2&ex=6ac17551&is=6ac023d1&hm=253599474ecc7a86312e40e543f56469601c5a94f3f9dcd4e76c256059f4d5a5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555776247529734214/waifu-73091d76af9c122a6aedc941.png?backend=b2&ex=6ac1c10a&is=6ac06f8a&hm=deb2df5ee14db3c86d77dcbd7e4a75cf22d4f71d5c9f54d88d882169810346b5&"
   }
 }
