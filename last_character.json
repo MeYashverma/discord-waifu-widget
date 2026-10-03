@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Camellya:Wuthering Waves",
-  "lastName": "Camellya",
-  "index": 36,
+  "lastId": "db:Marin Kitagawa:My Dress-Up Darling",
+  "lastName": "Marin Kitagawa",
+  "index": 154,
   "recent": [
+    "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Camellya:Wuthering Waves",
     "db:Firefly:Honkai Star Rail",
     "db:Taihou:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Sheva Alomar:Resident Evil",
     "db:Kasumi Miwa:Jujutsu Kaisen",
     "db:Kotori Itsuka:Date A Live",
-    "db:Ahri:League of Legends",
-    "db:Mitsuri Kanroji:Demon Slayer"
+    "db:Ahri:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-03T02:59:22.792Z",
+  "updatedAt": "2026-10-03T10:49:56.661Z",
   "cached": {
     "character": {
-      "name": "Camellya",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Marin Kitagawa",
+      "source": "My Dress-Up Darling",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Camellya:Wuthering Waves",
-      "nextIndex": 36
+      "globalId": "db:Marin Kitagawa:My Dress-Up Darling",
+      "nextIndex": 154
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 266092,
-      "vibe": "CONFIDENT",
+      "source": "My Dress-Up Darling",
+      "fanbase": 224511,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "A mysterious girl who attacked Masaki in her apartment",
-      "image": "https://media.kitsu.app/characters/images/47683/original.jpg"
+      "bio": "Cosplayer",
+      "description": "Fashionable cosplay enthusiast",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555776247529734214/waifu-73091d76af9c122a6aedc941.png?backend=b2&ex=6ac1c10a&is=6ac06f8a&hm=deb2df5ee14db3c86d77dcbd7e4a75cf22d4f71d5c9f54d88d882169810346b5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555894668447850577/waifu-2a58a3d23ec5fdcf08eefd57.png?backend=b2&ex=6ac22f54&is=6ac0ddd4&hm=811a3203aada2c8f8861f049c3122892d6b95689c5863ba28c8d84b52d3b7ce9&"
   }
 }
