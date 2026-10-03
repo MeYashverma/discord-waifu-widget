@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jeanne:Bayonetta",
-  "lastName": "Jeanne",
-  "index": 260,
+  "lastId": "db:Ahri:League of Legends",
+  "lastName": "Ahri",
+  "index": 235,
   "recent": [
+    "db:Ahri:League of Legends",
     "db:Jeanne:Bayonetta",
     "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Camellya:Wuthering Waves",
@@ -36,15 +37,14 @@
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Lightning Farron:Final Fantasy XIII",
     "db:Sheva Alomar:Resident Evil",
-    "db:Kasumi Miwa:Jujutsu Kaisen",
-    "db:Kotori Itsuka:Date A Live"
+    "db:Kasumi Miwa:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-03T15:26:12.923Z",
+  "updatedAt": "2026-10-03T20:21:34.504Z",
   "cached": {
     "character": {
-      "name": "Jeanne",
-      "source": "Bayonetta",
+      "name": "Ahri",
+      "source": "League of Legends",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jeanne:Bayonetta",
-      "nextIndex": 260
+      "globalId": "db:Ahri:League of Legends",
+      "nextIndex": 235
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 231467,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
+      "source": "League of Legends",
+      "fanbase": 182183,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
+      "description": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200021-z9ZtcHtm3SkD.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1555964194988363948/waifu-e6045378a725917caf1d2dab.png?backend=b2&ex=6ac27014&is=6ac11e94&hm=ae98dab3e7648af348e4f2e637016d15526af5aeefc411254530c993071fd37b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556038524216541294/waifu-80aec1d0169555b39225ad4a.png?backend=b2&ex=6ac2b54d&is=6ac163cd&hm=ad9ce5bdf4013b7e0b3fe60852ceddad1dbde552c038239c02cc66e2d6794e3d&"
   }
 }
