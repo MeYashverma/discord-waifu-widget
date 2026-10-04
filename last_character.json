@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Artoria Pendragon:Fate/stay night",
-  "lastName": "Artoria Pendragon",
-  "index": 205,
+  "lastId": "db:Sakura Haruno:Naruto",
+  "lastName": "Sakura Haruno",
+  "index": 174,
   "recent": [
+    "db:Sakura Haruno:Naruto",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Ahri:League of Legends",
     "db:Jeanne:Bayonetta",
@@ -36,15 +37,14 @@
     "db:Zhu Yuan:Zenless Zone Zero",
     "db:Juri Han:Street Fighter",
     "db:Ellen Joe:Zenless Zone Zero",
-    "db:Lightning Farron:Final Fantasy XIII",
-    "db:Sheva Alomar:Resident Evil"
+    "db:Lightning Farron:Final Fantasy XIII"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-04T03:28:43.669Z",
+  "updatedAt": "2026-10-04T11:32:29.095Z",
   "cached": {
     "character": {
-      "name": "Artoria Pendragon",
-      "source": "Fate/stay night",
+      "name": "Sakura Haruno",
+      "source": "Naruto",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Artoria Pendragon:Fate/stay night",
-      "nextIndex": 205
+      "globalId": "db:Sakura Haruno:Naruto",
+      "nextIndex": 174
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 233187,
-      "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
-      "age": "35 (chronologically), 15 (physically)",
-      "blood": "Unknown",
-      "bio": "Knight",
-      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+      "source": "Naruto",
+      "fanbase": 531612,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "12-17",
+      "blood": "O",
+      "bio": "Student",
+      "description": "cm- Sakura is the only female ninja of Team 7",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556146021011300463/waifu-037c5c336a16aeca995a47f9.png?backend=b2&ex=6ac3196b&is=6ac1c7eb&hm=415fadd9921cf92592c178f7c32c3ef525bbdbb154a0bd0accc24286a9829889&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556267762828185701/waifu-dd9be0306ac93dce9155085d.png?backend=b2&ex=6ac38acc&is=6ac2394c&hm=d9b2294473d749a9f594d06bab401514d81e4262b7bc768ef2e5f63178bdd00e&"
   }
 }
