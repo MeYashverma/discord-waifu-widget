@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ahri:League of Legends",
-  "lastName": "Ahri",
-  "index": 235,
+  "lastId": "db:Artoria Pendragon:Fate/stay night",
+  "lastName": "Artoria Pendragon",
+  "index": 205,
   "recent": [
+    "db:Artoria Pendragon:Fate/stay night",
     "db:Ahri:League of Legends",
     "db:Jeanne:Bayonetta",
     "db:Marin Kitagawa:My Dress-Up Darling",
@@ -36,36 +37,35 @@
     "db:Juri Han:Street Fighter",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Lightning Farron:Final Fantasy XIII",
-    "db:Sheva Alomar:Resident Evil",
-    "db:Kasumi Miwa:Jujutsu Kaisen"
+    "db:Sheva Alomar:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-03T20:21:34.504Z",
+  "updatedAt": "2026-10-04T03:28:43.669Z",
   "cached": {
     "character": {
-      "name": "Ahri",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Artoria Pendragon",
+      "source": "Fate/stay night",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ahri:League of Legends",
-      "nextIndex": 235
+      "globalId": "db:Artoria Pendragon:Fate/stay night",
+      "nextIndex": 205
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 182183,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Fate/stay night",
+      "fanbase": 233187,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
+      "age": "35 (chronologically), 15 (physically)",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200021-z9ZtcHtm3SkD.png"
+      "bio": "Knight",
+      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556038524216541294/waifu-80aec1d0169555b39225ad4a.png?backend=b2&ex=6ac2b54d&is=6ac163cd&hm=ad9ce5bdf4013b7e0b3fe60852ceddad1dbde552c038239c02cc66e2d6794e3d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556146021011300463/waifu-037c5c336a16aeca995a47f9.png?backend=b2&ex=6ac3196b&is=6ac1c7eb&hm=415fadd9921cf92592c178f7c32c3ef525bbdbb154a0bd0accc24286a9829889&"
   }
 }
