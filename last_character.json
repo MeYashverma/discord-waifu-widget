@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Dorio:Cyberpunk Edgerunners",
-  "lastName": "Dorio",
-  "index": 257,
+  "lastId": "db:Yuri Alpha:Overlord",
+  "lastName": "Yuri Alpha",
+  "index": 201,
   "recent": [
+    "db:Yuri Alpha:Overlord",
     "db:Dorio:Cyberpunk Edgerunners",
     "db:Alice:Nikke",
     "db:Lili Rochefort:Tekken",
@@ -36,15 +37,14 @@
     "db:Kokoro:Darling in the Franxx",
     "db:Bianca:Punishing Gray Raven",
     "db:Lulu:Final Fantasy X",
-    "db:Echidna:Re:Zero",
-    "db:Yuffie Kisaragi:Final Fantasy VII"
+    "db:Echidna:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-05T13:04:26.158Z",
+  "updatedAt": "2026-10-05T23:29:29.150Z",
   "cached": {
     "character": {
-      "name": "Dorio",
-      "source": "Cyberpunk Edgerunners",
+      "name": "Yuri Alpha",
+      "source": "Overlord",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Dorio:Cyberpunk Edgerunners",
-      "nextIndex": 257
+      "globalId": "db:Yuri Alpha:Overlord",
+      "nextIndex": 201
     },
     "meta": {
-      "source": "Cyberpunk Edgerunners",
-      "fanbase": 237533,
-      "vibe": "ROYAL",
-      "rating": "ICONIC",
-      "age": "30s",
+      "source": "Overlord",
+      "fanbase": 202249,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Dorio is a veteran edgerunner and Maine's right-hand",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png"
+      "bio": "Captain",
+      "description": "The Vice-Captain, but de facto leader of the Pleiades",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128288-rxWuyLQkxYBL.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556653289926430841/waifu-08a3e7511ac0fdfe58dfbbde.png?backend=b2&ex=6ac4f1d9&is=6ac3a059&hm=2484391e1a3269289842e7aaa132319396d254d19faa3d202510b049cc8a2116&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556810586774442035/waifu-9825be26754186a5b6277236.png?backend=b2&ex=6ac58458&is=6ac432d8&hm=d47a31b9448e9e7421a2fdc939b245879466debe0b072ea04b32a900574bc4f4&"
   }
 }
