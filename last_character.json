@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Alice:Nikke",
-  "lastName": "Alice",
-  "index": 57,
+  "lastId": "db:Dorio:Cyberpunk Edgerunners",
+  "lastName": "Dorio",
+  "index": 257,
   "recent": [
+    "db:Dorio:Cyberpunk Edgerunners",
     "db:Alice:Nikke",
     "db:Lili Rochefort:Tekken",
     "db:Origami Tobiichi:Date A Live",
@@ -36,36 +37,35 @@
     "db:Bianca:Punishing Gray Raven",
     "db:Lulu:Final Fantasy X",
     "db:Echidna:Re:Zero",
-    "db:Yuffie Kisaragi:Final Fantasy VII",
-    "db:Zhu Yuan:Zenless Zone Zero"
+    "db:Yuffie Kisaragi:Final Fantasy VII"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-05T03:07:37.339Z",
+  "updatedAt": "2026-10-05T13:04:26.158Z",
   "cached": {
     "character": {
-      "name": "Alice",
-      "source": "Nikke",
-      "universe": "GACHA",
+      "name": "Dorio",
+      "source": "Cyberpunk Edgerunners",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Alice:Nikke",
-      "nextIndex": 57
+      "globalId": "db:Dorio:Cyberpunk Edgerunners",
+      "nextIndex": 257
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 220435,
-      "vibe": "DEADLY",
+      "source": "Cyberpunk Edgerunners",
+      "fanbase": 237533,
+      "vibe": "ROYAL",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "30s",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "The heroine of Sword Art Online's fourth story arc, Alicization",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
+      "bio": "Character",
+      "description": "Dorio is a veteran edgerunner and Maine's right-hand",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556503094593069126/waifu-46eb9db7a504a00e2b2fa3cb.png?backend=b2&ex=6ac465f8&is=6ac31478&hm=f509d09fce25ce6956f8e8071341e3d94cd6ec0fbaa3750bac50e4a8306d9b52&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556653289926430841/waifu-08a3e7511ac0fdfe58dfbbde.png?backend=b2&ex=6ac4f1d9&is=6ac3a059&hm=2484391e1a3269289842e7aaa132319396d254d19faa3d202510b049cc8a2116&"
   }
 }
