@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lili Rochefort:Tekken",
-  "lastName": "Lili Rochefort",
-  "index": 250,
+  "lastId": "db:Alice:Nikke",
+  "lastName": "Alice",
+  "index": 57,
   "recent": [
+    "db:Alice:Nikke",
     "db:Lili Rochefort:Tekken",
     "db:Origami Tobiichi:Date A Live",
     "db:Sakura Haruno:Naruto",
@@ -36,36 +37,35 @@
     "db:Lulu:Final Fantasy X",
     "db:Echidna:Re:Zero",
     "db:Yuffie Kisaragi:Final Fantasy VII",
-    "db:Zhu Yuan:Zenless Zone Zero",
-    "db:Juri Han:Street Fighter"
+    "db:Zhu Yuan:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-04T20:39:46.421Z",
+  "updatedAt": "2026-10-05T03:07:37.339Z",
   "cached": {
     "character": {
-      "name": "Lili Rochefort",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Alice",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lili Rochefort:Tekken",
-      "nextIndex": 250
+      "globalId": "db:Alice:Nikke",
+      "nextIndex": 57
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 185537,
-      "vibe": "ROYAL",
-      "rating": "POPULAR",
+      "source": "Nikke",
+      "fanbase": 220435,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Lili Rochefort from Tekken",
-      "image": "https://media.kitsu.app/characters/images/54586/original.jpg"
+      "bio": "Knight",
+      "description": "The heroine of Sword Art Online's fourth story arc, Alicization",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556405491716857856/waifu-2596913128a30f9d2af3d019.png?backend=b2&ex=6ac40b11&is=6ac2b991&hm=370b419cad153789ce0d2d613e63472ff11947bcc725458b47b8bde782f93631&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556503094593069126/waifu-46eb9db7a504a00e2b2fa3cb.png?backend=b2&ex=6ac465f8&is=6ac31478&hm=f509d09fce25ce6956f8e8071341e3d94cd6ec0fbaa3750bac50e4a8306d9b52&"
   }
 }
