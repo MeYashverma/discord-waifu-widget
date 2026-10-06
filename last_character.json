@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Seele:Honkai Star Rail",
-  "lastName": "Seele",
-  "index": 29,
+  "lastId": "db:Kasumi Yoshizawa:Persona 5 Royal",
+  "lastName": "Kasumi Yoshizawa",
+  "index": 226,
   "recent": [
+    "db:Kasumi Yoshizawa:Persona 5 Royal",
     "db:Seele:Honkai Star Rail",
     "db:Miyabi:Zenless Zone Zero",
     "db:Yuri Alpha:Overlord",
@@ -36,36 +37,35 @@
     "db:Felt:Re:Zero",
     "db:Nana:Darling in the Franxx",
     "db:Robin:Honkai Star Rail",
-    "db:Kokoro:Darling in the Franxx",
-    "db:Bianca:Punishing Gray Raven"
+    "db:Kokoro:Darling in the Franxx"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-06T12:27:12.212Z",
+  "updatedAt": "2026-10-06T22:02:08.995Z",
   "cached": {
     "character": {
-      "name": "Seele",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Kasumi Yoshizawa",
+      "source": "Persona 5 Royal",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Seele:Honkai Star Rail",
-      "nextIndex": 29
+      "globalId": "db:Kasumi Yoshizawa:Persona 5 Royal",
+      "nextIndex": 226
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 439315,
-      "vibe": "TSUNDERE",
-      "rating": "ELITE",
-      "age": "14-16",
+      "source": "Persona 5 Royal",
+      "fanbase": 239338,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
+      "age": "15-16",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm An orphaned girl who became Bronya's closest friend at Cocolia's orphanage",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142952-31LnDxvK1dgQ.jpg"
+      "bio": "Student",
+      "description": "cm Initial Persona: Cendrillon Ultimate Persona: Vanadis Kasumi Yoshizawa, is a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189870-sf7R3OXJkT53.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557006307503120504/waifu-f709b195bc32a3ac5ee07d5d.png?backend=b2&ex=6ac63a9f&is=6ac4e91f&hm=05e05d193e3babe398404d98f3f527cbff406a0aea958e5d7ff4e22b3dc112be&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557150998479380632/waifu-99e965ae2376f1be394a4e6b.png?backend=b2&ex=6ac6c160&is=6ac56fe0&hm=068110212dcf020f0635a3094964fe8dc2fac163b82858f8e3b045f1da9c570e&"
   }
 }
