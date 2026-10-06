@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Miyabi:Zenless Zone Zero",
-  "lastName": "Miyabi",
-  "index": 33,
+  "lastId": "db:Seele:Honkai Star Rail",
+  "lastName": "Seele",
+  "index": 29,
   "recent": [
+    "db:Seele:Honkai Star Rail",
     "db:Miyabi:Zenless Zone Zero",
     "db:Yuri Alpha:Overlord",
     "db:Dorio:Cyberpunk Edgerunners",
@@ -36,15 +37,14 @@
     "db:Nana:Darling in the Franxx",
     "db:Robin:Honkai Star Rail",
     "db:Kokoro:Darling in the Franxx",
-    "db:Bianca:Punishing Gray Raven",
-    "db:Lulu:Final Fantasy X"
+    "db:Bianca:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-06T03:56:38.734Z",
+  "updatedAt": "2026-10-06T12:27:12.212Z",
   "cached": {
     "character": {
-      "name": "Miyabi",
-      "source": "Zenless Zone Zero",
+      "name": "Seele",
+      "source": "Honkai Star Rail",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Miyabi:Zenless Zone Zero",
-      "nextIndex": 33
+      "globalId": "db:Seele:Honkai Star Rail",
+      "nextIndex": 29
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 216366,
-      "vibe": "MYSTERIOUS",
-      "rating": "POPULAR",
-      "age": "17",
-      "blood": "B",
+      "source": "Honkai Star Rail",
+      "fanbase": 439315,
+      "vibe": "TSUNDERE",
+      "rating": "ELITE",
+      "age": "14-16",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Class: 2-C Affiliation: Supernatural Studies Club Miyabi Itou is a girl that…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62437-32tse1zFMino.png"
+      "description": "cm An orphaned girl who became Bronya's closest friend at Cocolia's orphanage",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142952-31LnDxvK1dgQ.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1556877820452544552/waifu-cc2f0b70b0b6a9b3a34cd7d1.png?backend=b2&ex=6ac5c2f5&is=6ac47175&hm=7dc298ded8497405cfd76ec2f8ea39df464c588277e4419773167953c521f049&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557006307503120504/waifu-f709b195bc32a3ac5ee07d5d.png?backend=b2&ex=6ac63a9f&is=6ac4e91f&hm=05e05d193e3babe398404d98f3f527cbff406a0aea958e5d7ff4e22b3dc112be&"
   }
 }
