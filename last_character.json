@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kasumi Yoshizawa:Persona 5 Royal",
-  "lastName": "Kasumi Yoshizawa",
-  "index": 226,
+  "lastId": "db:Aura Bella Fiora:Overlord",
+  "lastName": "Aura Bella Fiora",
+  "index": 200,
   "recent": [
+    "db:Aura Bella Fiora:Overlord",
     "db:Kasumi Yoshizawa:Persona 5 Royal",
     "db:Seele:Honkai Star Rail",
     "db:Miyabi:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Silver Wolf:Honkai Star Rail",
     "db:Felt:Re:Zero",
     "db:Nana:Darling in the Franxx",
-    "db:Robin:Honkai Star Rail",
-    "db:Kokoro:Darling in the Franxx"
+    "db:Robin:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-06T22:02:08.995Z",
+  "updatedAt": "2026-10-07T03:24:28.937Z",
   "cached": {
     "character": {
-      "name": "Kasumi Yoshizawa",
-      "source": "Persona 5 Royal",
-      "universe": "JRPG",
+      "name": "Aura Bella Fiora",
+      "source": "Overlord",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kasumi Yoshizawa:Persona 5 Royal",
-      "nextIndex": 226
+      "globalId": "db:Aura Bella Fiora:Overlord",
+      "nextIndex": 200
     },
     "meta": {
-      "source": "Persona 5 Royal",
-      "fanbase": 239338,
-      "vibe": "INTENSE",
+      "source": "Overlord",
+      "fanbase": 238936,
+      "vibe": "WHOLESOME",
       "rating": "ICONIC",
-      "age": "15-16",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "cm Initial Persona: Cendrillon Ultimate Persona: Vanadis Kasumi Yoshizawa, is a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189870-sf7R3OXJkT53.png"
+      "bio": "Character",
+      "description": "One of the Guardians of the Sixth floor of Nazarick, alongside her twin brother",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557150998479380632/waifu-99e965ae2376f1be394a4e6b.png?backend=b2&ex=6ac6c160&is=6ac56fe0&hm=068110212dcf020f0635a3094964fe8dc2fac163b82858f8e3b045f1da9c570e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557232116024999976/waifu-0cc3c890598830baca0904d0.png?backend=b2&ex=6ac70cec&is=6ac5bb6c&hm=4631eee55a673805c3ff4fda50640dc4a0d8d9960c2e3d7fbe12ee14a6e6dcfb&"
   }
 }
