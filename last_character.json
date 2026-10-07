@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Aura Bella Fiora:Overlord",
-  "lastName": "Aura Bella Fiora",
-  "index": 200,
+  "lastId": "db:Chun-Li:Street Fighter",
+  "lastName": "Chun-Li",
+  "index": 243,
   "recent": [
+    "db:Chun-Li:Street Fighter",
     "db:Aura Bella Fiora:Overlord",
     "db:Kasumi Yoshizawa:Persona 5 Royal",
     "db:Seele:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Claire Redfield:Resident Evil",
     "db:Silver Wolf:Honkai Star Rail",
     "db:Felt:Re:Zero",
-    "db:Nana:Darling in the Franxx",
-    "db:Robin:Honkai Star Rail"
+    "db:Nana:Darling in the Franxx"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-07T03:24:28.937Z",
+  "updatedAt": "2026-10-07T12:20:27.881Z",
   "cached": {
     "character": {
-      "name": "Aura Bella Fiora",
-      "source": "Overlord",
-      "universe": "ANIME",
+      "name": "Chun-Li",
+      "source": "Street Fighter",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aura Bella Fiora:Overlord",
-      "nextIndex": 200
+      "globalId": "db:Chun-Li:Street Fighter",
+      "nextIndex": 243
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 238936,
-      "vibe": "WHOLESOME",
+      "source": "Street Fighter",
+      "fanbase": 227393,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "One of the Guardians of the Sixth floor of Nazarick, alongside her twin brother",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png"
+      "description": "Chun-Li is a video game character created by Capcom",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557232116024999976/waifu-0cc3c890598830baca0904d0.png?backend=b2&ex=6ac70cec&is=6ac5bb6c&hm=4631eee55a673805c3ff4fda50640dc4a0d8d9960c2e3d7fbe12ee14a6e6dcfb&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557367000152674334/waifu-9ce2d8bd420a4b06168479ea.png?backend=b2&ex=6ac78a8b&is=6ac6390b&hm=a7bdd36eb3526dc5afdaa625bd54dda4e042638a09ef8ab6a519425b5891b844&"
   }
 }
