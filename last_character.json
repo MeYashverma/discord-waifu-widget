@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Chun-Li:Street Fighter",
-  "lastName": "Chun-Li",
-  "index": 243,
+  "lastId": "db:Aerith Gainsborough:Final Fantasy VII",
+  "lastName": "Aerith Gainsborough",
+  "index": 211,
   "recent": [
+    "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Chun-Li:Street Fighter",
     "db:Aura Bella Fiora:Overlord",
     "db:Kasumi Yoshizawa:Persona 5 Royal",
@@ -36,36 +37,35 @@
     "db:Bronya:Honkai Star Rail",
     "db:Claire Redfield:Resident Evil",
     "db:Silver Wolf:Honkai Star Rail",
-    "db:Felt:Re:Zero",
-    "db:Nana:Darling in the Franxx"
+    "db:Felt:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-07T12:20:27.881Z",
+  "updatedAt": "2026-10-07T22:26:48.354Z",
   "cached": {
     "character": {
-      "name": "Chun-Li",
-      "source": "Street Fighter",
-      "universe": "GAME",
+      "name": "Aerith Gainsborough",
+      "source": "Final Fantasy VII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Chun-Li:Street Fighter",
-      "nextIndex": 243
+      "globalId": "db:Aerith Gainsborough:Final Fantasy VII",
+      "nextIndex": 211
     },
     "meta": {
-      "source": "Street Fighter",
-      "fanbase": 227393,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
+      "source": "Final Fantasy VII",
+      "fanbase": 510566,
+      "vibe": "CONFIDENT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Chun-Li is a video game character created by Capcom",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png"
+      "bio": "Flower Girl",
+      "description": "Last Cetra flower seller",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b757-XgHQOxpK4L6k.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557367000152674334/waifu-9ce2d8bd420a4b06168479ea.png?backend=b2&ex=6ac78a8b&is=6ac6390b&hm=a7bdd36eb3526dc5afdaa625bd54dda4e042638a09ef8ab6a519425b5891b844&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557519589913403452/waifu-605e964145d14eacc98b1078.png?backend=b2&ex=6ac818a7&is=6ac6c727&hm=3b5c81804c8382e3d5fa4bbbd9b619b72881fd79a26734b32d3e214490c202c7&"
   }
 }
