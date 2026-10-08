@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Aerith Gainsborough:Final Fantasy VII",
-  "lastName": "Aerith Gainsborough",
-  "index": 211,
+  "lastId": "db:Kaga:Azur Lane",
+  "lastName": "Kaga",
+  "index": 282,
   "recent": [
+    "db:Kaga:Azur Lane",
     "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Chun-Li:Street Fighter",
     "db:Aura Bella Fiora:Overlord",
@@ -36,36 +37,35 @@
     "db:Kafka:Honkai Star Rail",
     "db:Bronya:Honkai Star Rail",
     "db:Claire Redfield:Resident Evil",
-    "db:Silver Wolf:Honkai Star Rail",
-    "db:Felt:Re:Zero"
+    "db:Silver Wolf:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-07T22:26:48.354Z",
+  "updatedAt": "2026-10-08T03:39:19.036Z",
   "cached": {
     "character": {
-      "name": "Aerith Gainsborough",
-      "source": "Final Fantasy VII",
-      "universe": "JRPG",
+      "name": "Kaga",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aerith Gainsborough:Final Fantasy VII",
-      "nextIndex": 211
+      "globalId": "db:Kaga:Azur Lane",
+      "nextIndex": 282
     },
     "meta": {
-      "source": "Final Fantasy VII",
-      "fanbase": 510566,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "source": "Azur Lane",
+      "fanbase": 200961,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
+      "age": "18-19",
       "blood": "Unknown",
-      "bio": "Flower Girl",
-      "description": "Last Cetra flower seller",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b757-XgHQOxpK4L6k.png"
+      "bio": "Character",
+      "description": "She had a perfect future planned with as her husband, and nothing will get in h…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43669-D3Hw9vLHCVad.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557519589913403452/waifu-605e964145d14eacc98b1078.png?backend=b2&ex=6ac818a7&is=6ac6c727&hm=3b5c81804c8382e3d5fa4bbbd9b619b72881fd79a26734b32d3e214490c202c7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557598231238811728/waifu-9281e4de27f5a3a44f44eb95.png?ex=6ac861e5&is=6ac71065&hm=3e67b0f91bbed737cae536a0678e2c4921335e4f15ea40a0ee498f785e53e460&"
   }
 }
