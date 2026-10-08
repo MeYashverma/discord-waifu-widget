@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kaga:Azur Lane",
-  "lastName": "Kaga",
-  "index": 282,
+  "lastId": "db:Ino Yamanaka:Naruto",
+  "lastName": "Ino Yamanaka",
+  "index": 175,
   "recent": [
+    "db:Ino Yamanaka:Naruto",
     "db:Kaga:Azur Lane",
     "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Chun-Li:Street Fighter",
@@ -36,36 +37,35 @@
     "db:Yoruichi Shihouin:Bleach",
     "db:Kafka:Honkai Star Rail",
     "db:Bronya:Honkai Star Rail",
-    "db:Claire Redfield:Resident Evil",
-    "db:Silver Wolf:Honkai Star Rail"
+    "db:Claire Redfield:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-08T03:39:19.036Z",
+  "updatedAt": "2026-10-08T12:29:58.210Z",
   "cached": {
     "character": {
-      "name": "Kaga",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Ino Yamanaka",
+      "source": "Naruto",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kaga:Azur Lane",
-      "nextIndex": 282
+      "globalId": "db:Ino Yamanaka:Naruto",
+      "nextIndex": 175
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 200961,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "18-19",
-      "blood": "Unknown",
+      "source": "Naruto",
+      "fanbase": 533619,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "12-19",
+      "blood": "B",
       "bio": "Character",
-      "description": "She had a perfect future planned with as her husband, and nothing will get in h…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43669-D3Hw9vLHCVad.png"
+      "description": "cm - 162",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557598231238811728/waifu-9281e4de27f5a3a44f44eb95.png?ex=6ac861e5&is=6ac71065&hm=3e67b0f91bbed737cae536a0678e2c4921335e4f15ea40a0ee498f785e53e460&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557731781288140800/waifu-a4f4542e2490d851003a042f.png?ex=6ac8de45&is=6ac78cc5&hm=64b8e2e1b50b92512d5d49988915da64b26d1d6d96c05c1e81161d1ffca856e5&"
   }
 }
