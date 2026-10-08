@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ino Yamanaka:Naruto",
-  "lastName": "Ino Yamanaka",
-  "index": 175,
+  "lastId": "db:Koneko Toujou:High School DxD",
+  "lastName": "Koneko Toujou",
+  "index": 92,
   "recent": [
+    "db:Koneko Toujou:High School DxD",
     "db:Ino Yamanaka:Naruto",
     "db:Kaga:Azur Lane",
     "db:Aerith Gainsborough:Final Fantasy VII",
@@ -36,15 +37,14 @@
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Yoruichi Shihouin:Bleach",
     "db:Kafka:Honkai Star Rail",
-    "db:Bronya:Honkai Star Rail",
-    "db:Claire Redfield:Resident Evil"
+    "db:Bronya:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-08T12:29:58.210Z",
+  "updatedAt": "2026-10-08T22:40:01.609Z",
   "cached": {
     "character": {
-      "name": "Ino Yamanaka",
-      "source": "Naruto",
+      "name": "Koneko Toujou",
+      "source": "High School DxD",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ino Yamanaka:Naruto",
-      "nextIndex": 175
+      "globalId": "db:Koneko Toujou:High School DxD",
+      "nextIndex": 92
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 533619,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "12-19",
-      "blood": "B",
-      "bio": "Character",
-      "description": "cm - 162",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg"
+      "source": "High School DxD",
+      "fanbase": 257408,
+      "vibe": "WHOLESOME",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Student",
+      "description": "Rank: Low-class devil /Rook Power: Youjutsu A 10th grade student",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51343-pt1UDTRvAXfY.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557731781288140800/waifu-a4f4542e2490d851003a042f.png?ex=6ac8de45&is=6ac78cc5&hm=64b8e2e1b50b92512d5d49988915da64b26d1d6d96c05c1e81161d1ffca856e5&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557885307079098398/waifu-80fb9df5b4170399098a75fd.png?ex=6ac96d41&is=6ac81bc1&hm=8247babdf23c0fa3e974bacfb9d75665bcc6d8be84021125fd1c5360380e0af8&"
   }
 }
