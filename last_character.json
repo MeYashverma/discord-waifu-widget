@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Scathach:Fate Series",
-  "lastName": "Scathach",
-  "index": 206,
+  "lastId": "db:Mitsuri Kanroji:Demon Slayer",
+  "lastName": "Mitsuri Kanroji",
+  "index": 116,
   "recent": [
+    "db:Mitsuri Kanroji:Demon Slayer",
     "db:Scathach:Fate Series",
     "db:Juri Han:Street Fighter",
     "db:Koneko Toujou:High School DxD",
@@ -36,15 +37,14 @@
     "db:Ram:Re:Zero",
     "db:Clorinde:Genshin Impact",
     "db:Xenovia Quarta:High School DxD",
-    "db:Momo Nishimiya:Jujutsu Kaisen",
-    "db:Yoruichi Shihouin:Bleach"
+    "db:Momo Nishimiya:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-09T12:18:32.124Z",
+  "updatedAt": "2026-10-09T22:01:28.281Z",
   "cached": {
     "character": {
-      "name": "Scathach",
-      "source": "Fate Series",
+      "name": "Mitsuri Kanroji",
+      "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Scathach:Fate Series",
-      "nextIndex": 206
+      "globalId": "db:Mitsuri Kanroji:Demon Slayer",
+      "nextIndex": 116
     },
     "meta": {
-      "source": "Fate Series",
-      "fanbase": 185899,
-      "vibe": "TSUNDERE",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Demon Slayer",
+      "fanbase": 561193,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
+      "bio": "Hashira",
+      "description": "Love Hashira",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558091291013677186/waifu-0457d2f9d23735099c470103.png?ex=6aca2d17&is=6ac8db97&hm=d3521581297e2ed3ea509e30161a4f924c64854aaf1c8354721e31c064db7917&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558237989941813418/waifu-c1ad98a9104b98a52ba12db1.png?ex=6acab5b7&is=6ac96437&hm=b3bec6a7ec7a807d2945d471160dc61736471c9dccc794312d77babc434610be&"
   }
 }
