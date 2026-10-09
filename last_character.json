@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Koneko Toujou:High School DxD",
-  "lastName": "Koneko Toujou",
-  "index": 92,
+  "lastId": "db:Juri Han:Street Fighter",
+  "lastName": "Juri Han",
+  "index": 245,
   "recent": [
+    "db:Juri Han:Street Fighter",
     "db:Koneko Toujou:High School DxD",
     "db:Ino Yamanaka:Naruto",
     "db:Kaga:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Xenovia Quarta:High School DxD",
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Yoruichi Shihouin:Bleach",
-    "db:Kafka:Honkai Star Rail",
-    "db:Bronya:Honkai Star Rail"
+    "db:Kafka:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-08T22:40:01.609Z",
+  "updatedAt": "2026-10-09T03:44:38.866Z",
   "cached": {
     "character": {
-      "name": "Koneko Toujou",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Juri Han",
+      "source": "Street Fighter",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Koneko Toujou:High School DxD",
-      "nextIndex": 92
+      "globalId": "db:Juri Han:Street Fighter",
+      "nextIndex": 245
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 257408,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
+      "source": "Street Fighter",
+      "fanbase": 213198,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
       "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Student",
-      "description": "Rank: Low-class devil /Rook Power: Youjutsu A 10th grade student",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51343-pt1UDTRvAXfY.png"
+      "blood": "AB",
+      "bio": "Character",
+      "description": "Birthplace: South Korea cm Juri was a prominent practitioner of Taekwondo when …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/33384.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557885307079098398/waifu-80fb9df5b4170399098a75fd.png?ex=6ac96d41&is=6ac81bc1&hm=8247babdf23c0fa3e974bacfb9d75665bcc6d8be84021125fd1c5360380e0af8&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557961966801395733/waifu-d02ca64118869f51d480005f.png?ex=6ac9b4a6&is=6ac86326&hm=e494bbb5474ee8e5371a3b503f03dbd7b6f3c5bab4959db276761934ddd369a1&"
   }
 }
