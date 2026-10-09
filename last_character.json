@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Juri Han:Street Fighter",
-  "lastName": "Juri Han",
-  "index": 245,
+  "lastId": "db:Scathach:Fate Series",
+  "lastName": "Scathach",
+  "index": 206,
   "recent": [
+    "db:Scathach:Fate Series",
     "db:Juri Han:Street Fighter",
     "db:Koneko Toujou:High School DxD",
     "db:Ino Yamanaka:Naruto",
@@ -36,36 +37,35 @@
     "db:Clorinde:Genshin Impact",
     "db:Xenovia Quarta:High School DxD",
     "db:Momo Nishimiya:Jujutsu Kaisen",
-    "db:Yoruichi Shihouin:Bleach",
-    "db:Kafka:Honkai Star Rail"
+    "db:Yoruichi Shihouin:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-09T03:44:38.866Z",
+  "updatedAt": "2026-10-09T12:18:32.124Z",
   "cached": {
     "character": {
-      "name": "Juri Han",
-      "source": "Street Fighter",
-      "universe": "GAME",
+      "name": "Scathach",
+      "source": "Fate Series",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Juri Han:Street Fighter",
-      "nextIndex": 245
+      "globalId": "db:Scathach:Fate Series",
+      "nextIndex": 206
     },
     "meta": {
-      "source": "Street Fighter",
-      "fanbase": 213198,
-      "vibe": "YANDERE",
+      "source": "Fate Series",
+      "fanbase": 185899,
+      "vibe": "TSUNDERE",
       "rating": "POPULAR",
       "age": "Unknown",
-      "blood": "AB",
-      "bio": "Character",
-      "description": "Birthplace: South Korea cm Juri was a prominent practitioner of Taekwondo when …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/33384.jpg"
+      "blood": "Unknown",
+      "bio": "Mage",
+      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1557961966801395733/waifu-d02ca64118869f51d480005f.png?ex=6ac9b4a6&is=6ac86326&hm=e494bbb5474ee8e5371a3b503f03dbd7b6f3c5bab4959db276761934ddd369a1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558091291013677186/waifu-0457d2f9d23735099c470103.png?ex=6aca2d17&is=6ac8db97&hm=d3521581297e2ed3ea509e30161a4f924c64854aaf1c8354721e31c064db7917&"
   }
 }
