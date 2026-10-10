@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Karenina:Punishing Gray Raven",
-  "lastName": "Karenina",
-  "index": 292,
+  "lastId": "db:Nobara Kugisaki:Jujutsu Kaisen",
+  "lastName": "Nobara Kugisaki",
+  "index": 123,
   "recent": [
+    "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Karenina:Punishing Gray Raven",
     "db:Bambietta Basterbine:Bleach",
     "db:Mitsuri Kanroji:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Fran:Final Fantasy XII",
     "db:Jean:Genshin Impact",
     "db:Tifa Lockhart:Final Fantasy VII",
-    "db:Ram:Re:Zero",
-    "db:Clorinde:Genshin Impact"
+    "db:Ram:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-10T11:36:38.781Z",
+  "updatedAt": "2026-10-10T16:37:34.899Z",
   "cached": {
     "character": {
-      "name": "Karenina",
-      "source": "Punishing Gray Raven",
-      "universe": "GACHA",
+      "name": "Nobara Kugisaki",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Karenina:Punishing Gray Raven",
-      "nextIndex": 292
+      "globalId": "db:Nobara Kugisaki:Jujutsu Kaisen",
+      "nextIndex": 123
     },
     "meta": {
-      "source": "Punishing Gray Raven",
-      "fanbase": 212146,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 536735,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
       "age": "16",
-      "blood": "B",
-      "bio": "Character",
-      "description": "Fox-like Time Shifter who can make shadow clones of anyone",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278323-UThZPW2Auhd2.png"
+      "blood": "Unknown",
+      "bio": "Sorcerer",
+      "description": "Tokyo Jujutsu High student",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558443136949428224/waifu-0fc8a054b9ed0cb3787587e0.png?ex=6acb74c6&is=6aca2346&hm=4a1274b32696e9967a25ebae3ad5a654a3e30538e7eb11c55799bf18913a2514&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558518866328420385/waifu-aae6665e51f71aca81693a34.png?ex=6acbbb4d&is=6aca69cd&hm=7fe23bd6715e0941181e1d6dab36d3bcf145a3982c6bf8f5506c0ad483ba5834&"
   }
 }
