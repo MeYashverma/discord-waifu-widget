@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nobara Kugisaki:Jujutsu Kaisen",
-  "lastName": "Nobara Kugisaki",
-  "index": 123,
+  "lastId": "db:Fami:Chainsaw Man",
+  "lastName": "Fami",
+  "index": 79,
   "recent": [
+    "db:Fami:Chainsaw Man",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Karenina:Punishing Gray Raven",
     "db:Bambietta Basterbine:Bleach",
@@ -36,15 +37,14 @@
     "db:Brandish μ:Fairy Tail",
     "db:Fran:Final Fantasy XII",
     "db:Jean:Genshin Impact",
-    "db:Tifa Lockhart:Final Fantasy VII",
-    "db:Ram:Re:Zero"
+    "db:Tifa Lockhart:Final Fantasy VII"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-10T16:37:34.899Z",
+  "updatedAt": "2026-10-10T20:54:25.636Z",
   "cached": {
     "character": {
-      "name": "Nobara Kugisaki",
-      "source": "Jujutsu Kaisen",
+      "name": "Fami",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nobara Kugisaki:Jujutsu Kaisen",
-      "nextIndex": 123
+      "globalId": "db:Fami:Chainsaw Man",
+      "nextIndex": 79
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 536735,
-      "vibe": "DEADLY",
-      "rating": "LEGENDARY",
-      "age": "16",
+      "source": "Chainsaw Man",
+      "fanbase": 488286,
+      "vibe": "DOMINANT",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Sorcerer",
-      "description": "Tokyo Jujutsu High student",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
+      "bio": "Hunter",
+      "description": "The Famine Devil is one of the four horseman devils",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294475-3DOVtMBudU9f.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558518866328420385/waifu-aae6665e51f71aca81693a34.png?ex=6acbbb4d&is=6aca69cd&hm=7fe23bd6715e0941181e1d6dab36d3bcf145a3982c6bf8f5506c0ad483ba5834&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558583506840326144/waifu-9474bc77da4290c49ee1d4e6.png?ex=6acbf781&is=6acaa601&hm=4799519536130dcbbb6baab7a0b66f60984810f62c47885b93bc0009f992b660&"
   }
 }
