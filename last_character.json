@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nezuko Kamado:Demon Slayer",
-  "lastName": "Nezuko Kamado",
-  "index": 114,
+  "lastId": "db:Tamayo:Demon Slayer",
+  "lastName": "Tamayo",
+  "index": 119,
   "recent": [
+    "db:Tamayo:Demon Slayer",
     "db:Nezuko Kamado:Demon Slayer",
     "db:Fami:Chainsaw Man",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
@@ -36,14 +37,13 @@
     "db:Asuna Ichinose:Blue Archive",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Brandish μ:Fairy Tail",
-    "db:Fran:Final Fantasy XII",
-    "db:Jean:Genshin Impact"
+    "db:Fran:Final Fantasy XII"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-11T03:00:23.145Z",
+  "updatedAt": "2026-10-11T11:50:14.879Z",
   "cached": {
     "character": {
-      "name": "Nezuko Kamado",
+      "name": "Tamayo",
       "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nezuko Kamado:Demon Slayer",
-      "nextIndex": 114
+      "globalId": "db:Tamayo:Demon Slayer",
+      "nextIndex": 119
     },
     "meta": {
       "source": "Demon Slayer",
-      "fanbase": 526835,
+      "fanbase": 534805,
       "vibe": "TSUNDERE",
       "rating": "LEGENDARY",
-      "age": "12-14",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Transformed into a demon and left mute, Nezuko travels with her older brothe…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+      "description": "cm Tamayo is a doctor and close ally of",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138847-rOwIPLKaR5Ux.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558675603769786518/waifu-2f005d6dec768b3f0a08e1eb.png?ex=6acc4d46&is=6acafbc6&hm=e69c7a8bb9ca0c273143361f0cd66f66b43182ba4895d77e3a58fd205292a88b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558808944393326592/waifu-d8c722346207ee28b0198ed2.png?ex=6accc975&is=6acb77f5&hm=c571f00b325b73f2159fa44cb0fbe4cf49456f2fd5c1e30d1c6c500f26947ed0&"
   }
 }
