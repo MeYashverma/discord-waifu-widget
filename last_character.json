@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fami:Chainsaw Man",
-  "lastName": "Fami",
-  "index": 79,
+  "lastId": "db:Nezuko Kamado:Demon Slayer",
+  "lastName": "Nezuko Kamado",
+  "index": 114,
   "recent": [
+    "db:Nezuko Kamado:Demon Slayer",
     "db:Fami:Chainsaw Man",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Karenina:Punishing Gray Raven",
@@ -36,15 +37,14 @@
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Brandish μ:Fairy Tail",
     "db:Fran:Final Fantasy XII",
-    "db:Jean:Genshin Impact",
-    "db:Tifa Lockhart:Final Fantasy VII"
+    "db:Jean:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-10T20:54:25.636Z",
+  "updatedAt": "2026-10-11T03:00:23.145Z",
   "cached": {
     "character": {
-      "name": "Fami",
-      "source": "Chainsaw Man",
+      "name": "Nezuko Kamado",
+      "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fami:Chainsaw Man",
-      "nextIndex": 79
+      "globalId": "db:Nezuko Kamado:Demon Slayer",
+      "nextIndex": 114
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 488286,
-      "vibe": "DOMINANT",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Demon Slayer",
+      "fanbase": 526835,
+      "vibe": "TSUNDERE",
+      "rating": "LEGENDARY",
+      "age": "12-14",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "The Famine Devil is one of the four horseman devils",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294475-3DOVtMBudU9f.jpg"
+      "bio": "Character",
+      "description": "cm Transformed into a demon and left mute, Nezuko travels with her older brothe…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558583506840326144/waifu-9474bc77da4290c49ee1d4e6.png?ex=6acbf781&is=6acaa601&hm=4799519536130dcbbb6baab7a0b66f60984810f62c47885b93bc0009f992b660&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558675603769786518/waifu-2f005d6dec768b3f0a08e1eb.png?ex=6acc4d46&is=6acafbc6&hm=e69c7a8bb9ca0c273143361f0cd66f66b43182ba4895d77e3a58fd205292a88b&"
   }
 }
