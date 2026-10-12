@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Fran:Final Fantasy XII",
-  "lastName": "Fran",
-  "index": 217,
+  "lastId": "db:Historia Reiss:Attack on Titan",
+  "lastName": "Historia Reiss",
+  "index": 132,
   "recent": [
+    "db:Historia Reiss:Attack on Titan",
     "db:Fran:Final Fantasy XII",
     "db:Yamato:One Piece",
     "db:Tamayo:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Camellya:Wuthering Waves",
     "db:Firefly:Honkai Star Rail",
     "db:Taihou:Azur Lane",
-    "db:Asuna Ichinose:Blue Archive",
-    "db:Sajuna Inui:My Dress-Up Darling"
+    "db:Asuna Ichinose:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-11T21:15:27.888Z",
+  "updatedAt": "2026-10-12T03:23:39.833Z",
   "cached": {
     "character": {
-      "name": "Fran",
-      "source": "Final Fantasy XII",
-      "universe": "JRPG",
+      "name": "Historia Reiss",
+      "source": "Attack on Titan",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Fran:Final Fantasy XII",
-      "nextIndex": 217
+      "globalId": "db:Historia Reiss:Attack on Titan",
+      "nextIndex": 132
     },
     "meta": {
-      "source": "Final Fantasy XII",
-      "fanbase": 218440,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "19-23, (30's in Another Monster)",
+      "source": "Attack on Titan",
+      "fanbase": 672365,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Johan Liebert is the older twin son of the Lieberts, whose father Michael was a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
+      "bio": "Royalty",
+      "description": "Frieda was Rod Reiss' eldest daughter and Historia's oldest half-sister",
+      "image": "https://media.kitsu.app/character/63763/image/ffd32b636a6753382d2ea53902577d0b.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1558951189683376198/waifu-31973d2a60c6e7d2f1a7aecf.png?ex=6acd4def&is=6acbfc6f&hm=ae5edbbf987f8fd519192eed399a4c68317499221880752b0ea3c08d759a9094&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559043849396027463/waifu-758edd9f5cbe494801bb732b.png?ex=6acda43b&is=6acc52bb&hm=341954f5bebcaecf7207e49616553f43111d9905c026ef9bd20701a86e74b7a2&"
   }
 }
