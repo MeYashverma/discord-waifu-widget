@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Historia Reiss:Attack on Titan",
-  "lastName": "Historia Reiss",
-  "index": 132,
+  "lastId": "db:Cereza:Bayonetta Origins",
+  "lastName": "Cereza",
+  "index": 261,
   "recent": [
+    "db:Cereza:Bayonetta Origins",
     "db:Historia Reiss:Attack on Titan",
     "db:Fran:Final Fantasy XII",
     "db:Yamato:One Piece",
@@ -36,36 +37,35 @@
     "db:Marin Kitagawa:My Dress-Up Darling",
     "db:Camellya:Wuthering Waves",
     "db:Firefly:Honkai Star Rail",
-    "db:Taihou:Azur Lane",
-    "db:Asuna Ichinose:Blue Archive"
+    "db:Taihou:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-12T03:23:39.833Z",
+  "updatedAt": "2026-10-12T13:56:08.435Z",
   "cached": {
     "character": {
-      "name": "Historia Reiss",
-      "source": "Attack on Titan",
-      "universe": "ANIME",
+      "name": "Cereza",
+      "source": "Bayonetta Origins",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Historia Reiss:Attack on Titan",
-      "nextIndex": 132
+      "globalId": "db:Cereza:Bayonetta Origins",
+      "nextIndex": 261
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 672365,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
+      "source": "Bayonetta Origins",
+      "fanbase": 200895,
+      "vibe": "TSUNDERE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Frieda was Rod Reiss' eldest daughter and Historia's oldest half-sister",
-      "image": "https://media.kitsu.app/character/63763/image/ffd32b636a6753382d2ea53902577d0b.jpg"
+      "bio": "Character",
+      "description": "Cereza is the time-displaced young girl",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219274-P9RmNHp3VJTO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559043849396027463/waifu-758edd9f5cbe494801bb732b.png?ex=6acda43b&is=6acc52bb&hm=341954f5bebcaecf7207e49616553f43111d9905c026ef9bd20701a86e74b7a2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559203017776173096/waifu-57f24d98f571a396cd958eb3.png?ex=6ace3878&is=6acce6f8&hm=22bf6bdd26d6e3cbcb5d539600d891d95f9496f0fac27cd30e4b2b678e530d0c&"
   }
 }
