@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mirajane Strauss:Fairy Tail",
-  "lastName": "Mirajane Strauss",
-  "index": 108,
+  "lastId": "db:Shenhe:Genshin Impact",
+  "lastName": "Shenhe",
+  "index": 3,
   "recent": [
+    "db:Shenhe:Genshin Impact",
     "db:Mirajane Strauss:Fairy Tail",
     "db:Eula:Genshin Impact",
     "db:Cereza:Bayonetta Origins",
@@ -36,36 +37,35 @@
     "db:Artoria Pendragon:Fate/stay night",
     "db:Ahri:League of Legends",
     "db:Jeanne:Bayonetta",
-    "db:Marin Kitagawa:My Dress-Up Darling",
-    "db:Camellya:Wuthering Waves"
+    "db:Marin Kitagawa:My Dress-Up Darling"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-13T05:32:00.565Z",
+  "updatedAt": "2026-10-13T13:12:41.674Z",
   "cached": {
     "character": {
-      "name": "Mirajane Strauss",
-      "source": "Fairy Tail",
-      "universe": "ANIME",
+      "name": "Shenhe",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mirajane Strauss:Fairy Tail",
-      "nextIndex": 108
+      "globalId": "db:Shenhe:Genshin Impact",
+      "nextIndex": 3
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 193388,
-      "vibe": "ELEGANT",
-      "rating": "POPULAR",
-      "age": "19",
+      "source": "Genshin Impact",
+      "fanbase": 504624,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Title: The Demon Occupation: Mage Known relatives: ;",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png"
+      "bio": "Character",
+      "description": "An adepti disciple with a most unusual air about her",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559438537474965574/waifu-4a3ba33abf7a36ed98a3b75a.png?ex=6acf13d0&is=6acdc250&hm=52951bcaa257cf3a0fb138142c1e8a26e3d92744dc5de85bb53f9775044510a7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559554470378078209/waifu-18f2972feb3f928906683dcf.png?ex=6acf7fc8&is=6ace2e48&hm=ce234f7e835952cb314705dcdb0eb3fba1c4ca0072a8cd971cbc9a924a83813e&"
   }
 }
