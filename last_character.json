@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Eula:Genshin Impact",
-  "lastName": "Eula",
-  "index": 4,
+  "lastId": "db:Mirajane Strauss:Fairy Tail",
+  "lastName": "Mirajane Strauss",
+  "index": 108,
   "recent": [
+    "db:Mirajane Strauss:Fairy Tail",
     "db:Eula:Genshin Impact",
     "db:Cereza:Bayonetta Origins",
     "db:Historia Reiss:Attack on Titan",
@@ -36,36 +37,35 @@
     "db:Ahri:League of Legends",
     "db:Jeanne:Bayonetta",
     "db:Marin Kitagawa:My Dress-Up Darling",
-    "db:Camellya:Wuthering Waves",
-    "db:Firefly:Honkai Star Rail"
+    "db:Camellya:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-12T23:58:00.386Z",
+  "updatedAt": "2026-10-13T05:32:00.565Z",
   "cached": {
     "character": {
-      "name": "Eula",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Mirajane Strauss",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Eula:Genshin Impact",
-      "nextIndex": 4
+      "globalId": "db:Mirajane Strauss:Fairy Tail",
+      "nextIndex": 108
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 543254,
+      "source": "Fairy Tail",
+      "fanbase": 193388,
       "vibe": "ELEGANT",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "rating": "POPULAR",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Spindrift Knight",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359531-beb89fDCTeA3.png"
+      "bio": "Mage",
+      "description": "Title: The Demon Occupation: Mage Known relatives: ;",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559354482301862009/waifu-899d5c5c8cf02ab7f60604a5.png?ex=6acec587&is=6acd7407&hm=d2d7f619ff54c1969d4e22e83a14fcc10f3c29fdb355fe1efd2e1c61a32d9933&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559438537474965574/waifu-4a3ba33abf7a36ed98a3b75a.png?ex=6acf13d0&is=6acdc250&hm=52951bcaa257cf3a0fb138142c1e8a26e3d92744dc5de85bb53f9775044510a7&"
   }
 }
