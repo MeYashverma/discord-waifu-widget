@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shenhe:Genshin Impact",
-  "lastName": "Shenhe",
-  "index": 3,
+  "lastId": "db:Vinsmoke Reiju:One Piece",
+  "lastName": "Vinsmoke Reiju",
+  "index": 168,
   "recent": [
+    "db:Vinsmoke Reiju:One Piece",
     "db:Shenhe:Genshin Impact",
     "db:Mirajane Strauss:Fairy Tail",
     "db:Eula:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Sakura Haruno:Naruto",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Ahri:League of Legends",
-    "db:Jeanne:Bayonetta",
-    "db:Marin Kitagawa:My Dress-Up Darling"
+    "db:Jeanne:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-13T13:12:41.674Z",
+  "updatedAt": "2026-10-13T22:05:59.196Z",
   "cached": {
     "character": {
-      "name": "Shenhe",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Vinsmoke Reiju",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shenhe:Genshin Impact",
-      "nextIndex": 3
+      "globalId": "db:Vinsmoke Reiju:One Piece",
+      "nextIndex": 168
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 504624,
-      "vibe": "INTENSE",
+      "source": "One Piece",
+      "fanbase": 568634,
+      "vibe": "WHOLESOME",
       "rating": "LEGENDARY",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "An adepti disciple with a most unusual air about her",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
+      "age": "24",
+      "blood": "F",
+      "bio": "Royalty",
+      "description": "cm Vinsmoke Reiju also known as \"Poison Pink\", is the eldest child and only dau…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127891-FSRMoIQeDyV8.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559554470378078209/waifu-18f2972feb3f928906683dcf.png?ex=6acf7fc8&is=6ace2e48&hm=ce234f7e835952cb314705dcdb0eb3fba1c4ca0072a8cd971cbc9a924a83813e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559688679516143757/waifu-1284dac3bd1d209ab0393de9.png?ex=6acffcc6&is=6aceab46&hm=583e4892dd9d53bb5d44378646776b49a9cf29c3e48c7ee7eb35a2cfb334c082&"
   }
 }
