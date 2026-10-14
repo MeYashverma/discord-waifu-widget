@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Karin Kakudate:Blue Archive",
-  "lastName": "Karin Kakudate",
-  "index": 66,
+  "lastId": "db:Velvet Crowe:Tales of Berseria",
+  "lastName": "Velvet Crowe",
+  "index": 269,
   "recent": [
+    "db:Velvet Crowe:Tales of Berseria",
     "db:Karin Kakudate:Blue Archive",
     "db:Vinsmoke Reiju:One Piece",
     "db:Shenhe:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Lili Rochefort:Tekken",
     "db:Origami Tobiichi:Date A Live",
     "db:Sakura Haruno:Naruto",
-    "db:Artoria Pendragon:Fate/stay night",
-    "db:Ahri:League of Legends"
+    "db:Artoria Pendragon:Fate/stay night"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-14T02:47:28.502Z",
+  "updatedAt": "2026-10-14T10:52:27.618Z",
   "cached": {
     "character": {
-      "name": "Karin Kakudate",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Velvet Crowe",
+      "source": "Tales of Berseria",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Karin Kakudate:Blue Archive",
-      "nextIndex": 66
+      "globalId": "db:Velvet Crowe:Tales of Berseria",
+      "nextIndex": 269
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 246678,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Tales of Berseria",
+      "fanbase": 210774,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "19",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Academy: Millennium Science School Year: 2nd Year",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264238-y0g6BRd0o7iK.png"
+      "bio": "Character",
+      "description": "Velvet is a 19-year-old woman on a quest for vengeance",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121382-y5r3OoNZLHaZ.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559759517778976799/waifu-754aba1cc8ed0fb487bd233b.png?ex=6ad03ebf&is=6aceed3f&hm=19e46123ff3abe82243c71e78b26689907c59b55c054b030a7b80a541cb28a4f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559881568879779860/waifu-d241df7c30e7eaf2bc0371b3.png?ex=6ad0b06b&is=6acf5eeb&hm=7e73531150806e2f1559d1b4958027bde22e139ce8a9332c2cb4471edb3c2e07&"
   }
 }
