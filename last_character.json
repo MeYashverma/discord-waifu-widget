@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Velvet Crowe:Tales of Berseria",
-  "lastName": "Velvet Crowe",
-  "index": 269,
+  "lastId": "db:Marisa:Street Fighter 6",
+  "lastName": "Marisa",
+  "index": 247,
   "recent": [
+    "db:Marisa:Street Fighter 6",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Karin Kakudate:Blue Archive",
     "db:Vinsmoke Reiju:One Piece",
@@ -36,36 +37,35 @@
     "db:Alice:Nikke",
     "db:Lili Rochefort:Tekken",
     "db:Origami Tobiichi:Date A Live",
-    "db:Sakura Haruno:Naruto",
-    "db:Artoria Pendragon:Fate/stay night"
+    "db:Sakura Haruno:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-14T10:52:27.618Z",
+  "updatedAt": "2026-10-14T16:11:50.282Z",
   "cached": {
     "character": {
-      "name": "Velvet Crowe",
-      "source": "Tales of Berseria",
-      "universe": "JRPG",
+      "name": "Marisa",
+      "source": "Street Fighter 6",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Velvet Crowe:Tales of Berseria",
-      "nextIndex": 269
+      "globalId": "db:Marisa:Street Fighter 6",
+      "nextIndex": 247
     },
     "meta": {
-      "source": "Tales of Berseria",
-      "fanbase": 210774,
-      "vibe": "YANDERE",
+      "source": "Street Fighter 6",
+      "fanbase": 181192,
+      "vibe": "INTENSE",
       "rating": "POPULAR",
-      "age": "19",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Velvet is a 19-year-old woman on a quest for vengeance",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121382-y5r3OoNZLHaZ.png"
+      "bio": "Witch",
+      "description": "Marisa is a human witch who lives in a cluttered house in the Forest of Magic",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5458-ERiRSncVQOY1.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559881568879779860/waifu-d241df7c30e7eaf2bc0371b3.png?ex=6ad0b06b&is=6acf5eeb&hm=7e73531150806e2f1559d1b4958027bde22e139ce8a9332c2cb4471edb3c2e07&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1559961941789905006/waifu-0f86e9eadd56c3671ca9f1e1.png?ex=6ad0fb45&is=6acfa9c5&hm=caf1757211a8468abfa95e9eb1df013f147ce30fd51d373ea06881a5b3f24081&"
   }
 }
