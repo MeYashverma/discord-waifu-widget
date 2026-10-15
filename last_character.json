@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Xenovia Quarta:High School DxD",
-  "lastName": "Xenovia Quarta",
-  "index": 93,
+  "lastId": "db:Sanhua:Wuthering Waves",
+  "lastName": "Sanhua",
+  "index": 43,
   "recent": [
+    "db:Sanhua:Wuthering Waves",
     "db:Xenovia Quarta:High School DxD",
     "db:Wakamo:Blue Archive",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Kasumi Yoshizawa:Persona 5 Royal",
     "db:Seele:Honkai Star Rail",
     "db:Miyabi:Zenless Zone Zero",
-    "db:Yuri Alpha:Overlord",
-    "db:Dorio:Cyberpunk Edgerunners"
+    "db:Yuri Alpha:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-15T15:59:29.202Z",
+  "updatedAt": "2026-10-15T20:44:12.182Z",
   "cached": {
     "character": {
-      "name": "Xenovia Quarta",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Sanhua",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Xenovia Quarta:High School DxD",
-      "nextIndex": 93
+      "globalId": "db:Sanhua:Wuthering Waves",
+      "nextIndex": 43
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 198837,
-      "vibe": "LOYAL",
+      "source": "Wuthering Waves",
+      "fanbase": 182492,
+      "vibe": "DOMINANT",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
+      "bio": "Character",
+      "description": "Sanhua from Wuthering Waves",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560321222607380610/waifu-5d6ea2b2e9ddf59a58edab0d.png?ex=6ad249e0&is=6ad0f860&hm=078693eb1f3c5b79978f50b31c08ba11c18124dafe238e2aef06424dfab4317a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560392873864855552/waifu-ccfc30fe72114ca6bb57aed7.png?ex=6ad28c9b&is=6ad13b1b&hm=ba6a8d0265739690395b9c54f64f3bd64486f8efeaa968985152b4b30ae30dbf&"
   }
 }
