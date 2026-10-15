@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Wakamo:Blue Archive",
-  "lastName": "Wakamo",
-  "index": 70,
+  "lastId": "db:Xenovia Quarta:High School DxD",
+  "lastName": "Xenovia Quarta",
+  "index": 93,
   "recent": [
+    "db:Xenovia Quarta:High School DxD",
     "db:Wakamo:Blue Archive",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Futaba Sakura:Persona 5",
@@ -36,36 +37,35 @@
     "db:Seele:Honkai Star Rail",
     "db:Miyabi:Zenless Zone Zero",
     "db:Yuri Alpha:Overlord",
-    "db:Dorio:Cyberpunk Edgerunners",
-    "db:Alice:Nikke"
+    "db:Dorio:Cyberpunk Edgerunners"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-15T10:35:08.778Z",
+  "updatedAt": "2026-10-15T15:59:29.202Z",
   "cached": {
     "character": {
-      "name": "Wakamo",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Xenovia Quarta",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Wakamo:Blue Archive",
-      "nextIndex": 70
+      "globalId": "db:Xenovia Quarta:High School DxD",
+      "nextIndex": 93
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 258011,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "18",
+      "source": "High School DxD",
+      "fanbase": 198837,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Academy: Allied Hyakkiyako Academy Year: Suspended Club: None Hobbies: Destroyi…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287031-6e8XpbooLHDE.jpg"
+      "bio": "Knight",
+      "description": "Rank: Low-class Devil Role: Knight Species: Reincarnated Devil Weapon: Excalibu…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51337-QcbPyLiXoxB4.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560239596376297492/waifu-2d0f3da4cc7b9a38fc0b40f1.png?ex=6ad1fddb&is=6ad0ac5b&hm=33fca727f596784e477fa9fe5c57c93bf7a69ca6b57841270a9f1f9c72fde676&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560321222607380610/waifu-5d6ea2b2e9ddf59a58edab0d.png?ex=6ad249e0&is=6ad0f860&hm=078693eb1f3c5b79978f50b31c08ba11c18124dafe238e2aef06424dfab4317a&"
   }
 }
