@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Futaba Sakura:Persona 5",
-  "lastName": "Futaba Sakura",
-  "index": 225,
+  "lastId": "db:Yuki Tsukumo:Jujutsu Kaisen",
+  "lastName": "Yuki Tsukumo",
+  "index": 125,
   "recent": [
+    "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Futaba Sakura:Persona 5",
     "db:Marisa:Street Fighter 6",
     "db:Velvet Crowe:Tales of Berseria",
@@ -36,36 +37,35 @@
     "db:Yuri Alpha:Overlord",
     "db:Dorio:Cyberpunk Edgerunners",
     "db:Alice:Nikke",
-    "db:Lili Rochefort:Tekken",
-    "db:Origami Tobiichi:Date A Live"
+    "db:Lili Rochefort:Tekken"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-14T21:07:17.161Z",
+  "updatedAt": "2026-10-15T02:26:33.766Z",
   "cached": {
     "character": {
-      "name": "Futaba Sakura",
-      "source": "Persona 5",
-      "universe": "JRPG",
+      "name": "Yuki Tsukumo",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Futaba Sakura:Persona 5",
-      "nextIndex": 225
+      "globalId": "db:Yuki Tsukumo:Jujutsu Kaisen",
+      "nextIndex": 125
     },
     "meta": {
-      "source": "Persona 5",
-      "fanbase": 407378,
-      "vibe": "MYSTERIOUS",
-      "rating": "ELITE",
-      "age": "15 - 16",
-      "blood": "AB-",
-      "bio": "Character",
-      "description": "Birth Name: Futaba Isshiki cm Arcana: Hermit Initial Persona: Necronomicon Tran…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121635-x3rT0I5xKaDu.png"
+      "source": "Jujutsu Kaisen",
+      "fanbase": 568184,
+      "vibe": "DOMINANT",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Mage",
+      "description": "One of the four Special Grade Sorcerers",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560036293742825503/waifu-508b2e67657a8441042b4dd6.png?ex=6ad14084&is=6acfef04&hm=4ee3472aac1d03d758741de3a1c3a5f1619764a8417600a7866c16494a542c7d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560116642107625523/waifu-741a262b31b049ef1a1c5682.png?ex=6ad18b59&is=6ad039d9&hm=8db4dedc1e9791598cdd5412dd197650f188318fea99d1f8cb707ce7a57bd145&"
   }
 }
