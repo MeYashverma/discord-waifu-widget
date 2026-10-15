@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuki Tsukumo:Jujutsu Kaisen",
-  "lastName": "Yuki Tsukumo",
-  "index": 125,
+  "lastId": "db:Wakamo:Blue Archive",
+  "lastName": "Wakamo",
+  "index": 70,
   "recent": [
+    "db:Wakamo:Blue Archive",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Futaba Sakura:Persona 5",
     "db:Marisa:Street Fighter 6",
@@ -36,36 +37,35 @@
     "db:Miyabi:Zenless Zone Zero",
     "db:Yuri Alpha:Overlord",
     "db:Dorio:Cyberpunk Edgerunners",
-    "db:Alice:Nikke",
-    "db:Lili Rochefort:Tekken"
+    "db:Alice:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-15T02:26:33.766Z",
+  "updatedAt": "2026-10-15T10:35:08.778Z",
   "cached": {
     "character": {
-      "name": "Yuki Tsukumo",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Wakamo",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuki Tsukumo:Jujutsu Kaisen",
-      "nextIndex": 125
+      "globalId": "db:Wakamo:Blue Archive",
+      "nextIndex": 70
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 568184,
-      "vibe": "DOMINANT",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "source": "Blue Archive",
+      "fanbase": 258011,
+      "vibe": "TSUNDERE",
+      "rating": "ICONIC",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "One of the four Special Grade Sorcerers",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png"
+      "bio": "Student",
+      "description": "Academy: Allied Hyakkiyako Academy Year: Suspended Club: None Hobbies: Destroyi…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287031-6e8XpbooLHDE.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560116642107625523/waifu-741a262b31b049ef1a1c5682.png?ex=6ad18b59&is=6ad039d9&hm=8db4dedc1e9791598cdd5412dd197650f188318fea99d1f8cb707ce7a57bd145&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560239596376297492/waifu-2d0f3da4cc7b9a38fc0b40f1.png?ex=6ad1fddb&is=6ad0ac5b&hm=33fca727f596784e477fa9fe5c57c93bf7a69ca6b57841270a9f1f9c72fde676&"
   }
 }
