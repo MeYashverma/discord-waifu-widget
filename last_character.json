@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Anna Williams:Tekken",
-  "lastName": "Anna Williams",
-  "index": 253,
+  "lastId": "db:Sakura Haruno:Naruto",
+  "lastName": "Sakura Haruno",
+  "index": 174,
   "recent": [
+    "db:Sakura Haruno:Naruto",
     "db:Anna Williams:Tekken",
     "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Sanhua:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Chun-Li:Street Fighter",
     "db:Aura Bella Fiora:Overlord",
-    "db:Kasumi Yoshizawa:Persona 5 Royal",
-    "db:Seele:Honkai Star Rail"
+    "db:Kasumi Yoshizawa:Persona 5 Royal"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-16T10:21:40.966Z",
+  "updatedAt": "2026-10-16T15:47:50.348Z",
   "cached": {
     "character": {
-      "name": "Anna Williams",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Sakura Haruno",
+      "source": "Naruto",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Anna Williams:Tekken",
-      "nextIndex": 253
+      "globalId": "db:Sakura Haruno:Naruto",
+      "nextIndex": 174
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 249925,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Anna Williams is a character in the Tekken series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8429.jpg"
+      "source": "Naruto",
+      "fanbase": 531612,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "12-17",
+      "blood": "O",
+      "bio": "Student",
+      "description": "cm- Sakura is the only female ninja of Team 7",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560598598725537802/waifu-75159c1273272f839d7f4e8d.png?ex=6ad34c34&is=6ad1fab4&hm=8b20ee165965a2da667a4fba74a7c6020dc109ed9c15ccc6e2daf21a0a1b46d9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560680677018574990/waifu-dd9be0306ac93dce9155085d.png?ex=6ad398a5&is=6ad24725&hm=b1153d6d96b63844ae23289852c63d1c10d042763b9ef94dcf8237abbacaeb0b&"
   }
 }
