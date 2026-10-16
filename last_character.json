@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sakura Haruno:Naruto",
-  "lastName": "Sakura Haruno",
-  "index": 174,
+  "lastId": "db:Ellen Joe:Zenless Zone Zero",
+  "lastName": "Ellen Joe",
+  "index": 35,
   "recent": [
+    "db:Ellen Joe:Zenless Zone Zero",
     "db:Sakura Haruno:Naruto",
     "db:Anna Williams:Tekken",
     "db:Winry Rockbell:Fullmetal Alchemist",
@@ -36,36 +37,35 @@
     "db:Kaga:Azur Lane",
     "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Chun-Li:Street Fighter",
-    "db:Aura Bella Fiora:Overlord",
-    "db:Kasumi Yoshizawa:Persona 5 Royal"
+    "db:Aura Bella Fiora:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-16T15:47:50.348Z",
+  "updatedAt": "2026-10-16T20:16:27.248Z",
   "cached": {
     "character": {
-      "name": "Sakura Haruno",
-      "source": "Naruto",
-      "universe": "ANIME",
+      "name": "Ellen Joe",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sakura Haruno:Naruto",
-      "nextIndex": 174
+      "globalId": "db:Ellen Joe:Zenless Zone Zero",
+      "nextIndex": 35
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 531612,
-      "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "12-17",
-      "blood": "O",
-      "bio": "Student",
-      "description": "cm- Sakura is the only female ninja of Team 7",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
+      "source": "Zenless Zone Zero",
+      "fanbase": 242831,
+      "vibe": "ROYAL",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Born November 8, 2142 Planet Aramis, The Canis Major Zone - Joe is the headstro…",
+      "image": "https://media.kitsu.app/characters/images/22030/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560680677018574990/waifu-dd9be0306ac93dce9155085d.png?ex=6ad398a5&is=6ad24725&hm=b1153d6d96b63844ae23289852c63d1c10d042763b9ef94dcf8237abbacaeb0b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560748278629400646/waifu-fcaaf5c99f8625e858b70fcb.png?ex=6ad3d79a&is=6ad2861a&hm=88ed8309ac72e6e1e8f02dbce176a36cb2ac0b18c96baa0634c89352f3f107cc&"
   }
 }
