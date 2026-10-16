@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sanhua:Wuthering Waves",
-  "lastName": "Sanhua",
-  "index": 43,
+  "lastId": "db:Winry Rockbell:Fullmetal Alchemist",
+  "lastName": "Winry Rockbell",
+  "index": 0,
   "recent": [
+    "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Sanhua:Wuthering Waves",
     "db:Xenovia Quarta:High School DxD",
     "db:Wakamo:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Aura Bella Fiora:Overlord",
     "db:Kasumi Yoshizawa:Persona 5 Royal",
     "db:Seele:Honkai Star Rail",
-    "db:Miyabi:Zenless Zone Zero",
-    "db:Yuri Alpha:Overlord"
+    "db:Miyabi:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-15T20:44:12.182Z",
+  "updatedAt": "2026-10-16T02:20:48.549Z",
   "cached": {
     "character": {
-      "name": "Sanhua",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Winry Rockbell",
+      "source": "Fullmetal Alchemist",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sanhua:Wuthering Waves",
-      "nextIndex": 43
+      "globalId": "db:Winry Rockbell:Fullmetal Alchemist",
+      "nextIndex": 0
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 182492,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Fullmetal Alchemist",
+      "fanbase": 258454,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
+      "age": "15-16",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Sanhua from Wuthering Waves",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+      "description": "Birthplace: Resembool Occupation: Automail Mechanic Family: , Urey Rockbell , S…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560392873864855552/waifu-ccfc30fe72114ca6bb57aed7.png?ex=6ad28c9b&is=6ad13b1b&hm=ba6a8d0265739690395b9c54f64f3bd64486f8efeaa968985152b4b30ae30dbf&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560477583311638639/waifu-a3a1060a27d1b55960f98955.png?ex=6ad2db80&is=6ad18a00&hm=913f514c1a50a9de89329eb32b4f60c97946757aa183244358673ffcf6bcc670&"
   }
 }
