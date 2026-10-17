@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Enterprise:Azur Lane",
-  "lastName": "Enterprise",
-  "index": 275,
+  "lastId": "db:Momo Nishimiya:Jujutsu Kaisen",
+  "lastName": "Momo Nishimiya",
+  "index": 130,
   "recent": [
+    "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Enterprise:Azur Lane",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Sakura Haruno:Naruto",
@@ -36,36 +37,35 @@
     "db:Koneko Toujou:High School DxD",
     "db:Ino Yamanaka:Naruto",
     "db:Kaga:Azur Lane",
-    "db:Aerith Gainsborough:Final Fantasy VII",
-    "db:Chun-Li:Street Fighter"
+    "db:Aerith Gainsborough:Final Fantasy VII"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-17T02:13:16.546Z",
+  "updatedAt": "2026-10-17T09:54:44.325Z",
   "cached": {
     "character": {
-      "name": "Enterprise",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Momo Nishimiya",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Enterprise:Azur Lane",
-      "nextIndex": 275
+      "globalId": "db:Momo Nishimiya:Jujutsu Kaisen",
+      "nextIndex": 130
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 206370,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 520921,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Faction: Eagle Union Class: Yorktown Legendary Yorktown-class aircraft carrier …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130082-WiDwPynLeBXD.jpg"
+      "bio": "Mage",
+      "description": "Species: Human Occupation: Jujutsu Sorcerer Affiliation: Kyoto Magic Technical …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560838075628781620/waifu-547bb1f43d1f32157b103dc3.png?ex=6ad42b3c&is=6ad2d9bc&hm=4fc349c00e6b806147ffb5358ffac12c8ce39c225abd7392f778c395194bb40f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560954206234615848/waifu-18a4af4654718cefe1238180.png?ex=6ad49763&is=6ad345e3&hm=6bf18c9e6dec8db56171a74eaf2114a224d09ea57c5772357324a556c4148c2b&"
   }
 }
