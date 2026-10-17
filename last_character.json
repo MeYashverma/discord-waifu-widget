@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ellen Joe:Zenless Zone Zero",
-  "lastName": "Ellen Joe",
-  "index": 35,
+  "lastId": "db:Enterprise:Azur Lane",
+  "lastName": "Enterprise",
+  "index": 275,
   "recent": [
+    "db:Enterprise:Azur Lane",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Sakura Haruno:Naruto",
     "db:Anna Williams:Tekken",
@@ -36,15 +37,14 @@
     "db:Ino Yamanaka:Naruto",
     "db:Kaga:Azur Lane",
     "db:Aerith Gainsborough:Final Fantasy VII",
-    "db:Chun-Li:Street Fighter",
-    "db:Aura Bella Fiora:Overlord"
+    "db:Chun-Li:Street Fighter"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-16T20:16:27.248Z",
+  "updatedAt": "2026-10-17T02:13:16.546Z",
   "cached": {
     "character": {
-      "name": "Ellen Joe",
-      "source": "Zenless Zone Zero",
+      "name": "Enterprise",
+      "source": "Azur Lane",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ellen Joe:Zenless Zone Zero",
-      "nextIndex": 35
+      "globalId": "db:Enterprise:Azur Lane",
+      "nextIndex": 275
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 242831,
-      "vibe": "ROYAL",
-      "rating": "ICONIC",
+      "source": "Azur Lane",
+      "fanbase": 206370,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Born November 8, 2142 Planet Aramis, The Canis Major Zone - Joe is the headstro…",
-      "image": "https://media.kitsu.app/characters/images/22030/original.jpg"
+      "description": "Faction: Eagle Union Class: Yorktown Legendary Yorktown-class aircraft carrier …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130082-WiDwPynLeBXD.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560748278629400646/waifu-fcaaf5c99f8625e858b70fcb.png?ex=6ad3d79a&is=6ad2861a&hm=88ed8309ac72e6e1e8f02dbce176a36cb2ac0b18c96baa0634c89352f3f107cc&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560838075628781620/waifu-547bb1f43d1f32157b103dc3.png?ex=6ad42b3c&is=6ad2d9bc&hm=4fc349c00e6b806147ffb5358ffac12c8ce39c225abd7392f778c395194bb40f&"
   }
 }
