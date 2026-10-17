@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Momo Nishimiya:Jujutsu Kaisen",
-  "lastName": "Momo Nishimiya",
-  "index": 130,
+  "lastId": "db:Lulu:Final Fantasy X",
+  "lastName": "Lulu",
+  "index": 216,
   "recent": [
+    "db:Lulu:Final Fantasy X",
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Enterprise:Azur Lane",
     "db:Ellen Joe:Zenless Zone Zero",
@@ -36,36 +37,35 @@
     "db:Juri Han:Street Fighter",
     "db:Koneko Toujou:High School DxD",
     "db:Ino Yamanaka:Naruto",
-    "db:Kaga:Azur Lane",
-    "db:Aerith Gainsborough:Final Fantasy VII"
+    "db:Kaga:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-17T09:54:44.325Z",
+  "updatedAt": "2026-10-17T14:41:00.044Z",
   "cached": {
     "character": {
-      "name": "Momo Nishimiya",
-      "source": "Jujutsu Kaisen",
-      "universe": "ANIME",
+      "name": "Lulu",
+      "source": "Final Fantasy X",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Momo Nishimiya:Jujutsu Kaisen",
-      "nextIndex": 130
+      "globalId": "db:Lulu:Final Fantasy X",
+      "nextIndex": 216
     },
     "meta": {
-      "source": "Jujutsu Kaisen",
-      "fanbase": 520921,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "18",
+      "source": "Final Fantasy X",
+      "fanbase": 237885,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
+      "age": "17-18",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Species: Human Occupation: Jujutsu Sorcerer Affiliation: Kyoto Magic Technical …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png"
+      "bio": "Maid",
+      "description": "Nationality: Britannian cm Relatives: Nunnally Lamperouge Allegiance: Order of …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1560954206234615848/waifu-18a4af4654718cefe1238180.png?ex=6ad49763&is=6ad345e3&hm=6bf18c9e6dec8db56171a74eaf2114a224d09ea57c5772357324a556c4148c2b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561026245007769600/waifu-444faff8b4f1f68111d7eb6e.png?ex=6ad4da7b&is=6ad388fb&hm=15742dc81b7b6ab8393cbdd699e1be75f8eb2d29c7fe6d254b8a28a19ce4ce26&"
   }
 }
