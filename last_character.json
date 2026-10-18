@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Brandish μ:Fairy Tail",
-  "lastName": "Brandish μ",
-  "index": 112,
+  "lastId": "db:Matoi Ryuko:Kill la Kill",
+  "lastName": "Matoi Ryuko",
+  "index": 272,
   "recent": [
+    "db:Matoi Ryuko:Kill la Kill",
     "db:Brandish μ:Fairy Tail",
     "db:Levy McGarden:Fairy Tail",
     "db:Shinobu Kocho:Demon Slayer",
@@ -36,15 +37,14 @@
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Karenina:Punishing Gray Raven",
     "db:Bambietta Basterbine:Bleach",
-    "db:Mitsuri Kanroji:Demon Slayer",
-    "db:Scathach:Fate Series"
+    "db:Mitsuri Kanroji:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-18T15:07:16.942Z",
+  "updatedAt": "2026-10-18T19:52:44.375Z",
   "cached": {
     "character": {
-      "name": "Brandish μ",
-      "source": "Fairy Tail",
+      "name": "Matoi Ryuko",
+      "source": "Kill la Kill",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Brandish μ:Fairy Tail",
-      "nextIndex": 112
+      "globalId": "db:Matoi Ryuko:Kill la Kill",
+      "nextIndex": 272
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 234189,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Kill la Kill",
+      "fanbase": 196694,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
+      "bio": "Student",
+      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561395245512392825/waifu-996720f0e1f19f63f4c07150.png?ex=6ad63223&is=6ad4e0a3&hm=7aafef77a6d4921e94c0b22173dcd609ba61b7098f2605fc65d24c07b4739662&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561467085639520297/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6ad6750b&is=6ad5238b&hm=fd1a101c857bf1ee9b82d3708c4d3368660d404fbb09cd09bcce8c619132bb4e&"
   }
 }
