@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shinobu Kocho:Demon Slayer",
-  "lastName": "Shinobu Kocho",
-  "index": 115,
+  "lastId": "db:Levy McGarden:Fairy Tail",
+  "lastName": "Levy McGarden",
+  "index": 110,
   "recent": [
+    "db:Levy McGarden:Fairy Tail",
     "db:Shinobu Kocho:Demon Slayer",
     "db:Rebecca Chambers:Resident Evil",
     "db:Lulu:Final Fantasy X",
@@ -36,15 +37,14 @@
     "db:Bambietta Basterbine:Bleach",
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Scathach:Fate Series",
-    "db:Juri Han:Street Fighter",
-    "db:Koneko Toujou:High School DxD"
+    "db:Juri Han:Street Fighter"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-18T02:13:04.335Z",
+  "updatedAt": "2026-10-18T10:06:34.938Z",
   "cached": {
     "character": {
-      "name": "Shinobu Kocho",
-      "source": "Demon Slayer",
+      "name": "Levy McGarden",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shinobu Kocho:Demon Slayer",
-      "nextIndex": 115
+      "globalId": "db:Levy McGarden:Fairy Tail",
+      "nextIndex": 110
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 583822,
-      "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "18",
-      "blood": "Unknown",
-      "bio": "Hashira",
-      "description": "Insect Hashira",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
+      "source": "Fairy Tail",
+      "fanbase": 235291,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
+      "age": "17",
+      "blood": "A",
+      "bio": "Mage",
+      "description": "cm Magic: Solid Script Mage Levy is a member of the Fairy Tail Guild's team Sha…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29493-XcqFX69oipzX.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561200409677144154/waifu-842ae1f0ef4b3bc70a245e5e.png?ex=6ad57caf&is=6ad42b2f&hm=ae13976736fd95123509d7c54c20966bbcfabc8c353e73bbf16e6ca586cb375f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561319575059038278/waifu-b2995312616db772e01df4e2.png?ex=6ad5ebaa&is=6ad49a2a&hm=04a990057f6b8e5e9db026bf7cb9529a1423abf2f648f6053008bdae033cc8e0&"
   }
 }
