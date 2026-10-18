@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Levy McGarden:Fairy Tail",
-  "lastName": "Levy McGarden",
-  "index": 110,
+  "lastId": "db:Brandish μ:Fairy Tail",
+  "lastName": "Brandish μ",
+  "index": 112,
   "recent": [
+    "db:Brandish μ:Fairy Tail",
     "db:Levy McGarden:Fairy Tail",
     "db:Shinobu Kocho:Demon Slayer",
     "db:Rebecca Chambers:Resident Evil",
@@ -36,14 +37,13 @@
     "db:Karenina:Punishing Gray Raven",
     "db:Bambietta Basterbine:Bleach",
     "db:Mitsuri Kanroji:Demon Slayer",
-    "db:Scathach:Fate Series",
-    "db:Juri Han:Street Fighter"
+    "db:Scathach:Fate Series"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-18T10:06:34.938Z",
+  "updatedAt": "2026-10-18T15:07:16.942Z",
   "cached": {
     "character": {
-      "name": "Levy McGarden",
+      "name": "Brandish μ",
       "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Levy McGarden:Fairy Tail",
-      "nextIndex": 110
+      "globalId": "db:Brandish μ:Fairy Tail",
+      "nextIndex": 112
     },
     "meta": {
       "source": "Fairy Tail",
-      "fanbase": 235291,
-      "vibe": "PLAYFUL",
+      "fanbase": 234189,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "17",
-      "blood": "A",
-      "bio": "Mage",
-      "description": "cm Magic: Solid Script Mage Levy is a member of the Fairy Tail Guild's team Sha…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29493-XcqFX69oipzX.jpg"
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Brandish μ is part of the Alvarez Empire as one of the Spriggan 12, the protect…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561319575059038278/waifu-b2995312616db772e01df4e2.png?ex=6ad5ebaa&is=6ad49a2a&hm=04a990057f6b8e5e9db026bf7cb9529a1423abf2f648f6053008bdae033cc8e0&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561395245512392825/waifu-996720f0e1f19f63f4c07150.png?ex=6ad63223&is=6ad4e0a3&hm=7aafef77a6d4921e94c0b22173dcd609ba61b7098f2605fc65d24c07b4739662&"
   }
 }
