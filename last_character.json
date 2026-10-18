@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rebecca Chambers:Resident Evil",
-  "lastName": "Rebecca Chambers",
-  "index": 232,
+  "lastId": "db:Shinobu Kocho:Demon Slayer",
+  "lastName": "Shinobu Kocho",
+  "index": 115,
   "recent": [
+    "db:Shinobu Kocho:Demon Slayer",
     "db:Rebecca Chambers:Resident Evil",
     "db:Lulu:Final Fantasy X",
     "db:Momo Nishimiya:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Mitsuri Kanroji:Demon Slayer",
     "db:Scathach:Fate Series",
     "db:Juri Han:Street Fighter",
-    "db:Koneko Toujou:High School DxD",
-    "db:Ino Yamanaka:Naruto"
+    "db:Koneko Toujou:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-17T19:52:19.250Z",
+  "updatedAt": "2026-10-18T02:13:04.335Z",
   "cached": {
     "character": {
-      "name": "Rebecca Chambers",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Shinobu Kocho",
+      "source": "Demon Slayer",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rebecca Chambers:Resident Evil",
-      "nextIndex": 232
+      "globalId": "db:Shinobu Kocho:Demon Slayer",
+      "nextIndex": 115
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 260725,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "AB",
-      "bio": "Character",
-      "description": "A child prodigy, Rebecca was entered into university at a young age and graduat…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145992-GLjBfnJxqA3w.jpg"
+      "source": "Demon Slayer",
+      "fanbase": 583822,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "18",
+      "blood": "Unknown",
+      "bio": "Hashira",
+      "description": "Insect Hashira",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561104593134297098/waifu-6c9d468e9a91e164c92d3e23.png?ex=6ad52372&is=6ad3d1f2&hm=047db9851c8694405e7fcfc6f848211b0131d810a26e88f78d7ce8fa2e66ef38&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561200409677144154/waifu-842ae1f0ef4b3bc70a245e5e.png?ex=6ad57caf&is=6ad42b2f&hm=ae13976736fd95123509d7c54c20966bbcfabc8c353e73bbf16e6ca586cb375f&"
   }
 }
