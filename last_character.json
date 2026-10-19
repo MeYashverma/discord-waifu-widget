@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rosa:Bayonetta",
-  "lastName": "Rosa",
-  "index": 262,
+  "lastId": "db:Najenda:Akame ga Kill!",
+  "lastName": "Najenda",
+  "index": 163,
   "recent": [
+    "db:Najenda:Akame ga Kill!",
     "db:Rosa:Bayonetta",
     "db:Jill Valentine:Resident Evil",
     "db:Matoi Ryuko:Kill la Kill",
@@ -36,36 +37,35 @@
     "db:Tamayo:Demon Slayer",
     "db:Nezuko Kamado:Demon Slayer",
     "db:Fami:Chainsaw Man",
-    "db:Nobara Kugisaki:Jujutsu Kaisen",
-    "db:Karenina:Punishing Gray Raven"
+    "db:Nobara Kugisaki:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-19T11:36:46.786Z",
+  "updatedAt": "2026-10-19T17:59:04.869Z",
   "cached": {
     "character": {
-      "name": "Rosa",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Najenda",
+      "source": "Akame ga Kill!",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rosa:Bayonetta",
-      "nextIndex": 262
+      "globalId": "db:Najenda:Akame ga Kill!",
+      "nextIndex": 163
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 204683,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "15-29",
-      "blood": "A",
-      "bio": "Mage",
-      "description": "Race: Human cm Zanpakutou: Relatives: , , and Ichigo Kurosaki is an orange hair…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
+      "source": "Akame ga Kill!",
+      "fanbase": 256672,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Assassin",
+      "description": "Najenda, also known as The Hunk of the Rebellion is the head of the assassin gr…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72267-heLonNDtobAG.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561704662065750016/waifu-2edf87f59661c10a16bc88cb.png?ex=6ad7524e&is=6ad600ce&hm=50b6ecebbd426ab0192e7cc5234bac1e53e45dd13a0c420f69bf1575c7e2088a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561800870440739027/waifu-054ff90c1ca63edbc9ce4d2a.png?ex=6ad7abe8&is=6ad65a68&hm=02ee2659136cf652037d6771637802983edd67dd6bd7f8503011213092ac8079&"
   }
 }
