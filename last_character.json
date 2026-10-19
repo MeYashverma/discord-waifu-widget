@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jill Valentine:Resident Evil",
-  "lastName": "Jill Valentine",
-  "index": 230,
+  "lastId": "db:Rosa:Bayonetta",
+  "lastName": "Rosa",
+  "index": 262,
   "recent": [
+    "db:Rosa:Bayonetta",
     "db:Jill Valentine:Resident Evil",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Brandish μ:Fairy Tail",
@@ -36,15 +37,14 @@
     "db:Nezuko Kamado:Demon Slayer",
     "db:Fami:Chainsaw Man",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
-    "db:Karenina:Punishing Gray Raven",
-    "db:Bambietta Basterbine:Bleach"
+    "db:Karenina:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-19T02:28:56.242Z",
+  "updatedAt": "2026-10-19T11:36:46.786Z",
   "cached": {
     "character": {
-      "name": "Jill Valentine",
-      "source": "Resident Evil",
+      "name": "Rosa",
+      "source": "Bayonetta",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jill Valentine:Resident Evil",
-      "nextIndex": 230
+      "globalId": "db:Rosa:Bayonetta",
+      "nextIndex": 262
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 233330,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "B",
-      "bio": "Captain",
-      "description": "A member of S",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12664-eVuO8OpCf1EO.png"
+      "source": "Bayonetta",
+      "fanbase": 204683,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "15-29",
+      "blood": "A",
+      "bio": "Mage",
+      "description": "Race: Human cm Zanpakutou: Relatives: , , and Ichigo Kurosaki is an orange hair…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561566792747458621/waifu-d45bed1c61e9f38c11ae1778.png?ex=6ad6d1e7&is=6ad58067&hm=63cc9cc8442316c23d2304201f8c52596f743d385617f1308ce72e92d47de86f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561704662065750016/waifu-2edf87f59661c10a16bc88cb.png?ex=6ad7524e&is=6ad600ce&hm=50b6ecebbd426ab0192e7cc5234bac1e53e45dd13a0c420f69bf1575c7e2088a&"
   }
 }
