@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Matoi Ryuko:Kill la Kill",
-  "lastName": "Matoi Ryuko",
-  "index": 272,
+  "lastId": "db:Jill Valentine:Resident Evil",
+  "lastName": "Jill Valentine",
+  "index": 230,
   "recent": [
+    "db:Jill Valentine:Resident Evil",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Brandish μ:Fairy Tail",
     "db:Levy McGarden:Fairy Tail",
@@ -36,36 +37,35 @@
     "db:Fami:Chainsaw Man",
     "db:Nobara Kugisaki:Jujutsu Kaisen",
     "db:Karenina:Punishing Gray Raven",
-    "db:Bambietta Basterbine:Bleach",
-    "db:Mitsuri Kanroji:Demon Slayer"
+    "db:Bambietta Basterbine:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-18T19:52:44.375Z",
+  "updatedAt": "2026-10-19T02:28:56.242Z",
   "cached": {
     "character": {
-      "name": "Matoi Ryuko",
-      "source": "Kill la Kill",
-      "universe": "ANIME",
+      "name": "Jill Valentine",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Matoi Ryuko:Kill la Kill",
-      "nextIndex": 272
+      "globalId": "db:Jill Valentine:Resident Evil",
+      "nextIndex": 230
     },
     "meta": {
-      "source": "Kill la Kill",
-      "fanbase": 196694,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
-      "age": "17",
-      "blood": "Unknown",
-      "bio": "Student",
-      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+      "source": "Resident Evil",
+      "fanbase": 233330,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "B",
+      "bio": "Captain",
+      "description": "A member of S",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12664-eVuO8OpCf1EO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561467085639520297/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6ad6750b&is=6ad5238b&hm=fd1a101c857bf1ee9b82d3708c4d3368660d404fbb09cd09bcce8c619132bb4e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561566792747458621/waifu-d45bed1c61e9f38c11ae1778.png?ex=6ad6d1e7&is=6ad58067&hm=63cc9cc8442316c23d2304201f8c52596f743d385617f1308ce72e92d47de86f&"
   }
 }
