@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Darkness:Konosuba",
-  "lastName": "Darkness",
-  "index": 194,
+  "lastId": "db:Miss Fortune:League of Legends",
+  "lastName": "Miss Fortune",
+  "index": 240,
   "recent": [
+    "db:Miss Fortune:League of Legends",
     "db:Darkness:Konosuba",
     "db:Nilou:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Cereza:Bayonetta Origins",
     "db:Historia Reiss:Attack on Titan",
     "db:Fran:Final Fantasy XII",
-    "db:Yamato:One Piece",
-    "db:Tamayo:Demon Slayer"
+    "db:Yamato:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-20T10:40:41.831Z",
+  "updatedAt": "2026-10-20T16:03:17.212Z",
   "cached": {
     "character": {
-      "name": "Darkness",
-      "source": "Konosuba",
-      "universe": "ANIME",
+      "name": "Miss Fortune",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Darkness:Konosuba",
-      "nextIndex": 194
+      "globalId": "db:Miss Fortune:League of Legends",
+      "nextIndex": 240
     },
     "meta": {
-      "source": "Konosuba",
-      "fanbase": 232328,
-      "vibe": "DOMINANT",
+      "source": "League of Legends",
+      "fanbase": 244806,
+      "vibe": "MYSTERIOUS",
       "rating": "ICONIC",
-      "age": "18",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "A crusader and a masochist",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+      "bio": "Captain",
+      "description": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207367-b1oqE9f4ROB2.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562052935800852490/waifu-00d0a989b77da13170ab47db.png?ex=6ad896a9&is=6ad74529&hm=49237d59755f01ca349ca4b850e2dba333abab27e82a0d5c6dc971b2a7857e2a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562134117951213700/waifu-1ab738d8d321b531d721163e.png?ex=6ad8e244&is=6ad790c4&hm=3f8fe3723b611a99fe5e17bb01e1d609f6b5ad3518f172b77eb4534eabc967f7&"
   }
 }
