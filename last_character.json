@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nilou:Genshin Impact",
-  "lastName": "Nilou",
-  "index": 10,
+  "lastId": "db:Darkness:Konosuba",
+  "lastName": "Darkness",
+  "index": 194,
   "recent": [
+    "db:Darkness:Konosuba",
     "db:Nilou:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
     "db:Najenda:Akame ga Kill!",
@@ -36,36 +37,35 @@
     "db:Historia Reiss:Attack on Titan",
     "db:Fran:Final Fantasy XII",
     "db:Yamato:One Piece",
-    "db:Tamayo:Demon Slayer",
-    "db:Nezuko Kamado:Demon Slayer"
+    "db:Tamayo:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-20T02:42:00.819Z",
+  "updatedAt": "2026-10-20T10:40:41.831Z",
   "cached": {
     "character": {
-      "name": "Nilou",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Darkness",
+      "source": "Konosuba",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nilou:Genshin Impact",
-      "nextIndex": 10
+      "globalId": "db:Darkness:Konosuba",
+      "nextIndex": 194
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 524170,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "source": "Konosuba",
+      "fanbase": 232328,
+      "vibe": "DOMINANT",
+      "rating": "ICONIC",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Nilou from Genshin Impact",
-      "image": "https://nekos.best/api/v2/waifu/3035bc09-3507-4a1c-b099-889a2ad5e9cc.png"
+      "bio": "Knight",
+      "description": "A crusader and a masochist",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561932471388344430/waifu-c8857d1d50ec08fc89a26313.png?ex=6ad82678&is=6ad6d4f8&hm=c9bfea9efb05233f391fec85735c4d34dc0ecf17de9c682daac986668677896f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562052935800852490/waifu-00d0a989b77da13170ab47db.png?ex=6ad896a9&is=6ad74529&hm=49237d59755f01ca349ca4b850e2dba333abab27e82a0d5c6dc971b2a7857e2a&"
   }
 }
