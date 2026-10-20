@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yuuka Hayase:Blue Archive",
-  "lastName": "Yuuka Hayase",
-  "index": 69,
+  "lastId": "db:Nilou:Genshin Impact",
+  "lastName": "Nilou",
+  "index": 10,
   "recent": [
+    "db:Nilou:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
     "db:Najenda:Akame ga Kill!",
     "db:Rosa:Bayonetta",
@@ -36,15 +37,14 @@
     "db:Fran:Final Fantasy XII",
     "db:Yamato:One Piece",
     "db:Tamayo:Demon Slayer",
-    "db:Nezuko Kamado:Demon Slayer",
-    "db:Fami:Chainsaw Man"
+    "db:Nezuko Kamado:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-19T22:04:45.637Z",
+  "updatedAt": "2026-10-20T02:42:00.819Z",
   "cached": {
     "character": {
-      "name": "Yuuka Hayase",
-      "source": "Blue Archive",
+      "name": "Nilou",
+      "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yuuka Hayase:Blue Archive",
-      "nextIndex": 69
+      "globalId": "db:Nilou:Genshin Impact",
+      "nextIndex": 10
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 269309,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "16",
+      "source": "Genshin Impact",
+      "fanbase": 524170,
+      "vibe": "MYSTERIOUS",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Academy: Millennium Science School Year: 2nd Year The treasurer of Seminar, the…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264237-sAM1foeXoY8M.png"
+      "bio": "Character",
+      "description": "Nilou from Genshin Impact",
+      "image": "https://nekos.best/api/v2/waifu/3035bc09-3507-4a1c-b099-889a2ad5e9cc.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561862697807781988/waifu-4e901aec413efc59a579a22e.png?ex=6ad7e57d&is=6ad693fd&hm=99468934d2c9f9bf4085242fc5927df2d087f6afda3cfc6553065c0f6bf41e02&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1561932471388344430/waifu-c8857d1d50ec08fc89a26313.png?ex=6ad82678&is=6ad6d4f8&hm=c9bfea9efb05233f391fec85735c4d34dc0ecf17de9c682daac986668677896f&"
   }
 }
