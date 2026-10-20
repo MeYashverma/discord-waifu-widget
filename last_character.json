@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Miss Fortune:League of Legends",
-  "lastName": "Miss Fortune",
-  "index": 240,
+  "lastId": "db:Crusch Karsten:Re:Zero",
+  "lastName": "Crusch Karsten",
+  "index": 85,
   "recent": [
+    "db:Crusch Karsten:Re:Zero",
     "db:Miss Fortune:League of Legends",
     "db:Darkness:Konosuba",
     "db:Nilou:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Eula:Genshin Impact",
     "db:Cereza:Bayonetta Origins",
     "db:Historia Reiss:Attack on Titan",
-    "db:Fran:Final Fantasy XII",
-    "db:Yamato:One Piece"
+    "db:Fran:Final Fantasy XII"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-20T16:03:17.212Z",
+  "updatedAt": "2026-10-20T21:01:00.086Z",
   "cached": {
     "character": {
-      "name": "Miss Fortune",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Crusch Karsten",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Miss Fortune:League of Legends",
-      "nextIndex": 240
+      "globalId": "db:Crusch Karsten:Re:Zero",
+      "nextIndex": 85
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 244806,
-      "vibe": "MYSTERIOUS",
+      "source": "Re:Zero",
+      "fanbase": 250412,
+      "vibe": "INTENSE",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "20",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207367-b1oqE9f4ROB2.jpg"
+      "bio": "Soldier",
+      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562134117951213700/waifu-1ab738d8d321b531d721163e.png?ex=6ad8e244&is=6ad790c4&hm=3f8fe3723b611a99fe5e17bb01e1d609f6b5ad3518f172b77eb4534eabc967f7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562209040354910248/waifu-cabbe95ce713429f4c7d1406.png?ex=6ad9280b&is=6ad7d68b&hm=13535c9a100bbf899fa246182b45570a6253c255a4a2e9976c46aa74567dee1c&"
   }
 }
