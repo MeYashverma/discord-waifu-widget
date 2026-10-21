@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Clorinde:Genshin Impact",
-  "lastName": "Clorinde",
-  "index": 13,
+  "lastId": "db:Modernia:Nikke",
+  "lastName": "Modernia",
+  "index": 56,
   "recent": [
+    "db:Modernia:Nikke",
     "db:Clorinde:Genshin Impact",
     "db:Crusch Karsten:Re:Zero",
     "db:Miss Fortune:League of Legends",
@@ -36,15 +37,14 @@
     "db:Shenhe:Genshin Impact",
     "db:Mirajane Strauss:Fairy Tail",
     "db:Eula:Genshin Impact",
-    "db:Cereza:Bayonetta Origins",
-    "db:Historia Reiss:Attack on Titan"
+    "db:Cereza:Bayonetta Origins"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-21T02:35:34.159Z",
+  "updatedAt": "2026-10-21T10:51:19.328Z",
   "cached": {
     "character": {
-      "name": "Clorinde",
-      "source": "Genshin Impact",
+      "name": "Modernia",
+      "source": "Nikke",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Clorinde:Genshin Impact",
-      "nextIndex": 13
+      "globalId": "db:Modernia:Nikke",
+      "nextIndex": 56
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 512279,
-      "vibe": "DEADLY",
-      "rating": "LEGENDARY",
+      "source": "Nikke",
+      "fanbase": 258196,
+      "vibe": "ELEGANT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Novel Debut: Volume 14",
-      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
+      "bio": "Captain",
+      "description": "Once known as the Nikke Marian of Elysion, she was corrupted by the Raptures, a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398725-pdDOe3ZUlTIf.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562293236976853085/waifu-6422de0ae7c66a0e9f3a82dc.png?ex=6ad97675&is=6ad824f5&hm=a40c587496a6076aefd82dc6515a0caf76377b37fd81b2422bd9605279540fde&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562417997895696414/waifu-4978ba23e4c015ff4909c7e4.png?ex=6ad9eaa7&is=6ad89927&hm=3e5453b66ff1eeecbed84d6408c8bc30dc85eb68137761e26dec815f629302ac&"
   }
 }
