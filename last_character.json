@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Modernia:Nikke",
-  "lastName": "Modernia",
-  "index": 56,
+  "lastId": "db:Popola:NieR Automata",
+  "lastName": "Popola",
+  "index": 222,
   "recent": [
+    "db:Popola:NieR Automata",
     "db:Modernia:Nikke",
     "db:Clorinde:Genshin Impact",
     "db:Crusch Karsten:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Vinsmoke Reiju:One Piece",
     "db:Shenhe:Genshin Impact",
     "db:Mirajane Strauss:Fairy Tail",
-    "db:Eula:Genshin Impact",
-    "db:Cereza:Bayonetta Origins"
+    "db:Eula:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-21T10:51:19.328Z",
+  "updatedAt": "2026-10-21T16:19:55.698Z",
   "cached": {
     "character": {
-      "name": "Modernia",
-      "source": "Nikke",
-      "universe": "GACHA",
+      "name": "Popola",
+      "source": "NieR Automata",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Modernia:Nikke",
-      "nextIndex": 56
+      "globalId": "db:Popola:NieR Automata",
+      "nextIndex": 222
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 258196,
-      "vibe": "ELEGANT",
-      "rating": "ICONIC",
+      "source": "NieR Automata",
+      "fanbase": 412124,
+      "vibe": "INTENSE",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Once known as the Nikke Marian of Elysion, she was corrupted by the Raptures, a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398725-pdDOe3ZUlTIf.jpg"
+      "bio": "Character",
+      "description": "Popola is the spunky and clever young daughter of a diamond miner and lives in …",
+      "image": "https://media.kitsu.app/characters/images/43047/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562417997895696414/waifu-4978ba23e4c015ff4909c7e4.png?ex=6ad9eaa7&is=6ad89927&hm=3e5453b66ff1eeecbed84d6408c8bc30dc85eb68137761e26dec815f629302ac&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562500693938544644/waifu-9d906e906493e9c048bbfff9.png?ex=6ada37ab&is=6ad8e62b&hm=ad28d70c6628c576852d87940570bfdd7d96cd4a6da32cf989b0f65c9b46e122&"
   }
 }
