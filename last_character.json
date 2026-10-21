@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Crusch Karsten:Re:Zero",
-  "lastName": "Crusch Karsten",
-  "index": 85,
+  "lastId": "db:Clorinde:Genshin Impact",
+  "lastName": "Clorinde",
+  "index": 13,
   "recent": [
+    "db:Clorinde:Genshin Impact",
     "db:Crusch Karsten:Re:Zero",
     "db:Miss Fortune:League of Legends",
     "db:Darkness:Konosuba",
@@ -36,36 +37,35 @@
     "db:Mirajane Strauss:Fairy Tail",
     "db:Eula:Genshin Impact",
     "db:Cereza:Bayonetta Origins",
-    "db:Historia Reiss:Attack on Titan",
-    "db:Fran:Final Fantasy XII"
+    "db:Historia Reiss:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-20T21:01:00.086Z",
+  "updatedAt": "2026-10-21T02:35:34.159Z",
   "cached": {
     "character": {
-      "name": "Crusch Karsten",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Clorinde",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Crusch Karsten:Re:Zero",
-      "nextIndex": 85
+      "globalId": "db:Clorinde:Genshin Impact",
+      "nextIndex": 13
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 250412,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
-      "age": "20",
+      "source": "Genshin Impact",
+      "fanbase": 512279,
+      "vibe": "DEADLY",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
+      "bio": "Character",
+      "description": "Novel Debut: Volume 14",
+      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562209040354910248/waifu-cabbe95ce713429f4c7d1406.png?ex=6ad9280b&is=6ad7d68b&hm=13535c9a100bbf899fa246182b45570a6253c255a4a2e9976c46aa74567dee1c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562293236976853085/waifu-6422de0ae7c66a0e9f3a82dc.png?ex=6ad97675&is=6ad824f5&hm=a40c587496a6076aefd82dc6515a0caf76377b37fd81b2422bd9605279540fde&"
   }
 }
