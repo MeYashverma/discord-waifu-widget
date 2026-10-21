@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Popola:NieR Automata",
-  "lastName": "Popola",
-  "index": 222,
+  "lastId": "db:Jingliu:Honkai Star Rail",
+  "lastName": "Jingliu",
+  "index": 26,
   "recent": [
+    "db:Jingliu:Honkai Star Rail",
     "db:Popola:NieR Automata",
     "db:Modernia:Nikke",
     "db:Clorinde:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Karin Kakudate:Blue Archive",
     "db:Vinsmoke Reiju:One Piece",
     "db:Shenhe:Genshin Impact",
-    "db:Mirajane Strauss:Fairy Tail",
-    "db:Eula:Genshin Impact"
+    "db:Mirajane Strauss:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-21T16:19:55.698Z",
+  "updatedAt": "2026-10-21T21:02:45.825Z",
   "cached": {
     "character": {
-      "name": "Popola",
-      "source": "NieR Automata",
-      "universe": "JRPG",
+      "name": "Jingliu",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Popola:NieR Automata",
-      "nextIndex": 222
+      "globalId": "db:Jingliu:Honkai Star Rail",
+      "nextIndex": 26
     },
     "meta": {
-      "source": "NieR Automata",
-      "fanbase": 412124,
-      "vibe": "INTENSE",
+      "source": "Honkai Star Rail",
+      "fanbase": 480715,
+      "vibe": "SEDUCTIVE",
       "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Popola is the spunky and clever young daughter of a diamond miner and lives in …",
-      "image": "https://media.kitsu.app/characters/images/43047/original.jpg"
+      "description": "Jingle Is a wandering poet who travels with Herbert the Pig",
+      "image": "https://media.kitsu.app/characters/images/8048/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562500693938544644/waifu-9d906e906493e9c048bbfff9.png?ex=6ada37ab&is=6ad8e62b&hm=ad28d70c6628c576852d87940570bfdd7d96cd4a6da32cf989b0f65c9b46e122&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562571871885467690/waifu-3cd9fe0a0ab79c9900b20b5b.png?ex=6ada79f5&is=6ad92875&hm=d5f726030bd0f2fef055daa831380c12cbcf52192f37d71aa5f425890ffb8e87&"
   }
 }
