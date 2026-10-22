@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nicole Demara:Zenless Zone Zero",
-  "lastName": "Nicole Demara",
-  "index": 32,
+  "lastId": "db:Kokoro:Darling in the Franxx",
+  "lastName": "Kokoro",
+  "index": 145,
   "recent": [
+    "db:Kokoro:Darling in the Franxx",
     "db:Nicole Demara:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
     "db:Jingliu:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Futaba Sakura:Persona 5",
     "db:Marisa:Street Fighter 6",
     "db:Velvet Crowe:Tales of Berseria",
-    "db:Karin Kakudate:Blue Archive",
-    "db:Vinsmoke Reiju:One Piece"
+    "db:Karin Kakudate:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-22T10:52:41.365Z",
+  "updatedAt": "2026-10-22T16:18:53.525Z",
   "cached": {
     "character": {
-      "name": "Nicole Demara",
-      "source": "Zenless Zone Zero",
-      "universe": "GACHA",
+      "name": "Kokoro",
+      "source": "Darling in the Franxx",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nicole Demara:Zenless Zone Zero",
-      "nextIndex": 32
+      "globalId": "db:Kokoro:Darling in the Franxx",
+      "nextIndex": 145
     },
     "meta": {
-      "source": "Zenless Zone Zero",
-      "fanbase": 253453,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "source": "Darling in the Franxx",
+      "fanbase": 186044,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
+      "age": "14-15",
+      "blood": "O Rh+",
       "bio": "Character",
-      "description": "Partner of Cherish",
-      "image": "https://media.kitsu.app/characters/images/5219/original.jpg"
+      "description": "cm Pilots the Franxx Genista with",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562780727819378778/waifu-f45de1bde8cf1ac4743dacba.png?ex=6adb3c78&is=6ad9eaf8&hm=bcdeed64af92e1b427e6e40c6b26f971544c99188abd8dd1e147c3b0664a122f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562862821270626435/waifu-a3f3b136e26a6fcbc5b05395.png?ex=6adb88ed&is=6ada376d&hm=ccac5018a858e17e9a3c5496f50036907f5b305fcc596175e0b5dd50ad2dac20&"
   }
 }
