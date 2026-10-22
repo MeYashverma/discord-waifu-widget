@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Chun-Li:Street Fighter",
-  "lastName": "Chun-Li",
-  "index": 243,
+  "lastId": "db:Nicole Demara:Zenless Zone Zero",
+  "lastName": "Nicole Demara",
+  "index": 32,
   "recent": [
+    "db:Nicole Demara:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
     "db:Jingliu:Honkai Star Rail",
     "db:Popola:NieR Automata",
@@ -36,36 +37,35 @@
     "db:Marisa:Street Fighter 6",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Karin Kakudate:Blue Archive",
-    "db:Vinsmoke Reiju:One Piece",
-    "db:Shenhe:Genshin Impact"
+    "db:Vinsmoke Reiju:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-22T02:40:07.603Z",
+  "updatedAt": "2026-10-22T10:52:41.365Z",
   "cached": {
     "character": {
-      "name": "Chun-Li",
-      "source": "Street Fighter",
-      "universe": "GAME",
+      "name": "Nicole Demara",
+      "source": "Zenless Zone Zero",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Chun-Li:Street Fighter",
-      "nextIndex": 243
+      "globalId": "db:Nicole Demara:Zenless Zone Zero",
+      "nextIndex": 32
     },
     "meta": {
-      "source": "Street Fighter",
-      "fanbase": 227393,
-      "vibe": "CHAOTIC",
+      "source": "Zenless Zone Zero",
+      "fanbase": 253453,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Chun-Li is a video game character created by Capcom",
-      "image": "https://media.kitsu.app/characters/images/11121/original.jpg"
+      "description": "Partner of Cherish",
+      "image": "https://media.kitsu.app/characters/images/5219/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562656768751042640/waifu-b9eb842588b4ddd5ae203f6c.png?ex=6adac906&is=6ad97786&hm=9a4006dceef06ee390f5731cc5d786086f2220ea75854302c6131757d9f8f6a1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562780727819378778/waifu-f45de1bde8cf1ac4743dacba.png?ex=6adb3c78&is=6ad9eaf8&hm=bcdeed64af92e1b427e6e40c6b26f971544c99188abd8dd1e147c3b0664a122f&"
   }
 }
