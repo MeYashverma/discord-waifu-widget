@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kokoro:Darling in the Franxx",
-  "lastName": "Kokoro",
-  "index": 145,
+  "lastId": "db:Kaga:Azur Lane",
+  "lastName": "Kaga",
+  "index": 282,
   "recent": [
+    "db:Kaga:Azur Lane",
     "db:Kokoro:Darling in the Franxx",
     "db:Nicole Demara:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
@@ -36,36 +37,35 @@
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Futaba Sakura:Persona 5",
     "db:Marisa:Street Fighter 6",
-    "db:Velvet Crowe:Tales of Berseria",
-    "db:Karin Kakudate:Blue Archive"
+    "db:Velvet Crowe:Tales of Berseria"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-22T16:18:53.525Z",
+  "updatedAt": "2026-10-22T20:59:22.400Z",
   "cached": {
     "character": {
-      "name": "Kokoro",
-      "source": "Darling in the Franxx",
-      "universe": "ANIME",
+      "name": "Kaga",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kokoro:Darling in the Franxx",
-      "nextIndex": 145
+      "globalId": "db:Kaga:Azur Lane",
+      "nextIndex": 282
     },
     "meta": {
-      "source": "Darling in the Franxx",
-      "fanbase": 186044,
-      "vibe": "WHOLESOME",
+      "source": "Azur Lane",
+      "fanbase": 200961,
+      "vibe": "PLAYFUL",
       "rating": "POPULAR",
-      "age": "14-15",
-      "blood": "O Rh+",
+      "age": "18-19",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Pilots the Franxx Genista with",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
+      "description": "She had a perfect future planned with as her husband, and nothing will get in h…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43669-D3Hw9vLHCVad.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562862821270626435/waifu-a3f3b136e26a6fcbc5b05395.png?ex=6adb88ed&is=6ada376d&hm=ccac5018a858e17e9a3c5496f50036907f5b305fcc596175e0b5dd50ad2dac20&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562933406055137391/waifu-9281e4de27f5a3a44f44eb95.png?ex=6adbcaa9&is=6ada7929&hm=a9cd466ab4ae5c8086474aa9c76cc5c07d4da23a4706bdb97575e56e48f1b5f4&"
   }
 }
