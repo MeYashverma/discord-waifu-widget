@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jingliu:Honkai Star Rail",
-  "lastName": "Jingliu",
-  "index": 26,
+  "lastId": "db:Chun-Li:Street Fighter",
+  "lastName": "Chun-Li",
+  "index": 243,
   "recent": [
+    "db:Chun-Li:Street Fighter",
     "db:Jingliu:Honkai Star Rail",
     "db:Popola:NieR Automata",
     "db:Modernia:Nikke",
@@ -36,36 +37,35 @@
     "db:Velvet Crowe:Tales of Berseria",
     "db:Karin Kakudate:Blue Archive",
     "db:Vinsmoke Reiju:One Piece",
-    "db:Shenhe:Genshin Impact",
-    "db:Mirajane Strauss:Fairy Tail"
+    "db:Shenhe:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-21T21:02:45.825Z",
+  "updatedAt": "2026-10-22T02:40:07.603Z",
   "cached": {
     "character": {
-      "name": "Jingliu",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Chun-Li",
+      "source": "Street Fighter",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jingliu:Honkai Star Rail",
-      "nextIndex": 26
+      "globalId": "db:Chun-Li:Street Fighter",
+      "nextIndex": 243
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 480715,
-      "vibe": "SEDUCTIVE",
-      "rating": "ELITE",
+      "source": "Street Fighter",
+      "fanbase": 227393,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Jingle Is a wandering poet who travels with Herbert the Pig",
-      "image": "https://media.kitsu.app/characters/images/8048/original.jpg"
+      "description": "Chun-Li is a video game character created by Capcom",
+      "image": "https://media.kitsu.app/characters/images/11121/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562571871885467690/waifu-3cd9fe0a0ab79c9900b20b5b.png?ex=6ada79f5&is=6ad92875&hm=d5f726030bd0f2fef055daa831380c12cbcf52192f37d71aa5f425890ffb8e87&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562656768751042640/waifu-b9eb842588b4ddd5ae203f6c.png?ex=6adac906&is=6ad97786&hm=9a4006dceef06ee390f5731cc5d786086f2220ea75854302c6131757d9f8f6a1&"
   }
 }
