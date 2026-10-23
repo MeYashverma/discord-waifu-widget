@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kaga:Azur Lane",
-  "lastName": "Kaga",
-  "index": 282,
+  "lastId": "db:Karenina:Punishing Gray Raven",
+  "lastName": "Karenina",
+  "index": 292,
   "recent": [
+    "db:Karenina:Punishing Gray Raven",
     "db:Kaga:Azur Lane",
     "db:Kokoro:Darling in the Franxx",
     "db:Nicole Demara:Zenless Zone Zero",
@@ -36,15 +37,14 @@
     "db:Wakamo:Blue Archive",
     "db:Yuki Tsukumo:Jujutsu Kaisen",
     "db:Futaba Sakura:Persona 5",
-    "db:Marisa:Street Fighter 6",
-    "db:Velvet Crowe:Tales of Berseria"
+    "db:Marisa:Street Fighter 6"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-22T20:59:22.400Z",
+  "updatedAt": "2026-10-23T02:37:22.220Z",
   "cached": {
     "character": {
-      "name": "Kaga",
-      "source": "Azur Lane",
+      "name": "Karenina",
+      "source": "Punishing Gray Raven",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kaga:Azur Lane",
-      "nextIndex": 282
+      "globalId": "db:Karenina:Punishing Gray Raven",
+      "nextIndex": 292
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 200961,
-      "vibe": "PLAYFUL",
+      "source": "Punishing Gray Raven",
+      "fanbase": 212146,
+      "vibe": "WHOLESOME",
       "rating": "POPULAR",
-      "age": "18-19",
-      "blood": "Unknown",
+      "age": "16",
+      "blood": "B",
       "bio": "Character",
-      "description": "She had a perfect future planned with as her husband, and nothing will get in h…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43669-D3Hw9vLHCVad.png"
+      "description": "Fox-like Time Shifter who can make shadow clones of anyone",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278323-UThZPW2Auhd2.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1562933406055137391/waifu-9281e4de27f5a3a44f44eb95.png?ex=6adbcaa9&is=6ada7929&hm=a9cd466ab4ae5c8086474aa9c76cc5c07d4da23a4706bdb97575e56e48f1b5f4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563018466276016139/waifu-0fc8a054b9ed0cb3787587e0.png?ex=6adc19e1&is=6adac861&hm=c1bb7d197b23f372fef9aa7d879a060ced3a3001774f8f853a48df5adf12c22d&"
   }
 }
