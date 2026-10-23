@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Tatsumaki:One Punch Man",
-  "lastName": "Tatsumaki",
-  "index": 297,
+  "lastId": "db:Shorekeeper:Wuthering Waves",
+  "lastName": "Shorekeeper",
+  "index": 39,
   "recent": [
+    "db:Shorekeeper:Wuthering Waves",
     "db:Tatsumaki:One Punch Man",
     "db:Konan:Naruto",
     "db:Karenina:Punishing Gray Raven",
@@ -36,36 +37,35 @@
     "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Sanhua:Wuthering Waves",
     "db:Xenovia Quarta:High School DxD",
-    "db:Wakamo:Blue Archive",
-    "db:Yuki Tsukumo:Jujutsu Kaisen"
+    "db:Wakamo:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-23T16:08:45.862Z",
+  "updatedAt": "2026-10-23T20:48:58.141Z",
   "cached": {
     "character": {
-      "name": "Tatsumaki",
-      "source": "One Punch Man",
-      "universe": "ANIME",
+      "name": "Shorekeeper",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Tatsumaki:One Punch Man",
-      "nextIndex": 297
+      "globalId": "db:Shorekeeper:Wuthering Waves",
+      "nextIndex": 39
     },
     "meta": {
-      "source": "One Punch Man",
-      "fanbase": 214102,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
-      "age": "28",
+      "source": "Wuthering Waves",
+      "fanbase": 269537,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Race: Human Abilities: Psychokinesis Occupation: Superhero Level: S-Class; Rank…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+      "description": "The shopkeeper of crystals",
+      "image": "https://media.kitsu.app/characters/images/70242/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563222660119273634/waifu-cf9249a9bab7baea20710df9.png?ex=6adcd80d&is=6adb868d&hm=d827813b27ee37973ecd6dfb02337d296c1ef70158aef9a3622a573f4a0d1d52&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563293175932784710/waifu-765361dc963adaeb58479979.png?ex=6add19b9&is=6adbc839&hm=144824182cf76d4434fef6145587c48cbf7541acb59e270c23a946dc65c1e473&"
   }
 }
