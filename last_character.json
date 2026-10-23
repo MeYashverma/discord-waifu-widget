@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Konan:Naruto",
-  "lastName": "Konan",
-  "index": 177,
+  "lastId": "db:Tatsumaki:One Punch Man",
+  "lastName": "Tatsumaki",
+  "index": 297,
   "recent": [
+    "db:Tatsumaki:One Punch Man",
     "db:Konan:Naruto",
     "db:Karenina:Punishing Gray Raven",
     "db:Kaga:Azur Lane",
@@ -36,15 +37,14 @@
     "db:Sanhua:Wuthering Waves",
     "db:Xenovia Quarta:High School DxD",
     "db:Wakamo:Blue Archive",
-    "db:Yuki Tsukumo:Jujutsu Kaisen",
-    "db:Futaba Sakura:Persona 5"
+    "db:Yuki Tsukumo:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-23T10:43:47.209Z",
+  "updatedAt": "2026-10-23T16:08:45.862Z",
   "cached": {
     "character": {
-      "name": "Konan",
-      "source": "Naruto",
+      "name": "Tatsumaki",
+      "source": "One Punch Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Konan:Naruto",
-      "nextIndex": 177
+      "globalId": "db:Tatsumaki:One Punch Man",
+      "nextIndex": 297
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 531167,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "35",
-      "blood": "O",
+      "source": "One Punch Man",
+      "fanbase": 214102,
+      "vibe": "WHOLESOME",
+      "rating": "POPULAR",
+      "age": "28",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "Konan is the partner of the Akatsuki leader, , and the only female ninja in Aka…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/3179-YVD5zJSYrnPg.jpg"
+      "description": "Race: Human Abilities: Psychokinesis Occupation: Superhero Level: S-Class; Rank…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563140876736270456/waifu-738df9083fa04a36b986fbee.png?ex=6adc8be2&is=6adb3a62&hm=c60a8758303b4eb4c28e8a799cdefbb67a26fb0c6933e7d51f26f88b6ed14c83&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563222660119273634/waifu-cf9249a9bab7baea20710df9.png?ex=6adcd80d&is=6adb868d&hm=d827813b27ee37973ecd6dfb02337d296c1ef70158aef9a3622a573f4a0d1d52&"
   }
 }
