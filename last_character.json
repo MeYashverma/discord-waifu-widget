@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shalltear Bloodfallen:Overlord",
-  "lastName": "Shalltear Bloodfallen",
-  "index": 198,
+  "lastId": "db:New Jersey:Azur Lane",
+  "lastName": "New Jersey",
+  "index": 279,
   "recent": [
+    "db:New Jersey:Azur Lane",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Shorekeeper:Wuthering Waves",
     "db:Tatsumaki:One Punch Man",
@@ -36,36 +37,35 @@
     "db:Sakura Haruno:Naruto",
     "db:Anna Williams:Tekken",
     "db:Winry Rockbell:Fullmetal Alchemist",
-    "db:Sanhua:Wuthering Waves",
-    "db:Xenovia Quarta:High School DxD"
+    "db:Sanhua:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-24T02:35:31.330Z",
+  "updatedAt": "2026-10-24T10:00:07.250Z",
   "cached": {
     "character": {
-      "name": "Shalltear Bloodfallen",
-      "source": "Overlord",
-      "universe": "ANIME",
+      "name": "New Jersey",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shalltear Bloodfallen:Overlord",
-      "nextIndex": 198
+      "globalId": "db:New Jersey:Azur Lane",
+      "nextIndex": 279
     },
     "meta": {
-      "source": "Overlord",
-      "fanbase": 218838,
-      "vibe": "CONFIDENT",
-      "rating": "POPULAR",
+      "source": "Azur Lane",
+      "fanbase": 223439,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+      "bio": "Captain",
+      "description": "Faction: Eagle Union Class: Iowa Iowa-class battleship New Jersey, the indomita…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244476-ki04wZ39VU85.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563380388892512307/waifu-0016b31d14801cbd5d24151b.png?ex=6add6af2&is=6adc1972&hm=242ae528861da1ac06b16847c3e0d50717ec8195d8e8a661c03671dc9a4c6eb2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563492276204740608/waifu-2dcaabd54ae53f2a953eeb77.png?ex=6addd326&is=6adc81a6&hm=57f35eb9f377dabe49189aa5f5910a97a441f583960d913aeebf895293af9d18&"
   }
 }
