@@ -1,8 +1,9 @@
 {
-  "lastId": "db:New Jersey:Azur Lane",
-  "lastName": "New Jersey",
-  "index": 279,
+  "lastId": "db:Aigis:Persona 3",
+  "lastName": "Aigis",
+  "index": 271,
   "recent": [
+    "db:Aigis:Persona 3",
     "db:New Jersey:Azur Lane",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Shorekeeper:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Sakura Haruno:Naruto",
     "db:Anna Williams:Tekken",
-    "db:Winry Rockbell:Fullmetal Alchemist",
-    "db:Sanhua:Wuthering Waves"
+    "db:Winry Rockbell:Fullmetal Alchemist"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-24T10:00:07.250Z",
+  "updatedAt": "2026-10-24T15:05:04.103Z",
   "cached": {
     "character": {
-      "name": "New Jersey",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Aigis",
+      "source": "Persona 3",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:New Jersey:Azur Lane",
-      "nextIndex": 279
+      "globalId": "db:Aigis:Persona 3",
+      "nextIndex": 271
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 223439,
-      "vibe": "SEDUCTIVE",
+      "source": "Persona 3",
+      "fanbase": 254915,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "8-9 (P3), 9 (TA), 11 (P4A)",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Faction: Eagle Union Class: Iowa Iowa-class battleship New Jersey, the indomita…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244476-ki04wZ39VU85.png"
+      "bio": "Android",
+      "description": "cm Initial Persona: Palladion Ultimate Persona: Pallas Athena Aegis is an andro…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6207-NXtbN975KoQh.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563492276204740608/waifu-2dcaabd54ae53f2a953eeb77.png?ex=6addd326&is=6adc81a6&hm=57f35eb9f377dabe49189aa5f5910a97a441f583960d913aeebf895293af9d18&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563569018567131196/waifu-a95a96f8c7e293c7ff22611e.png?ex=6ade1a9f&is=6adcc91f&hm=49449a8996ecb580fc0477442bd89a9078b223fa48eb440e924a5cce829d0902&"
   }
 }
