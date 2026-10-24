@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shorekeeper:Wuthering Waves",
-  "lastName": "Shorekeeper",
-  "index": 39,
+  "lastId": "db:Shalltear Bloodfallen:Overlord",
+  "lastName": "Shalltear Bloodfallen",
+  "index": 198,
   "recent": [
+    "db:Shalltear Bloodfallen:Overlord",
     "db:Shorekeeper:Wuthering Waves",
     "db:Tatsumaki:One Punch Man",
     "db:Konan:Naruto",
@@ -36,36 +37,35 @@
     "db:Anna Williams:Tekken",
     "db:Winry Rockbell:Fullmetal Alchemist",
     "db:Sanhua:Wuthering Waves",
-    "db:Xenovia Quarta:High School DxD",
-    "db:Wakamo:Blue Archive"
+    "db:Xenovia Quarta:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-23T20:48:58.141Z",
+  "updatedAt": "2026-10-24T02:35:31.330Z",
   "cached": {
     "character": {
-      "name": "Shorekeeper",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Shalltear Bloodfallen",
+      "source": "Overlord",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shorekeeper:Wuthering Waves",
-      "nextIndex": 39
+      "globalId": "db:Shalltear Bloodfallen:Overlord",
+      "nextIndex": 198
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 269537,
-      "vibe": "DEADLY",
-      "rating": "ICONIC",
+      "source": "Overlord",
+      "fanbase": 218838,
+      "vibe": "CONFIDENT",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "The shopkeeper of crystals",
-      "image": "https://media.kitsu.app/characters/images/70242/original.jpg"
+      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the fo…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563293175932784710/waifu-765361dc963adaeb58479979.png?ex=6add19b9&is=6adbc839&hm=144824182cf76d4434fef6145587c48cbf7541acb59e270c23a946dc65c1e473&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563380388892512307/waifu-0016b31d14801cbd5d24151b.png?ex=6add6af2&is=6adc1972&hm=242ae528861da1ac06b16847c3e0d50717ec8195d8e8a661c03671dc9a4c6eb2&"
   }
 }
