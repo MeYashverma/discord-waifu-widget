@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Aigis:Persona 3",
-  "lastName": "Aigis",
-  "index": 271,
+  "lastId": "db:Lucy:Cyberpunk Edgerunners",
+  "lastName": "Lucy",
+  "index": 254,
   "recent": [
+    "db:Lucy:Cyberpunk Edgerunners",
     "db:Aigis:Persona 3",
     "db:New Jersey:Azur Lane",
     "db:Shalltear Bloodfallen:Overlord",
@@ -36,36 +37,35 @@
     "db:Enterprise:Azur Lane",
     "db:Ellen Joe:Zenless Zone Zero",
     "db:Sakura Haruno:Naruto",
-    "db:Anna Williams:Tekken",
-    "db:Winry Rockbell:Fullmetal Alchemist"
+    "db:Anna Williams:Tekken"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-24T15:05:04.103Z",
+  "updatedAt": "2026-10-24T19:59:06.572Z",
   "cached": {
     "character": {
-      "name": "Aigis",
-      "source": "Persona 3",
-      "universe": "JRPG",
+      "name": "Lucy",
+      "source": "Cyberpunk Edgerunners",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aigis:Persona 3",
-      "nextIndex": 271
+      "globalId": "db:Lucy:Cyberpunk Edgerunners",
+      "nextIndex": 254
     },
     "meta": {
-      "source": "Persona 3",
-      "fanbase": 254915,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
-      "age": "8-9 (P3), 9 (TA), 11 (P4A)",
+      "source": "Cyberpunk Edgerunners",
+      "fanbase": 217233,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "cm Initial Persona: Palladion Ultimate Persona: Pallas Athena Aegis is an andro…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6207-NXtbN975KoQh.jpg"
+      "bio": "Netrunner",
+      "description": "Moon-dreaming netrunner",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563569018567131196/waifu-a95a96f8c7e293c7ff22611e.png?ex=6ade1a9f&is=6adcc91f&hm=49449a8996ecb580fc0477442bd89a9078b223fa48eb440e924a5cce829d0902&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563643016403492875/waifu-1462c1e799f9fc87b7a5c8cf.png?ex=6ade5f8a&is=6add0e0a&hm=08dc5fa9e91e1b8b202642b9476e347e5e73c4a513fef83b4cda770de74a5eb4&"
   }
 }
