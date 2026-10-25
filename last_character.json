@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Morrigan Aensland:Darkstalkers",
-  "lastName": "Morrigan Aensland",
-  "index": 263,
+  "lastId": "db:Orihime Inoue:Bleach",
+  "lastName": "Orihime Inoue",
+  "index": 182,
   "recent": [
+    "db:Orihime Inoue:Bleach",
     "db:Morrigan Aensland:Darkstalkers",
     "db:Lucy:Cyberpunk Edgerunners",
     "db:Aigis:Persona 3",
@@ -36,36 +37,35 @@
     "db:Lulu:Final Fantasy X",
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Enterprise:Azur Lane",
-    "db:Ellen Joe:Zenless Zone Zero",
-    "db:Sakura Haruno:Naruto"
+    "db:Ellen Joe:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-25T02:23:43.216Z",
+  "updatedAt": "2026-10-25T10:25:20.017Z",
   "cached": {
     "character": {
-      "name": "Morrigan Aensland",
-      "source": "Darkstalkers",
-      "universe": "GAME",
+      "name": "Orihime Inoue",
+      "source": "Bleach",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Morrigan Aensland:Darkstalkers",
-      "nextIndex": 263
+      "globalId": "db:Orihime Inoue:Bleach",
+      "nextIndex": 182
     },
     "meta": {
-      "source": "Darkstalkers",
-      "fanbase": 227153,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "The Japanese-produced Night Warriors: Darkstalker's Revenge anime featured Morr…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9963-7ASB7IiUqiuh.png"
+      "source": "Bleach",
+      "fanbase": 491057,
+      "vibe": "CHAOTIC",
+      "rating": "ELITE",
+      "age": "15-29",
+      "blood": "B",
+      "bio": "Character",
+      "description": "cm Orihime Inoue is a teenage girl who lives by herself in Karakura Town, being…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7-JdR4betokDjR.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563739805848965160/waifu-740d050716324d7351a3cf80.png?ex=6adeb9ae&is=6add682e&hm=551a75f7c791d301abf54888f945bea0f850f6b29a57cbf587c49a85f90d47ca&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563861008735272990/waifu-ac186d0169459438a7d9875b.png?ex=6adf2a8f&is=6addd90f&hm=5a83547ffdd9ce59ccd9ec3bab200fcd3a31507637607cdc06494ce5306f0606&"
   }
 }
