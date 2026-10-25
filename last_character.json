@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Orihime Inoue:Bleach",
-  "lastName": "Orihime Inoue",
-  "index": 182,
+  "lastId": "db:Bulma:Dragon Ball",
+  "lastName": "Bulma",
+  "index": 299,
   "recent": [
+    "db:Bulma:Dragon Ball",
     "db:Orihime Inoue:Bleach",
     "db:Morrigan Aensland:Darkstalkers",
     "db:Lucy:Cyberpunk Edgerunners",
@@ -36,15 +37,14 @@
     "db:Rebecca Chambers:Resident Evil",
     "db:Lulu:Final Fantasy X",
     "db:Momo Nishimiya:Jujutsu Kaisen",
-    "db:Enterprise:Azur Lane",
-    "db:Ellen Joe:Zenless Zone Zero"
+    "db:Enterprise:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-25T10:25:20.017Z",
+  "updatedAt": "2026-10-25T15:17:18.117Z",
   "cached": {
     "character": {
-      "name": "Orihime Inoue",
-      "source": "Bleach",
+      "name": "Bulma",
+      "source": "Dragon Ball",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Orihime Inoue:Bleach",
-      "nextIndex": 182
+      "globalId": "db:Bulma:Dragon Ball",
+      "nextIndex": 299
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 491057,
-      "vibe": "CHAOTIC",
-      "rating": "ELITE",
-      "age": "15-29",
-      "blood": "B",
+      "source": "Dragon Ball",
+      "fanbase": 240916,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Orihime Inoue is a teenage girl who lives by herself in Karakura Town, being…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7-JdR4betokDjR.jpg"
+      "description": "Birth Year: 733 Age cm Race: Earthling Bulma is originally a secondary main cha…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563861008735272990/waifu-ac186d0169459438a7d9875b.png?ex=6adf2a8f&is=6addd90f&hm=5a83547ffdd9ce59ccd9ec3bab200fcd3a31507637607cdc06494ce5306f0606&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563934485211517018/waifu-39e9d754bba761d35f9f281b.png?ex=6adf6efd&is=6ade1d7d&hm=65f30db1c965a26092cedc270e846eccb000d44574be25db5936313e3e969475&"
   }
 }
