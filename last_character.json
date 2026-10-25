@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lucy:Cyberpunk Edgerunners",
-  "lastName": "Lucy",
-  "index": 254,
+  "lastId": "db:Morrigan Aensland:Darkstalkers",
+  "lastName": "Morrigan Aensland",
+  "index": 263,
   "recent": [
+    "db:Morrigan Aensland:Darkstalkers",
     "db:Lucy:Cyberpunk Edgerunners",
     "db:Aigis:Persona 3",
     "db:New Jersey:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Momo Nishimiya:Jujutsu Kaisen",
     "db:Enterprise:Azur Lane",
     "db:Ellen Joe:Zenless Zone Zero",
-    "db:Sakura Haruno:Naruto",
-    "db:Anna Williams:Tekken"
+    "db:Sakura Haruno:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-24T19:59:06.572Z",
+  "updatedAt": "2026-10-25T02:23:43.216Z",
   "cached": {
     "character": {
-      "name": "Lucy",
-      "source": "Cyberpunk Edgerunners",
-      "universe": "ANIME",
+      "name": "Morrigan Aensland",
+      "source": "Darkstalkers",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lucy:Cyberpunk Edgerunners",
-      "nextIndex": 254
+      "globalId": "db:Morrigan Aensland:Darkstalkers",
+      "nextIndex": 263
     },
     "meta": {
-      "source": "Cyberpunk Edgerunners",
-      "fanbase": 217233,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
+      "source": "Darkstalkers",
+      "fanbase": 227153,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Netrunner",
-      "description": "Moon-dreaming netrunner",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+      "bio": "Royalty",
+      "description": "The Japanese-produced Night Warriors: Darkstalker's Revenge anime featured Morr…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9963-7ASB7IiUqiuh.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563643016403492875/waifu-1462c1e799f9fc87b7a5c8cf.png?ex=6ade5f8a&is=6add0e0a&hm=08dc5fa9e91e1b8b202642b9476e347e5e73c4a513fef83b4cda770de74a5eb4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563739805848965160/waifu-740d050716324d7351a3cf80.png?ex=6adeb9ae&is=6add682e&hm=551a75f7c791d301abf54888f945bea0f850f6b29a57cbf587c49a85f90d47ca&"
   }
 }
