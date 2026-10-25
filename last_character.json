@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bulma:Dragon Ball",
-  "lastName": "Bulma",
-  "index": 299,
+  "lastId": "db:Kai'Sa:League of Legends",
+  "lastName": "Kai'Sa",
+  "index": 239,
   "recent": [
+    "db:Kai'Sa:League of Legends",
     "db:Bulma:Dragon Ball",
     "db:Orihime Inoue:Bleach",
     "db:Morrigan Aensland:Darkstalkers",
@@ -36,36 +37,35 @@
     "db:Shinobu Kocho:Demon Slayer",
     "db:Rebecca Chambers:Resident Evil",
     "db:Lulu:Final Fantasy X",
-    "db:Momo Nishimiya:Jujutsu Kaisen",
-    "db:Enterprise:Azur Lane"
+    "db:Momo Nishimiya:Jujutsu Kaisen"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-25T15:17:18.117Z",
+  "updatedAt": "2026-10-25T20:09:39.958Z",
   "cached": {
     "character": {
-      "name": "Bulma",
-      "source": "Dragon Ball",
-      "universe": "ANIME",
+      "name": "Kai'Sa",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bulma:Dragon Ball",
-      "nextIndex": 299
+      "globalId": "db:Kai'Sa:League of Legends",
+      "nextIndex": 239
     },
     "meta": {
-      "source": "Dragon Ball",
-      "fanbase": 240916,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
+      "source": "League of Legends",
+      "fanbase": 180399,
+      "vibe": "CHAOTIC",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Birth Year: 733 Age cm Race: Earthling Bulma is originally a secondary main cha…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg"
+      "bio": "Student",
+      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
+      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1563934485211517018/waifu-39e9d754bba761d35f9f281b.png?ex=6adf6efd&is=6ade1d7d&hm=65f30db1c965a26092cedc270e846eccb000d44574be25db5936313e3e969475&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564008060978995341/waifu-56af0a92d4b1922188a77f6f.png?ex=6adfb383&is=6ade6203&hm=fca36f29aa3f09aeb10b79845ab23f9622b0e9871fd7575a753be3196722790a&"
   }
 }
