@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Echidna:Re:Zero",
-  "lastName": "Echidna",
-  "index": 84,
+  "lastId": "db:Verina:Wuthering Waves",
+  "lastName": "Verina",
+  "index": 40,
   "recent": [
+    "db:Verina:Wuthering Waves",
     "db:Echidna:Re:Zero",
     "db:Kafka:Honkai Star Rail",
     "db:Princess Zelda:The Legend of Zelda",
@@ -36,36 +37,35 @@
     "db:Jill Valentine:Resident Evil",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Brandish μ:Fairy Tail",
-    "db:Levy McGarden:Fairy Tail",
-    "db:Shinobu Kocho:Demon Slayer"
+    "db:Levy McGarden:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-26T17:57:09.483Z",
+  "updatedAt": "2026-10-26T22:14:49.398Z",
   "cached": {
     "character": {
-      "name": "Echidna",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Verina",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Echidna:Re:Zero",
-      "nextIndex": 84
+      "globalId": "db:Verina:Wuthering Waves",
+      "nextIndex": 40
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 235410,
-      "vibe": "INTENSE",
+      "source": "Wuthering Waves",
+      "fanbase": 233801,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Witch",
-      "description": "Echidna is one of the Witches of Sin, being the Witch of Greed",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
+      "bio": "Character",
+      "description": "No biography written",
+      "image": "https://media.kitsu.app/characters/images/5529/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564337102059995296/waifu-65d2c4edacc381c1bb2e4367.png?ex=6ae0e5f5&is=6adf9475&hm=4bc2e2a5b52386020134d078e1a9e469045c5dd9c242187a31934f9639abc094&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564401944670380103/waifu-73ffc040bedb84f812daa716.png?ex=6ae12258&is=6adfd0d8&hm=3c7934fc287b5a2adb16237695579a59f3822e0b1883ecc492e0e1e8e50e6f72&"
   }
 }
