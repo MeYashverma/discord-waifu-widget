@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kai'Sa:League of Legends",
-  "lastName": "Kai'Sa",
-  "index": 239,
+  "lastId": "db:Princess Zelda:The Legend of Zelda",
+  "lastName": "Princess Zelda",
+  "index": 265,
   "recent": [
+    "db:Princess Zelda:The Legend of Zelda",
     "db:Kai'Sa:League of Legends",
     "db:Bulma:Dragon Ball",
     "db:Orihime Inoue:Bleach",
@@ -36,15 +37,14 @@
     "db:Levy McGarden:Fairy Tail",
     "db:Shinobu Kocho:Demon Slayer",
     "db:Rebecca Chambers:Resident Evil",
-    "db:Lulu:Final Fantasy X",
-    "db:Momo Nishimiya:Jujutsu Kaisen"
+    "db:Lulu:Final Fantasy X"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-25T20:09:39.958Z",
+  "updatedAt": "2026-10-26T02:23:20.331Z",
   "cached": {
     "character": {
-      "name": "Kai'Sa",
-      "source": "League of Legends",
+      "name": "Princess Zelda",
+      "source": "The Legend of Zelda",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kai'Sa:League of Legends",
-      "nextIndex": 239
+      "globalId": "db:Princess Zelda:The Legend of Zelda",
+      "nextIndex": 265
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 180399,
-      "vibe": "CHAOTIC",
-      "rating": "POPULAR",
+      "source": "The Legend of Zelda",
+      "fanbase": 241705,
+      "vibe": "ROYAL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
-      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
+      "bio": "Captain",
+      "description": "Zelda/Zeruda is Claymore No",
+      "image": "https://media.kitsu.app/characters/images/43274/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564008060978995341/waifu-56af0a92d4b1922188a77f6f.png?ex=6adfb383&is=6ade6203&hm=fca36f29aa3f09aeb10b79845ab23f9622b0e9871fd7575a753be3196722790a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564102098382229674/waifu-4573567935cb9a45d41ff6ab.png?ex=6ae00b17&is=6adeb997&hm=0f5f607052137b8c4570c027ccc395207d7cb5b87ed11802b97363def88e722f&"
   }
 }
