@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kafka:Honkai Star Rail",
-  "lastName": "Kafka",
-  "index": 21,
+  "lastId": "db:Echidna:Re:Zero",
+  "lastName": "Echidna",
+  "index": 84,
   "recent": [
+    "db:Echidna:Re:Zero",
     "db:Kafka:Honkai Star Rail",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Kai'Sa:League of Legends",
@@ -36,36 +37,35 @@
     "db:Matoi Ryuko:Kill la Kill",
     "db:Brandish μ:Fairy Tail",
     "db:Levy McGarden:Fairy Tail",
-    "db:Shinobu Kocho:Demon Slayer",
-    "db:Rebecca Chambers:Resident Evil"
+    "db:Shinobu Kocho:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-26T11:54:26.337Z",
+  "updatedAt": "2026-10-26T17:57:09.483Z",
   "cached": {
     "character": {
-      "name": "Kafka",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Echidna",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kafka:Honkai Star Rail",
-      "nextIndex": 21
+      "globalId": "db:Echidna:Re:Zero",
+      "nextIndex": 84
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 470737,
-      "vibe": "ROYAL",
-      "rating": "ELITE",
+      "source": "Re:Zero",
+      "fanbase": 235410,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Stellaron Hunter",
-      "description": "Mysterious Stellaron Hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png"
+      "bio": "Witch",
+      "description": "Echidna is one of the Witches of Sin, being the Witch of Greed",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564245820990034060/waifu-a6d00a34fc9af0978d5317f6.png?ex=6ae090f2&is=6adf3f72&hm=cc25535391a701a9e84c5b4712af13dc850a6f56aab6403c71adac3203307091&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564337102059995296/waifu-65d2c4edacc381c1bb2e4367.png?ex=6ae0e5f5&is=6adf9475&hm=4bc2e2a5b52386020134d078e1a9e469045c5dd9c242187a31934f9639abc094&"
   }
 }
