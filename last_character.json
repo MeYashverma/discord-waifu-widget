@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jeanne:Bayonetta",
-  "lastName": "Jeanne",
-  "index": 260,
+  "lastId": "db:Shenhe:Genshin Impact",
+  "lastName": "Shenhe",
+  "index": 3,
   "recent": [
+    "db:Shenhe:Genshin Impact",
     "db:Jeanne:Bayonetta",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Vinsmoke Reiju:One Piece",
@@ -36,36 +37,35 @@
     "db:Nilou:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
     "db:Najenda:Akame ga Kill!",
-    "db:Rosa:Bayonetta",
-    "db:Jill Valentine:Resident Evil"
+    "db:Rosa:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-27T17:03:19.139Z",
+  "updatedAt": "2026-10-27T21:36:59.243Z",
   "cached": {
     "character": {
-      "name": "Jeanne",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Shenhe",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jeanne:Bayonetta",
-      "nextIndex": 260
+      "globalId": "db:Shenhe:Genshin Impact",
+      "nextIndex": 3
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 231467,
-      "vibe": "CHAOTIC",
-      "rating": "ICONIC",
+      "source": "Genshin Impact",
+      "fanbase": 504624,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
+      "description": "An adepti disciple with a most unusual air about her",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564685938779754566/waifu-e6045378a725917caf1d2dab.png?ex=6ae22ad6&is=6ae0d956&hm=556df404d70ffbc99f9a2ae9b0af88e0b8c8e173829f889a25488bee37733ba4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564754811482808530/waifu-18f2972feb3f928906683dcf.png?ex=6ae26afa&is=6ae1197a&hm=83132a2d43ba16e8d7895088d77094d755537a704b00f2b4c0f3067924397738&"
   }
 }
