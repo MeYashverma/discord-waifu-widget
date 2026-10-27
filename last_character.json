@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Velvet Crowe:Tales of Berseria",
-  "lastName": "Velvet Crowe",
-  "index": 269,
+  "lastId": "db:Jeanne:Bayonetta",
+  "lastName": "Jeanne",
+  "index": 260,
   "recent": [
+    "db:Jeanne:Bayonetta",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Vinsmoke Reiju:One Piece",
     "db:Verina:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Yuuka Hayase:Blue Archive",
     "db:Najenda:Akame ga Kill!",
     "db:Rosa:Bayonetta",
-    "db:Jill Valentine:Resident Evil",
-    "db:Matoi Ryuko:Kill la Kill"
+    "db:Jill Valentine:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-27T11:17:17.290Z",
+  "updatedAt": "2026-10-27T17:03:19.139Z",
   "cached": {
     "character": {
-      "name": "Velvet Crowe",
-      "source": "Tales of Berseria",
-      "universe": "JRPG",
+      "name": "Jeanne",
+      "source": "Bayonetta",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Velvet Crowe:Tales of Berseria",
-      "nextIndex": 269
+      "globalId": "db:Jeanne:Bayonetta",
+      "nextIndex": 260
     },
     "meta": {
-      "source": "Tales of Berseria",
-      "fanbase": 210774,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "19",
+      "source": "Bayonetta",
+      "fanbase": 231467,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Velvet is a 19-year-old woman on a quest for vengeance",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121382-y5r3OoNZLHaZ.png"
+      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564598859328393316/waifu-d241df7c30e7eaf2bc0371b3.png?ex=6ae1d9bc&is=6ae0883c&hm=192d1c226ce360396ecb7e5d83e16870c97b4e1d5d487122ccac2ece4d198360&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564685938779754566/waifu-e6045378a725917caf1d2dab.png?ex=6ae22ad6&is=6ae0d956&hm=556df404d70ffbc99f9a2ae9b0af88e0b8c8e173829f889a25488bee37733ba4&"
   }
 }
