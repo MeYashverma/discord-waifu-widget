@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Verina:Wuthering Waves",
-  "lastName": "Verina",
-  "index": 40,
+  "lastId": "db:Vinsmoke Reiju:One Piece",
+  "lastName": "Vinsmoke Reiju",
+  "index": 168,
   "recent": [
+    "db:Vinsmoke Reiju:One Piece",
     "db:Verina:Wuthering Waves",
     "db:Echidna:Re:Zero",
     "db:Kafka:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Rosa:Bayonetta",
     "db:Jill Valentine:Resident Evil",
     "db:Matoi Ryuko:Kill la Kill",
-    "db:Brandish μ:Fairy Tail",
-    "db:Levy McGarden:Fairy Tail"
+    "db:Brandish μ:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-26T22:14:49.398Z",
+  "updatedAt": "2026-10-27T02:58:58.699Z",
   "cached": {
     "character": {
-      "name": "Verina",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Vinsmoke Reiju",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Verina:Wuthering Waves",
-      "nextIndex": 40
+      "globalId": "db:Vinsmoke Reiju:One Piece",
+      "nextIndex": 168
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 233801,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Character",
-      "description": "No biography written",
-      "image": "https://media.kitsu.app/characters/images/5529/original.jpg"
+      "source": "One Piece",
+      "fanbase": 568634,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "24",
+      "blood": "F",
+      "bio": "Royalty",
+      "description": "cm Vinsmoke Reiju also known as \"Poison Pink\", is the eldest child and only dau…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127891-FSRMoIQeDyV8.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564401944670380103/waifu-73ffc040bedb84f812daa716.png?ex=6ae12258&is=6adfd0d8&hm=3c7934fc287b5a2adb16237695579a59f3822e0b1883ecc492e0e1e8e50e6f72&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564473442432983080/waifu-1284dac3bd1d209ab0393de9.png?ex=6ae164ef&is=6ae0136f&hm=9c6ff2f4dcbd494e9178d822747a90cd8897413921dd1a92ab6781f5e6cfac5c&"
   }
 }
