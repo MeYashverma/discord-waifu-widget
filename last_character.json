@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shenhe:Genshin Impact",
-  "lastName": "Shenhe",
-  "index": 3,
+  "lastId": "db:Ravel Phenex:High School DxD",
+  "lastName": "Ravel Phenex",
+  "index": 96,
   "recent": [
+    "db:Ravel Phenex:High School DxD",
     "db:Shenhe:Genshin Impact",
     "db:Jeanne:Bayonetta",
     "db:Velvet Crowe:Tales of Berseria",
@@ -36,36 +37,35 @@
     "db:Darkness:Konosuba",
     "db:Nilou:Genshin Impact",
     "db:Yuuka Hayase:Blue Archive",
-    "db:Najenda:Akame ga Kill!",
-    "db:Rosa:Bayonetta"
+    "db:Najenda:Akame ga Kill!"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-27T21:36:59.243Z",
+  "updatedAt": "2026-10-28T03:08:52.948Z",
   "cached": {
     "character": {
-      "name": "Shenhe",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Ravel Phenex",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shenhe:Genshin Impact",
-      "nextIndex": 3
+      "globalId": "db:Ravel Phenex:High School DxD",
+      "nextIndex": 96
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 504624,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
+      "source": "High School DxD",
+      "fanbase": 229517,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "An adepti disciple with a most unusual air about her",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383394-RZQwibNj4EnN.jpg"
+      "description": "sister",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58341-TKto1nFGrA7r.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564754811482808530/waifu-18f2972feb3f928906683dcf.png?ex=6ae26afa&is=6ae1197a&hm=83132a2d43ba16e8d7895088d77094d755537a704b00f2b4c0f3067924397738&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1564838335254503515/waifu-5ede3d7fd87edff4b0107ea3.png?ex=6ae2b8c4&is=6ae16744&hm=b18515d7ebe9d05fabbb03516a068e82f4d4d5a53a1c466214e6f4b6cfb47ab7&"
   }
 }
