@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bronya:Honkai Star Rail",
-  "lastName": "Bronya",
-  "index": 28,
+  "lastId": "db:Mukuro Hoshimiya:Date A Live",
+  "lastName": "Mukuro Hoshimiya",
+  "index": 102,
   "recent": [
+    "db:Mukuro Hoshimiya:Date A Live",
     "db:Bronya:Honkai Star Rail",
     "db:Rias Gremory:High School DxD",
     "db:Keqing:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Popola:NieR Automata",
     "db:Modernia:Nikke",
     "db:Clorinde:Genshin Impact",
-    "db:Crusch Karsten:Re:Zero",
-    "db:Miss Fortune:League of Legends"
+    "db:Crusch Karsten:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-29T03:34:49.877Z",
+  "updatedAt": "2026-10-29T11:58:55.996Z",
   "cached": {
     "character": {
-      "name": "Bronya",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Mukuro Hoshimiya",
+      "source": "Date A Live",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bronya:Honkai Star Rail",
-      "nextIndex": 28
+      "globalId": "db:Mukuro Hoshimiya:Date A Live",
+      "nextIndex": 102
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 423520,
-      "vibe": "ELEGANT",
-      "rating": "ELITE",
-      "age": "14-",
+      "source": "Date A Live",
+      "fanbase": 225524,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
+      "bio": "Character",
+      "description": "cm Angel: Michael She is the tenth spirit to appear in the series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157109-Mmgdhq6XYCKT.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565207253559287888/waifu-89e0b2cd16b563ce39a7818e.png?ex=6ae41059&is=6ae2bed9&hm=d13e6a6ba9e820f47a57d1ee7a79ec5f748976da6ce56dfb35ff9c871c9ab8d9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565334115807531008/waifu-60cab5c1be62ac24464a36b8.png?ex=6ae4867f&is=6ae334ff&hm=984d61aed00bd4305f9b8ccca11d833a9c3f3e5d3dc4d078a83eea02266b6b2e&"
   }
 }
