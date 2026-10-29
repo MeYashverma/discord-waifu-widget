@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mukuro Hoshimiya:Date A Live",
-  "lastName": "Mukuro Hoshimiya",
-  "index": 102,
+  "lastId": "db:Skadi:Arknights",
+  "lastName": "Skadi",
+  "index": 285,
   "recent": [
+    "db:Skadi:Arknights",
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Bronya:Honkai Star Rail",
     "db:Rias Gremory:High School DxD",
@@ -36,36 +37,35 @@
     "db:Jingliu:Honkai Star Rail",
     "db:Popola:NieR Automata",
     "db:Modernia:Nikke",
-    "db:Clorinde:Genshin Impact",
-    "db:Crusch Karsten:Re:Zero"
+    "db:Clorinde:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-29T11:58:55.996Z",
+  "updatedAt": "2026-10-29T18:08:32.241Z",
   "cached": {
     "character": {
-      "name": "Mukuro Hoshimiya",
-      "source": "Date A Live",
-      "universe": "ANIME",
+      "name": "Skadi",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mukuro Hoshimiya:Date A Live",
-      "nextIndex": 102
+      "globalId": "db:Skadi:Arknights",
+      "nextIndex": 285
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 225524,
-      "vibe": "YANDERE",
+      "source": "Arknights",
+      "fanbase": 263472,
+      "vibe": "ELEGANT",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Angel: Michael She is the tenth spirit to appear in the series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157109-Mmgdhq6XYCKT.png"
+      "bio": "Mage",
+      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565334115807531008/waifu-60cab5c1be62ac24464a36b8.png?ex=6ae4867f&is=6ae334ff&hm=984d61aed00bd4305f9b8ccca11d833a9c3f3e5d3dc4d078a83eea02266b6b2e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565427129058070558/waifu-0457d2f9d23735099c470103.png?ex=6ae4dd1f&is=6ae38b9f&hm=53561dbd11a847712399bb0ab1694710147569b42318c956aeea36a1adf8db33&"
   }
 }
