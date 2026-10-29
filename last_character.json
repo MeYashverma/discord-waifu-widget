@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rias Gremory:High School DxD",
-  "lastName": "Rias Gremory",
-  "index": 89,
+  "lastId": "db:Bronya:Honkai Star Rail",
+  "lastName": "Bronya",
+  "index": 28,
   "recent": [
+    "db:Bronya:Honkai Star Rail",
     "db:Rias Gremory:High School DxD",
     "db:Keqing:Genshin Impact",
     "db:Karin Kakudate:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Modernia:Nikke",
     "db:Clorinde:Genshin Impact",
     "db:Crusch Karsten:Re:Zero",
-    "db:Miss Fortune:League of Legends",
-    "db:Darkness:Konosuba"
+    "db:Miss Fortune:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-28T22:00:53.850Z",
+  "updatedAt": "2026-10-29T03:34:49.877Z",
   "cached": {
     "character": {
-      "name": "Rias Gremory",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Bronya",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rias Gremory:High School DxD",
-      "nextIndex": 89
+      "globalId": "db:Bronya:Honkai Star Rail",
+      "nextIndex": 28
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 229879,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Honkai Star Rail",
+      "fanbase": 423520,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "14-",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Gremory clan heiress",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50389-gIhJkyk8xj1P.png"
+      "bio": "Student",
+      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565123216555507875/waifu-0ca8fdeffd2bdd609379dbd7.png?ex=6ae3c215&is=6ae27095&hm=62cda8869340df89bdb7586fef8a1804c7b1ff9e056ed152cafa1c7cd5890ff1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565207253559287888/waifu-89e0b2cd16b563ce39a7818e.png?ex=6ae41059&is=6ae2bed9&hm=d13e6a6ba9e820f47a57d1ee7a79ec5f748976da6ce56dfb35ff9c871c9ab8d9&"
   }
 }
