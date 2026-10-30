@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Skadi:Arknights",
-  "lastName": "Skadi",
-  "index": 285,
+  "lastId": "db:Selena:Punishing Gray Raven",
+  "lastName": "Selena",
+  "index": 294,
   "recent": [
+    "db:Selena:Punishing Gray Raven",
     "db:Skadi:Arknights",
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Bronya:Honkai Star Rail",
@@ -36,15 +37,14 @@
     "db:Chun-Li:Street Fighter",
     "db:Jingliu:Honkai Star Rail",
     "db:Popola:NieR Automata",
-    "db:Modernia:Nikke",
-    "db:Clorinde:Genshin Impact"
+    "db:Modernia:Nikke"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-29T18:08:32.241Z",
+  "updatedAt": "2026-10-30T03:37:52.231Z",
   "cached": {
     "character": {
-      "name": "Skadi",
-      "source": "Arknights",
+      "name": "Selena",
+      "source": "Punishing Gray Raven",
       "universe": "GACHA",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Skadi:Arknights",
-      "nextIndex": 285
+      "globalId": "db:Selena:Punishing Gray Raven",
+      "nextIndex": 294
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 263472,
-      "vibe": "ELEGANT",
-      "rating": "ICONIC",
+      "source": "Punishing Gray Raven",
+      "fanbase": 194779,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Mage",
-      "description": "Scáthach, meaning \"shadow\" in Irish, is the queen and gatekeeper of the Land of…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130864-wmp9712xUnEB.png"
+      "bio": "Character",
+      "description": "Sid's female partner for the tournament",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283226-fFREv59LNudw.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565427129058070558/waifu-0457d2f9d23735099c470103.png?ex=6ae4dd1f&is=6ae38b9f&hm=53561dbd11a847712399bb0ab1694710147569b42318c956aeea36a1adf8db33&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565570406625312820/waifu-ec504795944d48fbb724ebd3.png?ex=6ae5628f&is=6ae4110f&hm=5d4adea0ffc7633950a3ce3cea1ef4749c5c53140df67d79211d6a0fc819696b&"
   }
 }
