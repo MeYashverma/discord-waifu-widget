@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Selena:Punishing Gray Raven",
-  "lastName": "Selena",
-  "index": 294,
+  "lastId": "db:Felt:Re:Zero",
+  "lastName": "Felt",
+  "index": 87,
   "recent": [
+    "db:Felt:Re:Zero",
     "db:Selena:Punishing Gray Raven",
     "db:Skadi:Arknights",
     "db:Mukuro Hoshimiya:Date A Live",
@@ -36,36 +37,35 @@
     "db:Nicole Demara:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
     "db:Jingliu:Honkai Star Rail",
-    "db:Popola:NieR Automata",
-    "db:Modernia:Nikke"
+    "db:Popola:NieR Automata"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-30T03:37:52.231Z",
+  "updatedAt": "2026-10-30T11:53:01.090Z",
   "cached": {
     "character": {
-      "name": "Selena",
-      "source": "Punishing Gray Raven",
-      "universe": "GACHA",
+      "name": "Felt",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Selena:Punishing Gray Raven",
-      "nextIndex": 294
+      "globalId": "db:Felt:Re:Zero",
+      "nextIndex": 87
     },
     "meta": {
-      "source": "Punishing Gray Raven",
-      "fanbase": 194779,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Re:Zero",
+      "fanbase": 248441,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
+      "age": "14-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Sid's female partner for the tournament",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283226-fFREv59LNudw.png"
+      "bio": "Royalty",
+      "description": "cm A thief that lives in the slums",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565570406625312820/waifu-ec504795944d48fbb724ebd3.png?ex=6ae5628f&is=6ae4110f&hm=5d4adea0ffc7633950a3ce3cea1ef4749c5c53140df67d79211d6a0fc819696b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565695013457764402/waifu-df0440f6485e7d84b4e51bd0.png?ex=6ae5d69c&is=6ae4851c&hm=7f396fb1c22962a27a2fae73a3dba6627d6ee3b6c8340985b63eb8b09e4e2cf7&"
   }
 }
