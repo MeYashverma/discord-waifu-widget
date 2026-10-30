@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Irina Shidou:High School DxD",
-  "lastName": "Irina Shidou",
-  "index": 94,
+  "lastId": "db:Makima:Chainsaw Man",
+  "lastName": "Makima",
+  "index": 73,
   "recent": [
+    "db:Makima:Chainsaw Man",
     "db:Irina Shidou:High School DxD",
     "db:Felt:Re:Zero",
     "db:Selena:Punishing Gray Raven",
@@ -36,15 +37,14 @@
     "db:Kaga:Azur Lane",
     "db:Kokoro:Darling in the Franxx",
     "db:Nicole Demara:Zenless Zone Zero",
-    "db:Chun-Li:Street Fighter",
-    "db:Jingliu:Honkai Star Rail"
+    "db:Chun-Li:Street Fighter"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-30T17:28:53.054Z",
+  "updatedAt": "2026-10-30T21:48:23.696Z",
   "cached": {
     "character": {
-      "name": "Irina Shidou",
-      "source": "High School DxD",
+      "name": "Makima",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Irina Shidou:High School DxD",
-      "nextIndex": 94
+      "globalId": "db:Makima:Chainsaw Man",
+      "nextIndex": 73
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 266556,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
+      "source": "Chainsaw Man",
+      "fanbase": 456163,
+      "vibe": "DEADLY",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Rank: Angel Weapon: Excalibur Mimic She is Xenovia's partner and Issei's childh…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51339-vtfi7nIFPwYS.png"
+      "bio": "Devil Hunter",
+      "description": "Tokyo Special Division 4",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565779538229592154/waifu-3f34f2f3f0badb955a51deee.png?ex=6ae62554&is=6ae4d3d4&hm=6eb538132a421e5434a0b9da95649cf2b35de3457899da9a8c423873489f1fd1&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565844845891813504/waifu-d766273f50c8cfa7ec808f01.png?ex=6ae66227&is=6ae510a7&hm=bbff455f576ba4597f70e94b1af59262b0476ef5f3fdca11c11e9a4dda5202da&"
   }
 }
