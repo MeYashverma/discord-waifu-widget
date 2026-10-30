@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Felt:Re:Zero",
-  "lastName": "Felt",
-  "index": 87,
+  "lastId": "db:Irina Shidou:High School DxD",
+  "lastName": "Irina Shidou",
+  "index": 94,
   "recent": [
+    "db:Irina Shidou:High School DxD",
     "db:Felt:Re:Zero",
     "db:Selena:Punishing Gray Raven",
     "db:Skadi:Arknights",
@@ -36,15 +37,14 @@
     "db:Kokoro:Darling in the Franxx",
     "db:Nicole Demara:Zenless Zone Zero",
     "db:Chun-Li:Street Fighter",
-    "db:Jingliu:Honkai Star Rail",
-    "db:Popola:NieR Automata"
+    "db:Jingliu:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-30T11:53:01.090Z",
+  "updatedAt": "2026-10-30T17:28:53.054Z",
   "cached": {
     "character": {
-      "name": "Felt",
-      "source": "Re:Zero",
+      "name": "Irina Shidou",
+      "source": "High School DxD",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Felt:Re:Zero",
-      "nextIndex": 87
+      "globalId": "db:Irina Shidou:High School DxD",
+      "nextIndex": 94
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 248441,
-      "vibe": "LOYAL",
+      "source": "High School DxD",
+      "fanbase": 266556,
+      "vibe": "INTENSE",
       "rating": "ICONIC",
-      "age": "14-",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "cm A thief that lives in the slums",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg"
+      "bio": "Devil",
+      "description": "Rank: Angel Weapon: Excalibur Mimic She is Xenovia's partner and Issei's childh…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51339-vtfi7nIFPwYS.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565695013457764402/waifu-df0440f6485e7d84b4e51bd0.png?ex=6ae5d69c&is=6ae4851c&hm=7f396fb1c22962a27a2fae73a3dba6627d6ee3b6c8340985b63eb8b09e4e2cf7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565779538229592154/waifu-3f34f2f3f0badb955a51deee.png?ex=6ae62554&is=6ae4d3d4&hm=6eb538132a421e5434a0b9da95649cf2b35de3457899da9a8c423873489f1fd1&"
   }
 }
