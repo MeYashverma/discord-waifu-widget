@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asia Argento:High School DxD",
-  "lastName": "Asia Argento",
-  "index": 91,
+  "lastId": "db:Aqua:Konosuba",
+  "lastName": "Aqua",
+  "index": 192,
   "recent": [
+    "db:Aqua:Konosuba",
     "db:Asia Argento:High School DxD",
     "db:Makima:Chainsaw Man",
     "db:Irina Shidou:High School DxD",
@@ -36,15 +37,14 @@
     "db:Konan:Naruto",
     "db:Karenina:Punishing Gray Raven",
     "db:Kaga:Azur Lane",
-    "db:Kokoro:Darling in the Franxx",
-    "db:Nicole Demara:Zenless Zone Zero"
+    "db:Kokoro:Darling in the Franxx"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-31T03:22:12.083Z",
+  "updatedAt": "2026-10-31T11:26:37.639Z",
   "cached": {
     "character": {
-      "name": "Asia Argento",
-      "source": "High School DxD",
+      "name": "Aqua",
+      "source": "Konosuba",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asia Argento:High School DxD",
-      "nextIndex": 91
+      "globalId": "db:Aqua:Konosuba",
+      "nextIndex": 192
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 267503,
-      "vibe": "PLAYFUL",
+      "source": "Konosuba",
+      "fanbase": 240925,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "Rank: Low-class Devil Role: Bishop Species: Reincarnated Devil Sacred Gear: Twi…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51335-qc4XaXfPODjw.png"
+      "bio": "Goddess",
+      "description": "Aqua is a goddess of water",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565928848447504506/waifu-cb5ade03d55f1c949c1376ef.png?ex=6ae6b063&is=6ae55ee3&hm=0c34870e2bad2c13f3995c3fad6b45c59b84071e21df6506cab12a82369dc837&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566050761383616603/waifu-288662a0509a0cc24cfd1701.png?ex=6ae721ed&is=6ae5d06d&hm=9bb541d1057aed3608182ef338fe5f16b841c6c5d57ec296f0bd979af061210b&"
   }
 }
