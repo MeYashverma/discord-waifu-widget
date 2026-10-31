@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Makima:Chainsaw Man",
-  "lastName": "Makima",
-  "index": 73,
+  "lastId": "db:Asia Argento:High School DxD",
+  "lastName": "Asia Argento",
+  "index": 91,
   "recent": [
+    "db:Asia Argento:High School DxD",
     "db:Makima:Chainsaw Man",
     "db:Irina Shidou:High School DxD",
     "db:Felt:Re:Zero",
@@ -36,15 +37,14 @@
     "db:Karenina:Punishing Gray Raven",
     "db:Kaga:Azur Lane",
     "db:Kokoro:Darling in the Franxx",
-    "db:Nicole Demara:Zenless Zone Zero",
-    "db:Chun-Li:Street Fighter"
+    "db:Nicole Demara:Zenless Zone Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-30T21:48:23.696Z",
+  "updatedAt": "2026-10-31T03:22:12.083Z",
   "cached": {
     "character": {
-      "name": "Makima",
-      "source": "Chainsaw Man",
+      "name": "Asia Argento",
+      "source": "High School DxD",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Makima:Chainsaw Man",
-      "nextIndex": 73
+      "globalId": "db:Asia Argento:High School DxD",
+      "nextIndex": 91
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 456163,
-      "vibe": "DEADLY",
-      "rating": "ELITE",
+      "source": "High School DxD",
+      "fanbase": 267503,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil Hunter",
-      "description": "Tokyo Special Division 4",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
+      "bio": "Maid",
+      "description": "Rank: Low-class Devil Role: Bishop Species: Reincarnated Devil Sacred Gear: Twi…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51335-qc4XaXfPODjw.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565844845891813504/waifu-d766273f50c8cfa7ec808f01.png?ex=6ae66227&is=6ae510a7&hm=bbff455f576ba4597f70e94b1af59262b0476ef5f3fdca11c11e9a4dda5202da&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1565928848447504506/waifu-cb5ade03d55f1c949c1376ef.png?ex=6ae6b063&is=6ae55ee3&hm=0c34870e2bad2c13f3995c3fad6b45c59b84071e21df6506cab12a82369dc837&"
   }
 }
