@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kurumi Tokisaki:Date A Live",
-  "lastName": "Kurumi Tokisaki",
-  "index": 97,
+  "lastId": "db:Carlotta:Wuthering Waves",
+  "lastName": "Carlotta",
+  "index": 48,
   "recent": [
+    "db:Carlotta:Wuthering Waves",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Aqua:Konosuba",
     "db:Asia Argento:High School DxD",
@@ -36,36 +37,35 @@
     "db:Shorekeeper:Wuthering Waves",
     "db:Tatsumaki:One Punch Man",
     "db:Konan:Naruto",
-    "db:Karenina:Punishing Gray Raven",
-    "db:Kaga:Azur Lane"
+    "db:Karenina:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-31T16:33:03.960Z",
+  "updatedAt": "2026-10-31T20:48:31.769Z",
   "cached": {
     "character": {
-      "name": "Kurumi Tokisaki",
-      "source": "Date A Live",
-      "universe": "ANIME",
+      "name": "Carlotta",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kurumi Tokisaki:Date A Live",
-      "nextIndex": 97
+      "globalId": "db:Carlotta:Wuthering Waves",
+      "nextIndex": 48
     },
     "meta": {
-      "source": "Date A Live",
-      "fanbase": 200654,
-      "vibe": "YANDERE",
+      "source": "Wuthering Waves",
+      "fanbase": 205594,
+      "vibe": "DOMINANT",
       "rating": "POPULAR",
-      "age": "17 (physically)",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Kurumi is the third spirit who appeared after and",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg"
+      "description": "An Auxiliary that aids Peavey in her mission",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229302-amSnF4ihzGEB.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566127876540072026/waifu-44231879409d3a7b6d679658.png?ex=6ae769bf&is=6ae6183f&hm=485ec3b4c1e9de403d0658da8a0f074753a6b543127a95a80c3538e1341f2622&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566192168039747634/waifu-57b6e0fa576f80d0af70ec0a.png?ex=6ae7a59f&is=6ae6541f&hm=e33e6af280bfe3f74ce7512ca4de9f91e7822841aab39e8e315bf2c87e124a8b&"
   }
 }
