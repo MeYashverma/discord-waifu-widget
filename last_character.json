@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Carlotta:Wuthering Waves",
-  "lastName": "Carlotta",
-  "index": 48,
+  "lastId": "db:Yinlin:Wuthering Waves",
+  "lastName": "Yinlin",
+  "index": 38,
   "recent": [
+    "db:Yinlin:Wuthering Waves",
     "db:Carlotta:Wuthering Waves",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Aqua:Konosuba",
@@ -36,14 +37,13 @@
     "db:Shalltear Bloodfallen:Overlord",
     "db:Shorekeeper:Wuthering Waves",
     "db:Tatsumaki:One Punch Man",
-    "db:Konan:Naruto",
-    "db:Karenina:Punishing Gray Raven"
+    "db:Konan:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-31T20:48:31.769Z",
+  "updatedAt": "2026-11-01T03:21:52.009Z",
   "cached": {
     "character": {
-      "name": "Carlotta",
+      "name": "Yinlin",
       "source": "Wuthering Waves",
       "universe": "GACHA",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Carlotta:Wuthering Waves",
-      "nextIndex": 48
+      "globalId": "db:Yinlin:Wuthering Waves",
+      "nextIndex": 38
     },
     "meta": {
       "source": "Wuthering Waves",
-      "fanbase": 205594,
-      "vibe": "DOMINANT",
+      "fanbase": 203395,
+      "vibe": "LOYAL",
       "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "An Auxiliary that aids Peavey in her mission",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229302-amSnF4ihzGEB.png"
+      "description": "Yinlin from Wuthering Waves",
+      "image": "https://media.kitsu.app/characters/images/30099/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566192168039747634/waifu-57b6e0fa576f80d0af70ec0a.png?ex=6ae7a59f&is=6ae6541f&hm=e33e6af280bfe3f74ce7512ca4de9f91e7822841aab39e8e315bf2c87e124a8b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566291153240850553/waifu-b5f9aae043243877f788b685.png?ex=6ae801cf&is=6ae6b04f&hm=18b4ca90f12c4a9fb3bf5c53c5031473fcbcdb8f3e09761d239116de2327de7d&"
   }
 }
