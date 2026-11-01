@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yinlin:Wuthering Waves",
-  "lastName": "Yinlin",
-  "index": 38,
+  "lastId": "db:Miss Fortune:League of Legends",
+  "lastName": "Miss Fortune",
+  "index": 240,
   "recent": [
+    "db:Miss Fortune:League of Legends",
     "db:Yinlin:Wuthering Waves",
     "db:Carlotta:Wuthering Waves",
     "db:Kurumi Tokisaki:Date A Live",
@@ -36,36 +37,35 @@
     "db:New Jersey:Azur Lane",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Shorekeeper:Wuthering Waves",
-    "db:Tatsumaki:One Punch Man",
-    "db:Konan:Naruto"
+    "db:Tatsumaki:One Punch Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-01T03:21:52.009Z",
+  "updatedAt": "2026-11-01T12:20:55.765Z",
   "cached": {
     "character": {
-      "name": "Yinlin",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Miss Fortune",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yinlin:Wuthering Waves",
-      "nextIndex": 38
+      "globalId": "db:Miss Fortune:League of Legends",
+      "nextIndex": 240
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 203395,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "source": "League of Legends",
+      "fanbase": 244806,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Yinlin from Wuthering Waves",
-      "image": "https://media.kitsu.app/characters/images/30099/original.jpg"
+      "bio": "Captain",
+      "description": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207367-b1oqE9f4ROB2.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566291153240850553/waifu-b5f9aae043243877f788b685.png?ex=6ae801cf&is=6ae6b04f&hm=18b4ca90f12c4a9fb3bf5c53c5031473fcbcdb8f3e09761d239116de2327de7d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566426813431943298/waifu-1ab738d8d321b531d721163e.png?ex=6ae88027&is=6ae72ea7&hm=ea97e1c6582112e3c2db5206ae7bca310cac9519ed755eb3da59d39592bc1893&"
   }
 }
