@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Miss Fortune:League of Legends",
-  "lastName": "Miss Fortune",
-  "index": 240,
+  "lastId": "db:Black Swan:Honkai Star Rail",
+  "lastName": "Black Swan",
+  "index": 22,
   "recent": [
+    "db:Black Swan:Honkai Star Rail",
     "db:Miss Fortune:League of Legends",
     "db:Yinlin:Wuthering Waves",
     "db:Carlotta:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Aigis:Persona 3",
     "db:New Jersey:Azur Lane",
     "db:Shalltear Bloodfallen:Overlord",
-    "db:Shorekeeper:Wuthering Waves",
-    "db:Tatsumaki:One Punch Man"
+    "db:Shorekeeper:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-01T12:20:55.765Z",
+  "updatedAt": "2026-11-01T21:29:51.045Z",
   "cached": {
     "character": {
-      "name": "Miss Fortune",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Black Swan",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Miss Fortune:League of Legends",
-      "nextIndex": 240
+      "globalId": "db:Black Swan:Honkai Star Rail",
+      "nextIndex": 22
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 244806,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
+      "source": "Honkai Star Rail",
+      "fanbase": 499513,
+      "vibe": "SEDUCTIVE",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207367-b1oqE9f4ROB2.jpg"
+      "bio": "Character",
+      "description": "A Memokeeper of the Garden of Recollection",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338163-qPEtar2vlX4a.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566426813431943298/waifu-1ab738d8d321b531d721163e.png?ex=6ae88027&is=6ae72ea7&hm=ea97e1c6582112e3c2db5206ae7bca310cac9519ed755eb3da59d39592bc1893&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566564955510013976/waifu-c20638f212ae57bad8f897f8.png?ex=6ae900ce&is=6ae7af4e&hm=f9a88123596df626a902cd6f849d1d296a23695db03d5a1bf8de190962b99212&"
   }
 }
