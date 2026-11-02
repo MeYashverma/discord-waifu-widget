@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Irene Belserion:Fairy Tail",
-  "lastName": "Irene Belserion",
-  "index": 113,
+  "lastId": "db:2B:NieR Automata",
+  "lastName": "2B",
+  "index": 218,
   "recent": [
+    "db:2B:NieR Automata",
     "db:Irene Belserion:Fairy Tail",
     "db:Black Swan:Honkai Star Rail",
     "db:Miss Fortune:League of Legends",
@@ -36,36 +37,35 @@
     "db:Morrigan Aensland:Darkstalkers",
     "db:Lucy:Cyberpunk Edgerunners",
     "db:Aigis:Persona 3",
-    "db:New Jersey:Azur Lane",
-    "db:Shalltear Bloodfallen:Overlord"
+    "db:New Jersey:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-02T03:31:30.152Z",
+  "updatedAt": "2026-11-02T14:15:58.300Z",
   "cached": {
     "character": {
-      "name": "Irene Belserion",
-      "source": "Fairy Tail",
-      "universe": "ANIME",
+      "name": "2B",
+      "source": "NieR Automata",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Irene Belserion:Fairy Tail",
-      "nextIndex": 113
+      "globalId": "db:2B:NieR Automata",
+      "nextIndex": 218
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 228826,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
+      "source": "NieR Automata",
+      "fanbase": 428423,
+      "vibe": "TSUNDERE",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Four hundred years ago, Irene was a kind individual, having undergone political…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129635-5Gq5tyFpjI00.jpg"
+      "bio": "Android",
+      "description": "YoRHa battle android",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132494-R05zeZPjDG3l.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566655967683285052/waifu-7f9dfc7947b0bef756e45c72.png?ex=6ae95591&is=6ae80411&hm=9d8c5943d34790c3f2a4337660ac7dedae41889fb037330d4d8721a58e49a028&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566818153495789698/waifu-4c8ddbd4958ced4ba453cd89.png?ex=6ae9ec9d&is=6ae89b1d&hm=b1569a28c493f800984dca0555d489afe0c7789215f7a87be37b6aa6203f31d9&"
   }
 }
