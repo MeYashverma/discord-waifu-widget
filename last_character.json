@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Black Swan:Honkai Star Rail",
-  "lastName": "Black Swan",
-  "index": 22,
+  "lastId": "db:Irene Belserion:Fairy Tail",
+  "lastName": "Irene Belserion",
+  "index": 113,
   "recent": [
+    "db:Irene Belserion:Fairy Tail",
     "db:Black Swan:Honkai Star Rail",
     "db:Miss Fortune:League of Legends",
     "db:Yinlin:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Lucy:Cyberpunk Edgerunners",
     "db:Aigis:Persona 3",
     "db:New Jersey:Azur Lane",
-    "db:Shalltear Bloodfallen:Overlord",
-    "db:Shorekeeper:Wuthering Waves"
+    "db:Shalltear Bloodfallen:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-01T21:29:51.045Z",
+  "updatedAt": "2026-11-02T03:31:30.152Z",
   "cached": {
     "character": {
-      "name": "Black Swan",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Irene Belserion",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Black Swan:Honkai Star Rail",
-      "nextIndex": 22
+      "globalId": "db:Irene Belserion:Fairy Tail",
+      "nextIndex": 113
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 499513,
-      "vibe": "SEDUCTIVE",
-      "rating": "ELITE",
+      "source": "Fairy Tail",
+      "fanbase": 228826,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "A Memokeeper of the Garden of Recollection",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338163-qPEtar2vlX4a.png"
+      "description": "Four hundred years ago, Irene was a kind individual, having undergone political…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129635-5Gq5tyFpjI00.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566564955510013976/waifu-c20638f212ae57bad8f897f8.png?ex=6ae900ce&is=6ae7af4e&hm=f9a88123596df626a902cd6f849d1d296a23695db03d5a1bf8de190962b99212&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566655967683285052/waifu-7f9dfc7947b0bef756e45c72.png?ex=6ae95591&is=6ae80411&hm=9d8c5943d34790c3f2a4337660ac7dedae41889fb037330d4d8721a58e49a028&"
   }
 }
