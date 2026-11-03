@@ -1,8 +1,9 @@
 {
-  "lastId": "db:2B:NieR Automata",
-  "lastName": "2B",
-  "index": 218,
+  "lastId": "db:Annie Leonhart:Attack on Titan",
+  "lastName": "Annie Leonhart",
+  "index": 133,
   "recent": [
+    "db:Annie Leonhart:Attack on Titan",
     "db:2B:NieR Automata",
     "db:Irene Belserion:Fairy Tail",
     "db:Black Swan:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Orihime Inoue:Bleach",
     "db:Morrigan Aensland:Darkstalkers",
     "db:Lucy:Cyberpunk Edgerunners",
-    "db:Aigis:Persona 3",
-    "db:New Jersey:Azur Lane"
+    "db:Aigis:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-02T14:15:58.300Z",
+  "updatedAt": "2026-11-03T00:13:08.456Z",
   "cached": {
     "character": {
-      "name": "2B",
-      "source": "NieR Automata",
-      "universe": "JRPG",
+      "name": "Annie Leonhart",
+      "source": "Attack on Titan",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:2B:NieR Automata",
-      "nextIndex": 218
+      "globalId": "db:Annie Leonhart:Attack on Titan",
+      "nextIndex": 133
     },
     "meta": {
-      "source": "NieR Automata",
-      "fanbase": 428423,
-      "vibe": "TSUNDERE",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Attack on Titan",
+      "fanbase": 680332,
+      "vibe": "ELEGANT",
+      "rating": "LEGENDARY",
+      "age": "16-",
       "blood": "Unknown",
-      "bio": "Android",
-      "description": "YoRHa battle android",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132494-R05zeZPjDG3l.jpg"
+      "bio": "Character",
+      "description": "cm A member of the 104th Southern Division in the Cadet Corps",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566818153495789698/waifu-4c8ddbd4958ced4ba453cd89.png?ex=6ae9ec9d&is=6ae89b1d&hm=b1569a28c493f800984dca0555d489afe0c7789215f7a87be37b6aa6203f31d9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566968435039150191/waifu-b1b77849d34bd53ed47f4165.png?ex=6aea7893&is=6ae92713&hm=dc88f1fb74131d4bb46f2e154b315d11f95c0497a155b928cb5019cba6b93e99&"
   }
 }
