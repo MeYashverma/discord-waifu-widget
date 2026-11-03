@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Cana Alberona:Fairy Tail",
-  "lastName": "Cana Alberona",
-  "index": 109,
+  "lastId": "db:Rebecca Chambers:Resident Evil",
+  "lastName": "Rebecca Chambers",
+  "index": 232,
   "recent": [
+    "db:Rebecca Chambers:Resident Evil",
     "db:Cana Alberona:Fairy Tail",
     "db:Annie Leonhart:Attack on Titan",
     "db:2B:NieR Automata",
@@ -36,36 +37,35 @@
     "db:Kai'Sa:League of Legends",
     "db:Bulma:Dragon Ball",
     "db:Orihime Inoue:Bleach",
-    "db:Morrigan Aensland:Darkstalkers",
-    "db:Lucy:Cyberpunk Edgerunners"
+    "db:Morrigan Aensland:Darkstalkers"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-03T13:17:18.699Z",
+  "updatedAt": "2026-11-03T22:42:33.459Z",
   "cached": {
     "character": {
-      "name": "Cana Alberona",
-      "source": "Fairy Tail",
-      "universe": "ANIME",
+      "name": "Rebecca Chambers",
+      "source": "Resident Evil",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Cana Alberona:Fairy Tail",
-      "nextIndex": 109
+      "globalId": "db:Rebecca Chambers:Resident Evil",
+      "nextIndex": 232
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 190809,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "18-20",
-      "blood": "Unknown",
+      "source": "Resident Evil",
+      "fanbase": 260725,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "AB",
       "bio": "Character",
-      "description": "A member of the Fairy Tail guild who uses a type of card magic",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8296-QdKicnM0gSGN.jpg"
+      "description": "A child prodigy, Rebecca was entered into university at a young age and graduat…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145992-GLjBfnJxqA3w.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567165779223253053/waifu-b51aa2b63f6fa053f000117f.png?ex=6aeb305e&is=6ae9dede&hm=ad6f7066e848b03d2c2d714823255b24e770233a5ee4d9cb0b60d49b68d6b856&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567308026484883666/waifu-6c9d468e9a91e164c92d3e23.png?ex=6aebb4d8&is=6aea6358&hm=6733dca5c14a6c37e180d745c2e6f2594ec4e07ef17665b880454639b6f321af&"
   }
 }
