@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Annie Leonhart:Attack on Titan",
-  "lastName": "Annie Leonhart",
-  "index": 133,
+  "lastId": "db:Cana Alberona:Fairy Tail",
+  "lastName": "Cana Alberona",
+  "index": 109,
   "recent": [
+    "db:Cana Alberona:Fairy Tail",
     "db:Annie Leonhart:Attack on Titan",
     "db:2B:NieR Automata",
     "db:Irene Belserion:Fairy Tail",
@@ -36,15 +37,14 @@
     "db:Bulma:Dragon Ball",
     "db:Orihime Inoue:Bleach",
     "db:Morrigan Aensland:Darkstalkers",
-    "db:Lucy:Cyberpunk Edgerunners",
-    "db:Aigis:Persona 3"
+    "db:Lucy:Cyberpunk Edgerunners"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-03T00:13:08.456Z",
+  "updatedAt": "2026-11-03T13:17:18.699Z",
   "cached": {
     "character": {
-      "name": "Annie Leonhart",
-      "source": "Attack on Titan",
+      "name": "Cana Alberona",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Annie Leonhart:Attack on Titan",
-      "nextIndex": 133
+      "globalId": "db:Cana Alberona:Fairy Tail",
+      "nextIndex": 109
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 680332,
-      "vibe": "ELEGANT",
-      "rating": "LEGENDARY",
-      "age": "16-",
+      "source": "Fairy Tail",
+      "fanbase": 190809,
+      "vibe": "SEDUCTIVE",
+      "rating": "POPULAR",
+      "age": "18-20",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm A member of the 104th Southern Division in the Cadet Corps",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
+      "description": "A member of the Fairy Tail guild who uses a type of card magic",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8296-QdKicnM0gSGN.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566968435039150191/waifu-b1b77849d34bd53ed47f4165.png?ex=6aea7893&is=6ae92713&hm=dc88f1fb74131d4bb46f2e154b315d11f95c0497a155b928cb5019cba6b93e99&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567165779223253053/waifu-b51aa2b63f6fa053f000117f.png?ex=6aeb305e&is=6ae9dede&hm=ad6f7066e848b03d2c2d714823255b24e770233a5ee4d9cb0b60d49b68d6b856&"
   }
 }
