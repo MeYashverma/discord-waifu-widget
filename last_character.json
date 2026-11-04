@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shinju Inui:My Dress-Up Darling",
-  "lastName": "Shinju Inui",
-  "index": 156,
+  "lastId": "db:Tifa Lockhart:Final Fantasy VII",
+  "lastName": "Tifa Lockhart",
+  "index": 210,
   "recent": [
+    "db:Tifa Lockhart:Final Fantasy VII",
     "db:Shinju Inui:My Dress-Up Darling",
     "db:Sheva Alomar:Resident Evil",
     "db:Rebecca Chambers:Resident Evil",
@@ -36,36 +37,35 @@
     "db:Echidna:Re:Zero",
     "db:Kafka:Honkai Star Rail",
     "db:Princess Zelda:The Legend of Zelda",
-    "db:Kai'Sa:League of Legends",
-    "db:Bulma:Dragon Ball"
+    "db:Kai'Sa:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-04T13:29:30.619Z",
+  "updatedAt": "2026-11-04T23:00:03.705Z",
   "cached": {
     "character": {
-      "name": "Shinju Inui",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Tifa Lockhart",
+      "source": "Final Fantasy VII",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shinju Inui:My Dress-Up Darling",
-      "nextIndex": 156
+      "globalId": "db:Tifa Lockhart:Final Fantasy VII",
+      "nextIndex": 210
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 254485,
-      "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
+      "source": "Final Fantasy VII",
+      "fanbase": 487971,
+      "vibe": "ROYAL",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm Sister of",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+      "bio": "Fighter",
+      "description": "Avalanche martial artist",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b758-3QZhbFVMajHC.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567531236988289064/waifu-89ac2f0e7d7c425c65b9b04c.png?ex=6aec84ba&is=6aeb333a&hm=19159040968f5a52db61ff618823ff851fe515dbccf58f421210822934216a43&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567674820227895376/waifu-5e80276745b8f762319c4bbe.png?ex=6aed0a73&is=6aebb8f3&hm=fa7aa77dc003cbd97b3057ed18e4f0a65c14d46b262df042f181ac658b8c32f9&"
   }
 }
