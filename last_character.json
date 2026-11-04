@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sheva Alomar:Resident Evil",
-  "lastName": "Sheva Alomar",
-  "index": 233,
+  "lastId": "db:Shinju Inui:My Dress-Up Darling",
+  "lastName": "Shinju Inui",
+  "index": 156,
   "recent": [
+    "db:Shinju Inui:My Dress-Up Darling",
     "db:Sheva Alomar:Resident Evil",
     "db:Rebecca Chambers:Resident Evil",
     "db:Cana Alberona:Fairy Tail",
@@ -36,36 +37,35 @@
     "db:Kafka:Honkai Star Rail",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Kai'Sa:League of Legends",
-    "db:Bulma:Dragon Ball",
-    "db:Orihime Inoue:Bleach"
+    "db:Bulma:Dragon Ball"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-04T03:59:05.493Z",
+  "updatedAt": "2026-11-04T13:29:30.619Z",
   "cached": {
     "character": {
-      "name": "Sheva Alomar",
-      "source": "Resident Evil",
-      "universe": "GAME",
+      "name": "Shinju Inui",
+      "source": "My Dress-Up Darling",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sheva Alomar:Resident Evil",
-      "nextIndex": 233
+      "globalId": "db:Shinju Inui:My Dress-Up Darling",
+      "nextIndex": 156
     },
     "meta": {
-      "source": "Resident Evil",
-      "fanbase": 211350,
-      "vibe": "INTENSE",
-      "rating": "POPULAR",
+      "source": "My Dress-Up Darling",
+      "fanbase": 254485,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "A spy for Judas and Luca",
-      "image": "https://media.kitsu.app/characters/images/12518/original.jpg"
+      "description": "cm Sister of",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567387685155381258/waifu-ec0c0d0f0106f4c29a22bcdd.png?ex=6aebff08&is=6aeaad88&hm=49dbbc5bbd727b96d97783310f92756019e525f260ac2b77a5d3945c7dd1858d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567531236988289064/waifu-89ac2f0e7d7c425c65b9b04c.png?ex=6aec84ba&is=6aeb333a&hm=19159040968f5a52db61ff618823ff851fe515dbccf58f421210822934216a43&"
   }
 }
