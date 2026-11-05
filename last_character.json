@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Priscilla Barielle:Re:Zero",
-  "lastName": "Priscilla Barielle",
-  "index": 86,
+  "lastId": "db:Hinatsuru:Demon Slayer",
+  "lastName": "Hinatsuru",
+  "index": 122,
   "recent": [
+    "db:Hinatsuru:Demon Slayer",
     "db:Priscilla Barielle:Re:Zero",
     "db:Tifa Lockhart:Final Fantasy VII",
     "db:Shinju Inui:My Dress-Up Darling",
@@ -36,15 +37,14 @@
     "db:Vinsmoke Reiju:One Piece",
     "db:Verina:Wuthering Waves",
     "db:Echidna:Re:Zero",
-    "db:Kafka:Honkai Star Rail",
-    "db:Princess Zelda:The Legend of Zelda"
+    "db:Kafka:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-05T04:20:22.156Z",
+  "updatedAt": "2026-11-05T13:44:04.592Z",
   "cached": {
     "character": {
-      "name": "Priscilla Barielle",
-      "source": "Re:Zero",
+      "name": "Hinatsuru",
+      "source": "Demon Slayer",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Priscilla Barielle:Re:Zero",
-      "nextIndex": 86
+      "globalId": "db:Hinatsuru:Demon Slayer",
+      "nextIndex": 122
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 238817,
-      "vibe": "LOYAL",
-      "rating": "ICONIC",
-      "age": "19-20",
+      "source": "Demon Slayer",
+      "fanbase": 527245,
+      "vibe": "ROYAL",
+      "rating": "LEGENDARY",
+      "age": "21",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "The matriarch of House Barielle and a candidate to become the 42nd King of Lugu…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png"
+      "bio": "Character",
+      "description": "Hinatsuru is a kunoichi and one of Tengen Uzui's wives",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250556-tZ6egykZTk4Y.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567755425858846810/waifu-e49fbb9c19a24bbed74b54e0.png?ex=6aed5585&is=6aec0405&hm=8bfacb05e954d229cbebfaddd163cae8cf47a591787c858d1752230f03b0dcee&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567897290952282273/waifu-527fa8ba70e915e305e888db.png?ex=6aedd9a4&is=6aec8824&hm=126ef841ff1961d98e186fb780021c21c549676f512b281d6a61be2ad711557c&"
   }
 }
