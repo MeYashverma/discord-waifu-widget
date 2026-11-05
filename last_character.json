@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Tifa Lockhart:Final Fantasy VII",
-  "lastName": "Tifa Lockhart",
-  "index": 210,
+  "lastId": "db:Priscilla Barielle:Re:Zero",
+  "lastName": "Priscilla Barielle",
+  "index": 86,
   "recent": [
+    "db:Priscilla Barielle:Re:Zero",
     "db:Tifa Lockhart:Final Fantasy VII",
     "db:Shinju Inui:My Dress-Up Darling",
     "db:Sheva Alomar:Resident Evil",
@@ -36,36 +37,35 @@
     "db:Verina:Wuthering Waves",
     "db:Echidna:Re:Zero",
     "db:Kafka:Honkai Star Rail",
-    "db:Princess Zelda:The Legend of Zelda",
-    "db:Kai'Sa:League of Legends"
+    "db:Princess Zelda:The Legend of Zelda"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-04T23:00:03.705Z",
+  "updatedAt": "2026-11-05T04:20:22.156Z",
   "cached": {
     "character": {
-      "name": "Tifa Lockhart",
-      "source": "Final Fantasy VII",
-      "universe": "JRPG",
+      "name": "Priscilla Barielle",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Tifa Lockhart:Final Fantasy VII",
-      "nextIndex": 210
+      "globalId": "db:Priscilla Barielle:Re:Zero",
+      "nextIndex": 86
     },
     "meta": {
-      "source": "Final Fantasy VII",
-      "fanbase": 487971,
-      "vibe": "ROYAL",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Re:Zero",
+      "fanbase": 238817,
+      "vibe": "LOYAL",
+      "rating": "ICONIC",
+      "age": "19-20",
       "blood": "Unknown",
-      "bio": "Fighter",
-      "description": "Avalanche martial artist",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b758-3QZhbFVMajHC.png"
+      "bio": "Knight",
+      "description": "The matriarch of House Barielle and a candidate to become the 42nd King of Lugu…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567674820227895376/waifu-5e80276745b8f762319c4bbe.png?ex=6aed0a73&is=6aebb8f3&hm=fa7aa77dc003cbd97b3057ed18e4f0a65c14d46b262df042f181ac658b8c32f9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1567755425858846810/waifu-e49fbb9c19a24bbed74b54e0.png?ex=6aed5585&is=6aec0405&hm=8bfacb05e954d229cbebfaddd163cae8cf47a591787c858d1752230f03b0dcee&"
   }
 }
