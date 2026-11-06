@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kal'tsit:Arknights",
-  "lastName": "Kal'tsit",
-  "index": 286,
+  "lastId": "db:Darkness:Konosuba",
+  "lastName": "Darkness",
+  "index": 194,
   "recent": [
+    "db:Darkness:Konosuba",
     "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
     "db:Priscilla Barielle:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Jeanne:Bayonetta",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Vinsmoke Reiju:One Piece",
-    "db:Verina:Wuthering Waves",
-    "db:Echidna:Re:Zero"
+    "db:Verina:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-05T23:02:56.120Z",
+  "updatedAt": "2026-11-06T04:18:20.444Z",
   "cached": {
     "character": {
-      "name": "Kal'tsit",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Darkness",
+      "source": "Konosuba",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kal'tsit:Arknights",
-      "nextIndex": 286
+      "globalId": "db:Darkness:Konosuba",
+      "nextIndex": 194
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 209789,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Konosuba",
+      "fanbase": 232328,
+      "vibe": "DOMINANT",
+      "rating": "ICONIC",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Undisclosed Place of Birth: Rhodes Island Race: Feline cm Kal'tsit, one of Rhod…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg"
+      "bio": "Knight",
+      "description": "A crusader and a masochist",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568037931904405504/waifu-41862c5a519ca98ec6c1bbdb.png?ex=6aee5c9f&is=6aed0b1f&hm=46846feb4ca776ad652e1421bb227b5b2f760bf65e0d5a749c9307657f62919e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568117303478853702/waifu-00d0a989b77da13170ab47db.png?ex=6aeea68b&is=6aed550b&hm=b605ed4f66ccb7a20f59079ed0bd02abe05766bbf67547c3ce4d8fd5ebeabb75&"
   }
 }
