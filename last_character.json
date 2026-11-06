@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Darkness:Konosuba",
-  "lastName": "Darkness",
-  "index": 194,
+  "lastId": "db:Kai'Sa:League of Legends",
+  "lastName": "Kai'Sa",
+  "index": 239,
   "recent": [
+    "db:Kai'Sa:League of Legends",
     "db:Darkness:Konosuba",
     "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Shenhe:Genshin Impact",
     "db:Jeanne:Bayonetta",
     "db:Velvet Crowe:Tales of Berseria",
-    "db:Vinsmoke Reiju:One Piece",
-    "db:Verina:Wuthering Waves"
+    "db:Vinsmoke Reiju:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-06T04:18:20.444Z",
+  "updatedAt": "2026-11-06T13:28:20.449Z",
   "cached": {
     "character": {
-      "name": "Darkness",
-      "source": "Konosuba",
-      "universe": "ANIME",
+      "name": "Kai'Sa",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Darkness:Konosuba",
-      "nextIndex": 194
+      "globalId": "db:Kai'Sa:League of Legends",
+      "nextIndex": 239
     },
     "meta": {
-      "source": "Konosuba",
-      "fanbase": 232328,
-      "vibe": "DOMINANT",
-      "rating": "ICONIC",
-      "age": "18",
+      "source": "League of Legends",
+      "fanbase": 180399,
+      "vibe": "CHAOTIC",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "A crusader and a masochist",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+      "bio": "Student",
+      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
+      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568117303478853702/waifu-00d0a989b77da13170ab47db.png?ex=6aeea68b&is=6aed550b&hm=b605ed4f66ccb7a20f59079ed0bd02abe05766bbf67547c3ce4d8fd5ebeabb75&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568255718623027390/waifu-56af0a92d4b1922188a77f6f.png?ex=6aef2774&is=6aedd5f4&hm=0711bcba7c80d43b2c52bff20c65ccb29d464da440e53d91f534862cd29061d6&"
   }
 }
