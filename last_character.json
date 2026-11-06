@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Kai'Sa:League of Legends",
-  "lastName": "Kai'Sa",
-  "index": 239,
+  "lastId": "db:Artoria Pendragon:Fate/stay night",
+  "lastName": "Artoria Pendragon",
+  "index": 205,
   "recent": [
+    "db:Artoria Pendragon:Fate/stay night",
     "db:Kai'Sa:League of Legends",
     "db:Darkness:Konosuba",
     "db:Kal'tsit:Arknights",
@@ -36,36 +37,35 @@
     "db:Ravel Phenex:High School DxD",
     "db:Shenhe:Genshin Impact",
     "db:Jeanne:Bayonetta",
-    "db:Velvet Crowe:Tales of Berseria",
-    "db:Vinsmoke Reiju:One Piece"
+    "db:Velvet Crowe:Tales of Berseria"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-06T13:28:20.449Z",
+  "updatedAt": "2026-11-06T22:32:07.823Z",
   "cached": {
     "character": {
-      "name": "Kai'Sa",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Artoria Pendragon",
+      "source": "Fate/stay night",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Kai'Sa:League of Legends",
-      "nextIndex": 239
+      "globalId": "db:Artoria Pendragon:Fate/stay night",
+      "nextIndex": 205
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 180399,
-      "vibe": "CHAOTIC",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Fate/stay night",
+      "fanbase": 233187,
+      "vibe": "SEDUCTIVE",
+      "rating": "ICONIC",
+      "age": "35 (chronologically), 15 (physically)",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Kaieda is the principal of the Hinamizawa School and he first appears in Onikak…",
-      "image": "https://media.kitsu.app/characters/images/41032/original.jpg"
+      "bio": "Knight",
+      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568255718623027390/waifu-56af0a92d4b1922188a77f6f.png?ex=6aef2774&is=6aedd5f4&hm=0711bcba7c80d43b2c52bff20c65ccb29d464da440e53d91f534862cd29061d6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568392567513686159/waifu-037c5c336a16aeca995a47f9.png?ex=6aefa6e7&is=6aee5567&hm=4194836479c49f8c9b731f4a81c93183b90fb29b34f5dbccd62f4228b17d6346&"
   }
 }
