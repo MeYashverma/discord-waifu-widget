@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Artoria Pendragon:Fate/stay night",
-  "lastName": "Artoria Pendragon",
-  "index": 205,
+  "lastId": "db:Mavuika:Genshin Impact",
+  "lastName": "Mavuika",
+  "index": 19,
   "recent": [
+    "db:Mavuika:Genshin Impact",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Kai'Sa:League of Legends",
     "db:Darkness:Konosuba",
@@ -36,36 +37,35 @@
     "db:Karin Kakudate:Blue Archive",
     "db:Ravel Phenex:High School DxD",
     "db:Shenhe:Genshin Impact",
-    "db:Jeanne:Bayonetta",
-    "db:Velvet Crowe:Tales of Berseria"
+    "db:Jeanne:Bayonetta"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-06T22:32:07.823Z",
+  "updatedAt": "2026-11-07T03:48:55.143Z",
   "cached": {
     "character": {
-      "name": "Artoria Pendragon",
-      "source": "Fate/stay night",
-      "universe": "ANIME",
+      "name": "Mavuika",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Artoria Pendragon:Fate/stay night",
-      "nextIndex": 205
+      "globalId": "db:Mavuika:Genshin Impact",
+      "nextIndex": 19
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 233187,
-      "vibe": "SEDUCTIVE",
-      "rating": "ICONIC",
-      "age": "35 (chronologically), 15 (physically)",
+      "source": "Genshin Impact",
+      "fanbase": 547165,
+      "vibe": "CHAOTIC",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+      "bio": "Archon",
+      "description": "Natlan's Archon and leader, the everlasting flame of hope for all living beings…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357406-ZkMD1awdGvF9.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568392567513686159/waifu-037c5c336a16aeca995a47f9.png?ex=6aefa6e7&is=6aee5567&hm=4194836479c49f8c9b731f4a81c93183b90fb29b34f5dbccd62f4228b17d6346&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568472289765498940/waifu-504e914ad6ab0fdc7d259aee.png?ex=6aeff126&is=6aee9fa6&hm=a72a910f4775dc51a6d6aee903b11c26153608fa6610aa700eb482402443695f&"
   }
 }
