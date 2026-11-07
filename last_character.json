@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yui Ikari:Neon Genesis Evangelion",
-  "lastName": "Yui Ikari",
-  "index": 153,
+  "lastId": "db:Yoru:Chainsaw Man",
+  "lastName": "Yoru",
+  "index": 80,
   "recent": [
+    "db:Yoru:Chainsaw Man",
     "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Mavuika:Genshin Impact",
     "db:Artoria Pendragon:Fate/stay night",
@@ -36,15 +37,14 @@
     "db:Rias Gremory:High School DxD",
     "db:Keqing:Genshin Impact",
     "db:Karin Kakudate:Blue Archive",
-    "db:Ravel Phenex:High School DxD",
-    "db:Shenhe:Genshin Impact"
+    "db:Ravel Phenex:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-07T12:08:06.506Z",
+  "updatedAt": "2026-11-07T21:14:20.452Z",
   "cached": {
     "character": {
-      "name": "Yui Ikari",
-      "source": "Neon Genesis Evangelion",
+      "name": "Yoru",
+      "source": "Chainsaw Man",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yui Ikari:Neon Genesis Evangelion",
-      "nextIndex": 153
+      "globalId": "db:Yoru:Chainsaw Man",
+      "nextIndex": 80
     },
     "meta": {
-      "source": "Neon Genesis Evangelion",
-      "fanbase": 240630,
-      "vibe": "WHOLESOME",
-      "rating": "ICONIC",
-      "age": "27",
+      "source": "Chainsaw Man",
+      "fanbase": 459972,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Maid",
-      "description": "Ikari Shinji's mother and wife of Gendou Ikari",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png"
+      "bio": "Character",
+      "description": "Species: Human cm , Rank: Irregular Position: Wave Controller Born: Floor of De…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568597914731815092/waifu-eadd9a1de1d9c91ab4f332ad.png?ex=6af06626&is=6aef14a6&hm=bd7818691331569bb48cd58ba2ef7b92173846a5fe1d97c92ab387126c8c4523&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568735379106832577/waifu-7d5ee681d6cd4e76e394d793.png?ex=6af0e62c&is=6aef94ac&hm=ad93a58e82cfb8a98b34b79c93909e69029b357633f2646a2d311fa6626266e9&"
   }
 }
