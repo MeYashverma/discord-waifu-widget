@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mavuika:Genshin Impact",
-  "lastName": "Mavuika",
-  "index": 19,
+  "lastId": "db:Yui Ikari:Neon Genesis Evangelion",
+  "lastName": "Yui Ikari",
+  "index": 153,
   "recent": [
+    "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Mavuika:Genshin Impact",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Kai'Sa:League of Legends",
@@ -36,36 +37,35 @@
     "db:Keqing:Genshin Impact",
     "db:Karin Kakudate:Blue Archive",
     "db:Ravel Phenex:High School DxD",
-    "db:Shenhe:Genshin Impact",
-    "db:Jeanne:Bayonetta"
+    "db:Shenhe:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-07T03:48:55.143Z",
+  "updatedAt": "2026-11-07T12:08:06.506Z",
   "cached": {
     "character": {
-      "name": "Mavuika",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Yui Ikari",
+      "source": "Neon Genesis Evangelion",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mavuika:Genshin Impact",
-      "nextIndex": 19
+      "globalId": "db:Yui Ikari:Neon Genesis Evangelion",
+      "nextIndex": 153
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 547165,
-      "vibe": "CHAOTIC",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
+      "source": "Neon Genesis Evangelion",
+      "fanbase": 240630,
+      "vibe": "WHOLESOME",
+      "rating": "ICONIC",
+      "age": "27",
       "blood": "Unknown",
-      "bio": "Archon",
-      "description": "Natlan's Archon and leader, the everlasting flame of hope for all living beings…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357406-ZkMD1awdGvF9.png"
+      "bio": "Maid",
+      "description": "Ikari Shinji's mother and wife of Gendou Ikari",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568472289765498940/waifu-504e914ad6ab0fdc7d259aee.png?ex=6aeff126&is=6aee9fa6&hm=a72a910f4775dc51a6d6aee903b11c26153608fa6610aa700eb482402443695f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568597914731815092/waifu-eadd9a1de1d9c91ab4f332ad.png?ex=6af06626&is=6aef14a6&hm=bd7818691331569bb48cd58ba2ef7b92173846a5fe1d97c92ab387126c8c4523&"
   }
 }
