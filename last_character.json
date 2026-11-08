@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bianca:Punishing Gray Raven",
-  "lastName": "Bianca",
-  "index": 293,
+  "lastId": "db:Echidna:Re:Zero",
+  "lastName": "Echidna",
+  "index": 84,
   "recent": [
+    "db:Echidna:Re:Zero",
     "db:Bianca:Punishing Gray Raven",
     "db:Yoru:Chainsaw Man",
     "db:Yui Ikari:Neon Genesis Evangelion",
@@ -36,36 +37,35 @@
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Bronya:Honkai Star Rail",
     "db:Rias Gremory:High School DxD",
-    "db:Keqing:Genshin Impact",
-    "db:Karin Kakudate:Blue Archive"
+    "db:Keqing:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-08T03:29:37.225Z",
+  "updatedAt": "2026-11-08T12:29:07.982Z",
   "cached": {
     "character": {
-      "name": "Bianca",
-      "source": "Punishing Gray Raven",
-      "universe": "GACHA",
+      "name": "Echidna",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bianca:Punishing Gray Raven",
-      "nextIndex": 293
+      "globalId": "db:Echidna:Re:Zero",
+      "nextIndex": 84
     },
     "meta": {
-      "source": "Punishing Gray Raven",
-      "fanbase": 208671,
-      "vibe": "CHAOTIC",
-      "rating": "POPULAR",
+      "source": "Re:Zero",
+      "fanbase": 235410,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Eleonore is a humanoid magic",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187852-j66BLk5r1tNr.png"
+      "bio": "Witch",
+      "description": "Echidna is one of the Witches of Sin, being the Witch of Greed",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568829821251752096/waifu-5f1b9bc6807140bcce268ae2.png?ex=6af13e20&is=6aefeca0&hm=9fe027a5217c1b85db267ad4c0e42283e5d6dde389ee50091a8b8d6412dfb07e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568965594185994341/waifu-65d2c4edacc381c1bb2e4367.png?ex=6af1bc93&is=6af06b13&hm=add75e4ebf0c1b21ad4a077b183835cd14a4501cb5f411fc26951602a7c0df49&"
   }
 }
