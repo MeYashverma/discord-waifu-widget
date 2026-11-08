@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Yoru:Chainsaw Man",
-  "lastName": "Yoru",
-  "index": 80,
+  "lastId": "db:Bianca:Punishing Gray Raven",
+  "lastName": "Bianca",
+  "index": 293,
   "recent": [
+    "db:Bianca:Punishing Gray Raven",
     "db:Yoru:Chainsaw Man",
     "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Mavuika:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Bronya:Honkai Star Rail",
     "db:Rias Gremory:High School DxD",
     "db:Keqing:Genshin Impact",
-    "db:Karin Kakudate:Blue Archive",
-    "db:Ravel Phenex:High School DxD"
+    "db:Karin Kakudate:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-07T21:14:20.452Z",
+  "updatedAt": "2026-11-08T03:29:37.225Z",
   "cached": {
     "character": {
-      "name": "Yoru",
-      "source": "Chainsaw Man",
-      "universe": "ANIME",
+      "name": "Bianca",
+      "source": "Punishing Gray Raven",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Yoru:Chainsaw Man",
-      "nextIndex": 80
+      "globalId": "db:Bianca:Punishing Gray Raven",
+      "nextIndex": 293
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 459972,
-      "vibe": "ELEGANT",
-      "rating": "ELITE",
+      "source": "Punishing Gray Raven",
+      "fanbase": 208671,
+      "vibe": "CHAOTIC",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Species: Human cm , Rank: Irregular Position: Wave Controller Born: Floor of De…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
+      "description": "Eleonore is a humanoid magic",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187852-j66BLk5r1tNr.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568735379106832577/waifu-7d5ee681d6cd4e76e394d793.png?ex=6af0e62c&is=6aef94ac&hm=ad93a58e82cfb8a98b34b79c93909e69029b357633f2646a2d311fa6626266e9&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568829821251752096/waifu-5f1b9bc6807140bcce268ae2.png?ex=6af13e20&is=6aefeca0&hm=9fe027a5217c1b85db267ad4c0e42283e5d6dde389ee50091a8b8d6412dfb07e&"
   }
 }
