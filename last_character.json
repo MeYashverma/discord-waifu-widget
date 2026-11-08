@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Echidna:Re:Zero",
-  "lastName": "Echidna",
-  "index": 84,
+  "lastId": "db:Anna Williams:Tekken",
+  "lastName": "Anna Williams",
+  "index": 253,
   "recent": [
+    "db:Anna Williams:Tekken",
     "db:Echidna:Re:Zero",
     "db:Bianca:Punishing Gray Raven",
     "db:Yoru:Chainsaw Man",
@@ -36,36 +37,35 @@
     "db:Skadi:Arknights",
     "db:Mukuro Hoshimiya:Date A Live",
     "db:Bronya:Honkai Star Rail",
-    "db:Rias Gremory:High School DxD",
-    "db:Keqing:Genshin Impact"
+    "db:Rias Gremory:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-08T12:29:07.982Z",
+  "updatedAt": "2026-11-08T21:29:00.817Z",
   "cached": {
     "character": {
-      "name": "Echidna",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Anna Williams",
+      "source": "Tekken",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Echidna:Re:Zero",
-      "nextIndex": 84
+      "globalId": "db:Anna Williams:Tekken",
+      "nextIndex": 253
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 235410,
-      "vibe": "INTENSE",
+      "source": "Tekken",
+      "fanbase": 249925,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Witch",
-      "description": "Echidna is one of the Witches of Sin, being the Witch of Greed",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
+      "bio": "Assassin",
+      "description": "Anna Williams is a character in the Tekken series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8429.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1568965594185994341/waifu-65d2c4edacc381c1bb2e4367.png?ex=6af1bc93&is=6af06b13&hm=add75e4ebf0c1b21ad4a077b183835cd14a4501cb5f411fc26951602a7c0df49&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569101458983493713/waifu-75159c1273272f839d7f4e8d.png?ex=6af23b1c&is=6af0e99c&hm=4b3764d0998b2f8fa9fc4a82b255d6080f4686a436ad3c88d80888225cc097c6&"
   }
 }
