@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Lucy Heartfilia:Fairy Tail",
-  "lastName": "Lucy Heartfilia",
-  "index": 104,
+  "lastId": "db:Boa Hancock:One Piece",
+  "lastName": "Boa Hancock",
+  "index": 166,
   "recent": [
+    "db:Boa Hancock:One Piece",
     "db:Lucy Heartfilia:Fairy Tail",
     "db:Anna Williams:Tekken",
     "db:Echidna:Re:Zero",
@@ -36,15 +37,14 @@
     "db:Felt:Re:Zero",
     "db:Selena:Punishing Gray Raven",
     "db:Skadi:Arknights",
-    "db:Mukuro Hoshimiya:Date A Live",
-    "db:Bronya:Honkai Star Rail"
+    "db:Mukuro Hoshimiya:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-09T03:45:14.777Z",
+  "updatedAt": "2026-11-09T14:44:18.108Z",
   "cached": {
     "character": {
-      "name": "Lucy Heartfilia",
-      "source": "Fairy Tail",
+      "name": "Boa Hancock",
+      "source": "One Piece",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Lucy Heartfilia:Fairy Tail",
-      "nextIndex": 104
+      "globalId": "db:Boa Hancock:One Piece",
+      "nextIndex": 166
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 187582,
-      "vibe": "CONFIDENT",
-      "rating": "POPULAR",
-      "age": "17-19",
-      "blood": "Unknown",
-      "bio": "Mage",
-      "description": "A mage from the Fairy Tail guild who wields Celestial Spirit magic",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+      "source": "One Piece",
+      "fanbase": 624986,
+      "vibe": "INTENSE",
+      "rating": "LEGENDARY",
+      "age": "29-",
+      "blood": "S",
+      "bio": "Captain",
+      "description": "cm Affiliation: Kuja; Kuja Pirates; Shichibukai Occupation: Pirate Captain; Emp…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569196131185987634/waifu-85cbd4fb61a21f0defc43720.png?ex=6af29347&is=6af141c7&hm=9ee62f17a55581ef77d0d593550294e9ae0ad380cd5fa454b0ae670891e93a6e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569361998473465996/waifu-af4d3c37982fd0d95abb34e5.png?ex=6af32dc1&is=6af1dc41&hm=11d9851b67cca4b0b398c48404010e72888e04da60803360108b4d69ae33f41d&"
   }
 }
