@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Anna Williams:Tekken",
-  "lastName": "Anna Williams",
-  "index": 253,
+  "lastId": "db:Lucy Heartfilia:Fairy Tail",
+  "lastName": "Lucy Heartfilia",
+  "index": 104,
   "recent": [
+    "db:Lucy Heartfilia:Fairy Tail",
     "db:Anna Williams:Tekken",
     "db:Echidna:Re:Zero",
     "db:Bianca:Punishing Gray Raven",
@@ -36,36 +37,35 @@
     "db:Selena:Punishing Gray Raven",
     "db:Skadi:Arknights",
     "db:Mukuro Hoshimiya:Date A Live",
-    "db:Bronya:Honkai Star Rail",
-    "db:Rias Gremory:High School DxD"
+    "db:Bronya:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-08T21:29:00.817Z",
+  "updatedAt": "2026-11-09T03:45:14.777Z",
   "cached": {
     "character": {
-      "name": "Anna Williams",
-      "source": "Tekken",
-      "universe": "GAME",
+      "name": "Lucy Heartfilia",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Anna Williams:Tekken",
-      "nextIndex": 253
+      "globalId": "db:Lucy Heartfilia:Fairy Tail",
+      "nextIndex": 104
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 249925,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Fairy Tail",
+      "fanbase": 187582,
+      "vibe": "CONFIDENT",
+      "rating": "POPULAR",
+      "age": "17-19",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Anna Williams is a character in the Tekken series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8429.jpg"
+      "bio": "Mage",
+      "description": "A mage from the Fairy Tail guild who wields Celestial Spirit magic",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569101458983493713/waifu-75159c1273272f839d7f4e8d.png?ex=6af23b1c&is=6af0e99c&hm=4b3764d0998b2f8fa9fc4a82b255d6080f4686a436ad3c88d80888225cc097c6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569196131185987634/waifu-85cbd4fb61a21f0defc43720.png?ex=6af29347&is=6af141c7&hm=9ee62f17a55581ef77d0d593550294e9ae0ad380cd5fa454b0ae670891e93a6e&"
   }
 }
