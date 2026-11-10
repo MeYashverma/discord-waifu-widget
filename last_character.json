@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Boa Hancock:One Piece",
-  "lastName": "Boa Hancock",
-  "index": 166,
+  "lastId": "db:Neru:Blue Archive",
+  "lastName": "Neru",
+  "index": 72,
   "recent": [
+    "db:Neru:Blue Archive",
     "db:Boa Hancock:One Piece",
     "db:Lucy Heartfilia:Fairy Tail",
     "db:Anna Williams:Tekken",
@@ -36,36 +37,35 @@
     "db:Irina Shidou:High School DxD",
     "db:Felt:Re:Zero",
     "db:Selena:Punishing Gray Raven",
-    "db:Skadi:Arknights",
-    "db:Mukuro Hoshimiya:Date A Live"
+    "db:Skadi:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-09T14:44:18.108Z",
+  "updatedAt": "2026-11-10T00:59:09.333Z",
   "cached": {
     "character": {
-      "name": "Boa Hancock",
-      "source": "One Piece",
-      "universe": "ANIME",
+      "name": "Neru",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Boa Hancock:One Piece",
-      "nextIndex": 166
+      "globalId": "db:Neru:Blue Archive",
+      "nextIndex": 72
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 624986,
-      "vibe": "INTENSE",
-      "rating": "LEGENDARY",
-      "age": "29-",
-      "blood": "S",
-      "bio": "Captain",
-      "description": "cm Affiliation: Kuja; Kuja Pirates; Shichibukai Occupation: Pirate Captain; Emp…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
+      "source": "Blue Archive",
+      "fanbase": 186743,
+      "vibe": "ROYAL",
+      "rating": "POPULAR",
+      "age": "16-",
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Relatives: , , Affiliation: Arakawa School Occupation: Rakugoka cm She is the p…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264023-HcYGatU4xIQ4.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569361998473465996/waifu-af4d3c37982fd0d95abb34e5.png?ex=6af32dc1&is=6af1dc41&hm=11d9851b67cca4b0b398c48404010e72888e04da60803360108b4d69ae33f41d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569516730424754247/waifu-0ee4f0f28acd26b92415674f.png?ex=6af3bddc&is=6af26c5c&hm=f1291826fbe422a828568c31bfe2e719d357b5c558cf3a08ac824dd70e215e1d&"
   }
 }
