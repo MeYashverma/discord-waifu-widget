@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Neru:Blue Archive",
-  "lastName": "Neru",
-  "index": 72,
+  "lastId": "db:Mei Mei:Jujutsu Kaisen",
+  "lastName": "Mei Mei",
+  "index": 126,
   "recent": [
+    "db:Mei Mei:Jujutsu Kaisen",
     "db:Neru:Blue Archive",
     "db:Boa Hancock:One Piece",
     "db:Lucy Heartfilia:Fairy Tail",
@@ -36,36 +37,35 @@
     "db:Makima:Chainsaw Man",
     "db:Irina Shidou:High School DxD",
     "db:Felt:Re:Zero",
-    "db:Selena:Punishing Gray Raven",
-    "db:Skadi:Arknights"
+    "db:Selena:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-10T00:59:09.333Z",
+  "updatedAt": "2026-11-10T13:58:34.418Z",
   "cached": {
     "character": {
-      "name": "Neru",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Mei Mei",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Neru:Blue Archive",
-      "nextIndex": 72
+      "globalId": "db:Mei Mei:Jujutsu Kaisen",
+      "nextIndex": 126
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 186743,
-      "vibe": "ROYAL",
-      "rating": "POPULAR",
-      "age": "16-",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 580188,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "15",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Relatives: , , Affiliation: Arakawa School Occupation: Rakugoka cm She is the p…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264023-HcYGatU4xIQ4.png"
+      "bio": "Student",
+      "description": "Occupation: Middle School Student Grade: 3rd year cm A mysterious, cute and iso…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569516730424754247/waifu-0ee4f0f28acd26b92415674f.png?ex=6af3bddc&is=6af26c5c&hm=f1291826fbe422a828568c31bfe2e719d357b5c558cf3a08ac824dd70e215e1d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569712878427308081/waifu-441bfdee1f5bbe22c6068922.png?ex=6af4748a&is=6af3230a&hm=5f9f18aea1c35602ae458172f552232c2f428d43cb8022797aa2c4bd0a599fc7&"
   }
 }
