@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Karin Kakudate:Blue Archive",
-  "lastName": "Karin Kakudate",
-  "index": 66,
+  "lastId": "db:Wendy Marvell:Fairy Tail",
+  "lastName": "Wendy Marvell",
+  "index": 107,
   "recent": [
+    "db:Wendy Marvell:Fairy Tail",
     "db:Karin Kakudate:Blue Archive",
     "db:Bayonetta:Bayonetta",
     "db:Mei Mei:Jujutsu Kaisen",
@@ -36,36 +37,35 @@
     "db:Kurumi Tokisaki:Date A Live",
     "db:Aqua:Konosuba",
     "db:Asia Argento:High School DxD",
-    "db:Makima:Chainsaw Man",
-    "db:Irina Shidou:High School DxD"
+    "db:Makima:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-11T03:50:37.786Z",
+  "updatedAt": "2026-11-11T13:14:03.717Z",
   "cached": {
     "character": {
-      "name": "Karin Kakudate",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Wendy Marvell",
+      "source": "Fairy Tail",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Karin Kakudate:Blue Archive",
-      "nextIndex": 66
+      "globalId": "db:Wendy Marvell:Fairy Tail",
+      "nextIndex": 107
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 246678,
-      "vibe": "CONFIDENT",
+      "source": "Fairy Tail",
+      "fanbase": 238978,
+      "vibe": "ELEGANT",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "12",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Academy: Millennium Science School Year: 2nd Year",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264238-y0g6BRd0o7iK.png"
+      "bio": "Character",
+      "description": "Wendy is the sky dragon slayer",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28886-unO1rEi3zdyF.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569922272385441913/waifu-754aba1cc8ed0fb487bd233b.png?ex=6af5378d&is=6af3e60d&hm=f8e218bd767d997818f9aa967f79f7b76a47b9d06f3676593dce4c096aced2fd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570064064267288616/waifu-67e64fa2aa94edef715bd475.png?ex=6af5bb9b&is=6af46a1b&hm=c4ba1f52696a8db882d0114d28cefec443ba97e2f38ed5dfea98728aacfef5cd&"
   }
 }
