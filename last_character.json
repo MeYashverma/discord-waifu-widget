@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Wendy Marvell:Fairy Tail",
-  "lastName": "Wendy Marvell",
-  "index": 107,
+  "lastId": "db:Saber:Fate/stay night",
+  "lastName": "Saber",
+  "index": 202,
   "recent": [
+    "db:Saber:Fate/stay night",
     "db:Wendy Marvell:Fairy Tail",
     "db:Karin Kakudate:Blue Archive",
     "db:Bayonetta:Bayonetta",
@@ -36,15 +37,14 @@
     "db:Carlotta:Wuthering Waves",
     "db:Kurumi Tokisaki:Date A Live",
     "db:Aqua:Konosuba",
-    "db:Asia Argento:High School DxD",
-    "db:Makima:Chainsaw Man"
+    "db:Asia Argento:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-11T13:14:03.717Z",
+  "updatedAt": "2026-11-11T23:52:00.929Z",
   "cached": {
     "character": {
-      "name": "Wendy Marvell",
-      "source": "Fairy Tail",
+      "name": "Saber",
+      "source": "Fate/stay night",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Wendy Marvell:Fairy Tail",
-      "nextIndex": 107
+      "globalId": "db:Saber:Fate/stay night",
+      "nextIndex": 202
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 238978,
-      "vibe": "ELEGANT",
+      "source": "Fate/stay night",
+      "fanbase": 230184,
+      "vibe": "MYSTERIOUS",
       "rating": "ICONIC",
-      "age": "12",
+      "age": "35 (chronologically), 15 (physically)",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Wendy is the sky dragon slayer",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28886-unO1rEi3zdyF.jpg"
+      "bio": "Knight",
+      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570064064267288616/waifu-67e64fa2aa94edef715bd475.png?ex=6af5bb9b&is=6af46a1b&hm=c4ba1f52696a8db882d0114d28cefec443ba97e2f38ed5dfea98728aacfef5cd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570224609037516952/waifu-037c5c336a16aeca995a47f9.png?ex=6af65120&is=6af4ffa0&hm=60dae05f3a64d3d8e0bddc52189342d5c8b2dc92341deabb7318e5627854c098&"
   }
 }
