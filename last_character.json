@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bayonetta:Bayonetta",
-  "lastName": "Bayonetta",
-  "index": 259,
+  "lastId": "db:Karin Kakudate:Blue Archive",
+  "lastName": "Karin Kakudate",
+  "index": 66,
   "recent": [
+    "db:Karin Kakudate:Blue Archive",
     "db:Bayonetta:Bayonetta",
     "db:Mei Mei:Jujutsu Kaisen",
     "db:Neru:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Aqua:Konosuba",
     "db:Asia Argento:High School DxD",
     "db:Makima:Chainsaw Man",
-    "db:Irina Shidou:High School DxD",
-    "db:Felt:Re:Zero"
+    "db:Irina Shidou:High School DxD"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-10T22:39:59.217Z",
+  "updatedAt": "2026-11-11T03:50:37.786Z",
   "cached": {
     "character": {
-      "name": "Bayonetta",
-      "source": "Bayonetta",
-      "universe": "GAME",
+      "name": "Karin Kakudate",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bayonetta:Bayonetta",
-      "nextIndex": 259
+      "globalId": "db:Karin Kakudate:Blue Archive",
+      "nextIndex": 66
     },
     "meta": {
-      "source": "Bayonetta",
-      "fanbase": 193245,
-      "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "source": "Blue Archive",
+      "fanbase": 246678,
+      "vibe": "CONFIDENT",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Witch",
-      "description": "Umbra Witch",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87496-pBhFLnxrCi7y.jpg"
+      "bio": "Student",
+      "description": "Academy: Millennium Science School Year: 2nd Year",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264238-y0g6BRd0o7iK.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569844093738033243/waifu-899e22adcb30eb6578ce95dd.png?ex=6af4eebe&is=6af39d3e&hm=b2c79f513f5c82fcd15e1206c9516b8e053b6adcb5e7bf425007393de5556440&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1569922272385441913/waifu-754aba1cc8ed0fb487bd233b.png?ex=6af5378d&is=6af3e60d&hm=f8e218bd767d997818f9aa967f79f7b76a47b9d06f3676593dce4c096aced2fd&"
   }
 }
