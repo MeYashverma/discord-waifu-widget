@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Saber:Fate/stay night",
-  "lastName": "Saber",
-  "index": 202,
+  "lastId": "db:Keqing:Genshin Impact",
+  "lastName": "Keqing",
+  "index": 9,
   "recent": [
+    "db:Keqing:Genshin Impact",
     "db:Saber:Fate/stay night",
     "db:Wendy Marvell:Fairy Tail",
     "db:Karin Kakudate:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Yinlin:Wuthering Waves",
     "db:Carlotta:Wuthering Waves",
     "db:Kurumi Tokisaki:Date A Live",
-    "db:Aqua:Konosuba",
-    "db:Asia Argento:High School DxD"
+    "db:Aqua:Konosuba"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-11T23:52:00.929Z",
+  "updatedAt": "2026-11-12T04:58:17.661Z",
   "cached": {
     "character": {
-      "name": "Saber",
-      "source": "Fate/stay night",
-      "universe": "ANIME",
+      "name": "Keqing",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Saber:Fate/stay night",
-      "nextIndex": 202
+      "globalId": "db:Keqing:Genshin Impact",
+      "nextIndex": 9
     },
     "meta": {
-      "source": "Fate/stay night",
-      "fanbase": 230184,
-      "vibe": "MYSTERIOUS",
-      "rating": "ICONIC",
-      "age": "35 (chronologically), 15 (physically)",
+      "source": "Genshin Impact",
+      "fanbase": 505354,
+      "vibe": "ELEGANT",
+      "rating": "LEGENDARY",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "cm Artoria Pendragon, better known as Arthur Pendragon and King Arthur, is rega…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+      "bio": "Character",
+      "description": "Vision: Electro Constellation: Trulla Cementarii The Yuheng of the Liyue Qixing",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233896-8J1SVpVQulVY.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570224609037516952/waifu-037c5c336a16aeca995a47f9.png?ex=6af65120&is=6af4ffa0&hm=60dae05f3a64d3d8e0bddc52189342d5c8b2dc92341deabb7318e5627854c098&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570301687917183087/waifu-6be5bf795f54074047c67de0.png?ex=6af698e9&is=6af54769&hm=16cb3301890993f8b5d5a15f2cea4f720bf907162b448a41cb73bee4d08ddb46&"
   }
 }
