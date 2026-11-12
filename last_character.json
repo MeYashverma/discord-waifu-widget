@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Citlali:Genshin Impact",
-  "lastName": "Citlali",
-  "index": 20,
+  "lastId": "db:Nami:One Piece",
+  "lastName": "Nami",
+  "index": 164,
   "recent": [
+    "db:Nami:One Piece",
     "db:Citlali:Genshin Impact",
     "db:Keqing:Genshin Impact",
     "db:Saber:Fate/stay night",
@@ -36,36 +37,35 @@
     "db:Black Swan:Honkai Star Rail",
     "db:Miss Fortune:League of Legends",
     "db:Yinlin:Wuthering Waves",
-    "db:Carlotta:Wuthering Waves",
-    "db:Kurumi Tokisaki:Date A Live"
+    "db:Carlotta:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-12T14:18:14.745Z",
+  "updatedAt": "2026-11-12T22:59:10.201Z",
   "cached": {
     "character": {
-      "name": "Citlali",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Nami",
+      "source": "One Piece",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Citlali:Genshin Impact",
-      "nextIndex": 20
+      "globalId": "db:Nami:One Piece",
+      "nextIndex": 164
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 550047,
-      "vibe": "TSUNDERE",
+      "source": "One Piece",
+      "fanbase": 631198,
+      "vibe": "YANDERE",
       "rating": "LEGENDARY",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "age": "18-",
+      "blood": "X",
       "bio": "Character",
-      "description": "A legendary shaman from the Masters of the Night-Wind, known throughout Natlan …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383123-Ba9s0dyLDHCC.png"
+      "description": "cm Position: Navigator Bounty: 366,000,000 Nami is the third person to align he…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570442604326158357/waifu-1c7bdbbebd3ca5a464e333e9.png?ex=6af71c26&is=6af5caa6&hm=3dd6ab48dc06467c6ce238f98376e909aa425fe1781d1f7e79880d2b815332f6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570573698203652126/waifu-be7ef75e4341a34d5c8396c1.png?ex=6af7963d&is=6af644bd&hm=0dea42ff5aa9a9543be2cdffc98137c54c9eedb570b6c60490cc9c446b3bc967&"
   }
 }
