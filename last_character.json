@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Keqing:Genshin Impact",
-  "lastName": "Keqing",
-  "index": 9,
+  "lastId": "db:Citlali:Genshin Impact",
+  "lastName": "Citlali",
+  "index": 20,
   "recent": [
+    "db:Citlali:Genshin Impact",
     "db:Keqing:Genshin Impact",
     "db:Saber:Fate/stay night",
     "db:Wendy Marvell:Fairy Tail",
@@ -36,14 +37,13 @@
     "db:Miss Fortune:League of Legends",
     "db:Yinlin:Wuthering Waves",
     "db:Carlotta:Wuthering Waves",
-    "db:Kurumi Tokisaki:Date A Live",
-    "db:Aqua:Konosuba"
+    "db:Kurumi Tokisaki:Date A Live"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-12T04:58:17.661Z",
+  "updatedAt": "2026-11-12T14:18:14.745Z",
   "cached": {
     "character": {
-      "name": "Keqing",
+      "name": "Citlali",
       "source": "Genshin Impact",
       "universe": "GACHA",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Keqing:Genshin Impact",
-      "nextIndex": 9
+      "globalId": "db:Citlali:Genshin Impact",
+      "nextIndex": 20
     },
     "meta": {
       "source": "Genshin Impact",
-      "fanbase": 505354,
-      "vibe": "ELEGANT",
+      "fanbase": 550047,
+      "vibe": "TSUNDERE",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Vision: Electro Constellation: Trulla Cementarii The Yuheng of the Liyue Qixing",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233896-8J1SVpVQulVY.jpg"
+      "description": "A legendary shaman from the Masters of the Night-Wind, known throughout Natlan …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383123-Ba9s0dyLDHCC.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570301687917183087/waifu-6be5bf795f54074047c67de0.png?ex=6af698e9&is=6af54769&hm=16cb3301890993f8b5d5a15f2cea4f720bf907162b448a41cb73bee4d08ddb46&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570442604326158357/waifu-1c7bdbbebd3ca5a464e333e9.png?ex=6af71c26&is=6af5caa6&hm=3dd6ab48dc06467c6ce238f98376e909aa425fe1781d1f7e79880d2b815332f6&"
   }
 }
