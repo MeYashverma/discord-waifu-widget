@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asuna Ichinose:Blue Archive",
-  "lastName": "Asuna Ichinose",
-  "index": 65,
+  "lastId": "db:Crusch Karsten:Re:Zero",
+  "lastName": "Crusch Karsten",
+  "index": 85,
   "recent": [
+    "db:Crusch Karsten:Re:Zero",
     "db:Asuna Ichinose:Blue Archive",
     "db:Shionne Imeris:Tales of Arise",
     "db:Nami:One Piece",
@@ -36,36 +37,35 @@
     "db:Annie Leonhart:Attack on Titan",
     "db:2B:NieR Automata",
     "db:Irene Belserion:Fairy Tail",
-    "db:Black Swan:Honkai Star Rail",
-    "db:Miss Fortune:League of Legends"
+    "db:Black Swan:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-13T13:39:32.017Z",
+  "updatedAt": "2026-11-13T23:01:42.771Z",
   "cached": {
     "character": {
-      "name": "Asuna Ichinose",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Crusch Karsten",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asuna Ichinose:Blue Archive",
-      "nextIndex": 65
+      "globalId": "db:Crusch Karsten:Re:Zero",
+      "nextIndex": 85
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 224281,
-      "vibe": "DEADLY",
+      "source": "Re:Zero",
+      "fanbase": 250412,
+      "vibe": "INTENSE",
       "rating": "ICONIC",
-      "age": "17",
+      "age": "20",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "cm An agent of the Millennium's secret organization, Cleaning&Clearing",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269726-e73jfn7SpGfI.png"
+      "bio": "Soldier",
+      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570795249310105660/waifu-6e3ea861871213040fb05842.png?ex=6af86493&is=6af71313&hm=8bc924b1c9d5d98b4cf73ff925d0c63455c5936b3b602be5f524f25ceddaf915&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570936726535544934/waifu-cabbe95ce713429f4c7d1406.png?ex=6af8e856&is=6af796d6&hm=5ced0d188136034087e09c6701c8b3b8575e3c16000d8fc2b17f4c77316c7c0e&"
   }
 }
