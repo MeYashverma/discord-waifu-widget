@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shionne Imeris:Tales of Arise",
-  "lastName": "Shionne Imeris",
-  "index": 270,
+  "lastId": "db:Asuna Ichinose:Blue Archive",
+  "lastName": "Asuna Ichinose",
+  "index": 65,
   "recent": [
+    "db:Asuna Ichinose:Blue Archive",
     "db:Shionne Imeris:Tales of Arise",
     "db:Nami:One Piece",
     "db:Citlali:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:2B:NieR Automata",
     "db:Irene Belserion:Fairy Tail",
     "db:Black Swan:Honkai Star Rail",
-    "db:Miss Fortune:League of Legends",
-    "db:Yinlin:Wuthering Waves"
+    "db:Miss Fortune:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-13T04:12:17.135Z",
+  "updatedAt": "2026-11-13T13:39:32.017Z",
   "cached": {
     "character": {
-      "name": "Shionne Imeris",
-      "source": "Tales of Arise",
-      "universe": "JRPG",
+      "name": "Asuna Ichinose",
+      "source": "Blue Archive",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shionne Imeris:Tales of Arise",
-      "nextIndex": 270
+      "globalId": "db:Asuna Ichinose:Blue Archive",
+      "nextIndex": 65
     },
     "meta": {
-      "source": "Tales of Arise",
-      "fanbase": 266296,
-      "vibe": "MYSTERIOUS",
+      "source": "Blue Archive",
+      "fanbase": 224281,
+      "vibe": "DEADLY",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "17",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "One of the twin sister's, Inukami contracted to Kaoru",
-      "image": "https://media.kitsu.app/characters/images/11852/original.jpg"
+      "description": "cm An agent of the Millennium's secret organization, Cleaning&Clearing",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269726-e73jfn7SpGfI.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570652497654321272/waifu-6e28701f04a3b096d5e43159.png?ex=6af7dfa0&is=6af68e20&hm=4754acd819b56ea522c16e9dca57311a9516cf5c89672a754648add4418a0c38&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570795249310105660/waifu-6e3ea861871213040fb05842.png?ex=6af86493&is=6af71313&hm=8bc924b1c9d5d98b4cf73ff925d0c63455c5936b3b602be5f524f25ceddaf915&"
   }
 }
