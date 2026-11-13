@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nami:One Piece",
-  "lastName": "Nami",
-  "index": 164,
+  "lastId": "db:Shionne Imeris:Tales of Arise",
+  "lastName": "Shionne Imeris",
+  "index": 270,
   "recent": [
+    "db:Shionne Imeris:Tales of Arise",
     "db:Nami:One Piece",
     "db:Citlali:Genshin Impact",
     "db:Keqing:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Irene Belserion:Fairy Tail",
     "db:Black Swan:Honkai Star Rail",
     "db:Miss Fortune:League of Legends",
-    "db:Yinlin:Wuthering Waves",
-    "db:Carlotta:Wuthering Waves"
+    "db:Yinlin:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-12T22:59:10.201Z",
+  "updatedAt": "2026-11-13T04:12:17.135Z",
   "cached": {
     "character": {
-      "name": "Nami",
-      "source": "One Piece",
-      "universe": "ANIME",
+      "name": "Shionne Imeris",
+      "source": "Tales of Arise",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nami:One Piece",
-      "nextIndex": 164
+      "globalId": "db:Shionne Imeris:Tales of Arise",
+      "nextIndex": 270
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 631198,
-      "vibe": "YANDERE",
-      "rating": "LEGENDARY",
-      "age": "18-",
-      "blood": "X",
+      "source": "Tales of Arise",
+      "fanbase": 266296,
+      "vibe": "MYSTERIOUS",
+      "rating": "ICONIC",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "cm Position: Navigator Bounty: 366,000,000 Nami is the third person to align he…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+      "description": "One of the twin sister's, Inukami contracted to Kaoru",
+      "image": "https://media.kitsu.app/characters/images/11852/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570573698203652126/waifu-be7ef75e4341a34d5c8396c1.png?ex=6af7963d&is=6af644bd&hm=0dea42ff5aa9a9543be2cdffc98137c54c9eedb570b6c60490cc9c446b3bc967&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570652497654321272/waifu-6e28701f04a3b096d5e43159.png?ex=6af7dfa0&is=6af68e20&hm=4754acd819b56ea522c16e9dca57311a9516cf5c89672a754648add4418a0c38&"
   }
 }
