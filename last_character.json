@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mudrock:Arknights",
-  "lastName": "Mudrock",
-  "index": 288,
+  "lastId": "db:Morrigan Aensland:Darkstalkers",
+  "lastName": "Morrigan Aensland",
+  "index": 263,
   "recent": [
+    "db:Morrigan Aensland:Darkstalkers",
     "db:Mudrock:Arknights",
     "db:Crusch Karsten:Re:Zero",
     "db:Asuna Ichinose:Blue Archive",
@@ -36,36 +37,35 @@
     "db:Rebecca Chambers:Resident Evil",
     "db:Cana Alberona:Fairy Tail",
     "db:Annie Leonhart:Attack on Titan",
-    "db:2B:NieR Automata",
-    "db:Irene Belserion:Fairy Tail"
+    "db:2B:NieR Automata"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-14T04:08:36.351Z",
+  "updatedAt": "2026-11-14T12:43:57.280Z",
   "cached": {
     "character": {
-      "name": "Mudrock",
-      "source": "Arknights",
-      "universe": "GACHA",
+      "name": "Morrigan Aensland",
+      "source": "Darkstalkers",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mudrock:Arknights",
-      "nextIndex": 288
+      "globalId": "db:Morrigan Aensland:Darkstalkers",
+      "nextIndex": 263
     },
     "meta": {
-      "source": "Arknights",
-      "fanbase": 206469,
+      "source": "Darkstalkers",
+      "fanbase": 227153,
       "vibe": "LOYAL",
-      "rating": "POPULAR",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Place of Birth: Kazdel Race: Sarkaz cm Sarkaz mercenary Mudrock, formerly a par…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300461-yt3CCUGn0i1V.jpg"
+      "bio": "Royalty",
+      "description": "The Japanese-produced Night Warriors: Darkstalker's Revenge anime featured Morr…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9963-7ASB7IiUqiuh.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571013959887224832/waifu-64dce192bef458c6ac9b96f9.png?ex=6af93044&is=6af7dec4&hm=4c3bebf6b0573bbe7fef4b6a3caf0867d815aa38775e97d8835c611fc1d1b1bd&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571143650812108820/waifu-740d050716324d7351a3cf80.png?ex=6af9a90c&is=6af8578c&hm=b9d2ea1178e3b8eb7b410ecd11dd88121348bcd5306115a19953a42eda16f92d&"
   }
 }
