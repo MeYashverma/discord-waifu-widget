@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Crusch Karsten:Re:Zero",
-  "lastName": "Crusch Karsten",
-  "index": 85,
+  "lastId": "db:Mudrock:Arknights",
+  "lastName": "Mudrock",
+  "index": 288,
   "recent": [
+    "db:Mudrock:Arknights",
     "db:Crusch Karsten:Re:Zero",
     "db:Asuna Ichinose:Blue Archive",
     "db:Shionne Imeris:Tales of Arise",
@@ -36,36 +37,35 @@
     "db:Cana Alberona:Fairy Tail",
     "db:Annie Leonhart:Attack on Titan",
     "db:2B:NieR Automata",
-    "db:Irene Belserion:Fairy Tail",
-    "db:Black Swan:Honkai Star Rail"
+    "db:Irene Belserion:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-13T23:01:42.771Z",
+  "updatedAt": "2026-11-14T04:08:36.351Z",
   "cached": {
     "character": {
-      "name": "Crusch Karsten",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Mudrock",
+      "source": "Arknights",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Crusch Karsten:Re:Zero",
-      "nextIndex": 85
+      "globalId": "db:Mudrock:Arknights",
+      "nextIndex": 288
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 250412,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
-      "age": "20",
+      "source": "Arknights",
+      "fanbase": 206469,
+      "vibe": "LOYAL",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
+      "bio": "Character",
+      "description": "Place of Birth: Kazdel Race: Sarkaz cm Sarkaz mercenary Mudrock, formerly a par…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300461-yt3CCUGn0i1V.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1570936726535544934/waifu-cabbe95ce713429f4c7d1406.png?ex=6af8e856&is=6af796d6&hm=5ced0d188136034087e09c6701c8b3b8575e3c16000d8fc2b17f4c77316c7c0e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571013959887224832/waifu-64dce192bef458c6ac9b96f9.png?ex=6af93044&is=6af7dec4&hm=4c3bebf6b0573bbe7fef4b6a3caf0867d815aa38775e97d8835c611fc1d1b1bd&"
   }
 }
