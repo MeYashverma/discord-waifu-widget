@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Morrigan Aensland:Darkstalkers",
-  "lastName": "Morrigan Aensland",
-  "index": 263,
+  "lastId": "db:Akeno Himejima:High School DxD",
+  "lastName": "Akeno Himejima",
+  "index": 90,
   "recent": [
+    "db:Akeno Himejima:High School DxD",
     "db:Morrigan Aensland:Darkstalkers",
     "db:Mudrock:Arknights",
     "db:Crusch Karsten:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Sheva Alomar:Resident Evil",
     "db:Rebecca Chambers:Resident Evil",
     "db:Cana Alberona:Fairy Tail",
-    "db:Annie Leonhart:Attack on Titan",
-    "db:2B:NieR Automata"
+    "db:Annie Leonhart:Attack on Titan"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-14T12:43:57.280Z",
+  "updatedAt": "2026-11-14T21:49:44.489Z",
   "cached": {
     "character": {
-      "name": "Morrigan Aensland",
-      "source": "Darkstalkers",
-      "universe": "GAME",
+      "name": "Akeno Himejima",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Morrigan Aensland:Darkstalkers",
-      "nextIndex": 263
+      "globalId": "db:Akeno Himejima:High School DxD",
+      "nextIndex": 90
     },
     "meta": {
-      "source": "Darkstalkers",
-      "fanbase": 227153,
+      "source": "High School DxD",
+      "fanbase": 256833,
       "vibe": "LOYAL",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "The Japanese-produced Night Warriors: Darkstalker's Revenge anime featured Morr…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9963-7ASB7IiUqiuh.png"
+      "bio": "Devil",
+      "description": "Queen of Rias Gremory's peerage",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51347-YMb9fndAriXd.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571143650812108820/waifu-740d050716324d7351a3cf80.png?ex=6af9a90c&is=6af8578c&hm=b9d2ea1178e3b8eb7b410ecd11dd88121348bcd5306115a19953a42eda16f92d&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571281002276593734/waifu-ed31759dab8b63ddeb9e7fed.png?ex=6afa28f7&is=6af8d777&hm=5ee833d6996234b01f994d33df04d88da715c41504177d0d3ea6d215e23cd17a&"
   }
 }
