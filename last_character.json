@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Akeno Himejima:High School DxD",
-  "lastName": "Akeno Himejima",
-  "index": 90,
+  "lastId": "db:Ashley Graham:Resident Evil 4",
+  "lastName": "Ashley Graham",
+  "index": 234,
   "recent": [
+    "db:Ashley Graham:Resident Evil 4",
     "db:Akeno Himejima:High School DxD",
     "db:Morrigan Aensland:Darkstalkers",
     "db:Mudrock:Arknights",
@@ -36,36 +37,35 @@
     "db:Shinju Inui:My Dress-Up Darling",
     "db:Sheva Alomar:Resident Evil",
     "db:Rebecca Chambers:Resident Evil",
-    "db:Cana Alberona:Fairy Tail",
-    "db:Annie Leonhart:Attack on Titan"
+    "db:Cana Alberona:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-14T21:49:44.489Z",
+  "updatedAt": "2026-11-15T03:54:24.553Z",
   "cached": {
     "character": {
-      "name": "Akeno Himejima",
-      "source": "High School DxD",
-      "universe": "ANIME",
+      "name": "Ashley Graham",
+      "source": "Resident Evil 4",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Akeno Himejima:High School DxD",
-      "nextIndex": 90
+      "globalId": "db:Ashley Graham:Resident Evil 4",
+      "nextIndex": 234
     },
     "meta": {
-      "source": "High School DxD",
-      "fanbase": 256833,
-      "vibe": "LOYAL",
+      "source": "Resident Evil 4",
+      "fanbase": 261743,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Devil",
-      "description": "Queen of Rias Gremory's peerage",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51347-YMb9fndAriXd.png"
+      "bio": "Character",
+      "description": "Ashley is the daughter of former US President Graham",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146257-7kTBSqPrmggV.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571281002276593734/waifu-ed31759dab8b63ddeb9e7fed.png?ex=6afa28f7&is=6af8d777&hm=5ee833d6996234b01f994d33df04d88da715c41504177d0d3ea6d215e23cd17a&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571372774256287835/waifu-79602d54d5ba40f56566b81f.png?ex=6afa7e70&is=6af92cf0&hm=dcf6a68d200e06d1cbd3c8822b6ec21ec76df75a895ecb43356fb82322893501&"
   }
 }
