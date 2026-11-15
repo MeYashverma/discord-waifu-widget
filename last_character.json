@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
-  "lastName": "Sajuna Inui",
-  "index": 155,
+  "lastId": "db:Jinhsi:Wuthering Waves",
+  "lastName": "Jinhsi",
+  "index": 44,
   "recent": [
+    "db:Jinhsi:Wuthering Waves",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Ashley Graham:Resident Evil 4",
     "db:Akeno Himejima:High School DxD",
@@ -36,36 +37,35 @@
     "db:Priscilla Barielle:Re:Zero",
     "db:Tifa Lockhart:Final Fantasy VII",
     "db:Shinju Inui:My Dress-Up Darling",
-    "db:Sheva Alomar:Resident Evil",
-    "db:Rebecca Chambers:Resident Evil"
+    "db:Sheva Alomar:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-15T13:10:52.955Z",
+  "updatedAt": "2026-11-15T22:17:43.795Z",
   "cached": {
     "character": {
-      "name": "Sajuna Inui",
-      "source": "My Dress-Up Darling",
-      "universe": "ANIME",
+      "name": "Jinhsi",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
-      "nextIndex": 155
+      "globalId": "db:Jinhsi:Wuthering Waves",
+      "nextIndex": 44
     },
     "meta": {
-      "source": "My Dress-Up Darling",
-      "fanbase": 207074,
-      "vibe": "YANDERE",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "Wuthering Waves",
+      "fanbase": 240363,
+      "vibe": "DEADLY",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "A famous cosplayer that looks up to",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+      "description": "No biography written",
+      "image": "https://media.kitsu.app/characters/images/15836/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571512816039366716/waifu-b95cb77b2891a829327af9ef.png?ex=6afb00dc&is=6af9af5c&hm=cd7ca5b37b57867de57bd46d9b1270aa0064947d11b60deeb926ee27b07d5a8e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571650434127634554/waifu-4b07a7a4bad9f23a801fd788.png?ex=6afb8107&is=6afa2f87&hm=4e863dfe738c75c23c37de0463ac0b4ccebfe8e2186cbedf790f6b6cd69856e4&"
   }
 }
