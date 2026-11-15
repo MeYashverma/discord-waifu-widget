@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ashley Graham:Resident Evil 4",
-  "lastName": "Ashley Graham",
-  "index": 234,
+  "lastId": "db:Sajuna Inui:My Dress-Up Darling",
+  "lastName": "Sajuna Inui",
+  "index": 155,
   "recent": [
+    "db:Sajuna Inui:My Dress-Up Darling",
     "db:Ashley Graham:Resident Evil 4",
     "db:Akeno Himejima:High School DxD",
     "db:Morrigan Aensland:Darkstalkers",
@@ -36,36 +37,35 @@
     "db:Tifa Lockhart:Final Fantasy VII",
     "db:Shinju Inui:My Dress-Up Darling",
     "db:Sheva Alomar:Resident Evil",
-    "db:Rebecca Chambers:Resident Evil",
-    "db:Cana Alberona:Fairy Tail"
+    "db:Rebecca Chambers:Resident Evil"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-15T03:54:24.553Z",
+  "updatedAt": "2026-11-15T13:10:52.955Z",
   "cached": {
     "character": {
-      "name": "Ashley Graham",
-      "source": "Resident Evil 4",
-      "universe": "GAME",
+      "name": "Sajuna Inui",
+      "source": "My Dress-Up Darling",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ashley Graham:Resident Evil 4",
-      "nextIndex": 234
+      "globalId": "db:Sajuna Inui:My Dress-Up Darling",
+      "nextIndex": 155
     },
     "meta": {
-      "source": "Resident Evil 4",
-      "fanbase": 261743,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "My Dress-Up Darling",
+      "fanbase": 207074,
+      "vibe": "YANDERE",
+      "rating": "POPULAR",
+      "age": "17",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Ashley is the daughter of former US President Graham",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146257-7kTBSqPrmggV.png"
+      "description": "A famous cosplayer that looks up to",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571372774256287835/waifu-79602d54d5ba40f56566b81f.png?ex=6afa7e70&is=6af92cf0&hm=dcf6a68d200e06d1cbd3c8822b6ec21ec76df75a895ecb43356fb82322893501&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571512816039366716/waifu-b95cb77b2891a829327af9ef.png?ex=6afb00dc&is=6af9af5c&hm=cd7ca5b37b57867de57bd46d9b1270aa0064947d11b60deeb926ee27b07d5a8e&"
   }
 }
