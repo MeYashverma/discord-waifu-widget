@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jinhsi:Wuthering Waves",
-  "lastName": "Jinhsi",
-  "index": 44,
+  "lastId": "db:Ravel Phenex:High School DxD",
+  "lastName": "Ravel Phenex",
+  "index": 96,
   "recent": [
+    "db:Ravel Phenex:High School DxD",
     "db:Jinhsi:Wuthering Waves",
     "db:Sajuna Inui:My Dress-Up Darling",
     "db:Ashley Graham:Resident Evil 4",
@@ -36,36 +37,35 @@
     "db:Hinatsuru:Demon Slayer",
     "db:Priscilla Barielle:Re:Zero",
     "db:Tifa Lockhart:Final Fantasy VII",
-    "db:Shinju Inui:My Dress-Up Darling",
-    "db:Sheva Alomar:Resident Evil"
+    "db:Shinju Inui:My Dress-Up Darling"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-15T22:17:43.795Z",
+  "updatedAt": "2026-11-16T03:54:24.737Z",
   "cached": {
     "character": {
-      "name": "Jinhsi",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Ravel Phenex",
+      "source": "High School DxD",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jinhsi:Wuthering Waves",
-      "nextIndex": 44
+      "globalId": "db:Ravel Phenex:High School DxD",
+      "nextIndex": 96
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 240363,
-      "vibe": "DEADLY",
+      "source": "High School DxD",
+      "fanbase": 229517,
+      "vibe": "LOYAL",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "No biography written",
-      "image": "https://media.kitsu.app/characters/images/15836/original.jpg"
+      "description": "sister",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58341-TKto1nFGrA7r.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571650434127634554/waifu-4b07a7a4bad9f23a801fd788.png?ex=6afb8107&is=6afa2f87&hm=4e863dfe738c75c23c37de0463ac0b4ccebfe8e2186cbedf790f6b6cd69856e4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571735163447287858/waifu-5ede3d7fd87edff4b0107ea3.png?ex=6afbcff0&is=6afa7e70&hm=0e68b8043e6f4c32ea23e101c3cb2bf1b478730d89cbb788bfd992fee6abbb96&"
   }
 }
