@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Shinobu Kocho:Demon Slayer",
-  "lastName": "Shinobu Kocho",
-  "index": 115,
+  "lastId": "db:Ann Takamaki:Persona 5",
+  "lastName": "Ann Takamaki",
+  "index": 224,
   "recent": [
+    "db:Ann Takamaki:Persona 5",
     "db:Shinobu Kocho:Demon Slayer",
     "db:Reina Mishima:Tekken 8",
     "db:Ravel Phenex:High School DxD",
@@ -36,36 +37,35 @@
     "db:Kai'Sa:League of Legends",
     "db:Darkness:Konosuba",
     "db:Kal'tsit:Arknights",
-    "db:Hinatsuru:Demon Slayer",
-    "db:Priscilla Barielle:Re:Zero"
+    "db:Hinatsuru:Demon Slayer"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-17T01:18:07.567Z",
+  "updatedAt": "2026-11-17T15:12:31.615Z",
   "cached": {
     "character": {
-      "name": "Shinobu Kocho",
-      "source": "Demon Slayer",
-      "universe": "ANIME",
+      "name": "Ann Takamaki",
+      "source": "Persona 5",
+      "universe": "JRPG",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Shinobu Kocho:Demon Slayer",
-      "nextIndex": 115
+      "globalId": "db:Ann Takamaki:Persona 5",
+      "nextIndex": 224
     },
     "meta": {
-      "source": "Demon Slayer",
-      "fanbase": 583822,
+      "source": "Persona 5",
+      "fanbase": 485480,
       "vibe": "WHOLESOME",
-      "rating": "LEGENDARY",
-      "age": "18",
+      "rating": "ELITE",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hashira",
-      "description": "Insect Hashira",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
+      "bio": "Phantom Thief",
+      "description": "Model and Phantom Thief",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120335-122Vh3RaM4ZK.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572058219965059222/waifu-842ae1f0ef4b3bc70a245e5e.png?ex=6afcfccf&is=6afbab4f&hm=ffe4e5a043c82bd03e451d3874ea4f934525c5b147c15a970246a07da312ad5b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572268203294462096/waifu-ec6d79612b8aad3332fb6909.png?ex=6afdc05e&is=6afc6ede&hm=40cab8a9e42ec27191306016233377a164c9f1b11f8d4405494a5a39f52a4618&"
   }
 }
