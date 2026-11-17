@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Reina Mishima:Tekken 8",
-  "lastName": "Reina Mishima",
-  "index": 252,
+  "lastId": "db:Shinobu Kocho:Demon Slayer",
+  "lastName": "Shinobu Kocho",
+  "index": 115,
   "recent": [
+    "db:Shinobu Kocho:Demon Slayer",
     "db:Reina Mishima:Tekken 8",
     "db:Ravel Phenex:High School DxD",
     "db:Jinhsi:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Darkness:Konosuba",
     "db:Kal'tsit:Arknights",
     "db:Hinatsuru:Demon Slayer",
-    "db:Priscilla Barielle:Re:Zero",
-    "db:Tifa Lockhart:Final Fantasy VII"
+    "db:Priscilla Barielle:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-16T14:19:56.987Z",
+  "updatedAt": "2026-11-17T01:18:07.567Z",
   "cached": {
     "character": {
-      "name": "Reina Mishima",
-      "source": "Tekken 8",
-      "universe": "GAME",
+      "name": "Shinobu Kocho",
+      "source": "Demon Slayer",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Reina Mishima:Tekken 8",
-      "nextIndex": 252
+      "globalId": "db:Shinobu Kocho:Demon Slayer",
+      "nextIndex": 115
     },
     "meta": {
-      "source": "Tekken 8",
-      "fanbase": 258864,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
-      "age": "Unknown",
+      "source": "Demon Slayer",
+      "fanbase": 583822,
+      "vibe": "WHOLESOME",
+      "rating": "LEGENDARY",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Reika Mishima first appears in the series as the subject of one of Ayato's pain…",
-      "image": "https://media.kitsu.app/characters/images/3318/original.jpg"
+      "bio": "Hashira",
+      "description": "Insect Hashira",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1571892585197473902/waifu-7795b2f17c0a595ccd6a3dfb.png?ex=6afc628c&is=6afb110c&hm=9db6881155a1511de3b2ec6048b98ba7ebe659bf0c7aac744f0f8a6e571a2e81&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572058219965059222/waifu-842ae1f0ef4b3bc70a245e5e.png?ex=6afcfccf&is=6afbab4f&hm=ffe4e5a043c82bd03e451d3874ea4f934525c5b147c15a970246a07da312ad5b&"
   }
 }
