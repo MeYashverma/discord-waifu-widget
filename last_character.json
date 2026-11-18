@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Jingliu:Honkai Star Rail",
-  "lastName": "Jingliu",
-  "index": 26,
+  "lastId": "db:Samus Aran:Metroid",
+  "lastName": "Samus Aran",
+  "index": 264,
   "recent": [
+    "db:Samus Aran:Metroid",
     "db:Jingliu:Honkai Star Rail",
     "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Ann Takamaki:Persona 5",
@@ -36,36 +37,35 @@
     "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Mavuika:Genshin Impact",
     "db:Artoria Pendragon:Fate/stay night",
-    "db:Kai'Sa:League of Legends",
-    "db:Darkness:Konosuba"
+    "db:Kai'Sa:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-18T14:49:53.334Z",
+  "updatedAt": "2026-11-18T23:42:54.954Z",
   "cached": {
     "character": {
-      "name": "Jingliu",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Samus Aran",
+      "source": "Metroid",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Jingliu:Honkai Star Rail",
-      "nextIndex": 26
+      "globalId": "db:Samus Aran:Metroid",
+      "nextIndex": 264
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 480715,
-      "vibe": "SEDUCTIVE",
-      "rating": "ELITE",
+      "source": "Metroid",
+      "fanbase": 212966,
+      "vibe": "INTENSE",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "One of the legendary heroes making up the High-Cloud Quintet, and bestowed with…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315733-thMvoMJqMdqu.png"
+      "bio": "Hunter",
+      "description": "Samus is a bounty hunter",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11998-akZrClzG6mrR.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572624892627656795/waifu-fbb641a7c05acd5d70924c6f.png?ex=6aff0c90&is=6afdbb10&hm=08fd0bdb517ad673966e567fcefbafd7d4fbc286653c1248709a7f3317df0c56&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572759035386531922/waifu-3e6132f64819d61e924a76bd.png?ex=6aff897e&is=6afe37fe&hm=13baf31e3e284fa928abb6102665292dbeaeb4ba2e97d0be38a9d1dcd16078a2&"
   }
 }
