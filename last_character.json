@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Aerith Gainsborough:Final Fantasy VII",
-  "lastName": "Aerith Gainsborough",
-  "index": 211,
+  "lastId": "db:Jingliu:Honkai Star Rail",
+  "lastName": "Jingliu",
+  "index": 26,
   "recent": [
+    "db:Jingliu:Honkai Star Rail",
     "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Ann Takamaki:Persona 5",
     "db:Shinobu Kocho:Demon Slayer",
@@ -36,36 +37,35 @@
     "db:Mavuika:Genshin Impact",
     "db:Artoria Pendragon:Fate/stay night",
     "db:Kai'Sa:League of Legends",
-    "db:Darkness:Konosuba",
-    "db:Kal'tsit:Arknights"
+    "db:Darkness:Konosuba"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-18T00:14:43.280Z",
+  "updatedAt": "2026-11-18T14:49:53.334Z",
   "cached": {
     "character": {
-      "name": "Aerith Gainsborough",
-      "source": "Final Fantasy VII",
-      "universe": "JRPG",
+      "name": "Jingliu",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aerith Gainsborough:Final Fantasy VII",
-      "nextIndex": 211
+      "globalId": "db:Jingliu:Honkai Star Rail",
+      "nextIndex": 26
     },
     "meta": {
-      "source": "Final Fantasy VII",
-      "fanbase": 510566,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
+      "source": "Honkai Star Rail",
+      "fanbase": 480715,
+      "vibe": "SEDUCTIVE",
+      "rating": "ELITE",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Flower Girl",
-      "description": "Last Cetra flower seller",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b757-XgHQOxpK4L6k.png"
+      "bio": "Character",
+      "description": "One of the legendary heroes making up the High-Cloud Quintet, and bestowed with…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315733-thMvoMJqMdqu.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572404651565916273/waifu-605e964145d14eacc98b1078.png?ex=6afe3f72&is=6afcedf2&hm=8fe9c34dcd82d23daa694eba81376f65b7594269462a625884eb87338e8e5a7b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572624892627656795/waifu-fbb641a7c05acd5d70924c6f.png?ex=6aff0c90&is=6afdbb10&hm=08fd0bdb517ad673966e567fcefbafd7d4fbc286653c1248709a7f3317df0c56&"
   }
 }
