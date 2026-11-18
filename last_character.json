@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ann Takamaki:Persona 5",
-  "lastName": "Ann Takamaki",
-  "index": 224,
+  "lastId": "db:Aerith Gainsborough:Final Fantasy VII",
+  "lastName": "Aerith Gainsborough",
+  "index": 211,
   "recent": [
+    "db:Aerith Gainsborough:Final Fantasy VII",
     "db:Ann Takamaki:Persona 5",
     "db:Shinobu Kocho:Demon Slayer",
     "db:Reina Mishima:Tekken 8",
@@ -36,15 +37,14 @@
     "db:Artoria Pendragon:Fate/stay night",
     "db:Kai'Sa:League of Legends",
     "db:Darkness:Konosuba",
-    "db:Kal'tsit:Arknights",
-    "db:Hinatsuru:Demon Slayer"
+    "db:Kal'tsit:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-17T15:12:31.615Z",
+  "updatedAt": "2026-11-18T00:14:43.280Z",
   "cached": {
     "character": {
-      "name": "Ann Takamaki",
-      "source": "Persona 5",
+      "name": "Aerith Gainsborough",
+      "source": "Final Fantasy VII",
       "universe": "JRPG",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ann Takamaki:Persona 5",
-      "nextIndex": 224
+      "globalId": "db:Aerith Gainsborough:Final Fantasy VII",
+      "nextIndex": 211
     },
     "meta": {
-      "source": "Persona 5",
-      "fanbase": 485480,
-      "vibe": "WHOLESOME",
-      "rating": "ELITE",
+      "source": "Final Fantasy VII",
+      "fanbase": 510566,
+      "vibe": "CONFIDENT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Phantom Thief",
-      "description": "Model and Phantom Thief",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120335-122Vh3RaM4ZK.png"
+      "bio": "Flower Girl",
+      "description": "Last Cetra flower seller",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b757-XgHQOxpK4L6k.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572268203294462096/waifu-ec6d79612b8aad3332fb6909.png?ex=6afdc05e&is=6afc6ede&hm=40cab8a9e42ec27191306016233377a164c9f1b11f8d4405494a5a39f52a4618&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572404651565916273/waifu-605e964145d14eacc98b1078.png?ex=6afe3f72&is=6afcedf2&hm=8fe9c34dcd82d23daa694eba81376f65b7594269462a625884eb87338e8e5a7b&"
   }
 }
