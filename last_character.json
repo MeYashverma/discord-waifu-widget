@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Samus Aran:Metroid",
-  "lastName": "Samus Aran",
-  "index": 264,
+  "lastId": "db:Bronya:Honkai Star Rail",
+  "lastName": "Bronya",
+  "index": 28,
   "recent": [
+    "db:Bronya:Honkai Star Rail",
     "db:Samus Aran:Metroid",
     "db:Jingliu:Honkai Star Rail",
     "db:Aerith Gainsborough:Final Fantasy VII",
@@ -36,36 +37,35 @@
     "db:Yoru:Chainsaw Man",
     "db:Yui Ikari:Neon Genesis Evangelion",
     "db:Mavuika:Genshin Impact",
-    "db:Artoria Pendragon:Fate/stay night",
-    "db:Kai'Sa:League of Legends"
+    "db:Artoria Pendragon:Fate/stay night"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-18T23:42:54.954Z",
+  "updatedAt": "2026-11-19T05:07:18.605Z",
   "cached": {
     "character": {
-      "name": "Samus Aran",
-      "source": "Metroid",
-      "universe": "GAME",
+      "name": "Bronya",
+      "source": "Honkai Star Rail",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Samus Aran:Metroid",
-      "nextIndex": 264
+      "globalId": "db:Bronya:Honkai Star Rail",
+      "nextIndex": 28
     },
     "meta": {
-      "source": "Metroid",
-      "fanbase": 212966,
-      "vibe": "INTENSE",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Honkai Star Rail",
+      "fanbase": 423520,
+      "vibe": "ELEGANT",
+      "rating": "ELITE",
+      "age": "14-",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Samus is a bounty hunter",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11998-akZrClzG6mrR.jpg"
+      "bio": "Student",
+      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572759035386531922/waifu-3e6132f64819d61e924a76bd.png?ex=6aff897e&is=6afe37fe&hm=13baf31e3e284fa928abb6102665292dbeaeb4ba2e97d0be38a9d1dcd16078a2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572840672044777602/waifu-89e0b2cd16b563ce39a7818e.png?ex=6affd586&is=6afe8406&hm=1609b65362892048410ce94d909f537ebd4e495bbb38e6c0606c245f6c0180d6&"
   }
 }
