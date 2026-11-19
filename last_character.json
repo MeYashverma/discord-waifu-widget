@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bronya:Honkai Star Rail",
-  "lastName": "Bronya",
-  "index": 28,
+  "lastId": "db:Reze:Chainsaw Man",
+  "lastName": "Reze",
+  "index": 78,
   "recent": [
+    "db:Reze:Chainsaw Man",
     "db:Bronya:Honkai Star Rail",
     "db:Samus Aran:Metroid",
     "db:Jingliu:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Bianca:Punishing Gray Raven",
     "db:Yoru:Chainsaw Man",
     "db:Yui Ikari:Neon Genesis Evangelion",
-    "db:Mavuika:Genshin Impact",
-    "db:Artoria Pendragon:Fate/stay night"
+    "db:Mavuika:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-19T05:07:18.605Z",
+  "updatedAt": "2026-11-19T14:55:56.632Z",
   "cached": {
     "character": {
-      "name": "Bronya",
-      "source": "Honkai Star Rail",
-      "universe": "GACHA",
+      "name": "Reze",
+      "source": "Chainsaw Man",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bronya:Honkai Star Rail",
-      "nextIndex": 28
+      "globalId": "db:Reze:Chainsaw Man",
+      "nextIndex": 78
     },
     "meta": {
-      "source": "Honkai Star Rail",
-      "fanbase": 423520,
-      "vibe": "ELEGANT",
+      "source": "Chainsaw Man",
+      "fanbase": 490299,
+      "vibe": "SEDUCTIVE",
       "rating": "ELITE",
-      "age": "14-",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "cm Bronya is a high-performance cyborg without emotions, who was raised to be a…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142948-zL7OwNQIffj8.jpg"
+      "bio": "Hunter",
+      "description": "Reze is a young girl who met in a phone cabin",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572840672044777602/waifu-89e0b2cd16b563ce39a7818e.png?ex=6affd586&is=6afe8406&hm=1609b65362892048410ce94d909f537ebd4e495bbb38e6c0606c245f6c0180d6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572988806464798821/waifu-e7b2f76d4178dd38c4dc992f.png?ex=6b005f7c&is=6aff0dfc&hm=5c5b23444617aa63fc73d1e65401abddbd1a5da7c82a288b8d6bf082d2c9e7ff&"
   }
 }
