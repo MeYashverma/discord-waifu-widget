@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Reze:Chainsaw Man",
-  "lastName": "Reze",
-  "index": 78,
+  "lastId": "db:Najenda:Akame ga Kill!",
+  "lastName": "Najenda",
+  "index": 163,
   "recent": [
+    "db:Najenda:Akame ga Kill!",
     "db:Reze:Chainsaw Man",
     "db:Bronya:Honkai Star Rail",
     "db:Samus Aran:Metroid",
@@ -36,15 +37,14 @@
     "db:Echidna:Re:Zero",
     "db:Bianca:Punishing Gray Raven",
     "db:Yoru:Chainsaw Man",
-    "db:Yui Ikari:Neon Genesis Evangelion",
-    "db:Mavuika:Genshin Impact"
+    "db:Yui Ikari:Neon Genesis Evangelion"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-19T14:55:56.632Z",
+  "updatedAt": "2026-11-20T00:01:47.036Z",
   "cached": {
     "character": {
-      "name": "Reze",
-      "source": "Chainsaw Man",
+      "name": "Najenda",
+      "source": "Akame ga Kill!",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Reze:Chainsaw Man",
-      "nextIndex": 78
+      "globalId": "db:Najenda:Akame ga Kill!",
+      "nextIndex": 163
     },
     "meta": {
-      "source": "Chainsaw Man",
-      "fanbase": 490299,
-      "vibe": "SEDUCTIVE",
-      "rating": "ELITE",
+      "source": "Akame ga Kill!",
+      "fanbase": 256672,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Hunter",
-      "description": "Reze is a young girl who met in a phone cabin",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+      "bio": "Assassin",
+      "description": "Najenda, also known as The Hunk of the Rebellion is the head of the assassin gr…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72267-heLonNDtobAG.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1572988806464798821/waifu-e7b2f76d4178dd38c4dc992f.png?ex=6b005f7c&is=6aff0dfc&hm=5c5b23444617aa63fc73d1e65401abddbd1a5da7c82a288b8d6bf082d2c9e7ff&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573126170885627954/waifu-054ff90c1ca63edbc9ce4d2a.png?ex=6b00df6a&is=6aff8dea&hm=3c0983aa456b0048c4f2244839c6e42d5841c0c2067c218e775ac383d96000ec&"
   }
 }
