@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Najenda:Akame ga Kill!",
-  "lastName": "Najenda",
-  "index": 163,
+  "lastId": "db:Roccia:Wuthering Waves",
+  "lastName": "Roccia",
+  "index": 49,
   "recent": [
+    "db:Roccia:Wuthering Waves",
     "db:Najenda:Akame ga Kill!",
     "db:Reze:Chainsaw Man",
     "db:Bronya:Honkai Star Rail",
@@ -36,36 +37,35 @@
     "db:Anna Williams:Tekken",
     "db:Echidna:Re:Zero",
     "db:Bianca:Punishing Gray Raven",
-    "db:Yoru:Chainsaw Man",
-    "db:Yui Ikari:Neon Genesis Evangelion"
+    "db:Yoru:Chainsaw Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-20T00:01:47.036Z",
+  "updatedAt": "2026-11-20T14:37:59.407Z",
   "cached": {
     "character": {
-      "name": "Najenda",
-      "source": "Akame ga Kill!",
-      "universe": "ANIME",
+      "name": "Roccia",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Najenda:Akame ga Kill!",
-      "nextIndex": 163
+      "globalId": "db:Roccia:Wuthering Waves",
+      "nextIndex": 49
     },
     "meta": {
-      "source": "Akame ga Kill!",
-      "fanbase": 256672,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
+      "source": "Wuthering Waves",
+      "fanbase": 182103,
+      "vibe": "DEADLY",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Najenda, also known as The Hunk of the Rebellion is the head of the assassin gr…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72267-heLonNDtobAG.png"
+      "bio": "Character",
+      "description": "Marco Rocca is Jet's buddy in orphanage and a close friend of Robert",
+      "image": "https://media.kitsu.app/characters/images/20717/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573126170885627954/waifu-054ff90c1ca63edbc9ce4d2a.png?ex=6b00df6a&is=6aff8dea&hm=3c0983aa456b0048c4f2244839c6e42d5841c0c2067c218e775ac383d96000ec&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573346675806830723/waifu-271b89153863371d7278ac30.png?ex=6b01acc6&is=6b005b46&hm=d2ebb06e3033b871faee2c0b4750c0bbe66a7ba29d2826b86632dbb4d3f61105&"
   }
 }
