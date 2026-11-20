@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Roccia:Wuthering Waves",
-  "lastName": "Roccia",
-  "index": 49,
+  "lastId": "db:Ryuko Matoi:Kill la Kill",
+  "lastName": "Ryuko Matoi",
+  "index": 300,
   "recent": [
+    "db:Ryuko Matoi:Kill la Kill",
     "db:Roccia:Wuthering Waves",
     "db:Najenda:Akame ga Kill!",
     "db:Reze:Chainsaw Man",
@@ -36,36 +37,35 @@
     "db:Lucy Heartfilia:Fairy Tail",
     "db:Anna Williams:Tekken",
     "db:Echidna:Re:Zero",
-    "db:Bianca:Punishing Gray Raven",
-    "db:Yoru:Chainsaw Man"
+    "db:Bianca:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-20T14:37:59.407Z",
+  "updatedAt": "2026-11-20T23:31:20.563Z",
   "cached": {
     "character": {
-      "name": "Roccia",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Ryuko Matoi",
+      "source": "Kill la Kill",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Roccia:Wuthering Waves",
-      "nextIndex": 49
+      "globalId": "db:Ryuko Matoi:Kill la Kill",
+      "nextIndex": 300
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 182103,
-      "vibe": "DEADLY",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Kill la Kill",
+      "fanbase": 253358,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
+      "age": "17",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Marco Rocca is Jet's buddy in orphanage and a close friend of Robert",
-      "image": "https://media.kitsu.app/characters/images/20717/original.jpg"
+      "bio": "Student",
+      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573346675806830723/waifu-271b89153863371d7278ac30.png?ex=6b01acc6&is=6b005b46&hm=d2ebb06e3033b871faee2c0b4750c0bbe66a7ba29d2826b86632dbb4d3f61105&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573480898093908069/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6b0229c7&is=6b00d847&hm=b58652719889b14b7b39a7e759a66144d2447e18d514023b1e73373a86275cb4&"
   }
 }
