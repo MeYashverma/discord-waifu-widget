@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Clorinde:Genshin Impact",
-  "lastName": "Clorinde",
-  "index": 13,
+  "lastId": "db:Aura Bella Fiora:Overlord",
+  "lastName": "Aura Bella Fiora",
+  "index": 200,
   "recent": [
+    "db:Aura Bella Fiora:Overlord",
     "db:Clorinde:Genshin Impact",
     "db:Ryuko Matoi:Kill la Kill",
     "db:Roccia:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Neru:Blue Archive",
     "db:Boa Hancock:One Piece",
     "db:Lucy Heartfilia:Fairy Tail",
-    "db:Anna Williams:Tekken",
-    "db:Echidna:Re:Zero"
+    "db:Anna Williams:Tekken"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-21T04:51:54.230Z",
+  "updatedAt": "2026-11-21T13:55:02.778Z",
   "cached": {
     "character": {
-      "name": "Clorinde",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Aura Bella Fiora",
+      "source": "Overlord",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Clorinde:Genshin Impact",
-      "nextIndex": 13
+      "globalId": "db:Aura Bella Fiora:Overlord",
+      "nextIndex": 200
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 512279,
-      "vibe": "DEADLY",
-      "rating": "LEGENDARY",
+      "source": "Overlord",
+      "fanbase": 238936,
+      "vibe": "WHOLESOME",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Novel Debut: Volume 14",
-      "image": "https://media.kitsu.app/characters/images/47703/original.jpg"
+      "description": "One of the Guardians of the Sixth floor of Nazarick, alongside her twin brother",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573561570473156779/waifu-6422de0ae7c66a0e9f3a82dc.png?ex=6b0274e9&is=6b012369&hm=685dfab6962644719e119acbeda0330a6d4a94eeae4d581ad31754165f5cf8be&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573698256704372876/waifu-0cc3c890598830baca0904d0.png?ex=6b02f436&is=6b01a2b6&hm=e3e120d8c4573916e031dc3c288f661e712b361812373800ad3f6ec072e044cb&"
   }
 }
