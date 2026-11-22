@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Anis:Nikke",
-  "lastName": "Anis",
-  "index": 52,
+  "lastId": "db:Mukuro Hoshimiya:Date A Live",
+  "lastName": "Mukuro Hoshimiya",
+  "index": 102,
   "recent": [
+    "db:Mukuro Hoshimiya:Date A Live",
     "db:Anis:Nikke",
     "db:Peach:Super Mario",
     "db:Aura Bella Fiora:Overlord",
@@ -36,36 +37,35 @@
     "db:Karin Kakudate:Blue Archive",
     "db:Bayonetta:Bayonetta",
     "db:Mei Mei:Jujutsu Kaisen",
-    "db:Neru:Blue Archive",
-    "db:Boa Hancock:One Piece"
+    "db:Neru:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-22T04:09:16.948Z",
+  "updatedAt": "2026-11-22T13:48:12.987Z",
   "cached": {
     "character": {
-      "name": "Anis",
-      "source": "Nikke",
-      "universe": "GACHA",
+      "name": "Mukuro Hoshimiya",
+      "source": "Date A Live",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Anis:Nikke",
-      "nextIndex": 52
+      "globalId": "db:Mukuro Hoshimiya:Date A Live",
+      "nextIndex": 102
     },
     "meta": {
-      "source": "Nikke",
-      "fanbase": 204086,
-      "vibe": "WHOLESOME",
-      "rating": "POPULAR",
-      "age": "17-",
+      "source": "Date A Live",
+      "fanbase": 225524,
+      "vibe": "YANDERE",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Anisphia is the first Princess of the Kingdom of Palettia",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203119-1vybpGB6PaEh.png"
+      "bio": "Character",
+      "description": "cm Angel: Michael She is the tenth spirit to appear in the series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157109-Mmgdhq6XYCKT.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573913226134032494/waifu-ba71ff598bb67ac0defc11a6.png?ex=6b03bc6b&is=6b026aeb&hm=00ea0f8d29293642915690e65fddee4ccb23f46c5e65a0dde9fd53667ec38d33&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574058926050123877/waifu-60cab5c1be62ac24464a36b8.png?ex=6b04441c&is=6b02f29c&hm=ddcc2726257deee8519e7dbd5471332d07fe422dd63b2c364ed463fdf2872d5a&"
   }
 }
