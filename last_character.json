@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Peach:Super Mario",
-  "lastName": "Peach",
-  "index": 267,
+  "lastId": "db:Anis:Nikke",
+  "lastName": "Anis",
+  "index": 52,
   "recent": [
+    "db:Anis:Nikke",
     "db:Peach:Super Mario",
     "db:Aura Bella Fiora:Overlord",
     "db:Clorinde:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Bayonetta:Bayonetta",
     "db:Mei Mei:Jujutsu Kaisen",
     "db:Neru:Blue Archive",
-    "db:Boa Hancock:One Piece",
-    "db:Lucy Heartfilia:Fairy Tail"
+    "db:Boa Hancock:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-21T22:36:52.189Z",
+  "updatedAt": "2026-11-22T04:09:16.948Z",
   "cached": {
     "character": {
-      "name": "Peach",
-      "source": "Super Mario",
-      "universe": "GAME",
+      "name": "Anis",
+      "source": "Nikke",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Peach:Super Mario",
-      "nextIndex": 267
+      "globalId": "db:Anis:Nikke",
+      "nextIndex": 52
     },
     "meta": {
-      "source": "Super Mario",
-      "fanbase": 196379,
-      "vibe": "PLAYFUL",
+      "source": "Nikke",
+      "fanbase": 204086,
+      "vibe": "WHOLESOME",
       "rating": "POPULAR",
-      "age": "Unknown",
+      "age": "17-",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Bonchien is the prince of the Uralis Kingdom",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
+      "bio": "Royalty",
+      "description": "Anisphia is the first Princess of the Kingdom of Palettia",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203119-1vybpGB6PaEh.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573829577527136407/waifu-633cfd713b0ebeaf021da25d.png?ex=6b036e83&is=6b021d03&hm=7a90abb313831ed033d99be30e8ff3729332b65ce1f2d9ebeca61e9e995d4ffc&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1573913226134032494/waifu-ba71ff598bb67ac0defc11a6.png?ex=6b03bc6b&is=6b026aeb&hm=00ea0f8d29293642915690e65fddee4ccb23f46c5e65a0dde9fd53667ec38d33&"
   }
 }
