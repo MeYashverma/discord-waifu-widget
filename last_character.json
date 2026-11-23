@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Zero Two:Darling in the Franxx",
-  "lastName": "Zero Two",
-  "index": 143,
+  "lastId": "db:Misa Amane:Death Note",
+  "lastName": "Misa Amane",
+  "index": 295,
   "recent": [
+    "db:Misa Amane:Death Note",
     "db:Zero Two:Darling in the Franxx",
     "db:Yinlin:Wuthering Waves",
     "db:Mukuro Hoshimiya:Date A Live",
@@ -36,15 +37,14 @@
     "db:Keqing:Genshin Impact",
     "db:Saber:Fate/stay night",
     "db:Wendy Marvell:Fairy Tail",
-    "db:Karin Kakudate:Blue Archive",
-    "db:Bayonetta:Bayonetta"
+    "db:Karin Kakudate:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-23T04:50:43.158Z",
+  "updatedAt": "2026-11-23T16:53:07.504Z",
   "cached": {
     "character": {
-      "name": "Zero Two",
-      "source": "Darling in the Franxx",
+      "name": "Misa Amane",
+      "source": "Death Note",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Zero Two:Darling in the Franxx",
-      "nextIndex": 143
+      "globalId": "db:Misa Amane:Death Note",
+      "nextIndex": 295
     },
     "meta": {
-      "source": "Darling in the Franxx",
-      "fanbase": 261891,
-      "vibe": "ROYAL",
+      "source": "Death Note",
+      "fanbase": 225453,
+      "vibe": "TSUNDERE",
       "rating": "ICONIC",
       "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Pilot",
-      "description": "Franxx pilot",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
+      "blood": "AB",
+      "bio": "Idol",
+      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574286048257638452/waifu-ca2c4657d9e3692af839a8fe.png?ex=6b0517a2&is=6b03c622&hm=d4cc8b06a3ee0c32b79c85d87233520bab0e548aa2e0f81c97e9b873d5fe5601&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574467847097286828/waifu-5f7bc451f018b2f82cb25fda.png?ex=6b05c0f2&is=6b046f72&hm=c72c972b143d8cc1e1a6cd72630f936cf8ed499eeedadd6c65fe7ef94e6c3344&"
   }
 }
