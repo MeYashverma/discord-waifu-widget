@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Taihou:Azur Lane",
-  "lastName": "Taihou",
-  "index": 278,
+  "lastId": "db:Satella:Re:Zero",
+  "lastName": "Satella",
+  "index": 88,
   "recent": [
+    "db:Satella:Re:Zero",
     "db:Taihou:Azur Lane",
     "db:Misa Amane:Death Note",
     "db:Zero Two:Darling in the Franxx",
@@ -36,36 +37,35 @@
     "db:Nami:One Piece",
     "db:Citlali:Genshin Impact",
     "db:Keqing:Genshin Impact",
-    "db:Saber:Fate/stay night",
-    "db:Wendy Marvell:Fairy Tail"
+    "db:Saber:Fate/stay night"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-24T03:37:54.852Z",
+  "updatedAt": "2026-11-24T16:43:39.824Z",
   "cached": {
     "character": {
-      "name": "Taihou",
-      "source": "Azur Lane",
-      "universe": "GACHA",
+      "name": "Satella",
+      "source": "Re:Zero",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Taihou:Azur Lane",
-      "nextIndex": 278
+      "globalId": "db:Satella:Re:Zero",
+      "nextIndex": 88
     },
     "meta": {
-      "source": "Azur Lane",
-      "fanbase": 260799,
-      "vibe": "CHAOTIC",
+      "source": "Re:Zero",
+      "fanbase": 224644,
+      "vibe": "CONFIDENT",
       "rating": "ICONIC",
-      "age": "Unknown",
+      "age": "14-19",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Sakura Empire ship from the game and anime \"Azur Lane\"",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b193799-DlwdNnaahvcj.jpg"
+      "bio": "Royalty",
+      "description": "Emilia is a half-elf girl who is one of the candidates to become the next ruler…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574630113365065828/waifu-20a74a43a977fbc1d1679220.png?ex=6b065812&is=6b050692&hm=21ff93dec793a7b7959fcc1af2a601f24e7c1f076ade587a8645614f4ed8f2ab&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574827847300816936/waifu-3b16754d536665f2a24d36ff.png?ex=6b071039&is=6b05beb9&hm=a51dd26a9c2cae5a52011c192668008e8476bfda1e9c13d1ce6dd203212837a2&"
   }
 }
