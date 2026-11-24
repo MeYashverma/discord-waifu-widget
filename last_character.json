@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Misa Amane:Death Note",
-  "lastName": "Misa Amane",
-  "index": 295,
+  "lastId": "db:Taihou:Azur Lane",
+  "lastName": "Taihou",
+  "index": 278,
   "recent": [
+    "db:Taihou:Azur Lane",
     "db:Misa Amane:Death Note",
     "db:Zero Two:Darling in the Franxx",
     "db:Yinlin:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Citlali:Genshin Impact",
     "db:Keqing:Genshin Impact",
     "db:Saber:Fate/stay night",
-    "db:Wendy Marvell:Fairy Tail",
-    "db:Karin Kakudate:Blue Archive"
+    "db:Wendy Marvell:Fairy Tail"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-23T16:53:07.504Z",
+  "updatedAt": "2026-11-24T03:37:54.852Z",
   "cached": {
     "character": {
-      "name": "Misa Amane",
-      "source": "Death Note",
-      "universe": "ANIME",
+      "name": "Taihou",
+      "source": "Azur Lane",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Misa Amane:Death Note",
-      "nextIndex": 295
+      "globalId": "db:Taihou:Azur Lane",
+      "nextIndex": 278
     },
     "meta": {
-      "source": "Death Note",
-      "fanbase": 225453,
-      "vibe": "TSUNDERE",
+      "source": "Azur Lane",
+      "fanbase": 260799,
+      "vibe": "CHAOTIC",
       "rating": "ICONIC",
       "age": "Unknown",
-      "blood": "AB",
-      "bio": "Idol",
-      "description": "cm Misa is a famous model, singer and actress and has an immense crush on",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
+      "blood": "Unknown",
+      "bio": "Character",
+      "description": "Sakura Empire ship from the game and anime \"Azur Lane\"",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b193799-DlwdNnaahvcj.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574467847097286828/waifu-5f7bc451f018b2f82cb25fda.png?ex=6b05c0f2&is=6b046f72&hm=c72c972b143d8cc1e1a6cd72630f936cf8ed499eeedadd6c65fe7ef94e6c3344&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574630113365065828/waifu-20a74a43a977fbc1d1679220.png?ex=6b065812&is=6b050692&hm=21ff93dec793a7b7959fcc1af2a601f24e7c1f076ade587a8645614f4ed8f2ab&"
   }
 }
