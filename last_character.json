@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Satella:Re:Zero",
-  "lastName": "Satella",
-  "index": 88,
+  "lastId": "db:Sanhua:Wuthering Waves",
+  "lastName": "Sanhua",
+  "index": 43,
   "recent": [
+    "db:Sanhua:Wuthering Waves",
     "db:Satella:Re:Zero",
     "db:Taihou:Azur Lane",
     "db:Misa Amane:Death Note",
@@ -36,36 +37,35 @@
     "db:Shionne Imeris:Tales of Arise",
     "db:Nami:One Piece",
     "db:Citlali:Genshin Impact",
-    "db:Keqing:Genshin Impact",
-    "db:Saber:Fate/stay night"
+    "db:Keqing:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-24T16:43:39.824Z",
+  "updatedAt": "2026-11-25T01:45:52.607Z",
   "cached": {
     "character": {
-      "name": "Satella",
-      "source": "Re:Zero",
-      "universe": "ANIME",
+      "name": "Sanhua",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Satella:Re:Zero",
-      "nextIndex": 88
+      "globalId": "db:Sanhua:Wuthering Waves",
+      "nextIndex": 43
     },
     "meta": {
-      "source": "Re:Zero",
-      "fanbase": 224644,
-      "vibe": "CONFIDENT",
-      "rating": "ICONIC",
-      "age": "14-19",
+      "source": "Wuthering Waves",
+      "fanbase": 182492,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Royalty",
-      "description": "Emilia is a half-elf girl who is one of the candidates to become the next ruler…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+      "bio": "Character",
+      "description": "Sanhua from Wuthering Waves",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574827847300816936/waifu-3b16754d536665f2a24d36ff.png?ex=6b071039&is=6b05beb9&hm=a51dd26a9c2cae5a52011c192668008e8476bfda1e9c13d1ce6dd203212837a2&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574964306867527811/waifu-ccfc30fe72114ca6bb57aed7.png?ex=6b078f50&is=6b063dd0&hm=2dc1355c8dba50cd9b07df245d564eca6170a4b1a5badd1c4914bd7f80210889&"
   }
 }
