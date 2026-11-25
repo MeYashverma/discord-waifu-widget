@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Sanhua:Wuthering Waves",
-  "lastName": "Sanhua",
-  "index": 43,
+  "lastId": "db:Chun-Li:Street Fighter",
+  "lastName": "Chun-Li",
+  "index": 243,
   "recent": [
+    "db:Chun-Li:Street Fighter",
     "db:Sanhua:Wuthering Waves",
     "db:Satella:Re:Zero",
     "db:Taihou:Azur Lane",
@@ -36,36 +37,35 @@
     "db:Asuna Ichinose:Blue Archive",
     "db:Shionne Imeris:Tales of Arise",
     "db:Nami:One Piece",
-    "db:Citlali:Genshin Impact",
-    "db:Keqing:Genshin Impact"
+    "db:Citlali:Genshin Impact"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-25T01:45:52.607Z",
+  "updatedAt": "2026-11-25T16:29:43.040Z",
   "cached": {
     "character": {
-      "name": "Sanhua",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Chun-Li",
+      "source": "Street Fighter",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Sanhua:Wuthering Waves",
-      "nextIndex": 43
+      "globalId": "db:Chun-Li:Street Fighter",
+      "nextIndex": 243
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 182492,
-      "vibe": "DOMINANT",
-      "rating": "POPULAR",
+      "source": "Street Fighter",
+      "fanbase": 227393,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Sanhua from Wuthering Waves",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+      "description": "Chun-Li is a video game character created by Capcom",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1574964306867527811/waifu-ccfc30fe72114ca6bb57aed7.png?ex=6b078f50&is=6b063dd0&hm=2dc1355c8dba50cd9b07df245d564eca6170a4b1a5badd1c4914bd7f80210889&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575186732046090384/waifu-9ce2d8bd420a4b06168479ea.png?ex=6b085e76&is=6b070cf6&hm=84344eff3e9c00dbca8a05d8d7e96b23e6d0756d08bed8f835e7c729e3664a11&"
   }
 }
