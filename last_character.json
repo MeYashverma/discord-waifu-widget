@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Chun-Li:Street Fighter",
-  "lastName": "Chun-Li",
-  "index": 243,
+  "lastId": "db:Encore:Wuthering Waves",
+  "lastName": "Encore",
+  "index": 41,
   "recent": [
+    "db:Encore:Wuthering Waves",
     "db:Chun-Li:Street Fighter",
     "db:Sanhua:Wuthering Waves",
     "db:Satella:Re:Zero",
@@ -36,36 +37,35 @@
     "db:Crusch Karsten:Re:Zero",
     "db:Asuna Ichinose:Blue Archive",
     "db:Shionne Imeris:Tales of Arise",
-    "db:Nami:One Piece",
-    "db:Citlali:Genshin Impact"
+    "db:Nami:One Piece"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-25T16:29:43.040Z",
+  "updatedAt": "2026-11-26T01:20:16.927Z",
   "cached": {
     "character": {
-      "name": "Chun-Li",
-      "source": "Street Fighter",
-      "universe": "GAME",
+      "name": "Encore",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Chun-Li:Street Fighter",
-      "nextIndex": 243
+      "globalId": "db:Encore:Wuthering Waves",
+      "nextIndex": 41
     },
     "meta": {
-      "source": "Street Fighter",
-      "fanbase": 227393,
-      "vibe": "CHAOTIC",
+      "source": "Wuthering Waves",
+      "fanbase": 242756,
+      "vibe": "ELEGANT",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Chun-Li is a video game character created by Capcom",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png"
+      "description": "Encore from Wuthering Waves",
+      "image": "https://media.kitsu.app/characters/images/63379/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575186732046090384/waifu-9ce2d8bd420a4b06168479ea.png?ex=6b085e76&is=6b070cf6&hm=84344eff3e9c00dbca8a05d8d7e96b23e6d0756d08bed8f835e7c729e3664a11&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575320253326430259/waifu-e2059362ff67a55b96d67004.png?ex=6b08dad0&is=6b078950&hm=1623935606508ee13d834acb633f6214db3bee59a80b0782f2423ebb5f143b9a&"
   }
 }
