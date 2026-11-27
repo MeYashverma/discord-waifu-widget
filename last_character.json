@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rukia Kuchiki:Bleach",
-  "lastName": "Rukia Kuchiki",
-  "index": 180,
+  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
+  "lastName": "Neliel Tu Odelschwanck",
+  "index": 184,
   "recent": [
+    "db:Neliel Tu Odelschwanck:Bleach",
     "db:Rukia Kuchiki:Bleach",
     "db:Encore:Wuthering Waves",
     "db:Chun-Li:Street Fighter",
@@ -36,14 +37,13 @@
     "db:Morrigan Aensland:Darkstalkers",
     "db:Mudrock:Arknights",
     "db:Crusch Karsten:Re:Zero",
-    "db:Asuna Ichinose:Blue Archive",
-    "db:Shionne Imeris:Tales of Arise"
+    "db:Asuna Ichinose:Blue Archive"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-26T16:03:01.916Z",
+  "updatedAt": "2026-11-27T01:18:23.091Z",
   "cached": {
     "character": {
-      "name": "Rukia Kuchiki",
+      "name": "Neliel Tu Odelschwanck",
       "source": "Bleach",
       "universe": "ANIME",
       "image": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rukia Kuchiki:Bleach",
-      "nextIndex": 180
+      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
+      "nextIndex": 184
     },
     "meta": {
       "source": "Bleach",
-      "fanbase": 463386,
+      "fanbase": 502692,
       "vibe": "MYSTERIOUS",
-      "rating": "ELITE",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Captain",
-      "description": "Race: Shinigami cm Rank: Lieutenant of the 13th Division Relatives: Zanpakutou:…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
+      "bio": "Knight",
+      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
+      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575542403602059274/waifu-5a742a3884786a7d0d3eadef.png?ex=6b09a9b5&is=6b085835&hm=832911aa451992a1b3e31c6fc96a024f7c623d36df205cfa1687e60d8e19173e&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575682163922305107/waifu-83365ab8caedee1172cb4616.png?ex=6b0a2bde&is=6b08da5e&hm=df9aa75772d58248e85f44a9dd33794ff4e628abb27e5f4285f6258d55ca57c7&"
   }
 }
