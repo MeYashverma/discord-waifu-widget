@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Neliel Tu Odelschwanck:Bleach",
-  "lastName": "Neliel Tu Odelschwanck",
-  "index": 184,
+  "lastId": "db:Nina Williams:Tekken",
+  "lastName": "Nina Williams",
+  "index": 249,
   "recent": [
+    "db:Nina Williams:Tekken",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Rukia Kuchiki:Bleach",
     "db:Encore:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Akeno Himejima:High School DxD",
     "db:Morrigan Aensland:Darkstalkers",
     "db:Mudrock:Arknights",
-    "db:Crusch Karsten:Re:Zero",
-    "db:Asuna Ichinose:Blue Archive"
+    "db:Crusch Karsten:Re:Zero"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-27T01:18:23.091Z",
+  "updatedAt": "2026-11-27T15:51:29.442Z",
   "cached": {
     "character": {
-      "name": "Neliel Tu Odelschwanck",
-      "source": "Bleach",
-      "universe": "ANIME",
+      "name": "Nina Williams",
+      "source": "Tekken",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Neliel Tu Odelschwanck:Bleach",
-      "nextIndex": 184
+      "globalId": "db:Nina Williams:Tekken",
+      "nextIndex": 249
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 502692,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
+      "source": "Tekken",
+      "fanbase": 234827,
+      "vibe": "CHAOTIC",
+      "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Knight",
-      "description": "Neliel Tu Oderschvank, commonly known as Nel Tu, is a good-natured, child-like …",
-      "image": "https://media.kitsu.app/characters/images/5686/original.jpg"
+      "bio": "Assassin",
+      "description": "Nina Williams is a character from the Tekken game series",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575682163922305107/waifu-83365ab8caedee1172cb4616.png?ex=6b0a2bde&is=6b08da5e&hm=df9aa75772d58248e85f44a9dd33794ff4e628abb27e5f4285f6258d55ca57c7&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575901885435478096/waifu-2b144ef5becf884fc2c3db6e.png?ex=6b0af880&is=6b09a700&hm=2ed40cab3b831b0d818fbc6b7ececaad60353bda69c79c94c46a861f5967acd4&"
   }
 }
