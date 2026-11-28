@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Nina Williams:Tekken",
-  "lastName": "Nina Williams",
-  "index": 249,
+  "lastId": "db:Jeanne:Bayonetta",
+  "lastName": "Jeanne",
+  "index": 260,
   "recent": [
+    "db:Jeanne:Bayonetta",
     "db:Nina Williams:Tekken",
     "db:Neliel Tu Odelschwanck:Bleach",
     "db:Rukia Kuchiki:Bleach",
@@ -36,15 +37,14 @@
     "db:Ashley Graham:Resident Evil 4",
     "db:Akeno Himejima:High School DxD",
     "db:Morrigan Aensland:Darkstalkers",
-    "db:Mudrock:Arknights",
-    "db:Crusch Karsten:Re:Zero"
+    "db:Mudrock:Arknights"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-27T15:51:29.442Z",
+  "updatedAt": "2026-11-28T00:51:43.857Z",
   "cached": {
     "character": {
-      "name": "Nina Williams",
-      "source": "Tekken",
+      "name": "Jeanne",
+      "source": "Bayonetta",
       "universe": "GAME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Nina Williams:Tekken",
-      "nextIndex": 249
+      "globalId": "db:Jeanne:Bayonetta",
+      "nextIndex": 260
     },
     "meta": {
-      "source": "Tekken",
-      "fanbase": 234827,
+      "source": "Bayonetta",
+      "fanbase": 231467,
       "vibe": "CHAOTIC",
       "rating": "ICONIC",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Assassin",
-      "description": "Nina Williams is a character from the Tekken game series",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/8428.jpg"
+      "bio": "Character",
+      "description": "Race: Vampire Occupation: Chevalier , Bourreau A vampire who acts as the Cheval…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1575901885435478096/waifu-2b144ef5becf884fc2c3db6e.png?ex=6b0af880&is=6b09a700&hm=2ed40cab3b831b0d818fbc6b7ececaad60353bda69c79c94c46a861f5967acd4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1576037843933855755/waifu-e6045378a725917caf1d2dab.png?ex=6b0b771f&is=6b0a259f&hm=c97a05b5c28b29594125477123f77d67888752b8af789f3b34463b845e3fc84a&"
   }
 }
